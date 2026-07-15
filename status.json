@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->BCN 2026-11-23",
- "checksDone": 5658,
+ "phase": "LAX->DOH 2026-07-20",
+ "checksDone": 5976,
  "checksPlanned": 41488,
  "percent": 14,
- "dealsFound": 2457,
- "updatedAt": "2026-07-15T09:49:49",
- "publishedAt": "2026-07-15T13:50:34.247816+00:00",
+ "dealsFound": 2643,
+ "updatedAt": "2026-07-15T10:05:29",
+ "publishedAt": "2026-07-15T14:06:22.398344+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 6459
+ "totalDeals": 6645
 }
