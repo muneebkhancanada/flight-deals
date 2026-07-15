@@ -108,6 +108,7 @@
     <select id="sort">
       <option value="new">Newest</option>
       <option value="cheap">Cheapest</option>
+      <option value="value">Best $/hour</option>
       <option value="depart">By departure</option>
     </select>
     <span class="count" id="count"></span>
@@ -128,6 +129,7 @@ let DEALS = [], trip = "all";
 
 function fmtDate(d){ if(!d) return ""; const [y,m,day]=d.split("-");
   return new Date(y,m-1,day).toLocaleDateString(undefined,{month:"short",day:"numeric"}); }
+function fmtDur(m){ if(!m||m<=0) return ""; return `${Math.floor(m/60)}h${String(m%60).padStart(2,"0")}`; }
 function ago(iso){ if(!iso) return ""; const t=new Date(iso); if(isNaN(t)) return "";
   const s=Math.max(0,(Date.now()-t)/1000);
   if(s<90) return "just now"; if(s<3600) return Math.round(s/60)+" min ago";
@@ -168,7 +170,9 @@ function render(){
     if(!term) return true;
     return (d.route+" "+d.origin+" "+d.destination+" "+(d.airline||"")).toLowerCase().includes(term);
   });
+  const pph=d=>d.pricePerHour>0?d.pricePerHour:Infinity;
   list.sort((a,b)=> sort==="cheap" ? a.priceCad-b.priceCad
+    : sort==="value" ? pph(a)-pph(b) || a.priceCad-b.priceCad
     : sort==="depart" ? (a.flightDate||"").localeCompare(b.flightDate||"")
     : (b.foundOn||"").localeCompare(a.foundOn||"") || a.priceCad-b.priceCad);
   const LIMIT=250;
@@ -184,12 +188,15 @@ function card(d){
   const dates=rt&&d.returnDate?`${fmtDate(d.flightDate)} → ${fmtDate(d.returnDate)}`:fmtDate(d.flightDate);
   const tier=tierOf(d.whyDeal);
   const stops=d.stops>0?`${d.stops} stop${d.stops>1?"s":""}`:"nonstop";
+  const dur=d.durationMin>0?fmtDur(d.durationMin):"";
+  const pph=d.pricePerHour>0?`<b>C$${d.pricePerHour}/hr</b> flying`:"";
+  const extra=[dur,pph].filter(Boolean).map(x=>`<span class="sep">·</span>${x}`).join("");
   return `<article class="deal">
     <div>
       <span class="tier ${tier}">${tier}</span>
       <div class="route">${esc(d.origin)}<span class="arrow">${rt?"⇄":"→"}</span>${esc(d.destination)}
         ${rt?'<span class="tag">round trip</span>':''}</div>
-      <div class="meta">${dates}<span class="sep">·</span>${esc(d.airline||"—")}<span class="sep">·</span>${stops}</div>
+      <div class="meta">${dates}<span class="sep">·</span>${esc(d.airline||"—")}<span class="sep">·</span>${stops}${extra}</div>
     </div>
     <div class="price">C$${Number(d.priceCad).toLocaleString()}</div>
     ${d.whyDeal?`<div class="why">${esc(d.whyDeal)}</div>`:""}
