@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Flight Deals</title>
+<style>
+  :root{
+    --bg:#f4f6fb; --card:#ffffff; --ink:#0f172a; --muted:#64748b;
+    --line:#e2e8f0; --brand:#2563eb; --brand-ink:#1d4ed8;
+    --good:#0369a1; --good-bg:#e0f2fe; --great:#047857; --great-bg:#d1fae5;
+    --exceptional:#b45309; --exceptional-bg:#fef3c7;
+    --live:#16a34a; --live-bg:#dcfce7;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --bg:#0b1120; --card:#111a2e; --ink:#e5edff; --muted:#93a4c3;
+      --line:#22304d; --brand:#60a5fa; --brand-ink:#93c5fd;
+      --good:#7dd3fc; --good-bg:#0c3a54; --great:#6ee7b7; --great-bg:#064e3b;
+      --exceptional:#fcd34d; --exceptional-bg:#4a3208;
+      --live:#4ade80; --live-bg:#0f3d24;
+    }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased}
+  a{color:var(--brand-ink);text-decoration:none}
+  .wrap{max-width:1000px;margin:0 auto;padding:20px 16px 64px}
+  header{margin-bottom:16px}
+  h1{font-size:26px;margin:0 0 4px;display:flex;align-items:center;gap:8px}
+  .sub{color:var(--muted);font-size:13px}
+  /* status banner */
+  .status{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:14px 16px;margin:14px 0 18px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+  .status .row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .pill{display:inline-flex;align-items:center;gap:6px;font-weight:600;
+    font-size:12.5px;padding:4px 10px;border-radius:999px;background:var(--line);color:var(--ink)}
+  .pill.live{background:var(--live-bg);color:var(--live)}
+  .dot{width:8px;height:8px;border-radius:50%;background:currentColor;
+    box-shadow:0 0 0 0 currentColor}
+  .pill.live .dot{animation:pulse 1.6s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(22,163,74,.5)}
+    70%{box-shadow:0 0 0 7px rgba(22,163,74,0)}100%{box-shadow:0 0 0 0 rgba(22,163,74,0)}}
+  .bar{height:8px;border-radius:999px;background:var(--line);overflow:hidden;margin-top:10px}
+  .bar > i{display:block;height:100%;background:var(--brand);border-radius:999px;
+    transition:width .5s ease}
+  .queue{margin-top:10px;color:var(--muted);font-size:13px}
+  .queue b{color:var(--ink)}
+  .qchip{display:inline-block;background:var(--line);border-radius:8px;
+    padding:2px 8px;margin:3px 4px 0 0;font-size:12px}
+  /* controls */
+  .controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
+  input[type=search],select{font:inherit;padding:9px 12px;border-radius:10px;
+    border:1px solid var(--line);background:var(--card);color:var(--ink)}
+  input[type=search]{flex:1 1 220px}
+  .seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .seg button{font:inherit;border:0;background:var(--card);color:var(--muted);
+    padding:9px 12px;cursor:pointer}
+  .seg button.on{background:var(--brand);color:#fff}
+  .count{color:var(--muted);font-size:13px;margin-left:auto}
+  /* deal cards */
+  .deals{display:grid;gap:10px}
+  .deal{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:14px 16px;display:grid;grid-template-columns:1fr auto;gap:6px 14px;
+    align-items:center;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+  .route{font-size:18px;font-weight:700;letter-spacing:.3px}
+  .route .arrow{color:var(--muted);margin:0 6px}
+  .meta{color:var(--muted);font-size:13px;margin-top:2px}
+  .meta .sep{opacity:.5;margin:0 6px}
+  .price{font-size:22px;font-weight:800;text-align:right;white-space:nowrap}
+  .tier{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.4px;
+    text-transform:uppercase;padding:2px 7px;border-radius:6px;margin-bottom:3px}
+  .tier.good{background:var(--good-bg);color:var(--good)}
+  .tier.great{background:var(--great-bg);color:var(--great)}
+  .tier.exceptional{background:var(--exceptional-bg);color:var(--exceptional)}
+  .why{grid-column:1/-1;color:var(--muted);font-size:12.5px}
+  .book{grid-column:1/-1;justify-self:start;margin-top:4px}
+  .book a{display:inline-block;background:var(--brand);color:#fff;font-weight:600;
+    font-size:13px;padding:7px 14px;border-radius:9px}
+  .tag{display:inline-block;font-size:11px;font-weight:700;color:var(--brand-ink);
+    border:1px solid var(--line);border-radius:6px;padding:1px 6px;margin-left:6px;vertical-align:2px}
+  .empty{text-align:center;color:var(--muted);padding:40px 0}
+  footer{color:var(--muted);font-size:12px;margin-top:26px;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>✈️ Flight Deals</h1>
+    <div class="sub">Cheap fares from North America &amp; Europe, scanned on Google Flights.</div>
+  </header>
+
+  <section class="status" id="status" aria-live="polite">
+    <div class="row"><span class="pill" id="statePill">Loading…</span>
+      <span class="sub" id="updated"></span></div>
+    <div class="bar" id="barWrap" hidden><i id="bar" style="width:0%"></i></div>
+    <div class="queue" id="queue" hidden></div>
+  </section>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search route, city, airline…" autocomplete="off">
+    <div class="seg" id="trip">
+      <button data-v="all" class="on">All</button>
+      <button data-v="one_way">One-way</button>
+      <button data-v="round_trip">Round-trip</button>
+    </div>
+    <select id="sort">
+      <option value="new">Newest</option>
+      <option value="cheap">Cheapest</option>
+      <option value="depart">By departure</option>
+    </select>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="deals" id="deals"></div>
+  <div class="empty" id="empty" hidden>No matching deals right now.</div>
+
+  <footer id="foot">
+    Prices were available when scanned and can change at any time. Always
+    confirm the final fare and conditions on Google Flights before booking.
+  </footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+let DEALS = [], trip = "all";
+
+function fmtDate(d){ if(!d) return ""; const [y,m,day]=d.split("-");
+  return new Date(y,m-1,day).toLocaleDateString(undefined,{month:"short",day:"numeric"}); }
+function ago(iso){ if(!iso) return ""; const t=new Date(iso); if(isNaN(t)) return "";
+  const s=Math.max(0,(Date.now()-t)/1000);
+  if(s<90) return "just now"; if(s<3600) return Math.round(s/60)+" min ago";
+  if(s<86400) return Math.round(s/3600)+" h ago"; return Math.round(s/86400)+" d ago"; }
+function tierOf(why){ const w=(why||"").toLowerCase();
+  if(w.includes("exceptional")) return "exceptional";
+  if(w.includes("great")) return "great"; return "good"; }
+
+function renderStatus(s){
+  const pill=$("#statePill"), upd=$("#updated"),
+        barWrap=$("#barWrap"), bar=$("#bar"), q=$("#queue");
+  if(s && s.running){
+    pill.className="pill live";
+    const pct=(s.percent!=null)?` — ${s.percent}%`:"";
+    pill.innerHTML=`<span class="dot"></span>Scanning now${s.mode?` (${s.mode})`:""}${pct}`;
+    if(s.percent!=null){ barWrap.hidden=false; bar.style.width=s.percent+"%"; }
+    else barWrap.hidden=true;
+    const checks=(s.checksPlanned)?` · ${s.checksDone.toLocaleString()} / ${s.checksPlanned.toLocaleString()} checks`:"";
+    upd.textContent=`updated ${ago(s.updatedAt)}${checks}`;
+  } else {
+    pill.className="pill"; pill.textContent="Idle — not scanning";
+    barWrap.hidden=true;
+    upd.textContent=s&&s.updatedAt?`last scan ${ago(s.updatedAt)}`:"";
+  }
+  if(s && s.queuedCount>0){
+    q.hidden=false;
+    q.innerHTML=`<b>Up next (${s.queuedCount}):</b> `+
+      (s.queued||[]).map(x=>`<span class="qchip">${esc(x.label)}</span>`).join("");
+  } else q.hidden=true;
+}
+function esc(t){ const d=document.createElement("div"); d.textContent=t==null?"":t; return d.innerHTML; }
+
+function render(){
+  const term=$("#q").value.trim().toLowerCase();
+  const sort=$("#sort").value;
+  let list=DEALS.filter(d=>{
+    if(trip!=="all" && d.tripType!==trip) return false;
+    if(!term) return true;
+    return (d.route+" "+d.origin+" "+d.destination+" "+(d.airline||"")).toLowerCase().includes(term);
+  });
+  list.sort((a,b)=> sort==="cheap" ? a.priceCad-b.priceCad
+    : sort==="depart" ? (a.flightDate||"").localeCompare(b.flightDate||"")
+    : (b.foundOn||"").localeCompare(a.foundOn||"") || a.priceCad-b.priceCad);
+  const LIMIT=250;
+  const shown=Math.min(list.length,LIMIT);
+  $("#count").textContent = list.length>LIMIT
+    ? `showing ${shown} of ${list.length.toLocaleString()} — refine to see more`
+    : `${list.length} deal${list.length===1?"":"s"}`;
+  $("#empty").hidden=list.length>0;
+  $("#deals").innerHTML=list.slice(0,LIMIT).map(card).join("");
+}
+function card(d){
+  const rt=d.tripType==="round_trip";
+  const dates=rt&&d.returnDate?`${fmtDate(d.flightDate)} → ${fmtDate(d.returnDate)}`:fmtDate(d.flightDate);
+  const tier=tierOf(d.whyDeal);
+  const stops=d.stops>0?`${d.stops} stop${d.stops>1?"s":""}`:"nonstop";
+  return `<article class="deal">
+    <div>
+      <span class="tier ${tier}">${tier}</span>
+      <div class="route">${esc(d.origin)}<span class="arrow">${rt?"⇄":"→"}</span>${esc(d.destination)}
+        ${rt?'<span class="tag">round trip</span>':''}</div>
+      <div class="meta">${dates}<span class="sep">·</span>${esc(d.airline||"—")}<span class="sep">·</span>${stops}</div>
+    </div>
+    <div class="price">C$${Number(d.priceCad).toLocaleString()}</div>
+    ${d.whyDeal?`<div class="why">${esc(d.whyDeal)}</div>`:""}
+    <div class="book"><a href="${esc(d.bookingUrl)}" target="_blank" rel="noopener">Book on Google Flights →</a></div>
+  </article>`;
+}
+
+async function load(){
+  try{
+    const [dz,sz]=await Promise.all([
+      fetch("deals.json",{cache:"no-store"}).then(r=>r.json()),
+      fetch("status.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
+    ]);
+    DEALS=Array.isArray(dz)?dz:[];
+    renderStatus(sz); render();
+  }catch(e){
+    $("#statePill").textContent="Could not load deals";
+    $("#empty").hidden=false;
+  }
+}
+$("#q").addEventListener("input",render);
+$("#sort").addEventListener("change",render);
+$("#trip").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
+  trip=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); render(); });
+load();
+setInterval(load, 60000); // refresh status/deals each minute
+</script>
+</body>
+</html>
