@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DEN->KRK 2026-11-23",
- "checksDone": 2994,
+ "phase": "DEN->LHE 2026-07-20",
+ "checksDone": 3324,
  "checksPlanned": 41488,
- "percent": 7,
- "dealsFound": 1203,
- "updatedAt": "2026-07-15T07:44:40",
- "publishedAt": "2026-07-15T11:45:22.558704+00:00",
+ "percent": 8,
+ "dealsFound": 1331,
+ "updatedAt": "2026-07-15T08:00:15",
+ "publishedAt": "2026-07-15T12:00:56.961739+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 5207
+ "totalDeals": 5335
 }
