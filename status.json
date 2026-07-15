@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->JNB 2026-09-21",
- "checksDone": 663,
+ "phase": "DFW->DUB 2027-01-25",
+ "checksDone": 993,
  "checksPlanned": 41488,
  "percent": 2,
- "dealsFound": 249,
- "updatedAt": "2026-07-15T05:56:10",
- "publishedAt": "2026-07-15T09:56:38.521587+00:00",
+ "dealsFound": 372,
+ "updatedAt": "2026-07-15T06:11:34",
+ "publishedAt": "2026-07-15T10:12:06.555824+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 4250
+ "totalDeals": 4375
 }
