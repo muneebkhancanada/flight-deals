@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YUL->NRT 2027-01-25",
- "checksDone": 6981,
+ "phase": "YUL->BOG 2027-01-25",
+ "checksDone": 7317,
  "checksPlanned": 41488,
- "percent": 17,
- "dealsFound": 3063,
- "updatedAt": "2026-07-15T10:52:54",
- "publishedAt": "2026-07-15T14:53:47.285258+00:00",
+ "percent": 18,
+ "dealsFound": 3130,
+ "updatedAt": "2026-07-15T11:08:47",
+ "publishedAt": "2026-07-15T15:09:34.433177+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 7066
+ "totalDeals": 7132
 }
