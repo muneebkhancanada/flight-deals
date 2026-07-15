@@ -80,6 +80,7 @@
     font-size:13px;padding:7px 14px;border-radius:9px}
   .tag{display:inline-block;font-size:11px;font-weight:700;color:var(--brand-ink);
     border:1px solid var(--line);border-radius:6px;padding:1px 6px;margin-left:6px;vertical-align:2px}
+  .tag.value{color:var(--great);border-color:var(--great)}
   .empty{text-align:center;color:var(--muted);padding:40px 0}
   footer{color:var(--muted);font-size:12px;margin-top:26px;line-height:1.7}
 </style>
@@ -108,7 +109,7 @@
     <select id="sort">
       <option value="new">Newest</option>
       <option value="cheap">Cheapest</option>
-      <option value="value">Best $/hour</option>
+      <option value="value">Best value ($/hr for length)</option>
       <option value="depart">By departure</option>
     </select>
     <span class="count" id="count"></span>
@@ -171,6 +172,9 @@ function render(){
     return (d.route+" "+d.origin+" "+d.destination+" "+(d.airline||"")).toLowerCase().includes(term);
   });
   const pph=d=>d.pricePerHour>0?d.pricePerHour:Infinity;
+  // "Best value" shows only fares that beat the $/hr bar for their length,
+  // so long-haul value surfaces instead of short cheap hops.
+  if(sort==="value") list=list.filter(d=>d.valueDeal);
   list.sort((a,b)=> sort==="cheap" ? a.priceCad-b.priceCad
     : sort==="value" ? pph(a)-pph(b) || a.priceCad-b.priceCad
     : sort==="depart" ? (a.flightDate||"").localeCompare(b.flightDate||"")
@@ -180,6 +184,9 @@ function render(){
   $("#count").textContent = list.length>LIMIT
     ? `showing ${shown} of ${list.length.toLocaleString()} — refine to see more`
     : `${list.length} deal${list.length===1?"":"s"}`;
+  $("#empty").textContent = sort==="value"
+    ? "No value deals right now — no fares are beating the $/hr bar for their flight length."
+    : "No matching deals right now.";
   $("#empty").hidden=list.length>0;
   $("#deals").innerHTML=list.slice(0,LIMIT).map(card).join("");
 }
@@ -195,7 +202,7 @@ function card(d){
     <div>
       <span class="tier ${tier}">${tier}</span>
       <div class="route">${esc(d.origin)}<span class="arrow">${rt?"⇄":"→"}</span>${esc(d.destination)}
-        ${rt?'<span class="tag">round trip</span>':''}</div>
+        ${rt?'<span class="tag">round trip</span>':''}${d.valueDeal?'<span class="tag value">value</span>':''}</div>
       <div class="meta">${dates}<span class="sep">·</span>${esc(d.airline||"—")}<span class="sep">·</span>${stops}${extra}</div>
     </div>
     <div class="price">C$${Number(d.priceCad).toLocaleString()}</div>
