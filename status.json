@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->HEL 2026-07-20",
- "checksDone": 3996,
+ "phase": "SEA->BJS 2026-11-23",
+ "checksDone": 4326,
  "checksPlanned": 41488,
  "percent": 10,
- "dealsFound": 1615,
- "updatedAt": "2026-07-15T08:31:32",
- "publishedAt": "2026-07-15T12:32:12.430412+00:00",
+ "dealsFound": 1789,
+ "updatedAt": "2026-07-15T08:47:10",
+ "publishedAt": "2026-07-15T12:47:49.874441+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 5616
+ "totalDeals": 5790
 }
