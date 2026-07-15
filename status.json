@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZRH->SCL 2026-07-20",
- "checksDone": 16848,
+ "phase": "VIE->MXP 2026-09-21",
+ "checksDone": 17199,
  "checksPlanned": 41488,
  "percent": 41,
- "dealsFound": 4379,
- "updatedAt": "2026-07-15T18:32:22",
- "publishedAt": "2026-07-15T22:33:14.486378+00:00",
+ "dealsFound": 4402,
+ "updatedAt": "2026-07-15T18:48:14",
+ "publishedAt": "2026-07-15T22:49:02.768171+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 8380
+ "totalDeals": 8403
 }
