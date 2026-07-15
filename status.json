@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DFW->HAN 2026-11-23",
- "checksDone": 1314,
+ "phase": "DFW->ACC 2026-07-20",
+ "checksDone": 1656,
  "checksPlanned": 41488,
- "percent": 3,
- "dealsFound": 564,
- "updatedAt": "2026-07-15T06:27:02",
- "publishedAt": "2026-07-15T10:27:38.942558+00:00",
+ "percent": 4,
+ "dealsFound": 675,
+ "updatedAt": "2026-07-15T06:42:40",
+ "publishedAt": "2026-07-15T10:43:09.403565+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 4567
+ "totalDeals": 4676
 }
