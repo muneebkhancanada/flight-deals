@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->BJS 2026-11-23",
- "checksDone": 4326,
+ "phase": "SFO->OPO 2026-09-21",
+ "checksDone": 4671,
  "checksPlanned": 41488,
- "percent": 10,
- "dealsFound": 1789,
- "updatedAt": "2026-07-15T08:47:10",
- "publishedAt": "2026-07-15T12:47:49.874441+00:00",
+ "percent": 11,
+ "dealsFound": 1903,
+ "updatedAt": "2026-07-15T09:02:49",
+ "publishedAt": "2026-07-15T13:03:30.369791+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 5790
+ "totalDeals": 5906
 }
