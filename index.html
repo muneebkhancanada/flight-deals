@@ -71,6 +71,27 @@
     border:1px solid var(--line);background:var(--card);color:var(--ink)}
   .clr{font:inherit;border:1px solid var(--line);background:var(--card);
     color:var(--brand-ink);border-radius:10px;padding:7px 12px;cursor:pointer}
+  .filters .chk{cursor:pointer}
+  .filters input[type=date]{font:inherit;border:0;background:transparent;color:var(--ink);width:120px}
+  /* multi-select */
+  .ms{position:relative}
+  .ms-btn{font:inherit;padding:7px 12px;border-radius:10px;border:1px solid var(--line);
+    background:var(--card);color:var(--ink);cursor:pointer;white-space:nowrap}
+  .ms-btn.on{border-color:var(--brand);color:var(--brand-ink);font-weight:600}
+  .ms-pop{position:absolute;z-index:20;top:calc(100% + 4px);left:0;min-width:230px;
+    max-width:320px;background:var(--card);border:1px solid var(--line);border-radius:12px;
+    box-shadow:0 8px 28px rgba(0,0,0,.18);padding:8px}
+  .ms-search{width:100%;font:inherit;padding:7px 9px;border-radius:8px;
+    border:1px solid var(--line);background:var(--bg);color:var(--ink);margin-bottom:6px}
+  .ms-list{max-height:260px;overflow:auto}
+  .ms-item{display:flex;align-items:center;gap:8px;padding:5px 6px;border-radius:7px;
+    font-size:14px;cursor:pointer}
+  .ms-item:hover{background:var(--bg)}
+  .ms-empty{color:var(--muted);font-size:13px;padding:8px 6px}
+  .ms-actions{display:flex;justify-content:space-between;gap:8px;margin-top:6px;
+    border-top:1px solid var(--line);padding-top:6px}
+  .ms-actions button{font:inherit;font-size:13px;border:0;background:transparent;
+    color:var(--brand-ink);cursor:pointer;padding:4px 6px}
   /* deal cards */
   .deals{display:grid;gap:10px}
   .deal{background:var(--card);border:1px solid var(--line);border-radius:14px;
@@ -128,15 +149,27 @@
   </div>
 
   <div class="filters">
+    <div id="msOrigins" class="ms"></div>
+    <div id="msDests" class="ms"></div>
+    <div id="msAirlines" class="ms"></div>
+  </div>
+  <div class="filters">
     <label>Max price <input id="fPrice" type="number" min="0" step="50" placeholder="any"><span class="u">C$</span></label>
-    <label>Min flight <input id="fMinH" type="number" min="0" max="24" step="1" placeholder="any"><span class="u">h</span></label>
+    <label>Flight <input id="fMinH" type="number" min="0" max="24" step="1" placeholder="min"><span class="u">–</span><input id="fMaxH" type="number" min="0" max="24" step="1" placeholder="max"><span class="u">h</span></label>
     <label>Max <input id="fMaxPph" type="number" min="0" step="5" placeholder="any"><span class="u">$/hr</span></label>
     <select id="fStops">
       <option value="">Any stops</option>
       <option value="0">Nonstop only</option>
       <option value="1">Max 1 stop</option>
     </select>
-    <button id="btnClear" class="clr" hidden>Clear filters ✕</button>
+    <select id="fTier">
+      <option value="">Any tier</option>
+      <option value="great">Great or better</option>
+      <option value="exceptional">Exceptional only</option>
+    </select>
+    <label>Depart <input id="fAfter" type="date"><span class="u">–</span><input id="fBefore" type="date"></label>
+    <label class="chk"><input type="checkbox" id="fValue"> Value only</label>
+    <button id="btnClear" class="clr" hidden>Clear all ✕</button>
   </div>
 
   <div class="deals" id="deals"></div>
@@ -187,21 +220,76 @@ function renderStatus(s){
 }
 function esc(t){ const d=document.createElement("div"); d.textContent=t==null?"":t; return d.innerHTML; }
 
+// Data-driven multi-select with an inline filter box.
+function makeMulti(sel, label){
+  const wrap=$(sel);
+  wrap.innerHTML=`<button type="button" class="ms-btn">${label}</button>
+    <div class="ms-pop" hidden>
+      <input class="ms-search" placeholder="filter ${label.toLowerCase()}…" autocomplete="off">
+      <div class="ms-list"></div>
+      <div class="ms-actions"><span class="ms-count"></span><button type="button" class="ms-clear">Clear</button></div>
+    </div>`;
+  const btn=wrap.querySelector(".ms-btn"), pop=wrap.querySelector(".ms-pop"),
+        list=wrap.querySelector(".ms-list"), search=wrap.querySelector(".ms-search"),
+        cnt=wrap.querySelector(".ms-count");
+  let options=[], selected=new Set(), onchange=()=>{};
+  const relabel=()=>{ btn.textContent = selected.size ? `${label} · ${selected.size}` : label;
+    btn.classList.toggle("on", selected.size>0); cnt.textContent = `${selected.size} selected`; };
+  function draw(){
+    const q=search.value.trim().toLowerCase();
+    const opts=options.filter(o=>o.toLowerCase().includes(q));
+    list.innerHTML = opts.slice(0,400).map(o=>
+      `<label class="ms-item"><input type="checkbox" value="${esc(o)}" ${selected.has(o)?"checked":""}> ${esc(o)}</label>`
+    ).join("") || "<div class='ms-empty'>no matches</div>";
+    for(const inp of list.querySelectorAll("input"))
+      inp.onchange=e=>{ e.target.checked?selected.add(e.target.value):selected.delete(e.target.value); relabel(); onchange(); };
+  }
+  btn.onclick=e=>{ e.stopPropagation();
+    document.querySelectorAll(".ms-pop").forEach(p=>{ if(p!==pop) p.hidden=true; });
+    pop.hidden=!pop.hidden; if(!pop.hidden){ search.value=""; draw(); search.focus(); } };
+  search.oninput=draw;
+  pop.onclick=e=>e.stopPropagation();
+  wrap.querySelector(".ms-clear").onclick=()=>{ selected.clear(); relabel(); draw(); onchange(); };
+  return { setOptions(v){ options=v; draw(); }, get selected(){ return selected; },
+           set onChange(f){ onchange=f; }, reset(){ selected.clear(); relabel(); } };
+}
+document.addEventListener("click",()=>document.querySelectorAll(".ms-pop").forEach(p=>p.hidden=true));
+const msOrigins=makeMulti("#msOrigins","Origins"),
+      msDests=makeMulti("#msDests","Destinations"),
+      msAirlines=makeMulti("#msAirlines","Airlines");
+
 function render(){
   const term=$("#q").value.trim().toLowerCase();
   const sort=$("#sort").value;
   const maxPrice=parseFloat($("#fPrice").value)||Infinity;
   const minH=parseFloat($("#fMinH").value)||0;
+  const maxH=parseFloat($("#fMaxH").value)||Infinity;
   const maxPph=parseFloat($("#fMaxPph").value)||Infinity;
   const maxStops=$("#fStops").value===""?Infinity:parseInt($("#fStops").value,10);
-  const active=maxPrice<Infinity||minH>0||maxPph<Infinity||maxStops<Infinity;
+  const tierF=$("#fTier").value;
+  const after=$("#fAfter").value, before=$("#fBefore").value;
+  const valueOnly=$("#fValue").checked;
+  const origins=msOrigins.selected, dests=msDests.selected, airlines=msAirlines.selected;
+  const active = maxPrice<Infinity||minH>0||maxH<Infinity||maxPph<Infinity||maxStops<Infinity
+    ||tierF||after||before||valueOnly||origins.size||dests.size||airlines.size;
   $("#btnClear").hidden=!active;
   let list=DEALS.filter(d=>{
     if(trip!=="all" && d.tripType!==trip) return false;
+    if(origins.size && !origins.has(d.origin)) return false;
+    if(dests.size && !dests.has(d.destination)) return false;
+    if(airlines.size){ const das=(d.airline||"").split(",").map(s=>s.trim()); if(!das.some(a=>airlines.has(a))) return false; }
     if(d.priceCad>maxPrice) return false;
-    if((d.durationMin||0)/60 < minH) return false;              // unknown => excluded when filtering by length
+    const h=(d.durationMin||0)/60;
+    if(minH>0 && (!d.durationMin || h<minH)) return false;      // unknown length excluded when filtering
+    if(maxH<Infinity && (!d.durationMin || h>maxH)) return false;
     if((d.pricePerHour>0?d.pricePerHour:Infinity) > maxPph) return false; // unknown $/hr excluded when filtering
     if((d.stops||0) > maxStops) return false;
+    if(valueOnly && !d.valueDeal) return false;
+    if(tierF){ const t=tierOf(d.whyDeal);
+      if(tierF==="great" && t==="good") return false;
+      if(tierF==="exceptional" && t!=="exceptional") return false; }
+    if(after && (d.flightDate||"") < after) return false;
+    if(before && (d.flightDate||"") > before) return false;
     if(!term) return true;
     return (d.route+" "+d.origin+" "+d.destination+" "+(d.airline||"")).toLowerCase().includes(term);
   });
@@ -252,18 +340,29 @@ async function load(){
       fetch("status.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
     ]);
     DEALS=Array.isArray(dz)?dz:[];
+    populateFilters();
     renderStatus(sz); render();
   }catch(e){
     $("#statePill").textContent="Could not load deals";
     $("#empty").hidden=false;
   }
 }
+function populateFilters(){
+  const uniq=arr=>[...new Set(arr.filter(Boolean))].sort();
+  msOrigins.setOptions(uniq(DEALS.map(d=>d.origin)));
+  msDests.setOptions(uniq(DEALS.map(d=>d.destination)));
+  msAirlines.setOptions(uniq(DEALS.flatMap(d=>(d.airline||"").split(",").map(s=>s.trim()))));
+}
 $("#q").addEventListener("input",render);
 $("#sort").addEventListener("change",render);
-["#fPrice","#fMinH","#fMaxPph"].forEach(id=>$(id).addEventListener("input",render));
-$("#fStops").addEventListener("change",render);
+["#fPrice","#fMinH","#fMaxH","#fMaxPph","#fAfter","#fBefore"].forEach(id=>$(id).addEventListener("input",render));
+["#fStops","#fTier"].forEach(id=>$(id).addEventListener("change",render));
+$("#fValue").addEventListener("change",render);
+[msOrigins,msDests,msAirlines].forEach(m=>m.onChange=render);
 $("#btnClear").addEventListener("click",()=>{
-  $("#fPrice").value="";$("#fMinH").value="";$("#fMaxPph").value="";$("#fStops").value="";render();});
+  ["#fPrice","#fMinH","#fMaxH","#fMaxPph","#fAfter","#fBefore"].forEach(id=>$(id).value="");
+  $("#fStops").value=""; $("#fTier").value=""; $("#fValue").checked=false;
+  [msOrigins,msDests,msAirlines].forEach(m=>m.reset()); render();});
 $("#trip").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
   trip=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); render(); });
 load();
