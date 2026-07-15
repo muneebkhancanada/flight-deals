@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->BUD 2026-07-20",
- "checksDone": 14448,
+ "phase": "FRA->DPS 2027-01-25",
+ "checksDone": 14781,
  "checksPlanned": 41488,
- "percent": 35,
- "dealsFound": 4100,
- "updatedAt": "2026-07-15T16:41:22",
- "publishedAt": "2026-07-15T20:42:13.265242+00:00",
+ "percent": 36,
+ "dealsFound": 4154,
+ "updatedAt": "2026-07-15T16:57:08",
+ "publishedAt": "2026-07-15T20:58:04.906229+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 8101
+ "totalDeals": 8155
 }
