@@ -59,6 +59,18 @@
     padding:9px 12px;cursor:pointer}
   .seg button.on{background:var(--brand);color:#fff}
   .count{color:var(--muted);font-size:13px;margin-left:auto}
+  .filters{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:-4px 0 16px}
+  .filters label{display:inline-flex;align-items:center;gap:6px;font-size:13px;
+    color:var(--muted);background:var(--card);border:1px solid var(--line);
+    border-radius:10px;padding:5px 10px}
+  .filters label input{width:72px;border:0;background:transparent;color:var(--ink);
+    font:inherit;padding:2px 0}
+  .filters label input:focus{outline:none}
+  .filters .u{color:var(--muted);font-weight:600}
+  .filters select{font:inherit;padding:7px 10px;border-radius:10px;
+    border:1px solid var(--line);background:var(--card);color:var(--ink)}
+  .clr{font:inherit;border:1px solid var(--line);background:var(--card);
+    color:var(--brand-ink);border-radius:10px;padding:7px 12px;cursor:pointer}
   /* deal cards */
   .deals{display:grid;gap:10px}
   .deal{background:var(--card);border:1px solid var(--line);border-radius:14px;
@@ -115,6 +127,18 @@
     <span class="count" id="count"></span>
   </div>
 
+  <div class="filters">
+    <label>Max price <input id="fPrice" type="number" min="0" step="50" placeholder="any"><span class="u">C$</span></label>
+    <label>Min flight <input id="fMinH" type="number" min="0" max="24" step="1" placeholder="any"><span class="u">h</span></label>
+    <label>Max <input id="fMaxPph" type="number" min="0" step="5" placeholder="any"><span class="u">$/hr</span></label>
+    <select id="fStops">
+      <option value="">Any stops</option>
+      <option value="0">Nonstop only</option>
+      <option value="1">Max 1 stop</option>
+    </select>
+    <button id="btnClear" class="clr" hidden>Clear filters ✕</button>
+  </div>
+
   <div class="deals" id="deals"></div>
   <div class="empty" id="empty" hidden>No matching deals right now.</div>
 
@@ -166,8 +190,18 @@ function esc(t){ const d=document.createElement("div"); d.textContent=t==null?""
 function render(){
   const term=$("#q").value.trim().toLowerCase();
   const sort=$("#sort").value;
+  const maxPrice=parseFloat($("#fPrice").value)||Infinity;
+  const minH=parseFloat($("#fMinH").value)||0;
+  const maxPph=parseFloat($("#fMaxPph").value)||Infinity;
+  const maxStops=$("#fStops").value===""?Infinity:parseInt($("#fStops").value,10);
+  const active=maxPrice<Infinity||minH>0||maxPph<Infinity||maxStops<Infinity;
+  $("#btnClear").hidden=!active;
   let list=DEALS.filter(d=>{
     if(trip!=="all" && d.tripType!==trip) return false;
+    if(d.priceCad>maxPrice) return false;
+    if((d.durationMin||0)/60 < minH) return false;              // unknown => excluded when filtering by length
+    if((d.pricePerHour>0?d.pricePerHour:Infinity) > maxPph) return false; // unknown $/hr excluded when filtering
+    if((d.stops||0) > maxStops) return false;
     if(!term) return true;
     return (d.route+" "+d.origin+" "+d.destination+" "+(d.airline||"")).toLowerCase().includes(term);
   });
@@ -226,6 +260,10 @@ async function load(){
 }
 $("#q").addEventListener("input",render);
 $("#sort").addEventListener("change",render);
+["#fPrice","#fMinH","#fMaxPph"].forEach(id=>$(id).addEventListener("input",render));
+$("#fStops").addEventListener("change",render);
+$("#btnClear").addEventListener("click",()=>{
+  $("#fPrice").value="";$("#fMinH").value="";$("#fMaxPph").value="";$("#fStops").value="";render();});
 $("#trip").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
   trip=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); render(); });
 load();
