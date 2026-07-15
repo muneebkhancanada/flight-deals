@@ -1,14 +1,27 @@
 {
- "running": false,
- "mode": "",
- "phase": "stopped by user",
- "checksDone": 0,
- "checksPlanned": 0,
- "percent": null,
- "dealsFound": 0,
- "updatedAt": "2026-07-14T21:38:45",
- "publishedAt": "2026-07-15T09:18:03.636059+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 4001
+ "running": true,
+ "mode": "full",
+ "phase": "MIA->PVG 2026-11-23",
+ "checksDone": 318,
+ "checksPlanned": 41488,
+ "percent": 1,
+ "dealsFound": 131,
+ "updatedAt": "2026-07-15T05:40:38",
+ "publishedAt": "2026-07-15T09:41:09.747223+00:00",
+ "queuedCount": 3,
+ "queued": [
+  {
+   "label": "round trip (EU ⇄ asia, 12-21 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "round trip (EU ⇄ middle_east, 12-21 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "round trip (EU ⇄ africa, 12-21 nights)",
+   "mode": "quick"
+  }
+ ],
+ "totalDeals": 4134
 }
