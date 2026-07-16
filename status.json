@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->KRK 2027-03-09",
- "checksDone": 13149,
+ "phase": "OSL->MNL 2027-03-09",
+ "checksDone": 13497,
  "checksPlanned": 51004,
  "percent": 26,
- "dealsFound": 1630,
- "updatedAt": "2026-07-16T15:23:01",
- "publishedAt": "2026-07-16T19:24:00.334062+00:00",
+ "dealsFound": 1689,
+ "updatedAt": "2026-07-16T15:38:55",
+ "publishedAt": "2026-07-16T19:39:58.526388+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 10151
+ "totalDeals": 10210
 }
