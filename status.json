@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->KRK 2027-01-05",
- "checksDone": 6582,
+ "phase": "FCO->SIN 2027-03-09",
+ "checksDone": 6921,
  "checksPlanned": 51004,
- "percent": 13,
- "dealsFound": 788,
- "updatedAt": "2026-07-16T10:19:39",
- "publishedAt": "2026-07-16T14:20:43.114733+00:00",
+ "percent": 14,
+ "dealsFound": 845,
+ "updatedAt": "2026-07-16T10:35:41",
+ "publishedAt": "2026-07-16T14:36:36.450983+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 9309
+ "totalDeals": 9366
 }
