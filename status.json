@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->CMB 2026-11-03",
- "checksDone": 12435,
+ "phase": "ARN->TUN 2026-11-03",
+ "checksDone": 12795,
  "checksPlanned": 51004,
- "percent": 24,
- "dealsFound": 1552,
- "updatedAt": "2026-07-16T14:51:07",
- "publishedAt": "2026-07-16T18:52:03.336645+00:00",
+ "percent": 25,
+ "dealsFound": 1598,
+ "updatedAt": "2026-07-16T15:07:03",
+ "publishedAt": "2026-07-16T19:08:02.516831+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 10073
+ "totalDeals": 10119
 }
