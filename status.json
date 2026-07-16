@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->NBO 2027-03-09",
- "checksDone": 7269,
+ "phase": "MXP->PRG 2026-09-01",
+ "checksDone": 7632,
  "checksPlanned": 51004,
- "percent": 14,
- "dealsFound": 915,
- "updatedAt": "2026-07-16T10:51:32",
- "publishedAt": "2026-07-16T14:52:28.113038+00:00",
+ "percent": 15,
+ "dealsFound": 930,
+ "updatedAt": "2026-07-16T11:07:28",
+ "publishedAt": "2026-07-16T15:08:26.837429+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 9436
+ "totalDeals": 9451
 }
