@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->CAI 2026-09-01",
- "checksDone": 672,
+ "phase": "MUC->NAP 2026-11-03",
+ "checksDone": 1011,
  "checksPlanned": 51004,
- "percent": 1,
- "dealsFound": 74,
- "updatedAt": "2026-07-16T05:51:00",
- "publishedAt": "2026-07-16T09:51:45.421178+00:00",
+ "percent": 2,
+ "dealsFound": 102,
+ "updatedAt": "2026-07-16T06:06:43",
+ "publishedAt": "2026-07-16T10:07:30.236183+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 8595
+ "totalDeals": 8623
 }
