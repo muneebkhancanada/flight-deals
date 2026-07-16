@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MXP->PRG 2026-09-01",
- "checksDone": 7632,
+ "phase": "MXP->BKK 2026-11-03",
+ "checksDone": 7971,
  "checksPlanned": 51004,
- "percent": 15,
- "dealsFound": 930,
- "updatedAt": "2026-07-16T11:07:28",
- "publishedAt": "2026-07-16T15:08:26.837429+00:00",
+ "percent": 16,
+ "dealsFound": 975,
+ "updatedAt": "2026-07-16T11:23:26",
+ "publishedAt": "2026-07-16T15:24:29.045469+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 9451
+ "totalDeals": 9498
 }
