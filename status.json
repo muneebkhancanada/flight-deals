@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "CPH->LHE 2026-12-16",
- "checksDone": 333,
+ "phase": "finished",
+ "checksDone": 500,
  "checksPlanned": 500,
- "percent": 67,
+ "percent": 100,
  "dealsFound": 2,
- "updatedAt": "2026-07-15T19:58:02",
- "publishedAt": "2026-07-15T23:58:55.715230+00:00",
+ "updatedAt": "2026-07-15T20:06:08",
+ "publishedAt": "2026-07-16T00:07:00.300693+00:00",
  "queuedCount": 2,
  "queued": [
   {
