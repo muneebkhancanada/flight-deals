@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->KWI 2026-11-03",
- "checksDone": 10023,
+ "phase": "LIS->ISB 2026-09-01",
+ "checksDone": 10368,
  "checksPlanned": 51004,
  "percent": 20,
- "dealsFound": 1321,
- "updatedAt": "2026-07-16T12:59:15",
- "publishedAt": "2026-07-16T17:00:14.626719+00:00",
+ "dealsFound": 1330,
+ "updatedAt": "2026-07-16T13:15:11",
+ "publishedAt": "2026-07-16T17:16:13.036611+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 9842
+ "totalDeals": 9851
 }
