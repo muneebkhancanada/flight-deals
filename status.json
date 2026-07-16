@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "CPH->MCT 2027-02-09",
- "checksDone": 336,
+ "phase": "finished",
+ "checksDone": 499,
  "checksPlanned": 499,
- "percent": 67,
- "dealsFound": 26,
- "updatedAt": "2026-07-15T20:22:12",
- "publishedAt": "2026-07-16T00:23:01.899792+00:00",
+ "percent": 100,
+ "dealsFound": 34,
+ "updatedAt": "2026-07-15T20:30:11",
+ "publishedAt": "2026-07-16T00:30:58.998742+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 8542
+ "totalDeals": 8550
 }
