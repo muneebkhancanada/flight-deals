@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "FCO->NAP 2027-01-18",
- "checksDone": 12792,
+ "phase": "MXP->AGP 2027-01-18",
+ "checksDone": 13140,
  "checksPlanned": 17216,
- "percent": 74,
- "dealsFound": 1313,
- "updatedAt": "2026-07-17T17:40:13",
- "publishedAt": "2026-07-17T21:41:45.708923+00:00",
+ "percent": 76,
+ "dealsFound": 1332,
+ "updatedAt": "2026-07-17T17:56:42",
+ "publishedAt": "2026-07-17T21:58:17.264451+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 15926
+ "totalDeals": 15945
 }
