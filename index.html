@@ -101,6 +101,7 @@
   .route .arrow{color:var(--muted);margin:0 6px}
   .meta{color:var(--muted);font-size:13px;margin-top:2px}
   .meta .sep{opacity:.5;margin:0 6px}
+  .meta .txn{font-variant-numeric:tabular-nums;opacity:.7;cursor:help}
   .price{font-size:22px;font-weight:800;text-align:right;white-space:nowrap}
   .tier{display:inline-block;font-size:10.5px;font-weight:800;letter-spacing:.4px;
     text-transform:uppercase;padding:2px 7px;border-radius:6px;margin-bottom:3px}
@@ -298,17 +299,16 @@ function render(){
   // so long-haul value surfaces instead of short cheap hops.
   if(sort==="value") list=list.filter(d=>d.valueDeal);
   const foundKey=d=>d.foundAt||d.foundOn||"";
-  // No price tiebreak for "Newest": deals.json already arrives in the
-  // correct recency order (the publisher breaks foundAt ties using the
-  // CSV's row order, since foundAt is often identical for same-day rows
-  // written before that column existed). Array.sort is spec-guaranteed
-  // stable, so omitting a tiebreak here preserves that server-side order
-  // instead of falling back to cheapest-price-wins, which silently undid
-  // the server's correct ordering.
+  // "Newest" sorts by txnId first: a persisted, ever-increasing transaction
+  // number assigned once per deal when it's found, so it never ties (unlike
+  // dates/timestamps, where many deals share the same day or even second).
+  // Comparing two deals' txnId always tells you definitively which came
+  // first. Rows from before this field existed are txnId=0 and fall back
+  // to foundAt/foundOn.
   list.sort((a,b)=> sort==="cheap" ? a.priceCad-b.priceCad
     : sort==="value" ? pph(a)-pph(b) || a.priceCad-b.priceCad
     : sort==="depart" ? (a.flightDate||"").localeCompare(b.flightDate||"")
-    : foundKey(b).localeCompare(foundKey(a)));
+    : (b.txnId||0)-(a.txnId||0) || foundKey(b).localeCompare(foundKey(a)));
   const LIMIT=250;
   const shown=Math.min(list.length,LIMIT);
   $("#count").textContent = list.length>LIMIT
@@ -328,12 +328,13 @@ function card(d){
   const dur=d.durationMin>0?fmtDur(d.durationMin):"";
   const pph=d.pricePerHour>0?`<b>C$${d.pricePerHour}/hr</b> flying`:"";
   const extra=[dur,pph].filter(Boolean).map(x=>`<span class="sep">·</span>${x}`).join("");
+  const txn=d.txnId>0?`<span class="txn" title="Transaction #${d.txnId} — a unique, ever-increasing number assigned when this deal was found, so it can always be ranked by true discovery order">#${d.txnId}</span>`:"";
   return `<article class="deal">
     <div>
       <span class="tier ${tier}">${tier}</span>
       <div class="route">${esc(d.origin)}<span class="arrow">${rt?"⇄":"→"}</span>${esc(d.destination)}
         ${rt?'<span class="tag">round trip</span>':''}${d.valueDeal?'<span class="tag value">value</span>':''}</div>
-      <div class="meta">${dates}<span class="sep">·</span>${esc(d.airline||"—")}<span class="sep">·</span>${stops}${extra}</div>
+      <div class="meta">${dates}<span class="sep">·</span>${esc(d.airline||"—")}<span class="sep">·</span>${stops}${extra}${txn?`<span class="sep">·</span>${txn}`:""}</div>
     </div>
     <div class="price">C$${Number(d.priceCad).toLocaleString()}</div>
     ${d.whyDeal?`<div class="why">${esc(d.whyDeal)}</div>`:""}
