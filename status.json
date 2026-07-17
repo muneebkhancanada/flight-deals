@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DTW->BJL 2026-10-13",
- "checksDone": 10734,
+ "phase": "MSP->PRG 2026-12-15",
+ "checksDone": 11073,
  "checksPlanned": 52118,
  "percent": 21,
- "dealsFound": 3202,
- "updatedAt": "2026-07-17T06:18:59",
- "publishedAt": "2026-07-17T10:20:19.854537+00:00",
+ "dealsFound": 3319,
+ "updatedAt": "2026-07-17T06:35:13",
+ "publishedAt": "2026-07-17T10:36:37.513108+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 14329
+ "totalDeals": 14449
 }
