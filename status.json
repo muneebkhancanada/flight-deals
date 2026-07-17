@@ -1,19 +1,14 @@
 {
  "running": true,
- "mode": "full",
- "phase": "MSP->PRG 2026-12-15",
- "checksDone": 11073,
- "checksPlanned": 52118,
- "percent": 21,
- "dealsFound": 3319,
- "updatedAt": "2026-07-17T06:35:13",
- "publishedAt": "2026-07-17T10:36:37.513108+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "custom (primary → everywhere) on Emirates, Qatar, Etihad (al",
-   "mode": "quick"
-  }
- ],
- "totalDeals": 14449
+ "mode": "custom",
+ "phase": "YYZ->DSS 2027-01-18",
+ "checksDone": 336,
+ "checksPlanned": 376,
+ "percent": 89,
+ "dealsFound": 100,
+ "updatedAt": "2026-07-17T06:55:59",
+ "publishedAt": "2026-07-17T10:57:21.491626+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 14494
 }
