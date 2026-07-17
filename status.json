@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DFW->PVG 2027-01-18",
- "checksDone": 4704,
+ "phase": "IAH->AMM 2026-09-20",
+ "checksDone": 5034,
  "checksPlanned": 17216,
- "percent": 27,
- "dealsFound": 651,
- "updatedAt": "2026-07-17T11:02:27",
- "publishedAt": "2026-07-17T15:03:54.693652+00:00",
+ "percent": 29,
+ "dealsFound": 736,
+ "updatedAt": "2026-07-17T11:18:55",
+ "publishedAt": "2026-07-17T15:20:23.139130+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15265
+ "totalDeals": 15349
 }
