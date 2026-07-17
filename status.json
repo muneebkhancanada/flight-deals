@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LHR->DAR 2026-07-22",
- "checksDone": 9369,
+ "phase": "LGW->CPT 2026-09-20",
+ "checksDone": 9714,
  "checksPlanned": 17216,
- "percent": 54,
- "dealsFound": 1157,
- "updatedAt": "2026-07-17T14:54:39",
- "publishedAt": "2026-07-17T18:56:15.125018+00:00",
+ "percent": 56,
+ "dealsFound": 1160,
+ "updatedAt": "2026-07-17T15:11:14",
+ "publishedAt": "2026-07-17T19:12:54.042561+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15770
+ "totalDeals": 15773
 }
