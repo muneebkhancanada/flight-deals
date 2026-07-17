@@ -297,10 +297,11 @@ function render(){
   // "Best value" shows only fares that beat the $/hr bar for their length,
   // so long-haul value surfaces instead of short cheap hops.
   if(sort==="value") list=list.filter(d=>d.valueDeal);
+  const foundKey=d=>d.foundAt||d.foundOn||"";
   list.sort((a,b)=> sort==="cheap" ? a.priceCad-b.priceCad
     : sort==="value" ? pph(a)-pph(b) || a.priceCad-b.priceCad
     : sort==="depart" ? (a.flightDate||"").localeCompare(b.flightDate||"")
-    : (b.foundOn||"").localeCompare(a.foundOn||"") || a.priceCad-b.priceCad);
+    : foundKey(b).localeCompare(foundKey(a)) || a.priceCad-b.priceCad);
   const LIMIT=250;
   const shown=Math.min(list.length,LIMIT);
   $("#count").textContent = list.length>LIMIT
