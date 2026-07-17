@@ -336,9 +336,15 @@ function card(d){
 
 async function load(){
   try{
+    // GitHub Pages' CDN caches responses for ~10 min (Cache-Control:
+    // max-age=600) regardless of the fetch cache mode below, since that
+    // option only governs the browser's own cache. A unique query string
+    // makes each request a distinct URL so the CDN can't serve a stale
+    // cached copy.
+    const bust="?t="+Date.now();
     const [dz,sz]=await Promise.all([
-      fetch("deals.json",{cache:"no-store"}).then(r=>r.json()),
-      fetch("status.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
+      fetch("deals.json"+bust,{cache:"no-store"}).then(r=>r.json()),
+      fetch("status.json"+bust,{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
     ]);
     DEALS=Array.isArray(dz)?dz:[];
     populateFilters();
