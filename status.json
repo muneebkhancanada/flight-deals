@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YUL->SZX 2026-11-19",
- "checksDone": 7011,
+ "phase": "YOW->SIN 2026-09-20",
+ "checksDone": 7350,
  "checksPlanned": 17216,
- "percent": 41,
- "dealsFound": 1039,
- "updatedAt": "2026-07-17T12:57:52",
- "publishedAt": "2026-07-17T16:59:28.989945+00:00",
+ "percent": 43,
+ "dealsFound": 1041,
+ "updatedAt": "2026-07-17T13:14:24",
+ "publishedAt": "2026-07-17T17:15:57.770587+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15652
+ "totalDeals": 15654
 }
