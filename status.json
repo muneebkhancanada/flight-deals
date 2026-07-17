@@ -1,14 +1,19 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HNL->ZNZ 2027-03-09",
- "checksDone": 81,
+ "phase": "MAN->VIE 2027-03-09",
+ "checksDone": 357,
  "checksPlanned": 52118,
- "percent": 0,
- "dealsFound": 0,
- "updatedAt": "2026-07-16T20:56:53",
- "publishedAt": "2026-07-17T00:56:58.385837+00:00",
- "queuedCount": 0,
- "queued": [],
+ "percent": 1,
+ "dealsFound": 12,
+ "updatedAt": "2026-07-16T21:08:50",
+ "publishedAt": "2026-07-17T01:09:59.067891+00:00",
+ "queuedCount": 1,
+ "queued": [
+  {
+   "label": "round trip (NA ⇄ all, 7-26 nights)",
+   "mode": "quick"
+  }
+ ],
  "totalDeals": 11127
 }
