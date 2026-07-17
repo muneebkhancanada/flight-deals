@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SFO->MAD 2026-11-19",
- "checksDone": 6027,
+ "phase": "SFO->DSS 2026-11-19",
+ "checksDone": 6351,
  "checksPlanned": 17216,
- "percent": 35,
- "dealsFound": 892,
- "updatedAt": "2026-07-17T12:08:24",
- "publishedAt": "2026-07-17T16:09:54.532322+00:00",
+ "percent": 37,
+ "dealsFound": 950,
+ "updatedAt": "2026-07-17T12:24:51",
+ "publishedAt": "2026-07-17T16:26:23.015857+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15506
+ "totalDeals": 15563
 }
