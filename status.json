@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YYZ->IST 2026-07-22",
- "checksDone": 129,
+ "phase": "YYZ->DSS 2026-07-22",
+ "checksDone": 333,
  "checksPlanned": 17216,
- "percent": 1,
+ "percent": 2,
  "dealsFound": 3,
- "updatedAt": "2026-07-17T07:20:07",
- "publishedAt": "2026-07-17T11:20:09.449124+00:00",
+ "updatedAt": "2026-07-17T07:29:18",
+ "publishedAt": "2026-07-17T11:30:37.179244+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 14617
