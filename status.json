@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VIE->IST 2027-01-18",
- "checksDone": 11760,
+ "phase": "MAD->KEF 2027-01-18",
+ "checksDone": 12108,
  "checksPlanned": 17216,
- "percent": 68,
- "dealsFound": 1257,
- "updatedAt": "2026-07-17T16:50:40",
- "publishedAt": "2026-07-17T20:52:12.676387+00:00",
+ "percent": 70,
+ "dealsFound": 1268,
+ "updatedAt": "2026-07-17T17:07:08",
+ "publishedAt": "2026-07-17T21:08:42.550660+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15870
+ "totalDeals": 15881
 }
