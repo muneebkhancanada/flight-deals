@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->VIE 2027-03-09",
- "checksDone": 357,
+ "phase": "MAN->BAH 2026-11-03",
+ "checksDone": 603,
  "checksPlanned": 52118,
  "percent": 1,
- "dealsFound": 12,
- "updatedAt": "2026-07-16T21:08:50",
- "publishedAt": "2026-07-17T01:09:59.067891+00:00",
+ "dealsFound": 18,
+ "updatedAt": "2026-07-16T21:20:45",
+ "publishedAt": "2026-07-17T01:20:53.676864+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 11127
+ "totalDeals": 11129
 }
