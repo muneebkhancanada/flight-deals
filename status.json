@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->FCO 2026-07-21",
- "checksDone": 336,
+ "phase": "EDI->DOH 2026-11-24",
+ "checksDone": 654,
  "checksPlanned": 52118,
  "percent": 1,
- "dealsFound": 11,
- "updatedAt": "2026-07-16T21:57:32",
- "publishedAt": "2026-07-17T01:58:46.046100+00:00",
+ "dealsFound": 17,
+ "updatedAt": "2026-07-16T22:13:48",
+ "publishedAt": "2026-07-17T02:14:50.547354+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 11138
+ "totalDeals": 11144
 }
