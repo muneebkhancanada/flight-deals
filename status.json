@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BOS->CGK 2026-11-19",
- "checksDone": 1347,
+ "phase": "PHL->ICN 2026-11-19",
+ "checksDone": 1683,
  "checksPlanned": 17216,
- "percent": 8,
- "dealsFound": 111,
- "updatedAt": "2026-07-17T08:18:15",
- "publishedAt": "2026-07-17T12:19:36.427300+00:00",
+ "percent": 10,
+ "dealsFound": 179,
+ "updatedAt": "2026-07-17T08:34:33",
+ "publishedAt": "2026-07-17T12:36:01.020200+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 14724
+ "totalDeals": 14792
 }
