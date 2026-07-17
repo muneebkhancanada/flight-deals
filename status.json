@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IAH->AMM 2026-09-20",
- "checksDone": 5034,
+ "phase": "DEN->OSL 2027-01-18",
+ "checksDone": 5364,
  "checksPlanned": 17216,
- "percent": 29,
- "dealsFound": 736,
- "updatedAt": "2026-07-17T11:18:55",
- "publishedAt": "2026-07-17T15:20:23.139130+00:00",
+ "percent": 31,
+ "dealsFound": 783,
+ "updatedAt": "2026-07-17T11:35:25",
+ "publishedAt": "2026-07-17T15:36:58.479293+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15349
+ "totalDeals": 15396
 }
