@@ -108,6 +108,8 @@
   .tier.good{background:var(--good-bg);color:var(--good)}
   .tier.great{background:var(--great-bg);color:var(--great)}
   .tier.exceptional{background:var(--exceptional-bg);color:var(--exceptional)}
+  /* fare = a browse snapshot (cheapest fare on the route), not a deal */
+  .tier.fare{background:rgba(120,144,156,.16);color:#607d8b}
   .why{grid-column:1/-1;color:var(--muted);font-size:12.5px}
   .book{grid-column:1/-1;justify-self:start;margin-top:4px}
   .book a{display:inline-block;background:var(--brand);color:#fff;font-weight:600;
@@ -164,9 +166,11 @@
       <option value="1">Max 1 stop</option>
     </select>
     <select id="fTier">
-      <option value="">Any tier</option>
+      <option value="">Deals (any tier)</option>
       <option value="great">Great or better</option>
       <option value="exceptional">Exceptional only</option>
+      <option value="fare">Fare snapshots only</option>
+      <option value="all">Deals + fare snapshots</option>
     </select>
     <label>Depart <input id="fAfter" type="date"><span class="u">–</span><input id="fBefore" type="date"></label>
     <label class="chk"><input type="checkbox" id="fValue"> Value only</label>
@@ -193,9 +197,14 @@ function ago(iso){ if(!iso) return ""; const t=new Date(iso); if(isNaN(t)) retur
   const s=Math.max(0,(Date.now()-t)/1000);
   if(s<90) return "just now"; if(s<3600) return Math.round(s/60)+" min ago";
   if(s<86400) return Math.round(s/3600)+" h ago"; return Math.round(s/86400)+" d ago"; }
-function tierOf(why){ const w=(why||"").toLowerCase();
-  if(w.includes("exceptional")) return "exceptional";
-  if(w.includes("great")) return "great"; return "good"; }
+// Read the tier from the [TIER] prefix the scanner writes. Substring-matching
+// the whole reason silently mislabelled deals once reasons could contain the
+// word "great" — e.g. "[GOOD] great value: C$48/airborne-hour" badged GREAT.
+function tierOf(why){
+  const m=/^\[(GOOD|GREAT|EXCEPTIONAL|FARE)\]/.exec((why||"").trim());
+  return m ? m[1].toLowerCase() : "good";   // untagged legacy rows = good
+}
+function isFare(d){ return tierOf(d.whyDeal)==="fare"; }
 
 function renderStatus(s){
   const pill=$("#statePill"), upd=$("#updated"),
@@ -286,9 +295,13 @@ function render(){
     if((d.pricePerHour>0?d.pricePerHour:Infinity) > maxPph) return false; // unknown $/hr excluded when filtering
     if((d.stops||0) > maxStops) return false;
     if(valueOnly && !d.valueDeal) return false;
-    if(tierF){ const t=tierOf(d.whyDeal);
-      if(tierF==="great" && t==="good") return false;
-      if(tierF==="exceptional" && t!=="exceptional") return false; }
+    // Fare snapshots are the cheapest fare on a route, not deals — keep them
+    // out of the default deals view, but browsable via the tier select.
+    const t=tierOf(d.whyDeal);
+    if(tierF==="fare"){ if(t!=="fare") return false; }
+    else if(tierF!=="all" && t==="fare") return false;
+    if(tierF==="great" && t==="good") return false;
+    if(tierF==="exceptional" && t!=="exceptional") return false;
     if(after && (d.flightDate||"") < after) return false;
     if(before && (d.flightDate||"") > before) return false;
     if(!term) return true;
