@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MXP->AGP 2027-01-18",
- "checksDone": 13140,
+ "phase": "MXP->BNE 2026-09-20",
+ "checksDone": 13482,
  "checksPlanned": 17216,
- "percent": 76,
- "dealsFound": 1332,
- "updatedAt": "2026-07-17T17:56:42",
- "publishedAt": "2026-07-17T21:58:17.264451+00:00",
+ "percent": 78,
+ "dealsFound": 1366,
+ "updatedAt": "2026-07-17T18:13:15",
+ "publishedAt": "2026-07-17T22:14:49.049781+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 15945
+ "totalDeals": 15979
 }
