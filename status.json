@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YVR->TIA 2026-11-19",
- "checksDone": 8019,
+ "phase": "BUF->BUD 2026-07-22",
+ "checksDone": 8349,
  "checksPlanned": 17216,
- "percent": 47,
- "dealsFound": 1059,
- "updatedAt": "2026-07-17T13:47:31",
- "publishedAt": "2026-07-17T17:49:17.586294+00:00",
+ "percent": 48,
+ "dealsFound": 1082,
+ "updatedAt": "2026-07-17T14:04:19",
+ "publishedAt": "2026-07-17T18:06:03.795769+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15672
+ "totalDeals": 15695
 }
