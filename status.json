@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MXP->BNE 2026-09-20",
- "checksDone": 13482,
+ "phase": "DUB->MRU 2026-09-20",
+ "checksDone": 13830,
  "checksPlanned": 17216,
- "percent": 78,
- "dealsFound": 1366,
- "updatedAt": "2026-07-17T18:13:15",
- "publishedAt": "2026-07-17T22:14:49.049781+00:00",
+ "percent": 80,
+ "dealsFound": 1412,
+ "updatedAt": "2026-07-17T18:29:51",
+ "publishedAt": "2026-07-17T22:31:20.713523+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 15979
+ "totalDeals": 16025
 }
