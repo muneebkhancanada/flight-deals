@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "FRA->DPS 2026-09-20",
- "checksDone": 10734,
+ "phase": "MUC->PVG 2027-01-18",
+ "checksDone": 11076,
  "checksPlanned": 17216,
- "percent": 62,
- "dealsFound": 1205,
- "updatedAt": "2026-07-17T16:01:01",
- "publishedAt": "2026-07-17T20:02:34.277005+00:00",
+ "percent": 64,
+ "dealsFound": 1216,
+ "updatedAt": "2026-07-17T16:17:36",
+ "publishedAt": "2026-07-17T20:19:08.187792+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15818
+ "totalDeals": 15829
 }
