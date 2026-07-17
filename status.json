@@ -1,14 +1,19 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MAD->KEF 2027-01-18",
- "checksDone": 12108,
+ "phase": "BCN->BUD 2026-09-20",
+ "checksDone": 12450,
  "checksPlanned": 17216,
- "percent": 70,
- "dealsFound": 1268,
- "updatedAt": "2026-07-17T17:07:08",
- "publishedAt": "2026-07-17T21:08:42.550660+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 15881
+ "percent": 72,
+ "dealsFound": 1291,
+ "updatedAt": "2026-07-17T17:23:40",
+ "publishedAt": "2026-07-17T21:25:13.960360+00:00",
+ "queuedCount": 1,
+ "queued": [
+  {
+   "label": "inbound from everywhere → NA, EU",
+   "mode": "quick"
+  }
+ ],
+ "totalDeals": 15904
 }
