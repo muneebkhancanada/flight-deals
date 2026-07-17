@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CDG->EZE 2026-09-20",
- "checksDone": 10050,
+ "phase": "AMS->SYX 2027-01-18",
+ "checksDone": 10392,
  "checksPlanned": 17216,
- "percent": 58,
- "dealsFound": 1180,
- "updatedAt": "2026-07-17T15:27:54",
- "publishedAt": "2026-07-17T19:29:25.640426+00:00",
+ "percent": 60,
+ "dealsFound": 1193,
+ "updatedAt": "2026-07-17T15:44:27",
+ "publishedAt": "2026-07-17T19:46:02.298023+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15793
+ "totalDeals": 15806
 }
