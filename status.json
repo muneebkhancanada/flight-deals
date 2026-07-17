@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->AUH 2027-01-05",
- "checksDone": 19854,
+ "phase": "MAN->BAH 2026-09-01",
+ "checksDone": 19896,
  "checksPlanned": 51004,
  "percent": 39,
  "dealsFound": 2584,
- "updatedAt": "2026-07-16T20:27:26",
- "publishedAt": "2026-07-17T00:28:34.690800+00:00",
+ "updatedAt": "2026-07-16T20:30:25",
+ "publishedAt": "2026-07-17T00:30:25.525489+00:00",
  "queuedCount": 1,
  "queued": [
   {
