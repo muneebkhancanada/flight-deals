@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AMS->SYX 2027-01-18",
- "checksDone": 10392,
+ "phase": "FRA->DPS 2026-09-20",
+ "checksDone": 10734,
  "checksPlanned": 17216,
- "percent": 60,
- "dealsFound": 1193,
- "updatedAt": "2026-07-17T15:44:27",
- "publishedAt": "2026-07-17T19:46:02.298023+00:00",
+ "percent": 62,
+ "dealsFound": 1205,
+ "updatedAt": "2026-07-17T16:01:01",
+ "publishedAt": "2026-07-17T20:02:34.277005+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15806
+ "totalDeals": 15818
 }
