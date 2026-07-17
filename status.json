@@ -1,14 +1,19 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->DOH 2026-11-24",
- "checksDone": 654,
+ "phase": "EDI->ALA 2026-07-21",
+ "checksDone": 996,
  "checksPlanned": 52118,
- "percent": 1,
- "dealsFound": 17,
- "updatedAt": "2026-07-16T22:13:48",
- "publishedAt": "2026-07-17T02:14:50.547354+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 11144
+ "percent": 2,
+ "dealsFound": 47,
+ "updatedAt": "2026-07-16T22:29:52",
+ "publishedAt": "2026-07-17T02:30:55.546297+00:00",
+ "queuedCount": 1,
+ "queued": [
+  {
+   "label": "custom (primary → everywhere) on Emirates, Qatar, Etihad (al",
+   "mode": "quick"
+  }
+ ],
+ "totalDeals": 11174
 }
