@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->CMB 2026-11-03",
- "checksDone": 20115,
+ "phase": "MAN->SYX 2026-09-01",
+ "checksDone": 20184,
  "checksPlanned": 51004,
- "percent": 39,
+ "percent": 40,
  "dealsFound": 2596,
- "updatedAt": "2026-07-16T20:40:32",
- "publishedAt": "2026-07-17T00:40:32.641748+00:00",
+ "updatedAt": "2026-07-16T20:43:35",
+ "publishedAt": "2026-07-17T00:44:37.249391+00:00",
  "queuedCount": 1,
  "queued": [
   {
