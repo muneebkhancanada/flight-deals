@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MUC->PVG 2027-01-18",
- "checksDone": 11076,
+ "phase": "ZRH->MCT 2026-11-19",
+ "checksDone": 11415,
  "checksPlanned": 17216,
- "percent": 64,
- "dealsFound": 1216,
- "updatedAt": "2026-07-17T16:17:36",
- "publishedAt": "2026-07-17T20:19:08.187792+00:00",
+ "percent": 66,
+ "dealsFound": 1240,
+ "updatedAt": "2026-07-17T16:34:07",
+ "publishedAt": "2026-07-17T20:35:40.032911+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15829
+ "totalDeals": 15853
 }
