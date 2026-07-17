@@ -137,6 +137,11 @@
 
   <div class="controls">
     <input type="search" id="q" placeholder="Search route, city, airline…" autocomplete="off">
+    <div class="seg" id="kind" title="Deals beat a price/value bar. Fares are just the cheapest fare found on a route.">
+      <button data-v="deals" class="on">Deals</button>
+      <button data-v="fares">Fares</button>
+      <button data-v="all">Both</button>
+    </div>
     <div class="seg" id="trip">
       <button data-v="all" class="on">All</button>
       <button data-v="one_way">One-way</button>
@@ -166,11 +171,9 @@
       <option value="1">Max 1 stop</option>
     </select>
     <select id="fTier">
-      <option value="">Deals (any tier)</option>
+      <option value="">Any tier</option>
       <option value="great">Great or better</option>
       <option value="exceptional">Exceptional only</option>
-      <option value="fare">Fare snapshots only</option>
-      <option value="all">Deals + fare snapshots</option>
     </select>
     <label>Depart <input id="fAfter" type="date"><span class="u">–</span><input id="fBefore" type="date"></label>
     <label class="chk"><input type="checkbox" id="fValue"> Value only</label>
@@ -188,7 +191,7 @@
 
 <script>
 const $ = s => document.querySelector(s);
-let DEALS = [], trip = "all";
+let DEALS = [], trip = "all", kind = "deals";  // kind: deals | fares | all
 
 function fmtDate(d){ if(!d) return ""; const [y,m,day]=d.split("-");
   return new Date(y,m-1,day).toLocaleDateString(undefined,{month:"short",day:"numeric"}); }
@@ -295,11 +298,12 @@ function render(){
     if((d.pricePerHour>0?d.pricePerHour:Infinity) > maxPph) return false; // unknown $/hr excluded when filtering
     if((d.stops||0) > maxStops) return false;
     if(valueOnly && !d.valueDeal) return false;
-    // Fare snapshots are the cheapest fare on a route, not deals — keep them
-    // out of the default deals view, but browsable via the tier select.
+    // Deals vs fares is its own dimension (the Deals/Fares/Both control);
+    // the tier select is purely about deal quality. Fares default to hidden
+    // so the deals view stays a deals view.
     const t=tierOf(d.whyDeal);
-    if(tierF==="fare"){ if(t!=="fare") return false; }
-    else if(tierF!=="all" && t==="fare") return false;
+    if(kind==="deals" && t==="fare") return false;
+    if(kind==="fares" && t!=="fare") return false;
     if(tierF==="great" && t==="good") return false;
     if(tierF==="exceptional" && t!=="exceptional") return false;
     if(after && (d.flightDate||"") < after) return false;
@@ -324,12 +328,15 @@ function render(){
     : (b.txnId||0)-(a.txnId||0) || foundKey(b).localeCompare(foundKey(a)));
   const LIMIT=250;
   const shown=Math.min(list.length,LIMIT);
+  const noun = kind==="fares" ? "fare" : "deal";
   $("#count").textContent = list.length>LIMIT
     ? `showing ${shown} of ${list.length.toLocaleString()} — refine to see more`
-    : `${list.length} deal${list.length===1?"":"s"}`;
+    : `${list.length} ${noun}${list.length===1?"":"s"}`;
   $("#empty").textContent = sort==="value"
     ? "No value deals right now — no fares are beating the $/hr bar for their flight length."
-    : "No matching deals right now.";
+    : kind==="fares"
+      ? "No fare snapshots match — these only appear after a scan run with “report all fares”."
+      : "No matching deals right now.";
   $("#empty").hidden=list.length>0;
   $("#deals").innerHTML=list.slice(0,LIMIT).map(card).join("");
 }
@@ -394,6 +401,8 @@ $("#btnClear").addEventListener("click",()=>{
   [msOrigins,msDests,msAirlines].forEach(m=>m.reset()); render();});
 $("#trip").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
   trip=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); render(); });
+$("#kind").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
+  kind=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); render(); });
 load();
 setInterval(load, 60000); // refresh status/deals each minute
 </script>
