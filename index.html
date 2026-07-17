@@ -336,11 +336,12 @@ function card(d){
 
 async function load(){
   try{
-    // GitHub Pages' CDN caches responses for ~10 min (Cache-Control:
-    // max-age=600) regardless of the fetch cache mode below, since that
-    // option only governs the browser's own cache. A unique query string
-    // makes each request a distinct URL so the CDN can't serve a stale
-    // cached copy.
+    // GitHub Pages' CDN caches responses for up to 10 min (Cache-Control:
+    // max-age=600) and keys its cache by path only, ignoring the query
+    // string -- so this does NOT defeat the CDN cache (verified), only
+    // the browser's own cache (on top of cache:"no-store" below). A ~10
+    // min lag between a publish and it showing here is an inherent
+    // GitHub Pages limit, not a bug.
     const bust="?t="+Date.now();
     const [dz,sz]=await Promise.all([
       fetch("deals.json"+bust,{cache:"no-store"}).then(r=>r.json()),
