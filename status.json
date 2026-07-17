@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MSP->BNE 2026-11-19",
- "checksDone": 3375,
+ "phase": "ATL->ACC 2026-11-19",
+ "checksDone": 3711,
  "checksPlanned": 17216,
- "percent": 20,
- "dealsFound": 400,
- "updatedAt": "2026-07-17T09:56:37",
- "publishedAt": "2026-07-17T13:58:05.344208+00:00",
+ "percent": 22,
+ "dealsFound": 446,
+ "updatedAt": "2026-07-17T10:13:04",
+ "publishedAt": "2026-07-17T14:14:33.232822+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 15013
+ "totalDeals": 15059
 }
