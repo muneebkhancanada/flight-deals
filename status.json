@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EWR->TAS 2027-01-18",
- "checksDone": 1008,
+ "phase": "BOS->CGK 2026-11-19",
+ "checksDone": 1347,
  "checksPlanned": 17216,
- "percent": 6,
- "dealsFound": 81,
- "updatedAt": "2026-07-17T08:01:55",
- "publishedAt": "2026-07-17T12:03:15.696880+00:00",
+ "percent": 8,
+ "dealsFound": 111,
+ "updatedAt": "2026-07-17T08:18:15",
+ "publishedAt": "2026-07-17T12:19:36.427300+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 14694
+ "totalDeals": 14724
 }
