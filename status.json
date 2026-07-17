@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->SJJ 2026-08-11",
- "checksDone": 6711,
+ "phase": "PHL->CAN 2026-08-11",
+ "checksDone": 7047,
  "checksPlanned": 52118,
- "percent": 13,
- "dealsFound": 1880,
- "updatedAt": "2026-07-17T03:04:04",
- "publishedAt": "2026-07-17T07:05:18.890656+00:00",
+ "percent": 14,
+ "dealsFound": 2004,
+ "updatedAt": "2026-07-17T03:20:20",
+ "publishedAt": "2026-07-17T07:21:31.085200+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 13008
+ "totalDeals": 13131
 }
