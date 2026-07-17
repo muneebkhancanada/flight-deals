@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IAD->DOH 2026-09-20",
- "checksDone": 2022,
+ "phase": "ORD->OSL 2026-11-19",
+ "checksDone": 2355,
  "checksPlanned": 17216,
- "percent": 12,
- "dealsFound": 220,
- "updatedAt": "2026-07-17T08:51:01",
- "publishedAt": "2026-07-17T12:52:24.827109+00:00",
+ "percent": 14,
+ "dealsFound": 266,
+ "updatedAt": "2026-07-17T09:07:24",
+ "publishedAt": "2026-07-17T13:08:48.991528+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 14833
+ "totalDeals": 14880
 }
