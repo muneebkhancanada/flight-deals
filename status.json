@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->ZNZ 2027-02-16",
- "checksDone": 7404,
+ "phase": "IAD->CPH 2027-02-16",
+ "checksDone": 7740,
  "checksPlanned": 52118,
- "percent": 14,
- "dealsFound": 2055,
- "updatedAt": "2026-07-17T03:36:31",
- "publishedAt": "2026-07-17T07:37:46.334036+00:00",
+ "percent": 15,
+ "dealsFound": 2137,
+ "updatedAt": "2026-07-17T03:52:45",
+ "publishedAt": "2026-07-17T07:54:00.159423+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 13182
+ "totalDeals": 13266
 }
