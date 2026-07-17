@@ -298,10 +298,17 @@ function render(){
   // so long-haul value surfaces instead of short cheap hops.
   if(sort==="value") list=list.filter(d=>d.valueDeal);
   const foundKey=d=>d.foundAt||d.foundOn||"";
+  // No price tiebreak for "Newest": deals.json already arrives in the
+  // correct recency order (the publisher breaks foundAt ties using the
+  // CSV's row order, since foundAt is often identical for same-day rows
+  // written before that column existed). Array.sort is spec-guaranteed
+  // stable, so omitting a tiebreak here preserves that server-side order
+  // instead of falling back to cheapest-price-wins, which silently undid
+  // the server's correct ordering.
   list.sort((a,b)=> sort==="cheap" ? a.priceCad-b.priceCad
     : sort==="value" ? pph(a)-pph(b) || a.priceCad-b.priceCad
     : sort==="depart" ? (a.flightDate||"").localeCompare(b.flightDate||"")
-    : foundKey(b).localeCompare(foundKey(a)) || a.priceCad-b.priceCad);
+    : foundKey(b).localeCompare(foundKey(a)));
   const LIMIT=250;
   const shown=Math.min(list.length,LIMIT);
   $("#count").textContent = list.length>LIMIT
