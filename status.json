@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ISB->ARN 2027-01-18",
- "checksDone": 6936,
+ "phase": "BUD->WAW 2026-09-20",
+ "checksDone": 7302,
  "checksPlanned": 17216,
- "percent": 40,
- "dealsFound": 1033,
- "updatedAt": "2026-07-18T02:42:33",
- "publishedAt": "2026-07-18T06:44:01.838177+00:00",
+ "percent": 42,
+ "dealsFound": 1067,
+ "updatedAt": "2026-07-18T02:59:04",
+ "publishedAt": "2026-07-18T07:00:36.968499+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 17131
+ "totalDeals": 17165
 }
