@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->SZX 2026-08-13",
- "checksDone": 4434,
+ "phase": "FRA->TIA 2026-12-17",
+ "checksDone": 4788,
  "checksPlanned": 104236,
- "percent": 4,
- "dealsFound": 434,
- "updatedAt": "2026-07-18T14:46:10",
- "publishedAt": "2026-07-18T18:48:06.578747+00:00",
+ "percent": 5,
+ "dealsFound": 447,
+ "updatedAt": "2026-07-18T15:03:02",
+ "publishedAt": "2026-07-18T19:04:56.589847+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 19734
+ "totalDeals": 19747
 }
