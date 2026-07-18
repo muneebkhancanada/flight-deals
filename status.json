@@ -1,14 +1,19 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DXB->LAX 2027-01-18",
- "checksDone": 13440,
+ "phase": "CMN->CPH 2026-11-19",
+ "checksDone": 13779,
  "checksPlanned": 17216,
- "percent": 78,
- "dealsFound": 2517,
- "updatedAt": "2026-07-18T07:57:13",
- "publishedAt": "2026-07-18T11:58:51.164148+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 18613
+ "percent": 80,
+ "dealsFound": 2631,
+ "updatedAt": "2026-07-18T08:13:52",
+ "publishedAt": "2026-07-18T12:15:28.378940+00:00",
+ "queuedCount": 1,
+ "queued": [
+  {
+   "label": "full",
+   "mode": "full"
+  }
+ ],
+ "totalDeals": 18726
 }
