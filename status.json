@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->DPS 2027-02-18",
- "checksDone": 2043,
+ "phase": "LHR->ATH 2026-10-15",
+ "checksDone": 2385,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 234,
- "updatedAt": "2026-07-18T12:47:18",
- "publishedAt": "2026-07-18T16:49:24.210711+00:00",
+ "dealsFound": 279,
+ "updatedAt": "2026-07-18T13:04:33",
+ "publishedAt": "2026-07-18T17:06:26.866456+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 19535
+ "totalDeals": 19579
 }
