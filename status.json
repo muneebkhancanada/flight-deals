@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CMB->CDG 2026-11-19",
- "checksDone": 4803,
+ "phase": "CMB->FRA 2026-07-22",
+ "checksDone": 5145,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 581,
- "updatedAt": "2026-07-18T01:03:22",
- "publishedAt": "2026-07-18T05:04:54.983244+00:00",
+ "percent": 30,
+ "dealsFound": 677,
+ "updatedAt": "2026-07-18T01:19:54",
+ "publishedAt": "2026-07-18T05:21:26.259149+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 16680
+ "totalDeals": 16776
 }
