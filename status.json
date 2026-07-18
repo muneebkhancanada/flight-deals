@@ -1,19 +1,14 @@
 {
- "running": false,
+ "running": true,
  "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
+ "phase": "DKR->YYZ 2026-09-20",
+ "checksDone": 330,
  "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 1519,
- "updatedAt": "2026-07-17T21:12:09",
- "publishedAt": "2026-07-18T01:13:39.744514+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "inbound from everywhere → NA, EU",
-   "mode": "quick"
-  }
- ],
- "totalDeals": 16132
+ "percent": 2,
+ "dealsFound": 70,
+ "updatedAt": "2026-07-17T21:28:40",
+ "publishedAt": "2026-07-18T01:30:12.363803+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 16202
 }
