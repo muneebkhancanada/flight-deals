@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SCL->EWR 2026-07-22",
- "checksDone": 669,
+ "phase": "GRU->PHL 2026-11-19",
+ "checksDone": 1011,
  "checksPlanned": 17216,
- "percent": 4,
- "dealsFound": 121,
- "updatedAt": "2026-07-17T21:45:11",
- "publishedAt": "2026-07-18T01:46:43.454218+00:00",
+ "percent": 6,
+ "dealsFound": 160,
+ "updatedAt": "2026-07-17T22:01:42",
+ "publishedAt": "2026-07-18T02:03:17.199245+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 16253
+ "totalDeals": 16292
 }
