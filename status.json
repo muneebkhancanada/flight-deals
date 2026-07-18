@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "EDI->HEL 2026-07-22",
- "checksDone": 16941,
+ "phase": "finished",
+ "checksDone": 17216,
  "checksPlanned": 17216,
- "percent": 98,
+ "percent": 100,
  "dealsFound": 1519,
- "updatedAt": "2026-07-17T20:58:45",
- "publishedAt": "2026-07-18T01:00:17.173520+00:00",
+ "updatedAt": "2026-07-17T21:12:09",
+ "publishedAt": "2026-07-18T01:13:39.744514+00:00",
  "queuedCount": 1,
  "queued": [
   {
