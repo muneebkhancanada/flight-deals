@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->KHI 2026-10-15",
- "checksDone": 9105,
+ "phase": "CPH->IST 2027-02-18",
+ "checksDone": 9471,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1042,
- "updatedAt": "2026-07-18T18:12:59",
- "publishedAt": "2026-07-18T22:13:06.486438+00:00",
+ "dealsFound": 1079,
+ "updatedAt": "2026-07-18T18:28:05",
+ "publishedAt": "2026-07-18T22:28:11.638809+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 20342
+ "totalDeals": 20380
 }
