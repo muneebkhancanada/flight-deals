@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "GRU->PHL 2026-11-19",
- "checksDone": 1011,
+ "phase": "BJL->ORD 2026-07-22",
+ "checksDone": 1353,
  "checksPlanned": 17216,
- "percent": 6,
- "dealsFound": 160,
- "updatedAt": "2026-07-17T22:01:42",
- "publishedAt": "2026-07-18T02:03:17.199245+00:00",
+ "percent": 8,
+ "dealsFound": 208,
+ "updatedAt": "2026-07-17T22:18:17",
+ "publishedAt": "2026-07-18T02:19:44.522742+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 16292
+ "totalDeals": 16340
 }
