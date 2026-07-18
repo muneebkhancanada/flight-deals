@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TUN->FCO 2026-07-22",
- "checksDone": 6213,
+ "phase": "SJJ->LIS 2026-07-22",
+ "checksDone": 6573,
  "checksPlanned": 17216,
- "percent": 36,
- "dealsFound": 915,
- "updatedAt": "2026-07-18T02:09:29",
- "publishedAt": "2026-07-18T06:10:59.793164+00:00",
+ "percent": 38,
+ "dealsFound": 979,
+ "updatedAt": "2026-07-18T02:26:00",
+ "publishedAt": "2026-07-18T06:27:32.567218+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 17015
+ "totalDeals": 17077
 }
