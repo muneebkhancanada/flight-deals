@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AMM->ZRH 2026-09-20",
- "checksDone": 5490,
+ "phase": "BJS->MAD 2026-11-19",
+ "checksDone": 5847,
  "checksPlanned": 17216,
- "percent": 32,
- "dealsFound": 751,
- "updatedAt": "2026-07-18T01:36:22",
- "publishedAt": "2026-07-18T05:37:58.307274+00:00",
+ "percent": 34,
+ "dealsFound": 839,
+ "updatedAt": "2026-07-18T01:52:59",
+ "publishedAt": "2026-07-18T05:54:29.810858+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 16851
+ "totalDeals": 16938
 }
