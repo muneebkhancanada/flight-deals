@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->TIA 2026-12-17",
- "checksDone": 4788,
+ "phase": "FRA->TUN 2026-10-15",
+ "checksDone": 5133,
  "checksPlanned": 104236,
  "percent": 5,
- "dealsFound": 447,
- "updatedAt": "2026-07-18T15:03:02",
- "publishedAt": "2026-07-18T19:04:56.589847+00:00",
+ "dealsFound": 515,
+ "updatedAt": "2026-07-18T15:19:58",
+ "publishedAt": "2026-07-18T19:21:49.560207+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 19747
+ "totalDeals": 19816
 }
