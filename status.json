@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MUC->LAX 2026-11-19",
- "checksDone": 15831,
+ "phase": "WAW->DEN 2026-11-19",
+ "checksDone": 16155,
  "checksPlanned": 17216,
- "percent": 92,
- "dealsFound": 2936,
- "updatedAt": "2026-07-18T09:53:50",
- "publishedAt": "2026-07-18T13:55:38.381451+00:00",
+ "percent": 94,
+ "dealsFound": 2980,
+ "updatedAt": "2026-07-18T10:10:32",
+ "publishedAt": "2026-07-18T14:12:22.235412+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 19028
+ "totalDeals": 19071
 }
