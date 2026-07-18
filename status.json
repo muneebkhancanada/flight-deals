@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TIA->MIA 2026-09-20",
- "checksDone": 2046,
+ "phase": "ZNZ->IAH 2026-09-20",
+ "checksDone": 2382,
  "checksPlanned": 17216,
- "percent": 12,
- "dealsFound": 271,
- "updatedAt": "2026-07-17T22:51:19",
- "publishedAt": "2026-07-18T02:52:47.151282+00:00",
+ "percent": 14,
+ "dealsFound": 306,
+ "updatedAt": "2026-07-17T23:07:42",
+ "publishedAt": "2026-07-18T03:09:15.957982+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 16403
+ "totalDeals": 16438
 }
