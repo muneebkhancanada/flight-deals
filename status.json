@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YOW->CAI 2026-12-17",
- "checksDone": 1356,
+ "phase": "YYC->KHI 2026-08-13",
+ "checksDone": 1698,
  "checksPlanned": 104236,
- "percent": 1,
- "dealsFound": 151,
- "updatedAt": "2026-07-18T12:13:12",
- "publishedAt": "2026-07-18T16:15:18.273021+00:00",
+ "percent": 2,
+ "dealsFound": 191,
+ "updatedAt": "2026-07-18T12:30:17",
+ "publishedAt": "2026-07-18T16:32:20.027331+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 19451
+ "totalDeals": 19491
 }
