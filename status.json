@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
- "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 3209,
- "updatedAt": "2026-07-18T11:05:39",
- "publishedAt": "2026-07-18T15:07:27.188822+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "full",
-   "mode": "full"
-  }
- ],
- "totalDeals": 19300
+ "running": true,
+ "mode": "full",
+ "phase": "YUL->CMN 2026-12-17",
+ "checksDone": 336,
+ "checksPlanned": 104236,
+ "percent": 0,
+ "dealsFound": 54,
+ "updatedAt": "2026-07-18T11:22:32",
+ "publishedAt": "2026-07-18T15:24:17.362017+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 19354
 }
