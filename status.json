@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KUL->MAD 2027-01-18",
- "checksDone": 11376,
+ "phase": "ZRH->BRU 2027-01-18",
+ "checksDone": 11724,
  "checksPlanned": 17216,
- "percent": 66,
- "dealsFound": 2106,
- "updatedAt": "2026-07-18T06:17:30",
- "publishedAt": "2026-07-18T10:19:09.960831+00:00",
+ "percent": 68,
+ "dealsFound": 2178,
+ "updatedAt": "2026-07-18T06:34:11",
+ "publishedAt": "2026-07-18T10:35:43.937366+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 18204
+ "totalDeals": 18275
 }
