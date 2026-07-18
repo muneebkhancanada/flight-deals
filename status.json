@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BJS->MSP 2027-01-18",
- "checksDone": 1692,
+ "phase": "TIA->MIA 2026-09-20",
+ "checksDone": 2046,
  "checksPlanned": 17216,
- "percent": 10,
- "dealsFound": 248,
- "updatedAt": "2026-07-17T22:34:44",
- "publishedAt": "2026-07-18T02:36:16.851028+00:00",
+ "percent": 12,
+ "dealsFound": 271,
+ "updatedAt": "2026-07-17T22:51:19",
+ "publishedAt": "2026-07-18T02:52:47.151282+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 16380
+ "totalDeals": 16403
 }
