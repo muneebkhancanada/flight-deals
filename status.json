@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->CAI 2027-02-18",
- "checksDone": 10587,
+ "phase": "BRU->AMM 2027-02-18",
+ "checksDone": 10947,
  "checksPlanned": 104236,
- "percent": 10,
- "dealsFound": 1218,
- "updatedAt": "2026-07-18T19:13:23",
- "publishedAt": "2026-07-18T23:13:29.457042+00:00",
+ "percent": 11,
+ "dealsFound": 1228,
+ "updatedAt": "2026-07-18T19:28:25",
+ "publishedAt": "2026-07-18T23:28:33.868392+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 20518
+ "totalDeals": 20528
 }
