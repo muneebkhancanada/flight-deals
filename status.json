@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->KTM 2026-12-17",
- "checksDone": 3396,
+ "phase": "CDG->DOH 2026-10-15",
+ "checksDone": 3741,
  "checksPlanned": 104236,
- "percent": 3,
- "dealsFound": 322,
- "updatedAt": "2026-07-18T13:55:20",
- "publishedAt": "2026-07-18T17:57:27.682885+00:00",
+ "percent": 4,
+ "dealsFound": 343,
+ "updatedAt": "2026-07-18T14:12:32",
+ "publishedAt": "2026-07-18T18:14:22.785044+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 19622
+ "totalDeals": 19643
 }
