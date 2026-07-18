@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAD->NBO 2026-10-15",
- "checksDone": 6933,
+ "phase": "BCN->MLE 2026-10-15",
+ "checksDone": 7305,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 794,
- "updatedAt": "2026-07-18T16:42:25",
- "publishedAt": "2026-07-18T20:42:31.630887+00:00",
+ "dealsFound": 838,
+ "updatedAt": "2026-07-18T16:57:33",
+ "publishedAt": "2026-07-18T20:57:37.332327+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 20094
+ "totalDeals": 20138
 }
