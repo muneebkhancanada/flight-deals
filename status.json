@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "JNB->DEN 2027-01-18",
- "checksDone": 12060,
+ "phase": "HKG->MXP 2027-01-18",
+ "checksDone": 12408,
  "checksPlanned": 17216,
- "percent": 70,
- "dealsFound": 2229,
- "updatedAt": "2026-07-18T06:50:42",
- "publishedAt": "2026-07-18T10:52:19.684533+00:00",
+ "percent": 72,
+ "dealsFound": 2317,
+ "updatedAt": "2026-07-18T07:07:20",
+ "publishedAt": "2026-07-18T11:08:56.980866+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 18325
+ "totalDeals": 18413
 }
