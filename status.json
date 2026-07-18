@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KRK->CLT 2026-09-20",
- "checksDone": 10698,
+ "phase": "CPT->LHR 2026-07-22",
+ "checksDone": 11037,
  "checksPlanned": 17216,
- "percent": 62,
- "dealsFound": 1911,
- "updatedAt": "2026-07-18T05:44:25",
- "publishedAt": "2026-07-18T09:46:01.515972+00:00",
+ "percent": 64,
+ "dealsFound": 2003,
+ "updatedAt": "2026-07-18T06:01:01",
+ "publishedAt": "2026-07-18T10:02:34.418071+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 18007
+ "totalDeals": 18100
 }
