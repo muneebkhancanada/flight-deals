@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "WAW->DEN 2026-11-19",
- "checksDone": 16155,
+ "phase": "LIS->BOS 2026-07-22",
+ "checksDone": 16485,
  "checksPlanned": 17216,
- "percent": 94,
- "dealsFound": 2980,
- "updatedAt": "2026-07-18T10:10:32",
- "publishedAt": "2026-07-18T14:12:22.235412+00:00",
+ "percent": 96,
+ "dealsFound": 3025,
+ "updatedAt": "2026-07-18T10:27:19",
+ "publishedAt": "2026-07-18T14:29:06.746758+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 19071
+ "totalDeals": 19117
 }
