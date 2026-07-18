@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BJS->MAD 2026-11-19",
- "checksDone": 5847,
+ "phase": "TUN->FCO 2026-07-22",
+ "checksDone": 6213,
  "checksPlanned": 17216,
- "percent": 34,
- "dealsFound": 839,
- "updatedAt": "2026-07-18T01:52:59",
- "publishedAt": "2026-07-18T05:54:29.810858+00:00",
+ "percent": 36,
+ "dealsFound": 915,
+ "updatedAt": "2026-07-18T02:09:29",
+ "publishedAt": "2026-07-18T06:10:59.793164+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 16938
+ "totalDeals": 17015
 }
