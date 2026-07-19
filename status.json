@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NRT->DTW 2026-11-05",
- "checksDone": 20808,
+ "phase": "EZE->DTW 2027-01-07",
+ "checksDone": 21147,
  "checksPlanned": 104236,
  "percent": 20,
- "dealsFound": 2554,
- "updatedAt": "2026-07-19T02:31:21",
- "publishedAt": "2026-07-19T06:31:27.673300+00:00",
+ "dealsFound": 2619,
+ "updatedAt": "2026-07-19T02:46:26",
+ "publishedAt": "2026-07-19T06:46:32.479955+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21854
+ "totalDeals": 21919
 }
