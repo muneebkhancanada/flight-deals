@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->NBO 2026-10-15",
- "checksDone": 15285,
+ "phase": "EDI->CPH 2026-12-17",
+ "checksDone": 15636,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 1802,
- "updatedAt": "2026-07-18T22:29:38",
- "publishedAt": "2026-07-19T02:29:48.546893+00:00",
+ "dealsFound": 1813,
+ "updatedAt": "2026-07-18T22:44:46",
+ "publishedAt": "2026-07-19T02:44:54.700796+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21104
+ "totalDeals": 21113
 }
