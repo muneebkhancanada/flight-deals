@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYD->ATL 2027-01-07",
- "checksDone": 22191,
+ "phase": "UIO->CLT 2027-01-07",
+ "checksDone": 22551,
  "checksPlanned": 104236,
- "percent": 21,
- "dealsFound": 2704,
- "updatedAt": "2026-07-19T03:31:39",
- "publishedAt": "2026-07-19T07:31:49.780794+00:00",
+ "percent": 22,
+ "dealsFound": 2717,
+ "updatedAt": "2026-07-19T03:46:50",
+ "publishedAt": "2026-07-19T07:46:56.629796+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 22004
+ "totalDeals": 22017
 }
