@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BNE->YVR 2027-03-11",
- "checksDone": 27414,
+ "phase": "TAS->LHR 2026-11-05",
+ "checksDone": 27756,
  "checksPlanned": 104236,
- "percent": 26,
- "dealsFound": 3152,
- "updatedAt": "2026-07-19T07:18:14",
- "publishedAt": "2026-07-19T11:18:19.309667+00:00",
+ "percent": 27,
+ "dealsFound": 3282,
+ "updatedAt": "2026-07-19T07:33:17",
+ "publishedAt": "2026-07-19T11:33:24.403567+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 22452
+ "totalDeals": 22584
 }
