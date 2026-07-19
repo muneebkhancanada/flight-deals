@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->DPS 2027-01-07",
- "checksDone": 42411,
+ "phase": "PHL->PRG 2026-11-05",
+ "checksDone": 42744,
  "checksPlanned": 104236,
  "percent": 41,
- "dealsFound": 5875,
- "updatedAt": "2026-07-19T18:07:58",
- "publishedAt": "2026-07-19T22:08:02.458268+00:00",
+ "dealsFound": 6013,
+ "updatedAt": "2026-07-19T18:22:57",
+ "publishedAt": "2026-07-19T22:23:07.358410+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 25176
+ "totalDeals": 25314
 }
