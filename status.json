@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KUL->BUF 2026-11-05",
- "checksDone": 37860,
+ "phase": "DSS->BUF 2027-01-07",
+ "checksDone": 38235,
  "checksPlanned": 104236,
- "percent": 36,
- "dealsFound": 4835,
- "updatedAt": "2026-07-19T14:51:31",
- "publishedAt": "2026-07-19T18:51:40.346806+00:00",
+ "percent": 37,
+ "dealsFound": 4843,
+ "updatedAt": "2026-07-19T15:06:40",
+ "publishedAt": "2026-07-19T19:06:47.683891+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 24135
+ "totalDeals": 24143
 }
