@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OPO->JFK 2027-03-11",
- "checksDone": 17682,
+ "phase": "BOG->JFK 2026-11-05",
+ "checksDone": 18024,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 2184,
- "updatedAt": "2026-07-19T00:15:26",
- "publishedAt": "2026-07-19T04:15:32.534986+00:00",
+ "dealsFound": 2246,
+ "updatedAt": "2026-07-19T00:30:32",
+ "publishedAt": "2026-07-19T04:30:39.778824+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21484
+ "totalDeals": 21546
 }
