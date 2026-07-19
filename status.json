@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TUN->EWR 2026-11-05",
- "checksDone": 18720,
+ "phase": "SZX->BOS 2027-01-07",
+ "checksDone": 19059,
  "checksPlanned": 104236,
  "percent": 18,
- "dealsFound": 2321,
- "updatedAt": "2026-07-19T01:00:42",
- "publishedAt": "2026-07-19T05:00:51.332275+00:00",
+ "dealsFound": 2353,
+ "updatedAt": "2026-07-19T01:15:54",
+ "publishedAt": "2026-07-19T05:15:57.858186+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21621
+ "totalDeals": 21653
 }
