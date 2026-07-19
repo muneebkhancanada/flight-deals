@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MLE->CDG 2026-11-05",
- "checksDone": 28800,
+ "phase": "BAH->AMS 2026-11-05",
+ "checksDone": 29148,
  "checksPlanned": 104236,
  "percent": 28,
- "dealsFound": 3535,
- "updatedAt": "2026-07-19T08:18:30",
- "publishedAt": "2026-07-19T12:18:41.205276+00:00",
+ "dealsFound": 3592,
+ "updatedAt": "2026-07-19T08:33:36",
+ "publishedAt": "2026-07-19T12:33:46.949426+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 22835
+ "totalDeals": 22894
 }
