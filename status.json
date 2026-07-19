@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIM->YYZ 2026-09-03",
- "checksDone": 17334,
+ "phase": "OPO->JFK 2027-03-11",
+ "checksDone": 17682,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 2149,
- "updatedAt": "2026-07-19T00:00:17",
- "publishedAt": "2026-07-19T04:00:25.894905+00:00",
+ "dealsFound": 2184,
+ "updatedAt": "2026-07-19T00:15:26",
+ "publishedAt": "2026-07-19T04:15:32.534986+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21452
+ "totalDeals": 21484
 }
