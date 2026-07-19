@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ALA->WAW 2026-09-03",
- "checksDone": 36513,
+ "phase": "FRA->ATH 2027-03-11",
+ "checksDone": 36834,
  "checksPlanned": 104236,
  "percent": 35,
- "dealsFound": 4773,
- "updatedAt": "2026-07-19T13:50:56",
- "publishedAt": "2026-07-19T17:51:07.666214+00:00",
+ "dealsFound": 4774,
+ "updatedAt": "2026-07-19T14:06:08",
+ "publishedAt": "2026-07-19T18:06:16.813726+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 24073
+ "totalDeals": 24074
 }
