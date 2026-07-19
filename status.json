@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ISB->IAH 2027-03-11",
- "checksDone": 23610,
+ "phase": "KTM->DEN 2026-11-05",
+ "checksDone": 23964,
  "checksPlanned": 104236,
  "percent": 23,
- "dealsFound": 2839,
- "updatedAt": "2026-07-19T04:32:08",
- "publishedAt": "2026-07-19T08:32:14.941436+00:00",
+ "dealsFound": 2861,
+ "updatedAt": "2026-07-19T04:47:12",
+ "publishedAt": "2026-07-19T08:47:20.108738+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 22139
+ "totalDeals": 22161
 }
