@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CGK->YYZ 2026-12-10",
- "checksDone": 17001,
+ "phase": "LIM->YYZ 2026-09-03",
+ "checksDone": 17334,
  "checksPlanned": 104236,
- "percent": 16,
- "dealsFound": 2075,
- "updatedAt": "2026-07-18T23:45:15",
- "publishedAt": "2026-07-19T03:45:19.647078+00:00",
+ "percent": 17,
+ "dealsFound": 2149,
+ "updatedAt": "2026-07-19T00:00:17",
+ "publishedAt": "2026-07-19T04:00:25.894905+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21375
+ "totalDeals": 21452
 }
