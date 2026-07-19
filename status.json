@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->ZRH 2026-09-03",
- "checksDone": 30525,
+ "phase": "SZX->ZRH 2026-11-05",
+ "checksDone": 30876,
  "checksPlanned": 104236,
- "percent": 29,
- "dealsFound": 3929,
- "updatedAt": "2026-07-19T09:34:06",
- "publishedAt": "2026-07-19T13:34:13.313486+00:00",
+ "percent": 30,
+ "dealsFound": 3999,
+ "updatedAt": "2026-07-19T09:49:16",
+ "publishedAt": "2026-07-19T13:49:19.439256+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 23229
+ "totalDeals": 23299
 }
