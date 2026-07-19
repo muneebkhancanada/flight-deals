@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZNZ->EDI 2026-11-05",
- "checksDone": 41076,
+ "phase": "JFK->HND 2026-11-05",
+ "checksDone": 41424,
  "checksPlanned": 104236,
- "percent": 39,
- "dealsFound": 5191,
- "updatedAt": "2026-07-19T17:07:29",
- "publishedAt": "2026-07-19T21:07:37.309897+00:00",
+ "percent": 40,
+ "dealsFound": 5351,
+ "updatedAt": "2026-07-19T17:22:39",
+ "publishedAt": "2026-07-19T21:22:43.613127+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 24491
+ "totalDeals": 24652
 }
