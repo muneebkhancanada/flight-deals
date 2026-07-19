@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TUN->MAD 2026-09-03",
- "checksDone": 31965,
+ "phase": "CAI->BCN 2027-01-07",
+ "checksDone": 32331,
  "checksPlanned": 104236,
  "percent": 31,
- "dealsFound": 4166,
- "updatedAt": "2026-07-19T10:34:26",
- "publishedAt": "2026-07-19T14:34:36.188571+00:00",
+ "dealsFound": 4213,
+ "updatedAt": "2026-07-19T10:49:32",
+ "publishedAt": "2026-07-19T14:49:41.364555+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 23467
+ "totalDeals": 23513
 }
