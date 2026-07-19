@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ISB->SEA 2026-09-03",
- "checksDone": 24309,
+ "phase": "ISB->SFO 2026-11-05",
+ "checksDone": 24648,
  "checksPlanned": 104236,
- "percent": 23,
- "dealsFound": 2884,
- "updatedAt": "2026-07-19T05:02:14",
- "publishedAt": "2026-07-19T09:02:25.231421+00:00",
+ "percent": 24,
+ "dealsFound": 2918,
+ "updatedAt": "2026-07-19T05:17:23",
+ "publishedAt": "2026-07-19T09:17:30.597686+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 22184
+ "totalDeals": 22218
 }
