@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BAH->YYC 2027-01-07",
- "checksDone": 26715,
+ "phase": "BNE->YYC 2026-11-05",
+ "checksDone": 27060,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 3105,
- "updatedAt": "2026-07-19T06:47:57",
- "publishedAt": "2026-07-19T10:48:05.501759+00:00",
+ "dealsFound": 3124,
+ "updatedAt": "2026-07-19T07:03:04",
+ "publishedAt": "2026-07-19T11:03:12.028967+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 22405
+ "totalDeals": 22424
 }
