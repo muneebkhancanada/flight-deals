@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOG->MAN 2026-11-05",
- "checksDone": 40356,
+ "phase": "SJJ->EDI 2026-09-03",
+ "checksDone": 40713,
  "checksPlanned": 104236,
  "percent": 39,
- "dealsFound": 5094,
- "updatedAt": "2026-07-19T16:37:12",
- "publishedAt": "2026-07-19T20:37:21.514559+00:00",
+ "dealsFound": 5157,
+ "updatedAt": "2026-07-19T16:52:23",
+ "publishedAt": "2026-07-19T20:52:28.617642+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 24394
+ "totalDeals": 24457
 }
