@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->MXP 2026-09-03",
- "checksDone": 33057,
+ "phase": "CAI->MXP 2026-09-03",
+ "checksDone": 33405,
  "checksPlanned": 104236,
  "percent": 32,
- "dealsFound": 4310,
- "updatedAt": "2026-07-19T11:19:48",
- "publishedAt": "2026-07-19T15:19:52.872732+00:00",
+ "dealsFound": 4384,
+ "updatedAt": "2026-07-19T11:34:52",
+ "publishedAt": "2026-07-19T15:34:58.656951+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 23610
+ "totalDeals": 23685
 }
