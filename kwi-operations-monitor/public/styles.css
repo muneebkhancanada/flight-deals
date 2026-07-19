@@ -1,0 +1,246 @@
+/* KWI Operations Monitor — dashboard styles.
+   Colour semantics are deliberate and accessible:
+   green = confirmed normal, amber = delayed/degraded, red = disrupted,
+   grey = unknown. Never decorative reds/greens. */
+
+:root {
+  --bg: #0f172a;
+  --panel: #1e293b;
+  --panel-soft: #24334a;
+  --border: #334155;
+  --text: #e2e8f0;
+  --text-muted: #94a3b8;
+  --green: #16a34a;
+  --green-soft: #14532d;
+  --amber: #d97706;
+  --amber-soft: #57340a;
+  --red: #dc2626;
+  --red-soft: #5f1616;
+  --neutral: #64748b;
+  --accent: #38bdf8;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+a { color: var(--accent); }
+
+.site-header {
+  background: linear-gradient(180deg, #111c33, var(--bg));
+  border-bottom: 1px solid var(--border);
+  padding: 20px 16px 12px;
+}
+.header-inner { max-width: 1200px; margin: 0 auto; }
+.site-header h1 { margin: 0; font-size: 1.45rem; }
+.subtitle { margin: 2px 0 10px; color: var(--text-muted); }
+.meta-row { display: flex; flex-wrap: wrap; gap: 8px 18px; font-size: 0.85rem; color: var(--text-muted); }
+.meta-item.mode-ok { color: #4ade80; }
+.meta-item.mode-warn { color: #fbbf24; font-weight: 600; }
+
+.container { max-width: 1200px; margin: 0 auto; padding: 16px; }
+
+/* ---- Airspace banner ---- */
+.airspace-banner {
+  border-radius: 10px;
+  padding: 16px 18px;
+  margin-bottom: 16px;
+  border: 1px solid var(--border);
+}
+.airspace-open { background: var(--green); color: #052e16; border-color: #15803d; }
+.airspace-open .airspace-reason, .airspace-open .airspace-source { color: #064e3b; }
+.airspace-open-muted { background: var(--green-soft); color: #dcfce7; border-color: #166534; }
+.airspace-closed { background: var(--red); color: #fff; border-color: #991b1b; }
+.airspace-restricted { background: var(--amber-soft); color: #fde68a; border-color: var(--amber); }
+.airspace-unknown { background: var(--panel); color: var(--text-muted); }
+.airspace-headline { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: baseline; }
+.airspace-status { font-size: 1.2rem; font-weight: 700; }
+.airspace-confidence { font-size: 0.85rem; text-transform: capitalize; }
+.airspace-reason { margin: 6px 0 2px; }
+.airspace-source { margin: 0; font-size: 0.8rem; }
+.airspace-closed a, .airspace-open a { color: inherit; text-decoration: underline; }
+
+/* ---- Summary cards ---- */
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 10px;
+  margin-bottom: 18px;
+}
+.summary-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 12px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.summary-value { font-size: 1.7rem; font-weight: 700; }
+.summary-label { color: var(--text-muted); font-size: 0.8rem; }
+.summary-amber .summary-value { color: #fbbf24; }
+.summary-red .summary-value { color: #f87171; }
+
+/* ---- Tabs ---- */
+.tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+.tab {
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+.tab.active { background: var(--accent); color: #06283d; font-weight: 700; border-color: var(--accent); }
+.tab:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* ---- Controls ---- */
+.controls { margin-bottom: 14px; }
+.controls input[type="search"] {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  font-size: 0.95rem;
+}
+.filter-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; align-items: center; }
+.filter-check { color: var(--text-muted); font-size: 0.9rem; display: flex; gap: 6px; align-items: center; }
+.filter-row select {
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+.priority-note { color: var(--text-muted); font-size: 0.8rem; margin: 8px 0 0; }
+
+/* ---- Flight table ---- */
+.table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 10px; }
+.flight-table { width: 100%; border-collapse: collapse; min-width: 860px; background: var(--panel); }
+.flight-table th, .flight-table td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  font-size: 0.9rem;
+}
+.flight-table th { background: var(--panel-soft); color: var(--text-muted); font-weight: 600; position: sticky; top: 0; }
+.flight-table tr:last-child td { border-bottom: none; }
+.row-priority { background: rgba(56, 189, 248, 0.06); }
+
+.op-time { display: block; font-weight: 700; font-size: 1rem; }
+.op-time-label { display: block; color: var(--text-muted); font-size: 0.75rem; }
+.op-time-date { display: block; color: var(--text-muted); font-size: 0.75rem; }
+.cell-flight { font-weight: 700; }
+.raw-id { display: block; color: var(--text-muted); font-weight: 400; font-size: 0.75rem; }
+.star { color: #facc15; margin-right: 4px; }
+
+.status-pill {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: none;
+}
+.status-secondary { display: block; margin-top: 4px; color: var(--text-muted); font-size: 0.8rem; }
+
+/* Contrast-checked tone colours (all ≥ 4.5:1 on their backgrounds). */
+.tone-green { background: var(--green-soft); color: #86efac; }
+.tone-amber { background: var(--amber-soft); color: #fcd34d; }
+.tone-red { background: var(--red-soft); color: #fca5a5; }
+.tone-neutral { background: #2b3648; color: #cbd5e1; }
+
+/* ---- Cards (mobile) ---- */
+.flight-cards { display: none; }
+.flight-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-left-width: 4px;
+  border-radius: 10px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+.tone-green-border { border-left-color: var(--green); }
+.tone-amber-border { border-left-color: var(--amber); }
+.tone-red-border { border-left-color: var(--red); }
+.tone-neutral-border { border-left-color: var(--neutral); }
+.card-top { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.card-flight { font-size: 1.05rem; font-weight: 700; }
+.card-route { color: var(--text); margin: 6px 0 2px; }
+.card-line { color: var(--text-muted); font-size: 0.85rem; }
+
+/* ---- Notices / advisories / health / posts ---- */
+.notice-card, .health-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+}
+.notice-head { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline; margin-bottom: 6px; }
+.notice-category { font-weight: 700; }
+.notice-ref { color: var(--text-muted); font-size: 0.82rem; }
+.notice-dates { color: var(--text-muted); font-size: 0.82rem; }
+.notam-text {
+  white-space: pre-wrap;
+  word-break: break-word;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+details summary { cursor: pointer; color: var(--accent); }
+.verification { color: var(--text-muted); font-style: italic; font-size: 0.85rem; }
+
+.empty-state {
+  background: var(--panel);
+  border: 1px dashed var(--border);
+  border-radius: 10px;
+  padding: 18px;
+  color: var(--text-muted);
+  text-align: center;
+}
+
+.sources-links h3, .secondary-sources h3 { margin: 20px 0 8px; font-size: 1rem; }
+.sources-links ul, .secondary-sources ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 6px;
+  font-size: 0.88rem;
+}
+.secondary-sources { margin-top: 26px; }
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  margin-top: 30px;
+  padding: 16px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+
+.hidden { display: none !important; }
+
+/* ---- Responsive: switch table → cards on narrow screens ---- */
+@media (max-width: 760px) {
+  .table-wrap { display: none; }
+  .flight-cards { display: block; }
+  .site-header h1 { font-size: 1.15rem; }
+  .summary-grid { grid-template-columns: repeat(3, 1fr); }
+  .summary-value { font-size: 1.3rem; }
+}

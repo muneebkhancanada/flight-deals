@@ -1,0 +1,53 @@
+/**
+ * Wrangler configuration template for the KWI Operations Monitor.
+ *
+ * Before deploying:
+ *   1. Create a KV namespace:   npx wrangler kv namespace create KWI_KV
+ *   2. Paste its id below (replace REPLACE_WITH_YOUR_KV_NAMESPACE_ID).
+ *   3. Set secrets (never committed):
+ *        npx wrangler secret put KWI_API_AUTH      (required — airport API)
+ *        npx wrangler secret put ADMIN_TOKEN       (optional — POST /api/refresh)
+ *        npx wrangler secret put X_BEARER_TOKEN    (optional — official posts)
+ *        npx wrangler secret put RESEND_API_KEY    (optional — email alerts)
+ *        npx wrangler secret put ALERT_EMAIL_TO    (optional)
+ *        npx wrangler secret put ALERT_EMAIL_FROM  (optional)
+ */
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "kwi-operations-monitor",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-06-01",
+
+  // Static frontend. run_worker_first lets the Worker inject the asset
+  // version (cache busting) and security headers on every response.
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": true
+  },
+
+  "kv_namespaces": [
+    {
+      "binding": "KWI_KV",
+      "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+    }
+  ],
+
+  // Background refresh every 5 minutes (on-demand refreshes also occur when
+  // /api/status finds the snapshot older than ON_DEMAND_REFRESH_SECONDS).
+  "triggers": {
+    "crons": ["*/5 * * * *"]
+  },
+
+  // Non-secret tunables only. Secrets go through `wrangler secret put`.
+  "vars": {
+    "ON_DEMAND_REFRESH_SECONDS": "90",
+    "FLIGHT_HISTORY_HOURS": "12",
+    "FLIGHT_FUTURE_HOURS": "96",
+    "KWI_TIMEZONE": "Asia/Kuwait"
+  },
+
+  "observability": {
+    "enabled": true
+  }
+}

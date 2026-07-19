@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Live operations monitor for Kuwait International Airport (KWI): flights, delays, cancellations, airspace status, NOTAMs and official advisories.">
+  <title>Kuwait International Airport Operations Monitor</title>
+  <link rel="stylesheet" href="/styles.css?v=__ASSET_VERSION__">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1>Kuwait International Airport Operations Monitor</h1>
+      <p class="subtitle">KWI · Live operational disruption tracking</p>
+      <div class="meta-row" id="meta-row">
+        <span id="last-refresh" class="meta-item">Loading…</span>
+        <span class="meta-item" id="coverage">Coverage: last 12 hours plus the next 96 hours</span>
+        <span class="meta-item" id="data-mode"></span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="airspace-banner" class="airspace-banner airspace-unknown" aria-live="polite">
+      <div class="airspace-headline">
+        <span class="airspace-status" id="airspace-status">Airspace status: checking…</span>
+        <span class="airspace-confidence" id="airspace-confidence"></span>
+      </div>
+      <p class="airspace-reason" id="airspace-reason"></p>
+      <p class="airspace-source" id="airspace-source"></p>
+    </section>
+
+    <section class="summary-grid" id="summary-grid" aria-label="Operations summary">
+      <div class="summary-card"><span class="summary-value" id="sum-arrivals">–</span><span class="summary-label">Arrivals</span></div>
+      <div class="summary-card"><span class="summary-value" id="sum-departures">–</span><span class="summary-label">Departures</span></div>
+      <div class="summary-card summary-amber"><span class="summary-value" id="sum-delayed">–</span><span class="summary-label">Delayed</span></div>
+      <div class="summary-card summary-red"><span class="summary-value" id="sum-delayed2h">–</span><span class="summary-label">Delayed 2h+</span></div>
+      <div class="summary-card summary-red"><span class="summary-value" id="sum-cancelled">–</span><span class="summary-label">Cancelled</span></div>
+      <div class="summary-card summary-red"><span class="summary-value" id="sum-diverted">–</span><span class="summary-label">Diverted</span></div>
+    </section>
+
+    <nav class="tabs" id="tabs" role="tablist" aria-label="Dashboard sections">
+      <button class="tab active" data-tab="arrivals" role="tab" aria-selected="true">Arrivals</button>
+      <button class="tab" data-tab="departures" role="tab" aria-selected="false">Departures</button>
+      <button class="tab" data-tab="notams" role="tab" aria-selected="false">Major NOTAMs</button>
+      <button class="tab" data-tab="advisories" role="tab" aria-selected="false">Airline advisories</button>
+      <button class="tab" data-tab="health" role="tab" aria-selected="false">Source health</button>
+      <button class="tab hidden" data-tab="social" id="tab-social" role="tab" aria-selected="false">Official posts</button>
+    </nav>
+
+    <section class="controls" id="flight-controls">
+      <input type="search" id="search" placeholder="Search flight, airline, origin or destination…" aria-label="Search flights">
+      <div class="filter-row">
+        <label class="filter-check"><input type="checkbox" id="filter-priority"> Priority airlines only</label>
+        <select id="filter-state" aria-label="Filter by flight state">
+          <option value="">All states</option>
+          <option value="delayed">Delayed</option>
+          <option value="cancelled">Cancelled</option>
+          <option value="diverted">Diverted</option>
+          <option value="completed">Completed</option>
+          <option value="scheduled">Scheduled / upcoming</option>
+        </select>
+        <select id="sort-order" aria-label="Sort order">
+          <option value="asc">Scheduled time ↑</option>
+          <option value="desc">Scheduled time ↓</option>
+        </select>
+      </div>
+      <p class="priority-note">★ marks priority airlines: EgyptAir, Emirates, flydubai, Jazeera Airways, Kuwait Airways</p>
+    </section>
+
+    <section id="panel-flights" class="panel" role="tabpanel">
+      <div class="table-wrap">
+        <table class="flight-table" id="flight-table">
+          <thead>
+            <tr>
+              <th scope="col">Time (Kuwait)</th>
+              <th scope="col">Flight</th>
+              <th scope="col">Airline</th>
+              <th scope="col">Route</th>
+              <th scope="col">Terminal / gate</th>
+              <th scope="col">Status</th>
+              <th scope="col">Source</th>
+            </tr>
+          </thead>
+          <tbody id="flight-tbody"></tbody>
+        </table>
+      </div>
+      <div id="flight-cards" class="flight-cards" aria-hidden="true"></div>
+      <p id="flight-empty" class="empty-state hidden"></p>
+    </section>
+
+    <section id="panel-notams" class="panel hidden" role="tabpanel">
+      <div id="notam-list"></div>
+      <p id="notam-empty" class="empty-state hidden"></p>
+    </section>
+
+    <section id="panel-advisories" class="panel hidden" role="tabpanel">
+      <div id="advisory-list"></div>
+      <p id="advisory-empty" class="empty-state hidden"></p>
+      <div class="sources-links">
+        <h3>Official advisory pages</h3>
+        <ul id="advisory-links"></ul>
+      </div>
+    </section>
+
+    <section id="panel-health" class="panel hidden" role="tabpanel">
+      <div id="health-list"></div>
+    </section>
+
+    <section id="panel-social" class="panel hidden" role="tabpanel">
+      <div id="social-list"></div>
+    </section>
+
+    <section class="secondary-sources">
+      <h3>Official accounts &amp; sources</h3>
+      <ul id="official-links"></ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Unofficial monitoring dashboard. Always confirm with your airline and
+      <a href="https://www.kuwaitairport.gov.kw" rel="noopener">kuwaitairport.gov.kw</a> before travelling.</p>
+  </footer>
+
+  <script src="/app.js?v=__ASSET_VERSION__"></script>
+</body>
+</html>
