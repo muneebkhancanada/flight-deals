@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EWR->DUB 2027-01-07",
- "checksDone": 41751,
+ "phase": "EWR->MNL 2026-09-03",
+ "checksDone": 42081,
  "checksPlanned": 104236,
  "percent": 40,
- "dealsFound": 5555,
- "updatedAt": "2026-07-19T17:37:47",
- "publishedAt": "2026-07-19T21:37:51.462913+00:00",
+ "dealsFound": 5687,
+ "updatedAt": "2026-07-19T17:52:52",
+ "publishedAt": "2026-07-19T21:52:56.955732+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 24855
+ "totalDeals": 24988
 }
