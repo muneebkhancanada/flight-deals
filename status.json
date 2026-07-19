@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->SIN 2027-02-18",
- "checksDone": 14943,
+ "phase": "MAN->NBO 2026-10-15",
+ "checksDone": 15285,
  "checksPlanned": 104236,
- "percent": 14,
- "dealsFound": 1783,
- "updatedAt": "2026-07-18T22:14:37",
- "publishedAt": "2026-07-19T02:14:42.257254+00:00",
+ "percent": 15,
+ "dealsFound": 1802,
+ "updatedAt": "2026-07-18T22:29:38",
+ "publishedAt": "2026-07-19T02:29:48.546893+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21083
+ "totalDeals": 21104
 }
