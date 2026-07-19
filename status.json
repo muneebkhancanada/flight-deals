@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOG->JFK 2026-11-05",
- "checksDone": 18024,
+ "phase": "CMB->EWR 2026-09-03",
+ "checksDone": 18369,
  "checksPlanned": 104236,
- "percent": 17,
- "dealsFound": 2246,
- "updatedAt": "2026-07-19T00:30:32",
- "publishedAt": "2026-07-19T04:30:39.778824+00:00",
+ "percent": 18,
+ "dealsFound": 2295,
+ "updatedAt": "2026-07-19T00:45:38",
+ "publishedAt": "2026-07-19T04:45:45.539350+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21546
+ "totalDeals": 21595
 }
