@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SZX->BOS 2027-01-07",
- "checksDone": 19059,
+ "phase": "MCT->PHL 2027-03-11",
+ "checksDone": 19410,
  "checksPlanned": 104236,
- "percent": 18,
- "dealsFound": 2353,
- "updatedAt": "2026-07-19T01:15:54",
- "publishedAt": "2026-07-19T05:15:57.858186+00:00",
+ "percent": 19,
+ "dealsFound": 2400,
+ "updatedAt": "2026-07-19T01:30:52",
+ "publishedAt": "2026-07-19T05:31:02.525445+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21653
+ "totalDeals": 21700
 }
