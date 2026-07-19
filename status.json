@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->ZNZ 2027-02-18",
- "checksDone": 11667,
+ "phase": "ATH->ZNZ 2026-08-13",
+ "checksDone": 12042,
  "checksPlanned": 104236,
- "percent": 11,
- "dealsFound": 1289,
- "updatedAt": "2026-07-18T19:58:35",
- "publishedAt": "2026-07-18T23:58:46.291356+00:00",
+ "percent": 12,
+ "dealsFound": 1320,
+ "updatedAt": "2026-07-18T20:13:46",
+ "publishedAt": "2026-07-19T00:13:53.292925+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 20589
+ "totalDeals": 20620
 }
