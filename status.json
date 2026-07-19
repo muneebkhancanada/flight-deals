@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "UIO->IAD 2027-01-07",
- "checksDone": 20115,
+ "phase": "KHI->ORD 2026-11-05",
+ "checksDone": 20460,
  "checksPlanned": 104236,
- "percent": 19,
- "dealsFound": 2487,
- "updatedAt": "2026-07-19T02:01:05",
- "publishedAt": "2026-07-19T06:01:14.621286+00:00",
+ "percent": 20,
+ "dealsFound": 2534,
+ "updatedAt": "2026-07-19T02:16:13",
+ "publishedAt": "2026-07-19T06:16:20.711176+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 21790
+ "totalDeals": 21834
 }
