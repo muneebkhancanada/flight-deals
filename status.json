@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JNB->MIA 2027-01-07",
- "checksDone": 51795,
+ "phase": "NRT->SEA 2027-01-07",
+ "checksDone": 52119,
  "checksPlanned": 104236,
  "percent": 50,
- "dealsFound": 8361,
- "updatedAt": "2026-07-20T10:28:08",
- "publishedAt": "2026-07-20T14:28:14.175767+00:00",
+ "dealsFound": 8434,
+ "updatedAt": "2026-07-20T10:43:16",
+ "publishedAt": "2026-07-20T14:43:23.768998+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 27632
+ "totalDeals": 27705
 }
