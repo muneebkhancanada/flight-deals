@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->MXP 2026-11-05",
- "checksDone": 47436,
+ "phase": "DUB->KUL 2026-11-05",
+ "checksDone": 47772,
  "checksPlanned": 104236,
  "percent": 46,
- "dealsFound": 7451,
- "updatedAt": "2026-07-20T07:11:43",
- "publishedAt": "2026-07-20T11:11:47.726977+00:00",
+ "dealsFound": 7530,
+ "updatedAt": "2026-07-20T07:26:46",
+ "publishedAt": "2026-07-20T11:26:52.939540+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 26722
+ "totalDeals": 26802
 }
