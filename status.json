@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->ICN 2026-09-03",
- "checksDone": 45741,
+ "phase": "YYC->CMB 2027-01-07",
+ "checksDone": 45843,
  "checksPlanned": 104236,
  "percent": 44,
- "dealsFound": 7128,
- "updatedAt": "2026-07-19T20:38:57",
- "publishedAt": "2026-07-20T00:39:04.272192+00:00",
+ "dealsFound": 7186,
+ "updatedAt": "2026-07-19T20:43:53",
+ "publishedAt": "2026-07-20T00:43:53.979939+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 26429
+ "totalDeals": 26486
 }
