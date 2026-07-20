@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATL->CAI 2027-03-11",
- "checksDone": 56790,
+ "phase": "CLT->CMN 2026-09-03",
+ "checksDone": 57117,
  "checksPlanned": 104236,
- "percent": 54,
- "dealsFound": 9844,
- "updatedAt": "2026-07-20T14:14:54",
- "publishedAt": "2026-07-20T18:14:58.993972+00:00",
+ "percent": 55,
+ "dealsFound": 9923,
+ "updatedAt": "2026-07-20T14:30:01",
+ "publishedAt": "2026-07-20T18:30:06.184720+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 29106
+ "totalDeals": 29185
 }
