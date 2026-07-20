@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CLT->CMN 2026-09-03",
- "checksDone": 57117,
+ "phase": "IAH->HND 2027-01-07",
+ "checksDone": 57435,
  "checksPlanned": 104236,
  "percent": 55,
- "dealsFound": 9923,
- "updatedAt": "2026-07-20T14:30:01",
- "publishedAt": "2026-07-20T18:30:06.184720+00:00",
+ "dealsFound": 10088,
+ "updatedAt": "2026-07-20T14:45:05",
+ "publishedAt": "2026-07-20T18:45:13.097869+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 29185
+ "totalDeals": 29350
 }
