@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->SGN 2027-01-07",
- "checksDone": 48819,
+ "phase": "BUD->JFK 2027-03-11",
+ "checksDone": 49158,
  "checksPlanned": 104236,
  "percent": 47,
- "dealsFound": 7641,
- "updatedAt": "2026-07-20T08:12:08",
- "publishedAt": "2026-07-20T12:12:11.760825+00:00",
+ "dealsFound": 7684,
+ "updatedAt": "2026-07-20T08:27:10",
+ "publishedAt": "2026-07-20T12:27:19.384291+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 26912
+ "totalDeals": 26955
 }
