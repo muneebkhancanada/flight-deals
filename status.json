@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHR->BKK 2026-11-05",
- "checksDone": 46092,
+ "phase": "AMS->BCN 2027-03-11",
+ "checksDone": 46422,
  "checksPlanned": 104236,
- "percent": 44,
- "dealsFound": 7323,
- "updatedAt": "2026-07-19T20:55:10",
- "publishedAt": "2026-07-20T10:10:43.596528+00:00",
+ "percent": 45,
+ "dealsFound": 7347,
+ "updatedAt": "2026-07-20T06:25:40",
+ "publishedAt": "2026-07-20T10:25:58.161751+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 26594
+ "totalDeals": 26618
 }
