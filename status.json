@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PRG->PHL 2026-11-05",
- "checksDone": 50148,
+ "phase": "MEL->PHL 2026-11-05",
+ "checksDone": 50472,
  "checksPlanned": 104236,
  "percent": 48,
- "dealsFound": 8027,
- "updatedAt": "2026-07-20T09:12:33",
- "publishedAt": "2026-07-20T13:12:37.456072+00:00",
+ "dealsFound": 8083,
+ "updatedAt": "2026-07-20T09:27:37",
+ "publishedAt": "2026-07-20T13:27:45.788435+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 27298
+ "totalDeals": 27354
 }
