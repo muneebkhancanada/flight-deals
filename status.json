@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->CPT 2027-03-11",
- "checksDone": 58422,
+ "phase": "VIE->NCE 2027-01-07",
+ "checksDone": 58755,
  "checksPlanned": 104236,
  "percent": 56,
- "dealsFound": 10473,
- "updatedAt": "2026-07-20T15:30:22",
- "publishedAt": "2026-07-20T19:30:31.137034+00:00",
+ "dealsFound": 10506,
+ "updatedAt": "2026-07-20T15:45:29",
+ "publishedAt": "2026-07-20T19:45:37.972551+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 29735
+ "totalDeals": 29768
 }
