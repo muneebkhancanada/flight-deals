@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->HND 2027-01-07",
- "checksDone": 57435,
+ "phase": "SFO->KUL 2026-11-05",
+ "checksDone": 57756,
  "checksPlanned": 104236,
  "percent": 55,
- "dealsFound": 10088,
- "updatedAt": "2026-07-20T14:45:05",
- "publishedAt": "2026-07-20T18:45:13.097869+00:00",
+ "dealsFound": 10278,
+ "updatedAt": "2026-07-20T15:00:10",
+ "publishedAt": "2026-07-20T19:00:18.908579+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 29350
+ "totalDeals": 29541
 }
