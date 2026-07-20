@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->EZE 2027-03-11",
- "checksDone": 45078,
+ "phase": "SEA->MNL 2027-01-07",
+ "checksDone": 45411,
  "checksPlanned": 104236,
- "percent": 43,
- "dealsFound": 6787,
- "updatedAt": "2026-07-19T20:08:44",
- "publishedAt": "2026-07-20T00:08:51.318643+00:00",
+ "percent": 44,
+ "dealsFound": 6959,
+ "updatedAt": "2026-07-19T20:23:50",
+ "publishedAt": "2026-07-20T00:23:57.666284+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 26087
+ "totalDeals": 26261
 }
