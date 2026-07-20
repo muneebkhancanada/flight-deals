@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->BCN 2027-03-11",
- "checksDone": 46422,
+ "phase": "MUC->FRA 2026-09-03",
+ "checksDone": 46761,
  "checksPlanned": 104236,
  "percent": 45,
- "dealsFound": 7347,
- "updatedAt": "2026-07-20T06:25:40",
- "publishedAt": "2026-07-20T10:25:58.161751+00:00",
+ "dealsFound": 7379,
+ "updatedAt": "2026-07-20T06:41:14",
+ "publishedAt": "2026-07-20T10:41:29.098621+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 26618
+ "totalDeals": 26650
 }
