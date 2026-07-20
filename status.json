@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->ATH 2026-09-03",
- "checksDone": 48477,
+ "phase": "WAW->SGN 2027-01-07",
+ "checksDone": 48819,
  "checksPlanned": 104236,
  "percent": 47,
- "dealsFound": 7604,
- "updatedAt": "2026-07-20T07:57:01",
- "publishedAt": "2026-07-20T11:57:05.895154+00:00",
+ "dealsFound": 7641,
+ "updatedAt": "2026-07-20T08:12:08",
+ "publishedAt": "2026-07-20T12:12:11.760825+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 26875
+ "totalDeals": 26912
 }
