@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NAP->EWR 2027-03-11",
- "checksDone": 49482,
+ "phase": "NRT->BOS 2026-11-05",
+ "checksDone": 49812,
  "checksPlanned": 104236,
- "percent": 47,
- "dealsFound": 7831,
- "updatedAt": "2026-07-20T08:42:16",
- "publishedAt": "2026-07-20T12:42:25.546536+00:00",
+ "percent": 48,
+ "dealsFound": 7914,
+ "updatedAt": "2026-07-20T08:57:27",
+ "publishedAt": "2026-07-20T12:57:31.114704+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 27102
+ "totalDeals": 27185
 }
