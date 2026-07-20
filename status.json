@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PRG->ARN 2027-03-11",
- "checksDone": 55134,
+ "phase": "BKK->BRU 2026-11-05",
+ "checksDone": 55476,
  "checksPlanned": 104236,
  "percent": 53,
- "dealsFound": 9393,
- "updatedAt": "2026-07-20T12:59:17",
- "publishedAt": "2026-07-20T16:59:24.485164+00:00",
+ "dealsFound": 9450,
+ "updatedAt": "2026-07-20T13:14:22",
+ "publishedAt": "2026-07-20T17:14:30.524314+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 28655
+ "totalDeals": 28714
 }
