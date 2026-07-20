@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BRU->HEL 2027-03-11",
- "checksDone": 60126,
+ "phase": "KEF->PHL 2026-09-03",
+ "checksDone": 60465,
  "checksPlanned": 104236,
  "percent": 58,
- "dealsFound": 10660,
- "updatedAt": "2026-07-20T16:45:52",
- "publishedAt": "2026-07-20T20:46:02.070907+00:00",
+ "dealsFound": 10684,
+ "updatedAt": "2026-07-20T17:01:01",
+ "publishedAt": "2026-07-20T21:01:08.543668+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 29924
+ "totalDeals": 29946
 }
