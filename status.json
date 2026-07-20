@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HAN->MSP 2027-03-11",
- "checksDone": 51462,
+ "phase": "JNB->MIA 2027-01-07",
+ "checksDone": 51795,
  "checksPlanned": 104236,
- "percent": 49,
- "dealsFound": 8281,
- "updatedAt": "2026-07-20T10:12:58",
- "publishedAt": "2026-07-20T14:13:05.761334+00:00",
+ "percent": 50,
+ "dealsFound": 8361,
+ "updatedAt": "2026-07-20T10:28:08",
+ "publishedAt": "2026-07-20T14:28:14.175767+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 27552
+ "totalDeals": 27632
 }
