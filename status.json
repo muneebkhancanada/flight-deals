@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HAN->DFW 2027-03-11",
- "checksDone": 61470,
+ "phase": "CMB->DEN 2027-01-07",
+ "checksDone": 61803,
  "checksPlanned": 104236,
  "percent": 59,
- "dealsFound": 10854,
- "updatedAt": "2026-07-20T17:46:22",
- "publishedAt": "2026-07-20T21:46:29.887584+00:00",
+ "dealsFound": 10914,
+ "updatedAt": "2026-07-20T18:01:31",
+ "publishedAt": "2026-07-20T22:01:36.123517+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 30116
+ "totalDeals": 30176
 }
