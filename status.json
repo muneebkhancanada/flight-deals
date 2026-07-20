@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BKK->YVR 2026-11-05",
- "checksDone": 52776,
+ "phase": "AMS->CDG 2026-09-03",
+ "checksDone": 53109,
  "checksPlanned": 104236,
  "percent": 51,
- "dealsFound": 8675,
- "updatedAt": "2026-07-20T11:13:31",
- "publishedAt": "2026-07-20T15:13:35.256928+00:00",
+ "dealsFound": 8857,
+ "updatedAt": "2026-07-20T11:28:32",
+ "publishedAt": "2026-07-20T15:28:42.015893+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 27947
+ "totalDeals": 28128
 }
