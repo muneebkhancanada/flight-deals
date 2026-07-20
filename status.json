@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KEF->PHL 2026-09-03",
- "checksDone": 60465,
+ "phase": "LIM->MSP 2026-11-05",
+ "checksDone": 60804,
  "checksPlanned": 104236,
  "percent": 58,
- "dealsFound": 10684,
- "updatedAt": "2026-07-20T17:01:01",
- "publishedAt": "2026-07-20T21:01:08.543668+00:00",
+ "dealsFound": 10748,
+ "updatedAt": "2026-07-20T17:16:11",
+ "publishedAt": "2026-07-20T21:16:16.166650+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 29946
+ "totalDeals": 30010
 }
