@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DXB->LIS 2027-03-11",
- "checksDone": 54798,
+ "phase": "PRG->ARN 2027-03-11",
+ "checksDone": 55134,
  "checksPlanned": 104236,
  "percent": 53,
- "dealsFound": 9347,
- "updatedAt": "2026-07-20T12:44:10",
- "publishedAt": "2026-07-20T16:44:17.569671+00:00",
+ "dealsFound": 9393,
+ "updatedAt": "2026-07-20T12:59:17",
+ "publishedAt": "2026-07-20T16:59:24.485164+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 28609
+ "totalDeals": 28655
 }
