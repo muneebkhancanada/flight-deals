@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->KUL 2026-11-05",
- "checksDone": 57756,
+ "phase": "LGW->AGP 2026-11-05",
+ "checksDone": 58080,
  "checksPlanned": 104236,
- "percent": 55,
- "dealsFound": 10278,
- "updatedAt": "2026-07-20T15:00:10",
- "publishedAt": "2026-07-20T19:00:18.908579+00:00",
+ "percent": 56,
+ "dealsFound": 10435,
+ "updatedAt": "2026-07-20T15:15:17",
+ "publishedAt": "2026-07-20T19:15:24.805531+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 29541
+ "totalDeals": 29697
 }
