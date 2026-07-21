@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CPT->EDI 2027-01-30",
- "checksDone": 339,
+ "phase": "ATL->MAD 2027-01-30",
+ "checksDone": 675,
  "checksPlanned": 104236,
- "percent": 0,
- "dealsFound": 30,
- "updatedAt": "2026-07-20T21:20:17",
- "publishedAt": "2026-07-21T01:20:22.872156+00:00",
+ "percent": 1,
+ "dealsFound": 95,
+ "updatedAt": "2026-07-20T21:35:23",
+ "publishedAt": "2026-07-21T01:35:31.039232+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 30838
+ "totalDeals": 30903
 }
