@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->LHR 2027-01-30",
- "checksDone": 16023,
+ "phase": "LAX->AMM 2026-09-26",
+ "checksDone": 16341,
  "checksPlanned": 104236,
- "percent": 15,
- "dealsFound": 2261,
- "updatedAt": "2026-07-21T08:55:36",
- "publishedAt": "2026-07-21T12:55:43.502705+00:00",
+ "percent": 16,
+ "dealsFound": 2381,
+ "updatedAt": "2026-07-21T09:10:38",
+ "publishedAt": "2026-07-21T13:10:49.415521+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32859
+ "totalDeals": 32978
 }
