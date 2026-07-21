@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->EDI 2026-11-28",
- "checksDone": 1668,
+ "phase": "ZRH->ARN 2027-01-30",
+ "checksDone": 2019,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 323,
- "updatedAt": "2026-07-20T22:20:42",
- "publishedAt": "2026-07-21T02:20:54.066304+00:00",
+ "dealsFound": 342,
+ "updatedAt": "2026-07-20T22:35:50",
+ "publishedAt": "2026-07-21T02:36:00.245885+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 31131
+ "totalDeals": 31150
 }
