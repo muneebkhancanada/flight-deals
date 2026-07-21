@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->FRA 2026-09-26",
- "checksDone": 17697,
+ "phase": "LHR->GIG 2026-11-28",
+ "checksDone": 18024,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 2566,
- "updatedAt": "2026-07-21T10:11:08",
- "publishedAt": "2026-07-21T14:11:19.128703+00:00",
+ "dealsFound": 2656,
+ "updatedAt": "2026-07-21T10:26:16",
+ "publishedAt": "2026-07-21T14:26:27.449411+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 33160
+ "totalDeals": 33248
 }
