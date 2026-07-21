@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DUB->AKL 2027-01-30",
- "checksDone": 16683,
+ "phase": "GRU->SEA 2026-09-26",
+ "checksDone": 17025,
  "checksPlanned": 104236,
  "percent": 16,
- "dealsFound": 2433,
- "updatedAt": "2026-07-21T09:25:46",
- "publishedAt": "2026-07-21T13:25:55.691312+00:00",
+ "dealsFound": 2447,
+ "updatedAt": "2026-07-21T09:40:59",
+ "publishedAt": "2026-07-21T13:41:03.451751+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 33029
+ "totalDeals": 33043
 }
