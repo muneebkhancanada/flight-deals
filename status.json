@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DFW->DKR 2026-09-26",
- "checksDone": 9921,
+ "phase": "LAX->EZE 2026-09-26",
+ "checksDone": 10257,
  "checksPlanned": 104236,
  "percent": 10,
- "dealsFound": 1241,
- "updatedAt": "2026-07-21T04:23:32",
- "publishedAt": "2026-07-21T08:23:37.144714+00:00",
+ "dealsFound": 1356,
+ "updatedAt": "2026-07-21T04:38:37",
+ "publishedAt": "2026-07-21T08:38:45.141066+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 31845
+ "totalDeals": 31962
 }
