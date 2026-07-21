@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOG->BRU 2026-09-26",
- "checksDone": 24381,
+ "phase": "MUC->BOG 2026-07-25",
+ "checksDone": 24714,
  "checksPlanned": 104236,
- "percent": 23,
- "dealsFound": 3619,
- "updatedAt": "2026-07-21T15:13:42",
- "publishedAt": "2026-07-21T19:13:49.342019+00:00",
+ "percent": 24,
+ "dealsFound": 3621,
+ "updatedAt": "2026-07-21T15:28:51",
+ "publishedAt": "2026-07-21T19:28:56.450098+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 34210
+ "totalDeals": 34212
 }
