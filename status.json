@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZRH->ARN 2027-01-30",
- "checksDone": 2019,
+ "phase": "FCO->MNL 2026-07-25",
+ "checksDone": 2370,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 342,
- "updatedAt": "2026-07-20T22:35:50",
- "publishedAt": "2026-07-21T02:36:00.245885+00:00",
+ "dealsFound": 373,
+ "updatedAt": "2026-07-20T22:50:59",
+ "publishedAt": "2026-07-21T02:51:07.975487+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 31150
+ "totalDeals": 31183
 }
