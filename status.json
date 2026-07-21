@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->GIG 2027-01-30",
- "checksDone": 14667,
+ "phase": "KRK->IAH 2026-07-25",
+ "checksDone": 15006,
  "checksPlanned": 104236,
  "percent": 14,
- "dealsFound": 2134,
- "updatedAt": "2026-07-21T07:55:12",
- "publishedAt": "2026-07-21T11:55:16.108561+00:00",
+ "dealsFound": 2149,
+ "updatedAt": "2026-07-21T08:10:12",
+ "publishedAt": "2026-07-21T12:10:23.453051+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32734
+ "totalDeals": 32749
 }
