@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->BOG 2026-07-25",
- "checksDone": 1338,
+ "phase": "CDG->EDI 2026-11-28",
+ "checksDone": 1668,
  "checksPlanned": 104236,
- "percent": 1,
- "dealsFound": 268,
- "updatedAt": "2026-07-20T22:05:42",
- "publishedAt": "2026-07-21T02:05:46.263573+00:00",
+ "percent": 2,
+ "dealsFound": 323,
+ "updatedAt": "2026-07-20T22:20:42",
+ "publishedAt": "2026-07-21T02:20:54.066304+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 31076
+ "totalDeals": 31131
 }
