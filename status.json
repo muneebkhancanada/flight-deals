@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->SCL 2027-01-30",
- "checksDone": 14319,
+ "phase": "LIS->GIG 2027-01-30",
+ "checksDone": 14667,
  "checksPlanned": 104236,
  "percent": 14,
- "dealsFound": 2126,
- "updatedAt": "2026-07-21T07:40:02",
- "publishedAt": "2026-07-21T11:40:07.547332+00:00",
+ "dealsFound": 2134,
+ "updatedAt": "2026-07-21T07:55:12",
+ "publishedAt": "2026-07-21T11:55:16.108561+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32727
+ "totalDeals": 32734
 }
