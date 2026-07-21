@@ -170,10 +170,12 @@
       <option value="0">Nonstop only</option>
       <option value="1">Max 1 stop</option>
     </select>
-    <select id="fTier">
-      <option value="">Any tier</option>
-      <option value="great">Great or better</option>
-      <option value="exceptional">Exceptional only</option>
+    <select id="fTier" title="Deal quality: how far below the route's normal price. Combines with everything else, including the Value badge / Best-value sort.">
+      <option value="">Any quality</option>
+      <option value="exceptional">★ Exceptional only</option>
+      <option value="great+">Great or better</option>
+      <option value="great">Great only</option>
+      <option value="good">Good only</option>
     </select>
     <label>Depart <input id="fAfter" type="date"><span class="u">–</span><input id="fBefore" type="date"></label>
     <label class="chk"><input type="checkbox" id="fValue"> Value only</label>
@@ -304,8 +306,11 @@ function render(){
     const t=tierOf(d.whyDeal);
     if(kind==="deals" && t==="fare") return false;
     if(kind==="fares" && t!=="fare") return false;
-    if(tierF==="great" && t==="good") return false;
-    if(tierF==="exceptional" && t!=="exceptional") return false;
+    // Deal-quality filter. "great+" = great OR exceptional; any other value
+    // isolates that exact tier. Works in every view, including the value
+    // sort / Value-only, so you can see e.g. only Exceptional value deals.
+    if(tierF==="great+"){ if(t==="good"||t==="fare") return false; }
+    else if(tierF && t!==tierF) return false;
     if(after && (d.flightDate||"") < after) return false;
     if(before && (d.flightDate||"") > before) return false;
     if(!term) return true;
