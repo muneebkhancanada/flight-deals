@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->EZE 2026-09-26",
- "checksDone": 10257,
+ "phase": "CDG->HND 2026-11-28",
+ "checksDone": 10596,
  "checksPlanned": 104236,
  "percent": 10,
- "dealsFound": 1356,
- "updatedAt": "2026-07-21T04:38:37",
- "publishedAt": "2026-07-21T08:38:45.141066+00:00",
+ "dealsFound": 1401,
+ "updatedAt": "2026-07-21T04:53:43",
+ "publishedAt": "2026-07-21T08:53:52.351261+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 31962
+ "totalDeals": 32005
 }
