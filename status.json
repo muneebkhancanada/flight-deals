@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AKL->VIE 2026-09-26",
- "checksDone": 18705,
+ "phase": "SFO->FCO 2026-07-25",
+ "checksDone": 19038,
  "checksPlanned": 104236,
  "percent": 18,
- "dealsFound": 2711,
- "updatedAt": "2026-07-21T10:56:38",
- "publishedAt": "2026-07-21T14:56:43.767893+00:00",
+ "dealsFound": 2778,
+ "updatedAt": "2026-07-21T11:11:40",
+ "publishedAt": "2026-07-21T15:11:49.907151+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 33304
+ "totalDeals": 33371
 }
