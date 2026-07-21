@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MEL->DUB 2026-09-26",
- "checksDone": 8901,
+ "phase": "AGP->OSL 2026-11-28",
+ "checksDone": 9252,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1072,
- "updatedAt": "2026-07-21T03:38:09",
- "publishedAt": "2026-07-21T07:38:16.885176+00:00",
+ "dealsFound": 1096,
+ "updatedAt": "2026-07-21T03:53:17",
+ "publishedAt": "2026-07-21T07:53:24.172860+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 31678
+ "totalDeals": 31700
 }
