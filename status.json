@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KRK->IAH 2026-07-25",
- "checksDone": 15006,
+ "phase": "SCL->YVR 2026-07-25",
+ "checksDone": 15342,
  "checksPlanned": 104236,
- "percent": 14,
- "dealsFound": 2149,
- "updatedAt": "2026-07-21T08:10:12",
- "publishedAt": "2026-07-21T12:10:23.453051+00:00",
+ "percent": 15,
+ "dealsFound": 2180,
+ "updatedAt": "2026-07-21T08:25:24",
+ "publishedAt": "2026-07-21T12:25:29.386563+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32749
+ "totalDeals": 32780
 }
