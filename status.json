@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHR->YYC 2026-11-28",
- "checksDone": 26004,
+ "phase": "EDI->MIA 2026-09-26",
+ "checksDone": 26337,
  "checksPlanned": 104236,
  "percent": 25,
- "dealsFound": 3723,
- "updatedAt": "2026-07-21T16:29:20",
- "publishedAt": "2026-07-21T20:29:27.408116+00:00",
+ "dealsFound": 3733,
+ "updatedAt": "2026-07-21T16:44:30",
+ "publishedAt": "2026-07-21T20:44:35.628030+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 34314
+ "totalDeals": 34324
 }
