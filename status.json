@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "GIG->ZRH 2026-09-26",
- "checksDone": 20025,
+ "phase": "SFO->OSL 2026-11-28",
+ "checksDone": 20364,
  "checksPlanned": 104236,
- "percent": 19,
- "dealsFound": 2989,
- "updatedAt": "2026-07-21T11:57:02",
- "publishedAt": "2026-07-21T15:57:08.714214+00:00",
+ "percent": 20,
+ "dealsFound": 3073,
+ "updatedAt": "2026-07-21T12:12:05",
+ "publishedAt": "2026-07-21T16:12:16.354340+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 33581
+ "totalDeals": 33667
 }
