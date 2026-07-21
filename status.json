@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->DUB 2026-09-26",
- "checksDone": 11277,
+ "phase": "NAP->DFW 2026-11-28",
+ "checksDone": 11616,
  "checksPlanned": 104236,
  "percent": 11,
- "dealsFound": 1433,
- "updatedAt": "2026-07-21T05:24:00",
- "publishedAt": "2026-07-21T09:24:07.966684+00:00",
+ "dealsFound": 1464,
+ "updatedAt": "2026-07-21T05:39:05",
+ "publishedAt": "2026-07-21T09:39:13.840925+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32037
+ "totalDeals": 32068
 }
