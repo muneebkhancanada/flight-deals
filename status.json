@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->BRU 2027-01-07",
- "checksDone": 64203,
+ "phase": "OSL->BRU 2026-11-05",
+ "checksDone": 64272,
  "checksPlanned": 104236,
  "percent": 62,
  "dealsFound": 11546,
- "updatedAt": "2026-07-20T19:47:16",
- "publishedAt": "2026-07-20T23:47:23.564118+00:00",
+ "updatedAt": "2026-07-20T19:50:17",
+ "publishedAt": "2026-07-21T00:59:33.299788+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 30808
