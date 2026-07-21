@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->LIS 2026-07-25",
- "checksDone": 15678,
+ "phase": "IAH->LHR 2027-01-30",
+ "checksDone": 16023,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 2199,
- "updatedAt": "2026-07-21T08:40:28",
- "publishedAt": "2026-07-21T12:40:35.485658+00:00",
+ "dealsFound": 2261,
+ "updatedAt": "2026-07-21T08:55:36",
+ "publishedAt": "2026-07-21T12:55:43.502705+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32798
+ "totalDeals": 32859
 }
