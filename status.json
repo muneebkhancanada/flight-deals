@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAD->LAX 2026-11-28",
- "checksDone": 25680,
+ "phase": "LHR->YYC 2026-11-28",
+ "checksDone": 26004,
  "checksPlanned": 104236,
  "percent": 25,
- "dealsFound": 3691,
- "updatedAt": "2026-07-21T16:14:08",
- "publishedAt": "2026-07-21T20:14:19.479095+00:00",
+ "dealsFound": 3723,
+ "updatedAt": "2026-07-21T16:29:20",
+ "publishedAt": "2026-07-21T20:29:27.408116+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 34282
+ "totalDeals": 34314
 }
