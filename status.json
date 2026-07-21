@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->OSL 2026-09-26",
- "checksDone": 12981,
+ "phase": "DFW->BCN 2026-09-26",
+ "checksDone": 13317,
  "checksPlanned": 104236,
- "percent": 12,
- "dealsFound": 1662,
- "updatedAt": "2026-07-21T06:39:36",
- "publishedAt": "2026-07-21T10:39:40.035099+00:00",
+ "percent": 13,
+ "dealsFound": 1720,
+ "updatedAt": "2026-07-21T06:54:40",
+ "publishedAt": "2026-07-21T10:54:47.081104+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32262
+ "totalDeals": 32322
 }
