@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->MIA 2026-09-26",
- "checksDone": 26337,
+ "phase": "OSL->IAH 2026-09-26",
+ "checksDone": 26661,
  "checksPlanned": 104236,
- "percent": 25,
- "dealsFound": 3733,
- "updatedAt": "2026-07-21T16:44:30",
- "publishedAt": "2026-07-21T20:44:35.628030+00:00",
+ "percent": 26,
+ "dealsFound": 3768,
+ "updatedAt": "2026-07-21T16:59:39",
+ "publishedAt": "2026-07-21T20:59:43.447365+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 34324
+ "totalDeals": 34359
 }
