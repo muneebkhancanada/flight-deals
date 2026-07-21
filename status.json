@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->OSL 2026-11-28",
- "checksDone": 20364,
+ "phase": "MUC->EZE 2026-11-28",
+ "checksDone": 20688,
  "checksPlanned": 104236,
  "percent": 20,
- "dealsFound": 3073,
- "updatedAt": "2026-07-21T12:12:05",
- "publishedAt": "2026-07-21T16:12:16.354340+00:00",
+ "dealsFound": 3185,
+ "updatedAt": "2026-07-21T12:27:11",
+ "publishedAt": "2026-07-21T16:27:22.643477+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 33667
+ "totalDeals": 33777
 }
