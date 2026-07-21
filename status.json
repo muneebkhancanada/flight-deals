@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SCL->ATH 2026-11-28",
- "checksDone": 23040,
+ "phase": "MXP->LIM 2026-09-26",
+ "checksDone": 23373,
  "checksPlanned": 104236,
  "percent": 22,
- "dealsFound": 3599,
- "updatedAt": "2026-07-21T14:13:05",
- "publishedAt": "2026-07-21T18:13:18.661698+00:00",
+ "dealsFound": 3609,
+ "updatedAt": "2026-07-21T14:28:16",
+ "publishedAt": "2026-07-21T18:28:27.433732+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 34190
+ "totalDeals": 34200
 }
