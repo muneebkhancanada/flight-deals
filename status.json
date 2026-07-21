@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->ORD 2026-09-26",
- "checksDone": 28281,
+ "phase": "OSL->JFK 2026-09-26",
+ "checksDone": 28605,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 3877,
- "updatedAt": "2026-07-21T18:15:05",
- "publishedAt": "2026-07-21T22:15:16.334512+00:00",
+ "dealsFound": 3916,
+ "updatedAt": "2026-07-21T18:30:17",
+ "publishedAt": "2026-07-21T22:30:22.868596+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 34468
+ "totalDeals": 34507
 }
