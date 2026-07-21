@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->LIS 2027-01-30",
- "checksDone": 3063,
+ "phase": "DOH->MIA 2027-01-30",
+ "checksDone": 3399,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 426,
- "updatedAt": "2026-07-20T23:21:13",
- "publishedAt": "2026-07-21T03:21:22.411701+00:00",
+ "dealsFound": 430,
+ "updatedAt": "2026-07-20T23:36:24",
+ "publishedAt": "2026-07-21T03:36:28.721398+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 31234
+ "totalDeals": 31238
 }
