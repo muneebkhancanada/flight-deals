@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->HND 2026-11-28",
- "checksDone": 10596,
+ "phase": "MAD->ICN 2026-09-26",
+ "checksDone": 10929,
  "checksPlanned": 104236,
  "percent": 10,
- "dealsFound": 1401,
- "updatedAt": "2026-07-21T04:53:43",
- "publishedAt": "2026-07-21T08:53:52.351261+00:00",
+ "dealsFound": 1415,
+ "updatedAt": "2026-07-21T05:08:48",
+ "publishedAt": "2026-07-21T09:09:00.184866+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32005
+ "totalDeals": 32019
 }
