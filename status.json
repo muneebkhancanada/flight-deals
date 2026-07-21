@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MNL->MUC 2027-01-30",
- "checksDone": 4419,
+ "phase": "HEL->MXP 2026-07-25",
+ "checksDone": 4770,
  "checksPlanned": 104236,
- "percent": 4,
- "dealsFound": 560,
- "updatedAt": "2026-07-21T00:21:39",
- "publishedAt": "2026-07-21T04:21:46.565542+00:00",
+ "percent": 5,
+ "dealsFound": 625,
+ "updatedAt": "2026-07-21T00:36:47",
+ "publishedAt": "2026-07-21T04:36:54.337275+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 31167
+ "totalDeals": 31230
 }
