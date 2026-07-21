@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MXP->IAH 2026-09-26",
- "checksDone": 26985,
+ "phase": "LIS->ATL 2026-07-25",
+ "checksDone": 27306,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 3809,
- "updatedAt": "2026-07-21T17:14:42",
- "publishedAt": "2026-07-21T21:14:50.041414+00:00",
+ "dealsFound": 3829,
+ "updatedAt": "2026-07-21T17:29:45",
+ "publishedAt": "2026-07-21T21:29:56.201780+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 34400
+ "totalDeals": 34420
 }
