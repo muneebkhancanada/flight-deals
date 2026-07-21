@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->EZE 2026-09-26",
- "checksDone": 13977,
+ "phase": "YVR->SCL 2027-01-30",
+ "checksDone": 14319,
  "checksPlanned": 104236,
- "percent": 13,
- "dealsFound": 2034,
- "updatedAt": "2026-07-21T07:24:51",
- "publishedAt": "2026-07-21T11:25:00.446443+00:00",
+ "percent": 14,
+ "dealsFound": 2126,
+ "updatedAt": "2026-07-21T07:40:02",
+ "publishedAt": "2026-07-21T11:40:07.547332+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 32634
+ "totalDeals": 32727
 }
