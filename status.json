@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->FCO 2026-07-25",
- "checksDone": 19038,
+ "phase": "LHR->GRU 2026-07-25",
+ "checksDone": 19362,
  "checksPlanned": 104236,
- "percent": 18,
- "dealsFound": 2778,
- "updatedAt": "2026-07-21T11:11:40",
- "publishedAt": "2026-07-21T15:11:49.907151+00:00",
+ "percent": 19,
+ "dealsFound": 2948,
+ "updatedAt": "2026-07-21T11:26:51",
+ "publishedAt": "2026-07-21T15:26:56.129543+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 33371
+ "totalDeals": 33540
 }
