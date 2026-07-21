@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HKG->BRU 2026-09-26",
- "checksDone": 33,
+ "phase": "CPT->EDI 2027-01-30",
+ "checksDone": 339,
  "checksPlanned": 104236,
  "percent": 0,
- "dealsFound": 2,
- "updatedAt": "2026-07-20T21:06:42",
- "publishedAt": "2026-07-21T01:06:50.189970+00:00",
+ "dealsFound": 30,
+ "updatedAt": "2026-07-20T21:20:17",
+ "publishedAt": "2026-07-21T01:20:22.872156+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 30811
+ "totalDeals": 30838
 }
