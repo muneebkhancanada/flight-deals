@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->RUH 2027-02-20",
- "checksDone": 55770,
+ "phase": "CDG->YYZ 2026-10-17",
+ "checksDone": 56127,
  "checksPlanned": 104236,
  "percent": 54,
- "dealsFound": 7209,
- "updatedAt": "2026-07-22T14:12:03",
- "publishedAt": "2026-07-22T18:12:10.930434+00:00",
+ "dealsFound": 7236,
+ "updatedAt": "2026-07-22T14:27:17",
+ "publishedAt": "2026-07-22T18:27:22.268787+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 37655
+ "totalDeals": 37681
 }
