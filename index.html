@@ -375,8 +375,11 @@ function paint(){
   $("#empty").hidden=VIEW.length>0;
   $("#btnExport").style.display=VIEW.length?"inline-block":"none";
   const airlineView = view==="airlines";
-  $("#deals").hidden=airlineView;
-  $("#airlines").hidden=!airlineView;
+  // Use inline display, not the [hidden] attr: .deals / #airlines set
+  // display:grid in CSS, which outranks [hidden]{display:none} and would
+  // leave both lists visible.
+  $("#deals").style.display=airlineView?"none":"";
+  $("#airlines").style.display=airlineView?"":"none";
   if(airlineView){ $("#moreWrap").hidden=true; paintAirlines(); return; }
   const noun = kind==="fares" ? "fare" : "deal";
   const shown=Math.min(VIEW.length,shownLimit);
