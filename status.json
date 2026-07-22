@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->NAN 2026-10-17",
- "checksDone": 49320,
+ "phase": "CPH->KTM 2026-08-15",
+ "checksDone": 49677,
  "checksPlanned": 104236,
- "percent": 47,
- "dealsFound": 6474,
- "updatedAt": "2026-07-22T09:38:57",
- "publishedAt": "2026-07-22T13:39:05.441795+00:00",
+ "percent": 48,
+ "dealsFound": 6521,
+ "updatedAt": "2026-07-22T09:54:03",
+ "publishedAt": "2026-07-22T13:54:12.877309+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 36919
+ "totalDeals": 36966
 }
