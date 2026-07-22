@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->YYZ 2026-09-19",
- "checksDone": 56448,
+ "phase": "HND->YYZ 2026-11-14",
+ "checksDone": 56775,
  "checksPlanned": 104236,
  "percent": 54,
- "dealsFound": 7295,
- "updatedAt": "2026-07-22T14:42:18",
- "publishedAt": "2026-07-22T18:42:29.828379+00:00",
+ "dealsFound": 7319,
+ "updatedAt": "2026-07-22T14:57:27",
+ "publishedAt": "2026-07-22T18:57:38.023310+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 37740
+ "totalDeals": 37764
 }
