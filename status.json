@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->GRU 2026-12-19",
- "checksDone": 33927,
+ "phase": "IAD->CAN 2026-08-15",
+ "checksDone": 34269,
  "checksPlanned": 104236,
  "percent": 33,
- "dealsFound": 4714,
- "updatedAt": "2026-07-21T22:32:17",
- "publishedAt": "2026-07-22T02:32:26.531450+00:00",
+ "dealsFound": 4744,
+ "updatedAt": "2026-07-21T22:47:28",
+ "publishedAt": "2026-07-22T02:47:33.252971+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 35305
+ "totalDeals": 35335
 }
