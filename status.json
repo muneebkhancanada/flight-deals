@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MRU->JFK 2026-11-07",
- "checksDone": 58119,
+ "phase": "ISB->EWR 2027-01-09",
+ "checksDone": 58458,
  "checksPlanned": 104236,
  "percent": 56,
- "dealsFound": 7521,
- "updatedAt": "2026-07-22T15:58:07",
- "publishedAt": "2026-07-22T19:58:12.911519+00:00",
+ "dealsFound": 7545,
+ "updatedAt": "2026-07-22T16:13:12",
+ "publishedAt": "2026-07-22T20:13:21.496216+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 37966
+ "totalDeals": 37990
 }
