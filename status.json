@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->CAN 2026-08-15",
- "checksDone": 43257,
+ "phase": "CDG->BRU 2026-10-17",
+ "checksDone": 43608,
  "checksPlanned": 104236,
- "percent": 41,
- "dealsFound": 5881,
- "updatedAt": "2026-07-22T05:20:43",
- "publishedAt": "2026-07-22T09:20:49.049071+00:00",
+ "percent": 42,
+ "dealsFound": 5898,
+ "updatedAt": "2026-07-22T05:35:46",
+ "publishedAt": "2026-07-22T09:35:56.874422+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 36326
+ "totalDeals": 36343
 }
