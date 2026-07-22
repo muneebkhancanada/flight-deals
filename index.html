@@ -94,6 +94,24 @@
     color:var(--brand-ink);cursor:pointer;padding:4px 6px}
   /* deal cards */
   .deals{display:grid;gap:10px}
+  /* airline leaderboard */
+  #airlines{display:grid;gap:8px}
+  .arow{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:11px 14px;display:grid;grid-template-columns:auto 1fr auto auto;
+    gap:4px 14px;align-items:center}
+  .arank{color:var(--muted);font-weight:800;font-size:14px;min-width:26px;
+    font-variant-numeric:tabular-nums}
+  .aname{font-weight:700;font-size:16px}
+  .abar{grid-column:2/3;height:5px;border-radius:3px;background:var(--brand);
+    opacity:.35;margin-top:3px}
+  .ameta{color:var(--muted);font-size:12.5px;white-space:nowrap}
+  .acount{font-weight:800;font-size:15px;white-space:nowrap}
+  .aactions{display:flex;gap:8px;align-items:center}
+  .aactions a,.aactions button{font:inherit;font-size:12.5px;cursor:pointer;
+    border:1px solid var(--line);background:var(--bg);color:var(--brand-ink);
+    border-radius:8px;padding:4px 9px;text-decoration:none;white-space:nowrap}
+  .arow{cursor:pointer}
+  .arow:hover{border-color:var(--brand)}
   .deal{background:var(--card);border:1px solid var(--line);border-radius:14px;
     padding:14px 16px;display:grid;grid-template-columns:1fr auto;gap:6px 14px;
     align-items:center;box-shadow:0 1px 2px rgba(0,0,0,.04)}
@@ -134,6 +152,11 @@
     <div class="bar" id="barWrap" hidden><i id="bar" style="width:0%"></i></div>
     <div class="queue" id="queue" hidden></div>
   </section>
+
+  <div class="seg" id="view" style="margin-bottom:14px">
+    <button data-v="deals" class="on">✈ Deals</button>
+    <button data-v="airlines">🏢 By airline</button>
+  </div>
 
   <div class="controls">
     <input type="search" id="q" placeholder="Search route, city, airline…" autocomplete="off">
@@ -187,6 +210,7 @@
   <div id="moreWrap" style="text-align:center;margin:14px 0" hidden>
     <button id="btnMore" class="clr">Load more</button>
   </div>
+  <div id="airlines" hidden></div>
   <div class="empty" id="empty" hidden>No matching deals right now.</div>
 
   <footer id="foot">
@@ -199,6 +223,7 @@
 const $ = s => document.querySelector(s);
 let DEALS = [], trip = "all", kind = "deals";  // kind: deals | fares | all
 let VIEW = [], shownLimit = 250; const PAGE = 250;  // paging of the filtered list
+let view = "deals";  // deals | airlines
 
 function fmtDate(d){ if(!d) return ""; const [y,m,day]=d.split("-");
   return new Date(y,m-1,day).toLocaleDateString(undefined,{month:"short",day:"numeric"}); }
@@ -271,7 +296,8 @@ function makeMulti(sel, label){
   pop.onclick=e=>e.stopPropagation();
   wrap.querySelector(".ms-clear").onclick=()=>{ selected.clear(); relabel(); draw(); onchange(); };
   return { setOptions(v){ options=v; draw(); }, get selected(){ return selected; },
-           set onChange(f){ onchange=f; }, reset(){ selected.clear(); relabel(); } };
+           set onChange(f){ onchange=f; }, reset(){ selected.clear(); relabel(); },
+           setSelected(vals){ selected=new Set(vals); relabel(); draw(); } };
 }
 document.addEventListener("click",()=>document.querySelectorAll(".ms-pop").forEach(p=>p.hidden=true));
 const msOrigins=makeMulti("#msOrigins","Origins"),
@@ -346,18 +372,50 @@ function render(){
   paint();
 }
 function paint(){
+  $("#empty").hidden=VIEW.length>0;
+  $("#btnExport").style.display=VIEW.length?"inline-block":"none";
+  const airlineView = view==="airlines";
+  $("#deals").hidden=airlineView;
+  $("#airlines").hidden=!airlineView;
+  if(airlineView){ $("#moreWrap").hidden=true; paintAirlines(); return; }
   const noun = kind==="fares" ? "fare" : "deal";
   const shown=Math.min(VIEW.length,shownLimit);
   $("#count").textContent = VIEW.length>shown
     ? `showing ${shown.toLocaleString()} of ${VIEW.length.toLocaleString()} ${noun}s`
     : `${VIEW.length.toLocaleString()} ${noun}${VIEW.length===1?"":"s"}`;
-  $("#empty").hidden=VIEW.length>0;
-  $("#btnExport").style.display=VIEW.length?"inline-block":"none";
   $("#deals").innerHTML=VIEW.slice(0,shownLimit).map(card).join("");
   const remaining=VIEW.length-shown;
   $("#moreWrap").hidden=remaining<=0;
   if(remaining>0)
     $("#btnMore").textContent=`Load ${Math.min(remaining,PAGE).toLocaleString()} more (${remaining.toLocaleString()} left)`;
+}
+// Rank the airlines appearing in the current filtered set by deal count, so
+// you can see which carriers to go check out. A codeshare like "Emirates,
+// flydubai" counts once for each named carrier.
+function paintAirlines(){
+  const by=new Map();
+  for(const d of VIEW){
+    const carriers=[...new Set((d.airline||"").split(",").map(s=>s.trim()).filter(Boolean))];
+    for(const a of carriers){
+      let x=by.get(a); if(!x){ x={n:0,min:Infinity,pph:Infinity}; by.set(a,x); }
+      x.n++;
+      if(d.priceCad>0) x.min=Math.min(x.min,d.priceCad);
+      if(d.pricePerHour>0) x.pph=Math.min(x.pph,d.pricePerHour);
+    }
+  }
+  const list=[...by.entries()].map(([a,x])=>({a,...x})).sort((p,q)=>q.n-p.n);
+  $("#count").textContent=`${list.length} airline${list.length===1?"":"s"} across ${VIEW.length.toLocaleString()} ${kind==="fares"?"fares":"deals"}`;
+  const max=list.length?list[0].n:1;
+  $("#airlines").innerHTML=list.map((r,i)=>`
+    <div class="arow" data-a="${esc(r.a)}" title="Show ${esc(r.a)} deals">
+      <span class="arank">${i+1}</span>
+      <div><span class="aname">${esc(r.a)}</span>
+        <div class="abar" style="width:${Math.max(4,Math.round(100*r.n/max))}%"></div></div>
+      <span class="ameta">from C$${(r.min===Infinity?"—":r.min.toLocaleString())}${r.pph<Infinity?` · best C$${r.pph}/hr`:""}</span>
+      <span class="aactions"><span class="acount">${r.n.toLocaleString()} deal${r.n===1?"":"s"}</span>
+        <a href="https://www.google.com/search?q=${encodeURIComponent(r.a+' flights official site')}" target="_blank" rel="noopener" onclick="event.stopPropagation()">website ↗</a></span>
+    </div>`).join("") ||
+    "<div class='empty' style='position:static'>No airlines in this selection.</div>";
 }
 function card(d){
   const rt=d.tripType==="round_trip";
@@ -425,6 +483,16 @@ $("#trip").addEventListener("click",e=>{ const b=e.target.closest("button"); if(
   trip=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); refilter(); });
 $("#kind").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
   kind=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); refilter(); });
+$("#view").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
+  view=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); paint(); });
+// Click an airline row -> filter the deals to that carrier and switch back.
+$("#airlines").addEventListener("click",e=>{
+  const row=e.target.closest(".arow"); if(!row) return;
+  msAirlines.setSelected([row.dataset.a]);
+  view="deals";
+  [...$("#view").children].forEach(x=>x.classList.toggle("on",x.dataset.v==="deals"));
+  refilter();
+});
 $("#btnMore").addEventListener("click",()=>{ shownLimit+=PAGE; paint(); });
 $("#btnExport").addEventListener("click",exportCsv);
 function exportCsv(){
