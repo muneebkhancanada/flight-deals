@@ -1,14 +1,23 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->BRU 2026-10-17",
- "checksDone": 43608,
+ "phase": "CDG->NBO 2027-02-20",
+ "checksDone": 43950,
  "checksPlanned": 104236,
  "percent": 42,
- "dealsFound": 5898,
- "updatedAt": "2026-07-22T05:35:46",
- "publishedAt": "2026-07-22T09:35:56.874422+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 36343
+ "dealsFound": 5935,
+ "updatedAt": "2026-07-22T05:50:55",
+ "publishedAt": "2026-07-22T09:51:03.757610+00:00",
+ "queuedCount": 2,
+ "queued": [
+  {
+   "label": "round trip (NA ⇄ all, 14-21 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU",
+   "mode": "quick"
+  }
+ ],
+ "totalDeals": 36381
 }
