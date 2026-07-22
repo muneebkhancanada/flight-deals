@@ -154,6 +154,7 @@
       <option value="depart">By departure</option>
     </select>
     <span class="count" id="count"></span>
+    <button id="btnExport" class="clr" style="margin-left:auto" title="Download the deals matching your current filters as a CSV spreadsheet">⬇ Export to spreadsheet</button>
   </div>
 
   <div class="filters">
@@ -183,6 +184,9 @@
   </div>
 
   <div class="deals" id="deals"></div>
+  <div id="moreWrap" style="text-align:center;margin:14px 0" hidden>
+    <button id="btnMore" class="clr">Load more</button>
+  </div>
   <div class="empty" id="empty" hidden>No matching deals right now.</div>
 
   <footer id="foot">
@@ -194,6 +198,7 @@
 <script>
 const $ = s => document.querySelector(s);
 let DEALS = [], trip = "all", kind = "deals";  // kind: deals | fares | all
+let VIEW = [], shownLimit = 250; const PAGE = 250;  // paging of the filtered list
 
 function fmtDate(d){ if(!d) return ""; const [y,m,day]=d.split("-");
   return new Date(y,m-1,day).toLocaleDateString(undefined,{month:"short",day:"numeric"}); }
@@ -331,19 +336,28 @@ function render(){
     : sort==="value" ? pph(a)-pph(b) || a.priceCad-b.priceCad
     : sort==="depart" ? (a.flightDate||"").localeCompare(b.flightDate||"")
     : (b.txnId||0)-(a.txnId||0) || foundKey(b).localeCompare(foundKey(a)));
-  const LIMIT=250;
-  const shown=Math.min(list.length,LIMIT);
-  const noun = kind==="fares" ? "fare" : "deal";
-  $("#count").textContent = list.length>LIMIT
-    ? `showing ${shown} of ${list.length.toLocaleString()} — refine to see more`
-    : `${list.length} ${noun}${list.length===1?"":"s"}`;
+  VIEW=list;                 // paging preserved across the 60s auto-refresh;
+                             // refilter() resets it on a user filter change
   $("#empty").textContent = sort==="value"
     ? "No value deals right now — no fares are beating the $/hr bar for their flight length."
     : kind==="fares"
       ? "No fare snapshots match — these only appear after a scan run with “report all fares”."
       : "No matching deals right now.";
-  $("#empty").hidden=list.length>0;
-  $("#deals").innerHTML=list.slice(0,LIMIT).map(card).join("");
+  paint();
+}
+function paint(){
+  const noun = kind==="fares" ? "fare" : "deal";
+  const shown=Math.min(VIEW.length,shownLimit);
+  $("#count").textContent = VIEW.length>shown
+    ? `showing ${shown.toLocaleString()} of ${VIEW.length.toLocaleString()} ${noun}s`
+    : `${VIEW.length.toLocaleString()} ${noun}${VIEW.length===1?"":"s"}`;
+  $("#empty").hidden=VIEW.length>0;
+  $("#btnExport").style.display=VIEW.length?"inline-block":"none";
+  $("#deals").innerHTML=VIEW.slice(0,shownLimit).map(card).join("");
+  const remaining=VIEW.length-shown;
+  $("#moreWrap").hidden=remaining<=0;
+  if(remaining>0)
+    $("#btnMore").textContent=`Load ${Math.min(remaining,PAGE).toLocaleString()} more (${remaining.toLocaleString()} left)`;
 }
 function card(d){
   const rt=d.tripType==="round_trip";
@@ -394,20 +408,42 @@ function populateFilters(){
   msDests.setOptions(uniq(DEALS.map(d=>d.destination)));
   msAirlines.setOptions(uniq(DEALS.flatMap(d=>(d.airline||"").split(",").map(s=>s.trim()))));
 }
-$("#q").addEventListener("input",render);
-$("#sort").addEventListener("change",render);
-["#fPrice","#fMinH","#fMaxH","#fMaxPph","#fAfter","#fBefore"].forEach(id=>$(id).addEventListener("input",render));
-["#fStops","#fTier"].forEach(id=>$(id).addEventListener("change",render));
-$("#fValue").addEventListener("change",render);
-[msOrigins,msDests,msAirlines].forEach(m=>m.onChange=render);
+// A user filter/sort change resets paging to the first page; the periodic
+// auto-refresh calls render() directly so it keeps however much you loaded.
+function refilter(){ shownLimit=PAGE; render(); }
+$("#q").addEventListener("input",refilter);
+$("#sort").addEventListener("change",refilter);
+["#fPrice","#fMinH","#fMaxH","#fMaxPph","#fAfter","#fBefore"].forEach(id=>$(id).addEventListener("input",refilter));
+["#fStops","#fTier"].forEach(id=>$(id).addEventListener("change",refilter));
+$("#fValue").addEventListener("change",refilter);
+[msOrigins,msDests,msAirlines].forEach(m=>m.onChange=refilter);
 $("#btnClear").addEventListener("click",()=>{
   ["#fPrice","#fMinH","#fMaxH","#fMaxPph","#fAfter","#fBefore"].forEach(id=>$(id).value="");
   $("#fStops").value=""; $("#fTier").value=""; $("#fValue").checked=false;
-  [msOrigins,msDests,msAirlines].forEach(m=>m.reset()); render();});
+  [msOrigins,msDests,msAirlines].forEach(m=>m.reset()); refilter();});
 $("#trip").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
-  trip=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); render(); });
+  trip=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); refilter(); });
 $("#kind").addEventListener("click",e=>{ const b=e.target.closest("button"); if(!b) return;
-  kind=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); render(); });
+  kind=b.dataset.v; [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); refilter(); });
+$("#btnMore").addEventListener("click",()=>{ shownLimit+=PAGE; paint(); });
+$("#btnExport").addEventListener("click",exportCsv);
+function exportCsv(){
+  const cols=[["route","Route"],["origin","From"],["destination","To"],
+    ["tripType","Trip"],["flightDate","Depart"],["returnDate","Return"],
+    ["priceCad","Price CAD"],["airline","Airline"],["stops","Stops"],
+    ["durationMin","Airborne min"],["pricePerHour","CAD/hr"],
+    ["valueDeal","Value"],["whyDeal","Why"],["bookingUrl","Book link"]];
+  const esc=v=>{ v=v==null?"":String(v);
+    return /[",\n]/.test(v) ? '"'+v.replace(/"/g,'""')+'"' : v; };
+  const rows=[cols.map(c=>c[1]).join(",")];
+  for(const d of VIEW)
+    rows.push(cols.map(c=>esc(c[0]==="valueDeal"?(d.valueDeal?"yes":""):d[c[0]])).join(","));
+  const blob=new Blob(["﻿"+rows.join("\r\n")],{type:"text/csv;charset=utf-8"});
+  const a=document.createElement("a");
+  a.href=URL.createObjectURL(blob);
+  a.download=`flight-deals-${new Date().toISOString().slice(0,10)}.csv`;
+  a.click(); URL.revokeObjectURL(a.href);
+}
 load();
 setInterval(load, 60000); // refresh status/deals each minute
 </script>
