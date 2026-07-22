@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ORD->KTM 2027-02-20",
- "checksDone": 34938,
+ "phase": "DTW->SIN 2027-02-20",
+ "checksDone": 35274,
  "checksPlanned": 104236,
  "percent": 34,
- "dealsFound": 4906,
- "updatedAt": "2026-07-21T23:17:38",
- "publishedAt": "2026-07-22T03:17:48.100160+00:00",
+ "dealsFound": 4961,
+ "updatedAt": "2026-07-21T23:32:47",
+ "publishedAt": "2026-07-22T03:32:55.242420+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 35497
+ "totalDeals": 35553
 }
