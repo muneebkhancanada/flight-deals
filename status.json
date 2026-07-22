@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DTW->DAR 2026-12-19",
- "checksDone": 35619,
+ "phase": "MSP->BJS 2026-08-15",
+ "checksDone": 35961,
  "checksPlanned": 104236,
  "percent": 34,
- "dealsFound": 5002,
- "updatedAt": "2026-07-21T23:47:57",
- "publishedAt": "2026-07-22T03:48:01.857439+00:00",
+ "dealsFound": 5077,
+ "updatedAt": "2026-07-22T00:03:02",
+ "publishedAt": "2026-07-22T04:03:10.565006+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 35593
+ "totalDeals": 35522
 }
