@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZRH->VIE 2027-02-20",
- "checksDone": 45714,
+ "phase": "ZRH->DSS 2027-02-20",
+ "checksDone": 46074,
  "checksPlanned": 104236,
  "percent": 44,
- "dealsFound": 6084,
- "updatedAt": "2026-07-22T07:07:27",
- "publishedAt": "2026-07-22T11:07:38.717258+00:00",
+ "dealsFound": 6145,
+ "updatedAt": "2026-07-22T07:22:41",
+ "publishedAt": "2026-07-22T11:22:45.865167+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 36529
+ "totalDeals": 36590
 }
