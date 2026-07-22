@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->CPT 2026-08-15",
- "checksDone": 33573,
+ "phase": "PHL->GRU 2026-12-19",
+ "checksDone": 33927,
  "checksPlanned": 104236,
- "percent": 32,
- "dealsFound": 4689,
- "updatedAt": "2026-07-21T22:17:09",
- "publishedAt": "2026-07-22T02:17:19.075516+00:00",
+ "percent": 33,
+ "dealsFound": 4714,
+ "updatedAt": "2026-07-21T22:32:17",
+ "publishedAt": "2026-07-22T02:32:26.531450+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 35281
+ "totalDeals": 35305
 }
