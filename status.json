@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->MEL 2026-12-19",
- "checksDone": 39459,
+ "phase": "YUL->OSL 2026-10-17",
+ "checksDone": 39792,
  "checksPlanned": 104236,
  "percent": 38,
- "dealsFound": 5579,
- "updatedAt": "2026-07-22T02:34:17",
- "publishedAt": "2026-07-22T06:34:23.901447+00:00",
+ "dealsFound": 5657,
+ "updatedAt": "2026-07-22T02:49:24",
+ "publishedAt": "2026-07-22T06:49:31.547645+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 36025
+ "totalDeals": 36102
 }
