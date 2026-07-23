@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DFW->CGK 2026-11-07",
- "checksDone": 84987,
+ "phase": "SEA->BKK 2026-11-07",
+ "checksDone": 85311,
  "checksPlanned": 104236,
  "percent": 82,
- "dealsFound": 11497,
- "updatedAt": "2026-07-23T11:24:19",
- "publishedAt": "2026-07-23T15:24:28.083790+00:00",
+ "dealsFound": 11604,
+ "updatedAt": "2026-07-23T11:39:30",
+ "publishedAt": "2026-07-23T15:39:39.441737+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 41435
+ "totalDeals": 41543
 }
