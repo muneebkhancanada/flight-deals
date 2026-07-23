@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CGK->JFK 2027-03-13",
- "checksDone": 89325,
+ "phase": "KUL->EWR 2027-03-13",
+ "checksDone": 89649,
  "checksPlanned": 104236,
  "percent": 86,
- "dealsFound": 12270,
- "updatedAt": "2026-07-23T14:41:27",
- "publishedAt": "2026-07-23T18:41:34.720502+00:00",
+ "dealsFound": 12320,
+ "updatedAt": "2026-07-23T14:56:37",
+ "publishedAt": "2026-07-23T18:56:43.409635+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 42208
+ "totalDeals": 42258
 }
