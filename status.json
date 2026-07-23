@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->SIN 2026-09-05",
- "checksDone": 86628,
+ "phase": "VIE->PRG 2027-03-13",
+ "checksDone": 86949,
  "checksPlanned": 104236,
  "percent": 83,
- "dealsFound": 11966,
- "updatedAt": "2026-07-23T12:40:07",
- "publishedAt": "2026-07-23T16:40:16.491263+00:00",
+ "dealsFound": 11993,
+ "updatedAt": "2026-07-23T12:55:17",
+ "publishedAt": "2026-07-23T16:55:28.972365+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 41904
+ "totalDeals": 41932
 }
