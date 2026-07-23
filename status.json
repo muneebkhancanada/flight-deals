@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->BUF 2027-03-13",
- "checksDone": 77493,
+ "phase": "CGK->BUF 2026-11-07",
+ "checksDone": 77847,
  "checksPlanned": 104236,
- "percent": 74,
- "dealsFound": 9770,
- "updatedAt": "2026-07-23T05:50:46",
- "publishedAt": "2026-07-23T09:50:54.889040+00:00",
+ "percent": 75,
+ "dealsFound": 9790,
+ "updatedAt": "2026-07-23T06:05:59",
+ "publishedAt": "2026-07-23T10:06:05.775147+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 39708
+ "totalDeals": 39728
 }
