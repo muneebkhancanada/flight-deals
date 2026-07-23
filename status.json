@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BJS->CPH 2026-11-07",
- "checksDone": 74583,
+ "phase": "KHI->ARN 2027-03-13",
+ "checksDone": 74949,
  "checksPlanned": 104236,
  "percent": 72,
- "dealsFound": 9527,
- "updatedAt": "2026-07-23T03:49:41",
- "publishedAt": "2026-07-23T07:49:47.267702+00:00",
+ "dealsFound": 9569,
+ "updatedAt": "2026-07-23T04:04:50",
+ "publishedAt": "2026-07-23T08:04:55.030235+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 39466
+ "totalDeals": 39507
 }
