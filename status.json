@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SGN->OSL 2027-03-13",
- "checksDone": 95349,
+ "phase": "NBO->WAW 2027-03-13",
+ "checksDone": 95685,
  "checksPlanned": 104236,
- "percent": 91,
- "dealsFound": 13477,
- "updatedAt": "2026-07-23T19:14:24",
- "publishedAt": "2026-07-23T23:14:36.681832+00:00",
+ "percent": 92,
+ "dealsFound": 13548,
+ "updatedAt": "2026-07-23T19:29:41",
+ "publishedAt": "2026-07-23T23:29:47.036221+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 43415
+ "totalDeals": 43486
 }
