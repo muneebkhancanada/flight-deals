@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NBO->DUB 2027-01-09",
- "checksDone": 73854,
+ "phase": "DSS->LIS 2026-11-07",
+ "checksDone": 74223,
  "checksPlanned": 104236,
  "percent": 71,
- "dealsFound": 9441,
- "updatedAt": "2026-07-23T03:19:21",
- "publishedAt": "2026-07-23T07:19:31.650684+00:00",
+ "dealsFound": 9472,
+ "updatedAt": "2026-07-23T03:34:26",
+ "publishedAt": "2026-07-23T07:34:38.882109+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 39379
+ "totalDeals": 39411
 }
