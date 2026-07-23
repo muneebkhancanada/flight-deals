@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CAI->YUL 2026-09-05",
- "checksDone": 65676,
+ "phase": "KWI->YOW 2026-09-05",
+ "checksDone": 66036,
  "checksPlanned": 104236,
  "percent": 63,
- "dealsFound": 8179,
- "updatedAt": "2026-07-22T21:31:17",
- "publishedAt": "2026-07-23T01:31:25.578169+00:00",
+ "dealsFound": 8188,
+ "updatedAt": "2026-07-22T21:46:27",
+ "publishedAt": "2026-07-23T01:46:32.728382+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 38624
+ "totalDeals": 38633
 }
