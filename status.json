@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAD->FCO 2027-03-13",
- "checksDone": 72405,
+ "phase": "TAS->FCO 2026-11-07",
+ "checksDone": 72771,
  "checksPlanned": 104236,
- "percent": 69,
- "dealsFound": 9225,
- "updatedAt": "2026-07-23T02:18:50",
- "publishedAt": "2026-07-23T06:19:00.275970+00:00",
+ "percent": 70,
+ "dealsFound": 9292,
+ "updatedAt": "2026-07-23T02:34:03",
+ "publishedAt": "2026-07-23T06:34:08.340866+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 39163
+ "totalDeals": 39230
 }
