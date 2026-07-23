@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->MNL 2027-01-09",
- "checksDone": 85962,
+ "phase": "CDG->WAW 2026-11-07",
+ "checksDone": 86295,
  "checksPlanned": 104236,
- "percent": 82,
- "dealsFound": 11901,
- "updatedAt": "2026-07-23T12:09:49",
- "publishedAt": "2026-07-23T16:09:58.429685+00:00",
+ "percent": 83,
+ "dealsFound": 11946,
+ "updatedAt": "2026-07-23T12:24:57",
+ "publishedAt": "2026-07-23T16:25:07.155964+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 41841
+ "totalDeals": 41884
 }
