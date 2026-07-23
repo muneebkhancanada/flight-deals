@@ -137,6 +137,11 @@
   .tag.value{color:var(--great);border-color:var(--great)}
   .empty{text-align:center;color:var(--muted);padding:40px 0}
   footer{color:var(--muted);font-size:12px;margin-top:26px;line-height:1.7}
+  .alsocheck{padding-bottom:12px;border-bottom:1px solid var(--line)}
+  .alsocheck a{display:inline-block;margin:4px 8px 0 0;padding:3px 9px;
+    border:1px solid var(--line);border-radius:8px;background:var(--card);
+    color:var(--brand-ink);text-decoration:none;font-weight:600}
+  .alsocheck a:hover{border-color:var(--brand)}
 </style>
 </head>
 <body>
@@ -214,8 +219,20 @@
   <div class="empty" id="empty" hidden>No matching deals right now.</div>
 
   <footer id="foot">
-    Prices were available when scanned and can change at any time. Always
-    confirm the final fare and conditions on Google Flights before booking.
+    <div class="alsocheck">
+      <b>Also worth a look</b> — human-curated deals &amp; mistake fares this
+      scanner won't catch:
+      <a href="https://www.secretflying.com/north-america/" target="_blank" rel="noopener">Secret Flying</a>
+      <a href="https://www.flytrippers.com/flight-deals/" target="_blank" rel="noopener">Flytrippers 🇨🇦</a>
+      <a href="https://www.theflightdeal.com/" target="_blank" rel="noopener">The Flight Deal</a>
+      <a href="https://www.going.com/" target="_blank" rel="noopener">Going</a>
+      <a href="https://matrix.itasoftware.com/" target="_blank" rel="noopener">ITA Matrix</a>
+      <a href="https://www.kiwi.com/" target="_blank" rel="noopener">Kiwi.com</a>
+    </div>
+    <div style="margin-top:12px">
+      Prices were available when scanned and can change at any time. Always
+      confirm the final fare and conditions on Google Flights before booking.
+    </div>
   </footer>
 </div>
 
