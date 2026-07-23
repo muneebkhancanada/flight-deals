@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KUL->CPH 2027-01-09",
- "checksDone": 94998,
+ "phase": "SGN->OSL 2027-03-13",
+ "checksDone": 95349,
  "checksPlanned": 104236,
  "percent": 91,
- "dealsFound": 13444,
- "updatedAt": "2026-07-23T18:59:11",
- "publishedAt": "2026-07-23T22:59:24.531968+00:00",
+ "dealsFound": 13477,
+ "updatedAt": "2026-07-23T19:14:24",
+ "publishedAt": "2026-07-23T23:14:36.681832+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 43384
+ "totalDeals": 43415
 }
