@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZNZ->DFW 2026-11-07",
- "checksDone": 63303,
+ "phase": "ZNZ->IAH 2026-09-05",
+ "checksDone": 63648,
  "checksPlanned": 104236,
  "percent": 61,
- "dealsFound": 7965,
- "updatedAt": "2026-07-22T19:45:19",
- "publishedAt": "2026-07-22T23:45:25.005895+00:00",
+ "dealsFound": 7986,
+ "updatedAt": "2026-07-22T20:00:27",
+ "publishedAt": "2026-07-23T00:00:33.258091+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 38410
+ "totalDeals": 38431
 }
