@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MNL->SFO 2027-01-09",
- "checksDone": 92262,
+ "phase": "SGN->YYC 2026-11-07",
+ "checksDone": 92595,
  "checksPlanned": 104236,
  "percent": 89,
- "dealsFound": 12736,
- "updatedAt": "2026-07-23T16:57:53",
- "publishedAt": "2026-07-23T20:58:04.927025+00:00",
+ "dealsFound": 12804,
+ "updatedAt": "2026-07-23T17:13:04",
+ "publishedAt": "2026-07-23T21:13:13.316225+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 42677
+ "totalDeals": 42742
 }
