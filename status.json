@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DAR->SFO 2026-11-07",
- "checksDone": 64683,
+ "phase": "MRU->LAX 2027-01-09",
+ "checksDone": 65010,
  "checksPlanned": 104236,
  "percent": 62,
- "dealsFound": 8049,
- "updatedAt": "2026-07-22T20:45:53",
- "publishedAt": "2026-07-23T00:46:01.223241+00:00",
+ "dealsFound": 8108,
+ "updatedAt": "2026-07-22T21:01:04",
+ "publishedAt": "2026-07-23T01:01:08.994535+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 38494
+ "totalDeals": 38553
 }
