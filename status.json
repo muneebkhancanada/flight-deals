@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATL->GIG 2026-09-05",
- "checksDone": 84660,
+ "phase": "DFW->CGK 2026-11-07",
+ "checksDone": 84987,
  "checksPlanned": 104236,
- "percent": 81,
- "dealsFound": 11411,
- "updatedAt": "2026-07-23T11:09:11",
- "publishedAt": "2026-07-23T15:09:17.306522+00:00",
+ "percent": 82,
+ "dealsFound": 11497,
+ "updatedAt": "2026-07-23T11:24:19",
+ "publishedAt": "2026-07-23T15:24:28.083790+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 41349
+ "totalDeals": 41435
 }
