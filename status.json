@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SHJ->OSL 2027-03-13",
- "checksDone": 75333,
+ "phase": "TIA->BRU 2026-09-05",
+ "checksDone": 75708,
  "checksPlanned": 104236,
- "percent": 72,
- "dealsFound": 9614,
- "updatedAt": "2026-07-23T04:19:58",
- "publishedAt": "2026-07-23T08:20:03.288218+00:00",
+ "percent": 73,
+ "dealsFound": 9627,
+ "updatedAt": "2026-07-23T04:35:03",
+ "publishedAt": "2026-07-23T08:35:10.395072+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 39552
+ "totalDeals": 39565
 }
