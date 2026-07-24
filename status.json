@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CAI->MSP 2027-03-13",
- "checksDone": 100785,
+ "phase": "NAP->CLT 2026-11-07",
+ "checksDone": 101115,
  "checksPlanned": 104236,
  "percent": 97,
- "dealsFound": 14553,
- "updatedAt": "2026-07-23T23:17:17",
- "publishedAt": "2026-07-24T03:17:23.034036+00:00",
+ "dealsFound": 14589,
+ "updatedAt": "2026-07-23T23:32:20",
+ "publishedAt": "2026-07-24T03:32:30.751074+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 44491
+ "totalDeals": 44528
 }
