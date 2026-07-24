@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "DFW->CDG 2026-12-18",
- "checksDone": 441,
+ "phase": "finished",
+ "checksDone": 500,
  "checksPlanned": 500,
- "percent": 88,
- "dealsFound": 144,
- "updatedAt": "2026-07-24T02:20:40",
- "publishedAt": "2026-07-24T06:20:50.869557+00:00",
+ "percent": 100,
+ "dealsFound": 177,
+ "updatedAt": "2026-07-24T02:25:04",
+ "publishedAt": "2026-07-24T06:25:09.397871+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 44723
+ "totalDeals": 44754
 }
