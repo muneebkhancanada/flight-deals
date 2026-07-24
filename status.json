@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NCE->IAD 2026-07-29",
- "checksDone": 8661,
+ "phase": "DPS->ATL 2026-11-26",
+ "checksDone": 8991,
  "checksPlanned": 17216,
- "percent": 50,
- "dealsFound": 1231,
- "updatedAt": "2026-07-24T08:43:35",
- "publishedAt": "2026-07-24T12:43:45.086958+00:00",
+ "percent": 52,
+ "dealsFound": 1294,
+ "updatedAt": "2026-07-24T08:58:47",
+ "publishedAt": "2026-07-24T12:58:53.100951+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 45967
+ "totalDeals": 46030
 }
