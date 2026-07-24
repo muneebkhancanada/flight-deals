@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->ICN 2026-12-02",
- "checksDone": 3072,
+ "phase": "HKG->MIA 2026-07-29",
+ "checksDone": 3414,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 689,
- "updatedAt": "2026-07-24T17:30:07",
- "publishedAt": "2026-07-24T21:30:12.307200+00:00",
+ "dealsFound": 707,
+ "updatedAt": "2026-07-24T17:45:12",
+ "publishedAt": "2026-07-24T21:45:21.373859+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 48117
+ "totalDeals": 48137
 }
