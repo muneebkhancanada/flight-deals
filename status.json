@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NBO->ATL 2027-01-25",
- "checksDone": 10668,
+ "phase": "MNL->LAX 2026-09-27",
+ "checksDone": 10998,
  "checksPlanned": 17216,
- "percent": 62,
- "dealsFound": 1712,
- "updatedAt": "2026-07-24T10:14:22",
- "publishedAt": "2026-07-24T14:14:32.137745+00:00",
+ "percent": 64,
+ "dealsFound": 1778,
+ "updatedAt": "2026-07-24T10:29:37",
+ "publishedAt": "2026-07-24T14:29:42.010929+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 46444
+ "totalDeals": 46505
 }
