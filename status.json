@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KTM->MSP 2027-01-25",
- "checksDone": 1716,
+ "phase": "RUH->MIA 2026-11-26",
+ "checksDone": 2067,
  "checksPlanned": 17216,
- "percent": 10,
- "dealsFound": 194,
- "updatedAt": "2026-07-24T03:40:46",
- "publishedAt": "2026-07-24T07:40:54.793134+00:00",
+ "percent": 12,
+ "dealsFound": 223,
+ "updatedAt": "2026-07-24T03:55:56",
+ "publishedAt": "2026-07-24T07:56:03.428024+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 44945
+ "totalDeals": 44974
 }
