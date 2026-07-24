@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->TPE 2026-07-29",
- "checksDone": 1674,
+ "phase": "ZRH->OSL 2027-02-03",
+ "checksDone": 2031,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 517,
- "updatedAt": "2026-07-24T16:29:14",
- "publishedAt": "2026-07-24T20:29:25.427872+00:00",
+ "dealsFound": 549,
+ "updatedAt": "2026-07-24T16:44:29",
+ "publishedAt": "2026-07-24T20:44:33.937789+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 47946
+ "totalDeals": 47977
 }
