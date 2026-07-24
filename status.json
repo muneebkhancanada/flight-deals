@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CAI->EWR 2026-09-27",
- "checksDone": 690,
+ "phase": "MDE->PHL 2027-01-25",
+ "checksDone": 1032,
  "checksPlanned": 17216,
- "percent": 4,
- "dealsFound": 93,
- "updatedAt": "2026-07-24T02:55:23",
- "publishedAt": "2026-07-24T06:55:32.289461+00:00",
+ "percent": 6,
+ "dealsFound": 119,
+ "updatedAt": "2026-07-24T03:10:34",
+ "publishedAt": "2026-07-24T07:10:40.118517+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 44845
+ "totalDeals": 44871
 }
