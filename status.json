@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HKG->MXP 2026-09-30",
- "checksDone": 4797,
+ "phase": "WAW->OSL 2026-09-30",
+ "checksDone": 5145,
  "checksPlanned": 104236,
  "percent": 5,
- "dealsFound": 926,
- "updatedAt": "2026-07-24T18:45:43",
- "publishedAt": "2026-07-24T22:45:53.396140+00:00",
+ "dealsFound": 972,
+ "updatedAt": "2026-07-24T19:00:52",
+ "publishedAt": "2026-07-24T23:01:01.083083+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 48338
+ "totalDeals": 48379
 }
