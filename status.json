@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CMB->SEA 2027-03-13",
- "checksDone": 101781,
+ "phase": "FRA->LHR 2027-03-13",
+ "checksDone": 102117,
  "checksPlanned": 104236,
  "percent": 98,
- "dealsFound": 14659,
- "updatedAt": "2026-07-24T00:02:43",
- "publishedAt": "2026-07-24T04:02:49.041018+00:00",
+ "dealsFound": 14758,
+ "updatedAt": "2026-07-24T00:17:48",
+ "publishedAt": "2026-07-24T04:17:56.965002+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 44079
+ "totalDeals": 44178
 }
