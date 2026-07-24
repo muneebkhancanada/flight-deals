@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MDE->PHL 2027-01-25",
- "checksDone": 1032,
+ "phase": "ZNZ->ORD 2026-11-26",
+ "checksDone": 1371,
  "checksPlanned": 17216,
- "percent": 6,
- "dealsFound": 119,
- "updatedAt": "2026-07-24T03:10:34",
- "publishedAt": "2026-07-24T07:10:40.118517+00:00",
+ "percent": 8,
+ "dealsFound": 161,
+ "updatedAt": "2026-07-24T03:25:37",
+ "publishedAt": "2026-07-24T07:25:47.000217+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 44871
+ "totalDeals": 44912
 }
