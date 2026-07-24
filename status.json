@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "UIO->FRA 2026-07-29",
- "checksDone": 15357,
+ "phase": "CDG->LAX 2026-07-29",
+ "checksDone": 15681,
  "checksPlanned": 17216,
- "percent": 89,
- "dealsFound": 2464,
- "updatedAt": "2026-07-24T13:46:34",
- "publishedAt": "2026-07-24T17:46:40.969425+00:00",
+ "percent": 91,
+ "dealsFound": 2497,
+ "updatedAt": "2026-07-24T14:01:44",
+ "publishedAt": "2026-07-24T18:01:47.958466+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 47182
+ "totalDeals": 47215
 }
