@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KWI->LIS 2026-11-26",
- "checksDone": 6579,
+ "phase": "ISB->ARN 2027-01-25",
+ "checksDone": 6936,
  "checksPlanned": 17216,
- "percent": 38,
- "dealsFound": 884,
- "updatedAt": "2026-07-24T07:12:55",
- "publishedAt": "2026-07-24T11:13:02.247775+00:00",
+ "percent": 40,
+ "dealsFound": 933,
+ "updatedAt": "2026-07-24T07:28:02",
+ "publishedAt": "2026-07-24T11:28:08.561517+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 45624
+ "totalDeals": 45672
 }
