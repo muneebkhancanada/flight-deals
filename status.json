@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->OSL 2026-09-30",
- "checksDone": 5145,
+ "phase": "CMN->EDI 2027-02-03",
+ "checksDone": 5499,
  "checksPlanned": 104236,
  "percent": 5,
- "dealsFound": 972,
- "updatedAt": "2026-07-24T19:00:52",
- "publishedAt": "2026-07-24T23:01:01.083083+00:00",
+ "dealsFound": 999,
+ "updatedAt": "2026-07-24T19:16:04",
+ "publishedAt": "2026-07-24T23:16:08.307233+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 48379
+ "totalDeals": 48405
 }
