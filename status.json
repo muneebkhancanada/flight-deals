@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PVG->LGW 2027-02-03",
- "checksDone": 4095,
+ "phase": "HEL->ZRH 2026-09-30",
+ "checksDone": 4449,
  "checksPlanned": 104236,
  "percent": 4,
- "dealsFound": 806,
- "updatedAt": "2026-07-24T18:15:33",
- "publishedAt": "2026-07-24T22:15:37.313249+00:00",
+ "dealsFound": 863,
+ "updatedAt": "2026-07-24T18:30:38",
+ "publishedAt": "2026-07-24T22:30:44.991300+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 48222
+ "totalDeals": 48274
 }
