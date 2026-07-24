@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->PVG 2027-01-09",
- "checksDone": 97674,
+ "phase": "LHR->MNL 2027-03-13",
+ "checksDone": 98001,
  "checksPlanned": 104236,
  "percent": 94,
- "dealsFound": 14196,
- "updatedAt": "2026-07-23T21:00:57",
- "publishedAt": "2026-07-24T01:01:02.939733+00:00",
+ "dealsFound": 14362,
+ "updatedAt": "2026-07-23T21:15:59",
+ "publishedAt": "2026-07-24T01:16:12.149567+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 44134
+ "totalDeals": 44300
 }
