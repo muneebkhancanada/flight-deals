@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ALA->CDG 2026-07-29",
- "checksDone": 4833,
+ "phase": "CAN->FRA 2026-07-29",
+ "checksDone": 5157,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 556,
- "updatedAt": "2026-07-24T05:57:19",
- "publishedAt": "2026-07-24T09:57:24.313380+00:00",
+ "percent": 30,
+ "dealsFound": 634,
+ "updatedAt": "2026-07-24T06:12:25",
+ "publishedAt": "2026-07-24T10:12:32.160811+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 45300
+ "totalDeals": 45375
 }
