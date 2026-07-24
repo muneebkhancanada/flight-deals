@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "roundtrip",
- "phase": "BUF->MRU 2026-12-12",
- "checksDone": 234,
+ "phase": "DFW->CDG 2026-12-18",
+ "checksDone": 441,
  "checksPlanned": 500,
- "percent": 47,
- "dealsFound": 58,
- "updatedAt": "2026-07-24T02:05:35",
- "publishedAt": "2026-07-24T06:05:40.865115+00:00",
+ "percent": 88,
+ "dealsFound": 144,
+ "updatedAt": "2026-07-24T02:20:40",
+ "publishedAt": "2026-07-24T06:20:50.869557+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 44635
+ "totalDeals": 44723
 }
