@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CDG->MXP 2026-11-26",
- "checksDone": 6231,
+ "phase": "KWI->LIS 2026-11-26",
+ "checksDone": 6579,
  "checksPlanned": 17216,
- "percent": 36,
- "dealsFound": 827,
- "updatedAt": "2026-07-24T06:57:45",
- "publishedAt": "2026-07-24T10:57:53.998318+00:00",
+ "percent": 38,
+ "dealsFound": 884,
+ "updatedAt": "2026-07-24T07:12:55",
+ "publishedAt": "2026-07-24T11:13:02.247775+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 45568
+ "totalDeals": 45624
 }
