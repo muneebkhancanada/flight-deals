@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HKG->MIA 2026-07-29",
- "checksDone": 3414,
+ "phase": "JNB->DEN 2026-09-30",
+ "checksDone": 3753,
  "checksPlanned": 104236,
- "percent": 3,
- "dealsFound": 707,
- "updatedAt": "2026-07-24T17:45:12",
- "publishedAt": "2026-07-24T21:45:21.373859+00:00",
+ "percent": 4,
+ "dealsFound": 758,
+ "updatedAt": "2026-07-24T18:00:20",
+ "publishedAt": "2026-07-24T22:00:29.154286+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 48137
+ "totalDeals": 48189
 }
