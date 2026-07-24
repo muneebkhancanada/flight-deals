@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BKK->MXP 2027-01-09",
- "checksDone": 103506,
+ "phase": "HKG->CPH 2026-11-07",
+ "checksDone": 103851,
  "checksPlanned": 104236,
- "percent": 99,
- "dealsFound": 15084,
- "updatedAt": "2026-07-24T01:18:25",
- "publishedAt": "2026-07-24T05:18:34.048192+00:00",
+ "percent": 100,
+ "dealsFound": 15134,
+ "updatedAt": "2026-07-24T01:33:36",
+ "publishedAt": "2026-07-24T05:33:42.589768+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 44490
+ "totalDeals": 44540
 }
