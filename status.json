@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ISB->MAD 2027-01-25",
- "checksDone": 5868,
+ "phase": "CDG->MXP 2026-11-26",
+ "checksDone": 6231,
  "checksPlanned": 17216,
- "percent": 34,
- "dealsFound": 779,
- "updatedAt": "2026-07-24T06:42:42",
- "publishedAt": "2026-07-24T10:42:46.678068+00:00",
+ "percent": 36,
+ "dealsFound": 827,
+ "updatedAt": "2026-07-24T06:57:45",
+ "publishedAt": "2026-07-24T10:57:53.998318+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 45520
+ "totalDeals": 45568
 }
