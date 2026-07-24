@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
- "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 2710,
- "updatedAt": "2026-07-24T15:13:32",
- "publishedAt": "2026-07-24T19:13:38.614756+00:00",
- "queuedCount": 3,
+ "running": true,
+ "mode": "full",
+ "phase": "CPT->EDI 2026-09-30",
+ "checksDone": 333,
+ "checksPlanned": 104236,
+ "percent": 0,
+ "dealsFound": 44,
+ "updatedAt": "2026-07-24T15:28:45",
+ "publishedAt": "2026-07-24T19:28:54.622852+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "full",
-   "mode": "full"
-  },
   {
    "label": "round trip (primary ⇄ all, 12-24 nights)",
    "mode": "quick"
@@ -23,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 47428
+ "totalDeals": 47475
 }
