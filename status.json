@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SJJ->DEN 2026-07-29",
- "checksDone": 2409,
+ "phase": "TIA->LAX 2026-09-27",
+ "checksDone": 2754,
  "checksPlanned": 17216,
- "percent": 14,
- "dealsFound": 251,
- "updatedAt": "2026-07-24T04:11:01",
- "publishedAt": "2026-07-24T08:11:10.858801+00:00",
+ "percent": 16,
+ "dealsFound": 284,
+ "updatedAt": "2026-07-24T04:26:14",
+ "publishedAt": "2026-07-24T08:26:18.873402+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 45001
+ "totalDeals": 45034
 }
