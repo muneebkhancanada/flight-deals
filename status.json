@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 500,
- "checksPlanned": 500,
- "percent": 100,
- "dealsFound": 177,
- "updatedAt": "2026-07-24T02:25:04",
- "publishedAt": "2026-07-24T06:25:09.397871+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "inbound from everywhere → NA, EU",
-   "mode": "quick"
-  }
- ],
- "totalDeals": 44754
+ "running": true,
+ "mode": "custom",
+ "phase": "DAR->YYZ 2026-11-26",
+ "checksDone": 351,
+ "checksPlanned": 17216,
+ "percent": 2,
+ "dealsFound": 46,
+ "updatedAt": "2026-07-24T02:40:20",
+ "publishedAt": "2026-07-24T06:40:25.014669+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 44798
 }
