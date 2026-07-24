@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "full",
- "phase": "MXP->BRU 2027-01-09",
- "checksDone": 104202,
+ "phase": "finished",
+ "checksDone": 104236,
  "checksPlanned": 104236,
  "percent": 100,
  "dealsFound": 15172,
- "updatedAt": "2026-07-24T01:48:43",
- "publishedAt": "2026-07-24T05:48:51.262572+00:00",
+ "updatedAt": "2026-07-24T01:50:16",
+ "publishedAt": "2026-07-24T05:50:24.647622+00:00",
  "queuedCount": 2,
  "queued": [
   {
