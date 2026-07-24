@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MNL->MAD 2027-01-25",
- "checksDone": 12348,
+ "phase": "HND->MIA 2026-09-27",
+ "checksDone": 12690,
  "checksPlanned": 17216,
- "percent": 72,
- "dealsFound": 2037,
- "updatedAt": "2026-07-24T11:30:06",
- "publishedAt": "2026-07-24T15:30:12.956678+00:00",
+ "percent": 74,
+ "dealsFound": 2075,
+ "updatedAt": "2026-07-24T11:45:17",
+ "publishedAt": "2026-07-24T15:45:22.336389+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 46755
+ "totalDeals": 46793
 }
