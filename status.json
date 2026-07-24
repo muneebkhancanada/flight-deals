@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DUB->WAW 2027-01-25",
- "checksDone": 7296,
+ "phase": "OPO->MAN 2027-01-25",
+ "checksDone": 7656,
  "checksPlanned": 17216,
- "percent": 42,
- "dealsFound": 967,
- "updatedAt": "2026-07-24T07:43:07",
- "publishedAt": "2026-07-24T11:43:15.138275+00:00",
+ "percent": 44,
+ "dealsFound": 999,
+ "updatedAt": "2026-07-24T07:58:16",
+ "publishedAt": "2026-07-24T11:58:23.141072+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 45705
+ "totalDeals": 45736
 }
