@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "FRA->ATL 2027-01-25",
- "checksDone": 16320,
+ "phase": "FCO->BOS 2026-11-26",
+ "checksDone": 16647,
  "checksPlanned": 17216,
- "percent": 95,
- "dealsFound": 2578,
- "updatedAt": "2026-07-24T14:31:53",
- "publishedAt": "2026-07-24T18:32:02.774656+00:00",
+ "percent": 97,
+ "dealsFound": 2630,
+ "updatedAt": "2026-07-24T14:47:07",
+ "publishedAt": "2026-07-24T18:47:11.348684+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 47296
+ "totalDeals": 47349
 }
