@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KEF->IAD 2026-09-05",
- "checksDone": 100440,
+ "phase": "CAI->MSP 2027-03-13",
+ "checksDone": 100785,
  "checksPlanned": 104236,
- "percent": 96,
- "dealsFound": 14529,
- "updatedAt": "2026-07-23T23:02:03",
- "publishedAt": "2026-07-24T03:02:14.068499+00:00",
+ "percent": 97,
+ "dealsFound": 14553,
+ "updatedAt": "2026-07-23T23:17:17",
+ "publishedAt": "2026-07-24T03:17:23.034036+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 44467
+ "totalDeals": 44491
 }
