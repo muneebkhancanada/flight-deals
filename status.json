@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MNL->LAX 2026-09-27",
- "checksDone": 10998,
+ "phase": "OPO->MAD 2026-09-27",
+ "checksDone": 11334,
  "checksPlanned": 17216,
- "percent": 64,
- "dealsFound": 1778,
- "updatedAt": "2026-07-24T10:29:37",
- "publishedAt": "2026-07-24T14:29:42.010929+00:00",
+ "percent": 66,
+ "dealsFound": 1864,
+ "updatedAt": "2026-07-24T10:44:43",
+ "publishedAt": "2026-07-24T14:44:48.637436+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 46505
+ "totalDeals": 46587
 }
