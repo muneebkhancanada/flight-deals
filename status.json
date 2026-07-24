@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AMS->OSL 2027-01-25",
- "checksDone": 11676,
+ "phase": "MDE->DFW 2026-07-29",
+ "checksDone": 12009,
  "checksPlanned": 17216,
- "percent": 68,
- "dealsFound": 1947,
- "updatedAt": "2026-07-24T10:59:51",
- "publishedAt": "2026-07-24T14:59:57.017663+00:00",
+ "percent": 70,
+ "dealsFound": 1986,
+ "updatedAt": "2026-07-24T11:14:58",
+ "publishedAt": "2026-07-24T15:15:05.318935+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 46665
+ "totalDeals": 46704
 }
