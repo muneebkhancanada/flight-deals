@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DEN->NAP 2026-07-29",
- "checksDone": 9966,
+ "phase": "YYC->ATH 2026-09-30",
+ "checksDone": 10293,
  "checksPlanned": 104236,
  "percent": 10,
- "dealsFound": 1745,
- "updatedAt": "2026-07-24T22:32:39",
- "publishedAt": "2026-07-25T02:32:46.905871+00:00",
+ "dealsFound": 1876,
+ "updatedAt": "2026-07-24T22:47:46",
+ "publishedAt": "2026-07-25T02:47:53.604384+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 49150
+ "totalDeals": 49282
 }
