@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->IAD 2026-12-02",
- "checksDone": 29256,
+ "phase": "VIE->YUL 2026-12-02",
+ "checksDone": 29580,
  "checksPlanned": 104236,
  "percent": 28,
- "dealsFound": 5188,
- "updatedAt": "2026-07-25T12:55:12",
- "publishedAt": "2026-07-25T16:55:20.057084+00:00",
+ "dealsFound": 5254,
+ "updatedAt": "2026-07-25T13:10:16",
+ "publishedAt": "2026-07-25T17:10:27.614210+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 52555
+ "totalDeals": 52620
 }
