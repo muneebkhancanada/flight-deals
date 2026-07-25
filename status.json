@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->EDI 2026-12-02",
- "checksDone": 10968,
+ "phase": "OSL->CMN 2026-12-02",
+ "checksDone": 11316,
  "checksPlanned": 104236,
  "percent": 11,
- "dealsFound": 1941,
- "updatedAt": "2026-07-24T23:18:04",
- "publishedAt": "2026-07-25T03:18:08.595553+00:00",
+ "dealsFound": 1967,
+ "updatedAt": "2026-07-24T23:33:08",
+ "publishedAt": "2026-07-25T03:33:16.349125+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 49345
+ "totalDeals": 49371
 }
