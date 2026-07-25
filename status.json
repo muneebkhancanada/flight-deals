@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIM->ATH 2026-12-02",
- "checksDone": 24000,
+ "phase": "BOG->BCN 2027-02-03",
+ "checksDone": 24339,
  "checksPlanned": 104236,
  "percent": 23,
- "dealsFound": 4556,
- "updatedAt": "2026-07-25T08:52:59",
- "publishedAt": "2026-07-25T12:53:07.954304+00:00",
+ "dealsFound": 4567,
+ "updatedAt": "2026-07-25T09:08:05",
+ "publishedAt": "2026-07-25T13:08:16.214713+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 51922
+ "totalDeals": 51933
 }
