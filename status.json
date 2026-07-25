@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DFW->MXP 2026-07-29",
- "checksDone": 13374,
+ "phase": "IAH->FRA 2026-07-29",
+ "checksDone": 13710,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2348,
- "updatedAt": "2026-07-25T01:03:51",
- "publishedAt": "2026-07-25T05:04:01.672773+00:00",
+ "dealsFound": 2552,
+ "updatedAt": "2026-07-25T01:19:00",
+ "publishedAt": "2026-07-25T05:19:09.619897+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 49741
+ "totalDeals": 49943
 }
