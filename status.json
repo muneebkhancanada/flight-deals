@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYD->BRU 2027-02-03",
- "checksDone": 13035,
+ "phase": "DFW->MXP 2026-07-29",
+ "checksDone": 13374,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2254,
- "updatedAt": "2026-07-25T00:48:46",
- "publishedAt": "2026-07-25T04:48:52.809171+00:00",
+ "dealsFound": 2348,
+ "updatedAt": "2026-07-25T01:03:51",
+ "publishedAt": "2026-07-25T05:04:01.672773+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 49646
+ "totalDeals": 49741
 }
