@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MDE->YVR 2027-02-03",
- "checksDone": 22995,
+ "phase": "FRA->LIM 2026-07-29",
+ "checksDone": 23334,
  "checksPlanned": 104236,
  "percent": 22,
- "dealsFound": 4492,
- "updatedAt": "2026-07-25T08:07:34",
- "publishedAt": "2026-07-25T12:07:41.107933+00:00",
+ "dealsFound": 4515,
+ "updatedAt": "2026-07-25T08:22:41",
+ "publishedAt": "2026-07-25T12:22:48.646806+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 51858
+ "totalDeals": 51881
 }
