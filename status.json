@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->BOS 2026-07-29",
- "checksDone": 27954,
+ "phase": "CDG->ORD 2026-07-29",
+ "checksDone": 28278,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 4966,
- "updatedAt": "2026-07-25T11:54:42",
- "publishedAt": "2026-07-25T15:54:45.976080+00:00",
+ "dealsFound": 5003,
+ "updatedAt": "2026-07-25T12:09:48",
+ "publishedAt": "2026-07-25T16:09:55.344827+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 52332
+ "totalDeals": 52369
 }
