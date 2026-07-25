@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->VIE 2026-07-29",
- "checksDone": 16482,
+ "phase": "ATH->AGP 2027-02-03",
+ "checksDone": 16827,
  "checksPlanned": 104236,
  "percent": 16,
- "dealsFound": 3119,
- "updatedAt": "2026-07-25T03:20:04",
- "publishedAt": "2026-07-25T07:20:10.989617+00:00",
+ "dealsFound": 3151,
+ "updatedAt": "2026-07-25T03:35:10",
+ "publishedAt": "2026-07-25T07:35:18.986812+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 50505
+ "totalDeals": 50536
 }
