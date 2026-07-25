@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KRK->YYC 2026-09-30",
- "checksDone": 11997,
+ "phase": "NRT->AMS 2026-07-29",
+ "checksDone": 12330,
  "checksPlanned": 104236,
  "percent": 12,
- "dealsFound": 2053,
- "updatedAt": "2026-07-25T00:03:25",
- "publishedAt": "2026-07-25T04:03:29.840267+00:00",
+ "dealsFound": 2109,
+ "updatedAt": "2026-07-25T00:18:29",
+ "publishedAt": "2026-07-25T04:18:36.780303+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 49457
+ "totalDeals": 49513
 }
