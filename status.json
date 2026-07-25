@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->BNE 2026-09-30",
- "checksDone": 10629,
+ "phase": "BCN->EDI 2026-12-02",
+ "checksDone": 10968,
  "checksPlanned": 104236,
- "percent": 10,
- "dealsFound": 1916,
- "updatedAt": "2026-07-24T23:02:51",
- "publishedAt": "2026-07-25T03:03:02.210764+00:00",
+ "percent": 11,
+ "dealsFound": 1941,
+ "updatedAt": "2026-07-24T23:18:04",
+ "publishedAt": "2026-07-25T03:18:08.595553+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 49320
+ "totalDeals": 49345
 }
