@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->MCT 2026-10-21",
- "checksDone": 37812,
+ "phase": "DEN->MCT 2026-12-23",
+ "checksDone": 38163,
  "checksPlanned": 104236,
- "percent": 36,
- "dealsFound": 6911,
- "updatedAt": "2026-07-25T19:13:24",
- "publishedAt": "2026-07-25T23:13:34.843160+00:00",
+ "percent": 37,
+ "dealsFound": 6958,
+ "updatedAt": "2026-07-25T19:28:36",
+ "publishedAt": "2026-07-25T23:28:41.860725+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 54271
+ "totalDeals": 54318
 }
