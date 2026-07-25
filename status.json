@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->IAH 2026-12-02",
- "checksDone": 26652,
+ "phase": "MUC->MIA 2027-02-03",
+ "checksDone": 26979,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 4809,
- "updatedAt": "2026-07-25T10:54:08",
- "publishedAt": "2026-07-25T14:54:16.351542+00:00",
+ "dealsFound": 4857,
+ "updatedAt": "2026-07-25T11:09:20",
+ "publishedAt": "2026-07-25T15:09:25.362109+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 52175
+ "totalDeals": 52224
 }
