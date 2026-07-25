@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->FRA 2026-07-29",
- "checksDone": 13710,
+ "phase": "LAX->NBO 2026-07-29",
+ "checksDone": 14058,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2552,
- "updatedAt": "2026-07-25T01:19:00",
- "publishedAt": "2026-07-25T05:19:09.619897+00:00",
+ "dealsFound": 2704,
+ "updatedAt": "2026-07-25T01:34:14",
+ "publishedAt": "2026-07-25T05:34:17.922414+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 49943
+ "totalDeals": 50096
 }
