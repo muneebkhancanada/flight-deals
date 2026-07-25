@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->CMN 2026-12-02",
- "checksDone": 11316,
+ "phase": "DKR->DFW 2026-09-30",
+ "checksDone": 11661,
  "checksPlanned": 104236,
  "percent": 11,
- "dealsFound": 1967,
- "updatedAt": "2026-07-24T23:33:08",
- "publishedAt": "2026-07-25T03:33:16.349125+00:00",
+ "dealsFound": 2017,
+ "updatedAt": "2026-07-24T23:48:18",
+ "publishedAt": "2026-07-25T03:48:23.100624+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 49371
+ "totalDeals": 49421
 }
