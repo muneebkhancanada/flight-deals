@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ACC->IAH 2026-07-29",
- "checksDone": 7902,
+ "phase": "FCO->CDG 2026-12-02",
+ "checksDone": 8232,
  "checksPlanned": 104236,
  "percent": 8,
- "dealsFound": 1324,
- "updatedAt": "2026-07-24T21:01:54",
- "publishedAt": "2026-07-25T01:02:02.064534+00:00",
+ "dealsFound": 1371,
+ "updatedAt": "2026-07-24T21:17:00",
+ "publishedAt": "2026-07-25T01:17:09.014218+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 48730
+ "totalDeals": 48775
 }
