@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->ATL 2026-07-29",
- "checksDone": 27306,
+ "phase": "BCN->MSP 2026-07-29",
+ "checksDone": 27630,
  "checksPlanned": 104236,
- "percent": 26,
- "dealsFound": 4876,
- "updatedAt": "2026-07-25T11:24:27",
- "publishedAt": "2026-07-25T15:24:32.023650+00:00",
+ "percent": 27,
+ "dealsFound": 4920,
+ "updatedAt": "2026-07-25T11:39:29",
+ "publishedAt": "2026-07-25T15:39:39.234557+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 52242
+ "totalDeals": 52286
 }
