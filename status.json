@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->DKR 2027-02-03",
- "checksDone": 17871,
+ "phase": "MXP->AKL 2026-09-30",
+ "checksDone": 18213,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 3369,
- "updatedAt": "2026-07-25T04:20:35",
- "publishedAt": "2026-07-25T08:20:43.854043+00:00",
+ "dealsFound": 3409,
+ "updatedAt": "2026-07-25T04:35:44",
+ "publishedAt": "2026-07-25T08:35:50.657163+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 50743
+ "totalDeals": 50783
 }
