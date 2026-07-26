@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->MRU 2027-02-24",
- "checksDone": 55314,
+ "phase": "EDI->MUC 2026-10-21",
+ "checksDone": 55632,
  "checksPlanned": 104236,
  "percent": 53,
- "dealsFound": 9439,
- "updatedAt": "2026-07-26T07:35:03",
- "publishedAt": "2026-07-26T11:35:15.564254+00:00",
+ "dealsFound": 9441,
+ "updatedAt": "2026-07-26T07:50:20",
+ "publishedAt": "2026-07-26T11:50:33.542092+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 56276
+ "totalDeals": 56278
 }
