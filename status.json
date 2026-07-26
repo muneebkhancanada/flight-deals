@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ISB->ATL 2027-03-17",
- "checksDone": 61989,
+ "phase": "BJS->CLT 2026-09-09",
+ "checksDone": 62340,
  "checksPlanned": 104236,
- "percent": 59,
- "dealsFound": 10229,
- "updatedAt": "2026-07-26T12:38:46",
- "publishedAt": "2026-07-26T16:38:50.895191+00:00",
+ "percent": 60,
+ "dealsFound": 10255,
+ "updatedAt": "2026-07-26T12:53:53",
+ "publishedAt": "2026-07-26T16:53:59.975568+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 57066
+ "totalDeals": 57092
 }
