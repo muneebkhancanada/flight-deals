@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BUF->KWI 2026-08-19",
- "checksDone": 52473,
+ "phase": "BUF->KTM 2026-12-23",
+ "checksDone": 52839,
  "checksPlanned": 104236,
- "percent": 50,
- "dealsFound": 8951,
- "updatedAt": "2026-07-26T05:33:55",
- "publishedAt": "2026-07-26T09:33:59.918042+00:00",
+ "percent": 51,
+ "dealsFound": 9029,
+ "updatedAt": "2026-07-26T05:48:59",
+ "publishedAt": "2026-07-26T09:49:07.415033+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 55788
+ "totalDeals": 55866
 }
