@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VIE->AUH 2026-08-19",
- "checksDone": 46233,
+ "phase": "MAD->AGP 2027-02-24",
+ "checksDone": 46602,
  "checksPlanned": 104236,
- "percent": 44,
- "dealsFound": 8143,
- "updatedAt": "2026-07-26T01:16:38",
- "publishedAt": "2026-07-26T05:16:45.073586+00:00",
+ "percent": 45,
+ "dealsFound": 8206,
+ "updatedAt": "2026-07-26T01:31:50",
+ "publishedAt": "2026-07-26T05:31:53.867412+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 54980
+ "totalDeals": 55043
 }
