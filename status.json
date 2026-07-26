@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->BJL 2027-02-24",
- "checksDone": 47346,
+ "phase": "FCO->CAI 2027-02-24",
+ "checksDone": 47718,
  "checksPlanned": 104236,
- "percent": 45,
- "dealsFound": 8342,
- "updatedAt": "2026-07-26T02:02:02",
- "publishedAt": "2026-07-26T06:02:08.671982+00:00",
+ "percent": 46,
+ "dealsFound": 8385,
+ "updatedAt": "2026-07-26T02:17:06",
+ "publishedAt": "2026-07-26T06:17:16.823951+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 55179
+ "totalDeals": 55222
 }
