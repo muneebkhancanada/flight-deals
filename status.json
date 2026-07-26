@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YUL->TAS 2027-02-24",
- "checksDone": 40242,
+ "phase": "YOW->VCE 2027-02-24",
+ "checksDone": 40590,
  "checksPlanned": 104236,
  "percent": 39,
- "dealsFound": 7463,
- "updatedAt": "2026-07-25T20:59:20",
- "publishedAt": "2026-07-26T00:59:29.668578+00:00",
+ "dealsFound": 7496,
+ "updatedAt": "2026-07-25T21:14:30",
+ "publishedAt": "2026-07-26T01:14:37.460497+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 54823
+ "totalDeals": 54856
 }
