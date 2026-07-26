@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->CAI 2027-02-24",
- "checksDone": 47718,
+ "phase": "MXP->LHE 2026-12-23",
+ "checksDone": 48087,
  "checksPlanned": 104236,
  "percent": 46,
- "dealsFound": 8385,
- "updatedAt": "2026-07-26T02:17:06",
- "publishedAt": "2026-07-26T06:17:16.823951+00:00",
+ "dealsFound": 8422,
+ "updatedAt": "2026-07-26T02:32:18",
+ "publishedAt": "2026-07-26T06:32:25.636239+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 55222
+ "totalDeals": 55259
 }
