@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KWI->ORD 2027-01-13",
- "checksDone": 60294,
+ "phase": "ZNZ->ORD 2027-03-17",
+ "checksDone": 60621,
  "checksPlanned": 104236,
  "percent": 58,
- "dealsFound": 10036,
- "updatedAt": "2026-07-26T11:23:00",
- "publishedAt": "2026-07-26T15:23:08.569977+00:00",
+ "dealsFound": 10080,
+ "updatedAt": "2026-07-26T11:38:08",
+ "publishedAt": "2026-07-26T15:38:18.378765+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 56873
+ "totalDeals": 56917
 }
