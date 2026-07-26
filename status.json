@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DPS->YVR 2026-09-09",
- "checksDone": 67128,
+ "phase": "KRK->LHR 2026-09-09",
+ "checksDone": 67476,
  "checksPlanned": 104236,
- "percent": 64,
- "dealsFound": 10678,
- "updatedAt": "2026-07-26T16:25:52",
- "publishedAt": "2026-07-26T20:25:58.378133+00:00",
+ "percent": 65,
+ "dealsFound": 10691,
+ "updatedAt": "2026-07-26T16:41:03",
+ "publishedAt": "2026-07-26T20:41:07.759091+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 57515
+ "totalDeals": 57528
 }
