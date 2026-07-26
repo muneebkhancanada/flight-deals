@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MRU->CDG 2027-03-17",
- "checksDone": 68853,
+ "phase": "CAN->AMS 2027-01-13",
+ "checksDone": 69198,
  "checksPlanned": 104236,
  "percent": 66,
- "dealsFound": 11050,
- "updatedAt": "2026-07-26T17:41:29",
- "publishedAt": "2026-07-26T21:41:38.485517+00:00",
+ "dealsFound": 11124,
+ "updatedAt": "2026-07-26T17:56:40",
+ "publishedAt": "2026-07-26T21:56:46.086679+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 57887
+ "totalDeals": 57961
 }
