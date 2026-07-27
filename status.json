@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NRT->IAH 2026-11-11",
- "checksDone": 101559,
+ "phase": "KUL->SFO 2026-11-11",
+ "checksDone": 101895,
  "checksPlanned": 104236,
- "percent": 97,
- "dealsFound": 18384,
- "updatedAt": "2026-07-27T17:41:10",
- "publishedAt": "2026-07-27T21:41:20.588658+00:00",
+ "percent": 98,
+ "dealsFound": 18486,
+ "updatedAt": "2026-07-27T17:56:22",
+ "publishedAt": "2026-07-27T21:56:29.382552+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 65221
+ "totalDeals": 65324
 }
