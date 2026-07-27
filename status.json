@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KUL->EDI 2027-01-13",
- "checksDone": 95850,
+ "phase": "ORD->CPH 2027-01-13",
+ "checksDone": 96174,
  "checksPlanned": 104236,
  "percent": 92,
- "dealsFound": 17139,
- "updatedAt": "2026-07-27T13:23:35",
- "publishedAt": "2026-07-27T17:23:43.959635+00:00",
+ "dealsFound": 17302,
+ "updatedAt": "2026-07-27T13:38:48",
+ "publishedAt": "2026-07-27T17:38:53.594868+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 63978
+ "totalDeals": 64140
 }
