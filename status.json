@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CLT->NCE 2026-11-11",
- "checksDone": 96843,
+ "phase": "DFW->HND 2026-11-11",
+ "checksDone": 97167,
  "checksPlanned": 104236,
  "percent": 93,
- "dealsFound": 17505,
- "updatedAt": "2026-07-27T14:09:08",
- "publishedAt": "2026-07-27T18:09:15.693780+00:00",
+ "dealsFound": 17611,
+ "updatedAt": "2026-07-27T14:24:14",
+ "publishedAt": "2026-07-27T18:24:24.903307+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 64343
+ "totalDeals": 64449
 }
