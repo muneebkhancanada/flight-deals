@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SIN->ARN 2027-01-13",
- "checksDone": 95178,
+ "phase": "JNB->BRU 2027-01-13",
+ "checksDone": 95514,
  "checksPlanned": 104236,
- "percent": 91,
- "dealsFound": 16966,
- "updatedAt": "2026-07-27T12:53:13",
- "publishedAt": "2026-07-27T16:53:23.327325+00:00",
+ "percent": 92,
+ "dealsFound": 17049,
+ "updatedAt": "2026-07-27T13:08:23",
+ "publishedAt": "2026-07-27T17:08:32.937161+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 63805
+ "totalDeals": 63889
 }
