@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BKK->EWR 2026-11-11",
- "checksDone": 89595,
+ "phase": "DPS->BOS 2026-09-09",
+ "checksDone": 89928,
  "checksPlanned": 104236,
  "percent": 86,
- "dealsFound": 15549,
- "updatedAt": "2026-07-27T08:35:37",
- "publishedAt": "2026-07-27T12:35:48.591511+00:00",
+ "dealsFound": 15653,
+ "updatedAt": "2026-07-27T08:50:53",
+ "publishedAt": "2026-07-27T12:50:58.709398+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 62387
+ "totalDeals": 62491
 }
