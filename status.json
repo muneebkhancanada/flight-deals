@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TIA->BCN 2027-03-17",
- "checksDone": 72033,
+ "phase": "ZNZ->BCN 2027-01-13",
+ "checksDone": 72378,
  "checksPlanned": 104236,
  "percent": 69,
- "dealsFound": 11639,
- "updatedAt": "2026-07-26T19:57:48",
- "publishedAt": "2026-07-26T23:57:55.319377+00:00",
+ "dealsFound": 11730,
+ "updatedAt": "2026-07-26T20:12:59",
+ "publishedAt": "2026-07-27T00:13:04.867139+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 58476
+ "totalDeals": 58567
 }
