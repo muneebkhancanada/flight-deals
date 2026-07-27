@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ORD->CPH 2027-01-13",
- "checksDone": 96174,
+ "phase": "MSP->CPT 2026-09-09",
+ "checksDone": 96516,
  "checksPlanned": 104236,
- "percent": 92,
- "dealsFound": 17302,
- "updatedAt": "2026-07-27T13:38:48",
- "publishedAt": "2026-07-27T17:38:53.594868+00:00",
+ "percent": 93,
+ "dealsFound": 17396,
+ "updatedAt": "2026-07-27T13:53:57",
+ "publishedAt": "2026-07-27T17:54:04.937860+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 64140
+ "totalDeals": 64233
 }
