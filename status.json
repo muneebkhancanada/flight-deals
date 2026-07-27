@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->BRU 2026-11-11",
- "checksDone": 82803,
+ "phase": "PHL->AKL 2026-09-09",
+ "checksDone": 83136,
  "checksPlanned": 104236,
- "percent": 79,
- "dealsFound": 13703,
- "updatedAt": "2026-07-27T03:32:07",
- "publishedAt": "2026-07-27T07:32:16.233428+00:00",
+ "percent": 80,
+ "dealsFound": 13826,
+ "updatedAt": "2026-07-27T03:47:16",
+ "publishedAt": "2026-07-27T07:47:23.694843+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 60543
+ "totalDeals": 60663
 }
