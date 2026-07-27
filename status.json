@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YUL->NRT 2027-03-17",
- "checksDone": 85485,
+ "phase": "YYC->AKL 2026-09-09",
+ "checksDone": 85812,
  "checksPlanned": 104236,
  "percent": 82,
- "dealsFound": 14742,
- "updatedAt": "2026-07-27T05:33:56",
- "publishedAt": "2026-07-27T09:34:03.768218+00:00",
+ "dealsFound": 14872,
+ "updatedAt": "2026-07-27T05:49:08",
+ "publishedAt": "2026-07-27T09:49:12.758677+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 61581
+ "totalDeals": 61709
 }
