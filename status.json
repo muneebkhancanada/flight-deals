@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VIE->MUC 2026-09-09",
- "checksDone": 93480,
+ "phase": "OSL->VIE 2026-09-09",
+ "checksDone": 93816,
  "checksPlanned": 104236,
  "percent": 90,
- "dealsFound": 16623,
- "updatedAt": "2026-07-27T11:37:34",
- "publishedAt": "2026-07-27T15:37:37.968433+00:00",
+ "dealsFound": 16722,
+ "updatedAt": "2026-07-27T11:52:39",
+ "publishedAt": "2026-07-27T15:52:46.849677+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 63460
+ "totalDeals": 63559
 }
