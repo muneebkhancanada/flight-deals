@@ -1,23 +1,19 @@
 {
- "running": false,
- "mode": "full",
- "phase": "finished",
- "checksDone": 104236,
- "checksPlanned": 104236,
- "percent": 100,
- "dealsFound": 19071,
- "updatedAt": "2026-07-27T19:40:09",
- "publishedAt": "2026-07-27T23:40:15.218551+00:00",
- "queuedCount": 2,
+ "running": true,
+ "mode": "roundtrip",
+ "phase": "YYZ->DXB 2026-11-11",
+ "checksDone": 177,
+ "checksPlanned": 499,
+ "percent": 35,
+ "dealsFound": 72,
+ "updatedAt": "2026-07-27T19:55:25",
+ "publishedAt": "2026-07-27T23:55:31.470370+00:00",
+ "queuedCount": 1,
  "queued": [
-  {
-   "label": "round trip (primary ⇄ all, 12-24 nights)",
-   "mode": "quick"
-  },
   {
    "label": "round trip (EU ⇄ middle_east, 12-24 nights)",
    "mode": "quick"
   }
  ],
- "totalDeals": 65894
+ "totalDeals": 65966
 }
