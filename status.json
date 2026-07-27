@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "full",
- "phase": "NAP->ARN 2026-11-11",
- "checksDone": 103935,
+ "phase": "finished",
+ "checksDone": 104236,
  "checksPlanned": 104236,
  "percent": 100,
- "dealsFound": 19053,
- "updatedAt": "2026-07-27T19:27:21",
- "publishedAt": "2026-07-27T23:27:25.515918+00:00",
+ "dealsFound": 19071,
+ "updatedAt": "2026-07-27T19:40:09",
+ "publishedAt": "2026-07-27T23:40:15.218551+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 65877
+ "totalDeals": 65894
 }
