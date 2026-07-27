@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->ARN 2027-01-13",
- "checksDone": 88938,
+ "phase": "HAN->JFK 2026-11-11",
+ "checksDone": 89271,
  "checksPlanned": 104236,
- "percent": 85,
- "dealsFound": 15369,
- "updatedAt": "2026-07-27T08:05:19",
- "publishedAt": "2026-07-27T12:05:30.676635+00:00",
+ "percent": 86,
+ "dealsFound": 15456,
+ "updatedAt": "2026-07-27T08:20:31",
+ "publishedAt": "2026-07-27T12:20:40.252599+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 62206
+ "totalDeals": 62295
 }
