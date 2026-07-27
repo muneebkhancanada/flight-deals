@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->KUL 2027-01-13",
- "checksDone": 97494,
+ "phase": "LAX->SGN 2027-03-17",
+ "checksDone": 97821,
  "checksPlanned": 104236,
  "percent": 94,
- "dealsFound": 17783,
- "updatedAt": "2026-07-27T14:39:30",
- "publishedAt": "2026-07-27T18:39:35.185888+00:00",
+ "dealsFound": 17955,
+ "updatedAt": "2026-07-27T14:54:40",
+ "publishedAt": "2026-07-27T18:54:44.236451+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 64621
+ "totalDeals": 64793
 }
