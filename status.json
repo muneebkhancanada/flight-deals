@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->ZRH 2027-03-17",
- "checksDone": 99177,
+ "phase": "LIS->VIE 2027-01-13",
+ "checksDone": 99522,
  "checksPlanned": 104236,
  "percent": 95,
- "dealsFound": 18132,
- "updatedAt": "2026-07-27T15:55:11",
- "publishedAt": "2026-07-27T19:55:19.012472+00:00",
+ "dealsFound": 18185,
+ "updatedAt": "2026-07-27T16:10:24",
+ "publishedAt": "2026-07-27T20:10:28.612898+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 64969
+ "totalDeals": 65022
 }
