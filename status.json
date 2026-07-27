@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AUH->OSL 2027-01-13",
- "checksDone": 75246,
+ "phase": "NAP->BRU 2026-09-09",
+ "checksDone": 75624,
  "checksPlanned": 104236,
- "percent": 72,
- "dealsFound": 12134,
- "updatedAt": "2026-07-26T22:14:04",
- "publishedAt": "2026-07-27T02:14:11.027658+00:00",
+ "percent": 73,
+ "dealsFound": 12176,
+ "updatedAt": "2026-07-26T22:29:08",
+ "publishedAt": "2026-07-27T02:29:18.410105+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 58971
+ "totalDeals": 59013
 }
