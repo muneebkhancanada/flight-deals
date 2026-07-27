@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->DXB 2026-11-11",
- "checksDone": 87891,
+ "phase": "ARN->CPH 2026-11-11",
+ "checksDone": 88251,
  "checksPlanned": 104236,
- "percent": 84,
- "dealsFound": 15240,
- "updatedAt": "2026-07-27T07:19:55",
- "publishedAt": "2026-07-27T11:20:05.114748+00:00",
+ "percent": 85,
+ "dealsFound": 15276,
+ "updatedAt": "2026-07-27T07:35:09",
+ "publishedAt": "2026-07-27T11:35:14.119686+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 62077
+ "totalDeals": 62113
 }
