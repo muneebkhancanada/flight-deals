@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->MEL 2027-03-17",
- "checksDone": 82461,
+ "phase": "PHL->BRU 2026-11-11",
+ "checksDone": 82803,
  "checksPlanned": 104236,
  "percent": 79,
- "dealsFound": 13572,
- "updatedAt": "2026-07-27T03:17:00",
- "publishedAt": "2026-07-27T07:17:07.144573+00:00",
+ "dealsFound": 13703,
+ "updatedAt": "2026-07-27T03:32:07",
+ "publishedAt": "2026-07-27T07:32:16.233428+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 60409
+ "totalDeals": 60543
 }
