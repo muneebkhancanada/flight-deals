@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "YYZ->GIG 2027-02-27",
- "checksDone": 372,
+ "phase": "finished",
+ "checksDone": 499,
  "checksPlanned": 499,
- "percent": 75,
- "dealsFound": 152,
- "updatedAt": "2026-07-27T20:10:22",
- "publishedAt": "2026-07-28T00:10:39.352635+00:00",
+ "percent": 100,
+ "dealsFound": 193,
+ "updatedAt": "2026-07-27T20:18:54",
+ "publishedAt": "2026-07-28T00:18:57.780446+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 66048
+ "totalDeals": 66087
 }
