@@ -1,19 +1,14 @@
 {
- "running": false,
+ "running": true,
  "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 499,
- "checksPlanned": 499,
- "percent": 100,
- "dealsFound": 193,
- "updatedAt": "2026-07-27T20:18:54",
- "publishedAt": "2026-07-28T00:18:57.780446+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "round trip (EU ⇄ middle_east, 12-24 nights)",
-   "mode": "quick"
-  }
- ],
- "totalDeals": 66087
+ "phase": "FCO->SHJ 2026-11-22",
+ "checksDone": 240,
+ "checksPlanned": 500,
+ "percent": 48,
+ "dealsFound": 47,
+ "updatedAt": "2026-07-27T20:34:11",
+ "publishedAt": "2026-07-28T00:34:22.680495+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 66136
 }
