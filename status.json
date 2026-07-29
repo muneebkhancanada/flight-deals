@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "MUC->EZE 2026-08-02",
- "checksDone": 2523,
+ "phase": "GRU->ZRH 2027-02-07",
+ "checksDone": 2592,
  "checksPlanned": 2750,
- "percent": 92,
- "dealsFound": 599,
- "updatedAt": "2026-07-28T18:20:30",
- "publishedAt": "2026-07-28T22:20:46.386746+00:00",
+ "percent": 94,
+ "dealsFound": 600,
+ "updatedAt": "2026-07-28T18:24:01",
+ "publishedAt": "2026-07-29T04:07:46.312736+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 66773
+ "totalDeals": 66770
 }
