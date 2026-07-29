@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->ARN 2026-08-03",
- "checksDone": 9126,
+ "phase": "KRK->ATH 2027-02-08",
+ "checksDone": 9471,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1493,
- "updatedAt": "2026-07-29T17:58:21",
- "publishedAt": "2026-07-29T21:58:26.896591+00:00",
+ "dealsFound": 1517,
+ "updatedAt": "2026-07-29T18:13:26",
+ "publishedAt": "2026-07-29T22:13:36.467832+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 69020
+ "totalDeals": 69044
 }
