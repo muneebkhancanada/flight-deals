@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "MEL->YYZ 2026-12-21",
- "checksDone": 1683,
+ "phase": "GRU->ATL 2026-08-03",
+ "checksDone": 2019,
  "checksPlanned": 2750,
- "percent": 61,
- "dealsFound": 262,
- "updatedAt": "2026-07-29T01:31:51",
- "publishedAt": "2026-07-29T05:31:58.963669+00:00",
+ "percent": 73,
+ "dealsFound": 360,
+ "updatedAt": "2026-07-29T01:47:03",
+ "publishedAt": "2026-07-29T05:47:08.581017+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 67046
+ "totalDeals": 67143
 }
