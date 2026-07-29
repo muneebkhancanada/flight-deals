@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CLT->KEF 2027-02-08",
- "checksDone": 5739,
+ "phase": "YYC->AMM 2026-10-05",
+ "checksDone": 6069,
  "checksPlanned": 104236,
  "percent": 6,
- "dealsFound": 1021,
- "updatedAt": "2026-07-29T15:26:28",
- "publishedAt": "2026-07-29T19:26:33.896177+00:00",
+ "dealsFound": 1134,
+ "updatedAt": "2026-07-29T15:41:36",
+ "publishedAt": "2026-07-29T19:41:45.747088+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 68549
+ "totalDeals": 68662
 }
