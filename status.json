@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->ICN 2026-12-07",
- "checksDone": 7440,
+ "phase": "HND->MIA 2026-12-07",
+ "checksDone": 7776,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 1228,
- "updatedAt": "2026-07-29T16:42:25",
- "publishedAt": "2026-07-29T20:42:30.580008+00:00",
+ "dealsFound": 1262,
+ "updatedAt": "2026-07-29T16:57:32",
+ "publishedAt": "2026-07-29T20:57:40.637313+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 68756
+ "totalDeals": 68789
 }
