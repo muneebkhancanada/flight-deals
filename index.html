@@ -135,6 +135,7 @@
   .tag{display:inline-block;font-size:11px;font-weight:700;color:var(--brand-ink);
     border:1px solid var(--line);border-radius:6px;padding:1px 6px;margin-left:6px;vertical-align:2px}
   .tag.value{color:var(--great);border-color:var(--great)}
+  .tag.detour{color:#b45309;border-color:#f59e0b;background:rgba(245,158,11,.10);cursor:help}
   .empty{text-align:center;color:var(--muted);padding:40px 0}
   footer{color:var(--muted);font-size:12px;margin-top:26px;line-height:1.7}
   .alsocheck{padding-bottom:12px;border-bottom:1px solid var(--line)}
@@ -446,11 +447,16 @@ function card(d){
   const pph=d.pricePerHour>0?`<b>C$${d.pricePerHour}/hr</b> flying`:"";
   const extra=[dur,pph].filter(Boolean).map(x=>`<span class="sep">·</span>${x}`).join("");
   const txn=d.txnId>0?`<span class="txn" title="Transaction #${d.txnId} — a unique, ever-increasing number assigned when this deal was found, so it can always be ranked by true discovery order">#${d.txnId}</span>`:"";
+  // Detour hint: airborne time well over the direct (nonstop) flight time
+  // means the connection routes the wrong way. Same 1.5x bar as the value
+  // routing guard, so a value-badged deal never also shows "detour".
+  const detour = (d.directMin>0 && d.durationMin > 1.5*d.directMin)
+    ? `<span class="tag detour" title="Airborne ${fmtDur(d.durationMin)} vs ~${fmtDur(d.directMin)} nonstop — this connection routes the long way, which pads the flying time (and flatters $/hr)">↩ +${Math.round((d.durationMin-d.directMin)/60)}h detour</span>` : "";
   return `<article class="deal">
     <div>
       <span class="tier ${tier}">${tier}</span>
       <div class="route">${esc(d.origin)}<span class="arrow">${rt?"⇄":"→"}</span>${esc(d.destination)}
-        ${rt?'<span class="tag">round trip</span>':''}${d.valueDeal?'<span class="tag value">value</span>':''}</div>
+        ${rt?'<span class="tag">round trip</span>':''}${d.valueDeal?'<span class="tag value">value</span>':''}${detour}</div>
       <div class="meta">${dates}<span class="sep">·</span>${esc(d.airline||"—")}<span class="sep">·</span>${stops}${extra}${txn?`<span class="sep">·</span>${txn}`:""}</div>
     </div>
     <div class="price">C$${Number(d.priceCad).toLocaleString()}</div>
