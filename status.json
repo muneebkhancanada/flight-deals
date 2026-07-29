@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "GRU->ATL 2026-08-03",
- "checksDone": 2019,
+ "phase": "ATL->ATH 2026-08-03",
+ "checksDone": 2355,
  "checksPlanned": 2750,
- "percent": 73,
- "dealsFound": 360,
- "updatedAt": "2026-07-29T01:47:03",
- "publishedAt": "2026-07-29T05:47:08.581017+00:00",
+ "percent": 86,
+ "dealsFound": 487,
+ "updatedAt": "2026-07-29T02:02:06",
+ "publishedAt": "2026-07-29T06:02:16.974544+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 67143
+ "totalDeals": 67272
 }
