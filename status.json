@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MNL->FRA 2026-08-03",
- "checksDone": 4374,
+ "phase": "ATH->FCO 2026-12-07",
+ "checksDone": 4716,
  "checksPlanned": 104236,
- "percent": 4,
- "dealsFound": 814,
- "updatedAt": "2026-07-29T14:25:42",
- "publishedAt": "2026-07-29T18:25:52.844092+00:00",
+ "percent": 5,
+ "dealsFound": 869,
+ "updatedAt": "2026-07-29T14:40:53",
+ "publishedAt": "2026-07-29T18:41:02.542192+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 68343
+ "totalDeals": 68398
 }
