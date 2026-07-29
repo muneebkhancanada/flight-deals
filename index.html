@@ -129,9 +129,11 @@
   /* fare = a browse snapshot (cheapest fare on the route), not a deal */
   .tier.fare{background:rgba(120,144,156,.16);color:#607d8b}
   .why{grid-column:1/-1;color:var(--muted);font-size:12.5px}
-  .book{grid-column:1/-1;justify-self:start;margin-top:4px}
+  .book{grid-column:1/-1;justify-self:start;margin-top:4px;display:flex;gap:8px;flex-wrap:wrap}
   .book a{display:inline-block;background:var(--brand);color:#fff;font-weight:600;
-    font-size:13px;padding:7px 14px;border-radius:9px}
+    font-size:13px;padding:7px 14px;border-radius:9px;text-decoration:none}
+  .book a.alt{background:var(--card);color:var(--brand-ink);border:1px solid var(--line)}
+  .book a.alt:hover{border-color:var(--brand)}
   .tag{display:inline-block;font-size:11px;font-weight:700;color:var(--brand-ink);
     border:1px solid var(--line);border-radius:6px;padding:1px 6px;margin-left:6px;vertical-align:2px}
   .tag.value{color:var(--great);border-color:var(--great)}
@@ -438,6 +440,16 @@ function paintAirlines(){
     </div>`).join("") ||
     "<div class='empty' style='position:static'>No airlines in this selection.</div>";
 }
+// Skyscanner deep link (no API): opens the exact route/date search. Path
+// dates are YYMMDD; codes lowercase; a second date = round trip.
+function skyLink(d){
+  const o=(d.origin||"").toLowerCase(), dst=(d.destination||"").toLowerCase();
+  const ymd=s=>/^\d{4}-\d{2}-\d{2}$/.test(s||"")?s.replace(/-/g,"").slice(2):"";
+  if(o.length!==3||dst.length!==3||!ymd(d.flightDate)) return "";
+  let u=`https://www.skyscanner.ca/transport/flights/${o}/${dst}/${ymd(d.flightDate)}/`;
+  if(d.tripType==="round_trip"&&ymd(d.returnDate)) u+=`${ymd(d.returnDate)}/`;
+  return `<a class="alt" href="${u}?adultsv2=1&cabinclass=economy" target="_blank" rel="noopener" title="Cross-check this fare (and OTA/budget options Google may hide) on Skyscanner">Check on Skyscanner →</a>`;
+}
 function card(d){
   const rt=d.tripType==="round_trip";
   const dates=rt&&d.returnDate?`${fmtDate(d.flightDate)} → ${fmtDate(d.returnDate)}`:fmtDate(d.flightDate);
@@ -461,7 +473,7 @@ function card(d){
     </div>
     <div class="price">C$${Number(d.priceCad).toLocaleString()}</div>
     ${d.whyDeal?`<div class="why">${esc(d.whyDeal)}</div>`:""}
-    <div class="book"><a href="${esc(d.bookingUrl)}" target="_blank" rel="noopener">Book on Google Flights →</a></div>
+    <div class="book"><a href="${esc(d.bookingUrl)}" target="_blank" rel="noopener">Book on Google Flights →</a>${skyLink(d)}</div>
   </article>`;
 }
 

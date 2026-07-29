@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "MSP->DUB 2027-02-08",
- "checksDone": 2328,
+ "phase": "LIS->MSP 2027-02-08",
+ "checksDone": 2664,
  "checksPlanned": 2750,
- "percent": 85,
- "dealsFound": 23,
- "updatedAt": "2026-07-29T10:48:47",
- "publishedAt": "2026-07-29T14:48:57.571943+00:00",
+ "percent": 97,
+ "dealsFound": 25,
+ "updatedAt": "2026-07-29T11:04:04",
+ "publishedAt": "2026-07-29T15:04:09.980740+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 67533
+ "totalDeals": 67535
 }
