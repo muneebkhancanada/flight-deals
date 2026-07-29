@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "HAN->YYZ 2027-01-04",
- "checksDone": 1344,
+ "phase": "MEL->YYZ 2027-02-01",
+ "checksDone": 1686,
  "checksPlanned": 2750,
- "percent": 49,
- "dealsFound": 25,
- "updatedAt": "2026-07-29T03:20:31",
- "publishedAt": "2026-07-29T07:20:39.195896+00:00",
+ "percent": 61,
+ "dealsFound": 29,
+ "updatedAt": "2026-07-29T03:35:43",
+ "publishedAt": "2026-07-29T07:35:47.911680+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 67333
+ "totalDeals": 67337
 }
