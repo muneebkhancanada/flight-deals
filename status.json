@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "daily",
- "phase": "finished",
- "checksDone": 2750,
- "checksPlanned": 2750,
- "percent": 100,
- "dealsFound": 27,
- "updatedAt": "2026-07-29T11:08:20",
- "publishedAt": "2026-07-29T15:08:26.315236+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "full",
-   "mode": "full"
-  }
- ],
- "totalDeals": 67537
+ "running": true,
+ "mode": "full",
+ "phase": "CPT->EDI 2026-12-07",
+ "checksDone": 336,
+ "checksPlanned": 104236,
+ "percent": 0,
+ "dealsFound": 39,
+ "updatedAt": "2026-07-29T11:23:38",
+ "publishedAt": "2026-07-29T15:23:46.429383+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 67578
 }
