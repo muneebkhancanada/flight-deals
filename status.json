@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HAN->ATH 2026-10-05",
- "checksDone": 5409,
+ "phase": "CLT->KEF 2027-02-08",
+ "checksDone": 5739,
  "checksPlanned": 104236,
- "percent": 5,
- "dealsFound": 962,
- "updatedAt": "2026-07-29T15:11:18",
- "publishedAt": "2026-07-29T19:11:23.687138+00:00",
+ "percent": 6,
+ "dealsFound": 1021,
+ "updatedAt": "2026-07-29T15:26:28",
+ "publishedAt": "2026-07-29T19:26:33.896177+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 68491
+ "totalDeals": 68549
 }
