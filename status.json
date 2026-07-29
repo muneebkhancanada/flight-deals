@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "BCN->MSP 2026-12-07",
- "checksDone": 2697,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 98,
+ "percent": 100,
  "dealsFound": 525,
- "updatedAt": "2026-07-29T02:17:15",
- "publishedAt": "2026-07-29T06:17:25.500706+00:00",
+ "updatedAt": "2026-07-29T02:19:50",
+ "publishedAt": "2026-07-29T06:19:55.894172+00:00",
  "queuedCount": 1,
  "queued": [
   {
