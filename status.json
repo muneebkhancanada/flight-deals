@@ -1,14 +1,23 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "GRU->ZRH 2027-02-07",
- "checksDone": 2592,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 94,
- "dealsFound": 600,
- "updatedAt": "2026-07-28T18:24:01",
- "publishedAt": "2026-07-29T04:07:46.312736+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 66770
+ "percent": 100,
+ "dealsFound": 614,
+ "updatedAt": "2026-07-29T00:15:48",
+ "publishedAt": "2026-07-29T04:15:54.693496+00:00",
+ "queuedCount": 2,
+ "queued": [
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  }
+ ],
+ "totalDeals": 66784
 }
