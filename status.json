@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CMN->MXP 2026-10-05",
- "checksDone": 8781,
+ "phase": "BCN->ARN 2026-08-03",
+ "checksDone": 9126,
  "checksPlanned": 104236,
- "percent": 8,
- "dealsFound": 1452,
- "updatedAt": "2026-07-29T17:43:11",
- "publishedAt": "2026-07-29T21:43:16.515852+00:00",
+ "percent": 9,
+ "dealsFound": 1493,
+ "updatedAt": "2026-07-29T17:58:21",
+ "publishedAt": "2026-07-29T21:58:26.896591+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 68979
+ "totalDeals": 69020
 }
