@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "quick",
- "phase": "YYZ->CPT 2027-01-30",
- "checksDone": 639,
+ "phase": "finished",
+ "checksDone": 752,
  "checksPlanned": 752,
- "percent": 85,
- "dealsFound": 128,
- "updatedAt": "2026-07-29T08:57:29",
- "publishedAt": "2026-07-29T12:57:34.522948+00:00",
+ "percent": 100,
+ "dealsFound": 139,
+ "updatedAt": "2026-07-29T09:02:34",
+ "publishedAt": "2026-07-29T13:02:39.766512+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 67499
+ "totalDeals": 67510
 }
