@@ -1,27 +1,23 @@
 {
  "running": true,
  "mode": "quick",
- "phase": "YYZ->BAH 2026-12-01",
- "checksDone": 309,
+ "phase": "YYZ->CPT 2027-01-30",
+ "checksDone": 639,
  "checksPlanned": 752,
- "percent": 41,
- "dealsFound": 36,
- "updatedAt": "2026-07-29T08:42:06",
- "publishedAt": "2026-07-29T12:42:22.324748+00:00",
- "queuedCount": 3,
+ "percent": 85,
+ "dealsFound": 128,
+ "updatedAt": "2026-07-29T08:57:29",
+ "publishedAt": "2026-07-29T12:57:34.522948+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "quick",
-   "mode": "quick"
-  },
-  {
-   "label": "quick",
-   "mode": "quick"
-  },
   {
    "label": "daily",
    "mode": "daily"
+  },
+  {
+   "label": "full",
+   "mode": "full"
   }
  ],
- "totalDeals": 67408
+ "totalDeals": 67499
 }
