@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->OPO 2026-10-05",
- "checksDone": 1641,
+ "phase": "ZRH->MAD 2027-02-08",
+ "checksDone": 1983,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 513,
- "updatedAt": "2026-07-29T12:24:23",
- "publishedAt": "2026-07-29T16:24:32.408836+00:00",
+ "dealsFound": 536,
+ "updatedAt": "2026-07-29T12:39:35",
+ "publishedAt": "2026-07-29T16:39:43.048834+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 68050
+ "totalDeals": 68073
 }
