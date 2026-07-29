@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->MAD 2027-02-08",
- "checksDone": 6747,
+ "phase": "LIS->MEL 2026-12-07",
+ "checksDone": 7092,
  "checksPlanned": 104236,
- "percent": 6,
- "dealsFound": 1186,
- "updatedAt": "2026-07-29T16:12:00",
- "publishedAt": "2026-07-29T20:12:09.799735+00:00",
+ "percent": 7,
+ "dealsFound": 1218,
+ "updatedAt": "2026-07-29T16:27:12",
+ "publishedAt": "2026-07-29T20:27:21.561123+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 68714
+ "totalDeals": 68746
 }
