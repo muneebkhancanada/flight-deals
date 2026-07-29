@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KRK->ATH 2027-02-08",
- "checksDone": 9471,
+ "phase": "MIA->KRK 2026-12-07",
+ "checksDone": 9804,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1517,
- "updatedAt": "2026-07-29T18:13:26",
- "publishedAt": "2026-07-29T22:13:36.467832+00:00",
+ "dealsFound": 1647,
+ "updatedAt": "2026-07-29T18:28:42",
+ "publishedAt": "2026-07-29T22:28:48.336495+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 69044
+ "totalDeals": 69174
 }
