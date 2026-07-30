@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->CPH 2026-10-05",
- "checksDone": 14169,
+ "phase": "BCN->NRT 2026-12-07",
+ "checksDone": 14508,
  "checksPlanned": 104236,
  "percent": 14,
- "dealsFound": 2766,
- "updatedAt": "2026-07-29T21:45:59",
- "publishedAt": "2026-07-30T01:46:08.043773+00:00",
+ "dealsFound": 2822,
+ "updatedAt": "2026-07-29T22:01:12",
+ "publishedAt": "2026-07-30T02:01:17.479061+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 70269
+ "totalDeals": 70324
 }
