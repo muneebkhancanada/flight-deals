@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->EDI 2026-08-03",
- "checksDone": 15882,
+ "phase": "SEA->WAW 2026-08-03",
+ "checksDone": 16206,
  "checksPlanned": 104236,
- "percent": 15,
- "dealsFound": 2936,
- "updatedAt": "2026-07-29T23:01:48",
- "publishedAt": "2026-07-30T03:01:59.843689+00:00",
+ "percent": 16,
+ "dealsFound": 3101,
+ "updatedAt": "2026-07-29T23:16:58",
+ "publishedAt": "2026-07-30T03:17:08.791718+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 70433
+ "totalDeals": 70599
 }
