@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DKR->EDI 2026-08-03",
- "checksDone": 13182,
+ "phase": "DFW->FRA 2027-02-08",
+ "checksDone": 13503,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2289,
- "updatedAt": "2026-07-29T21:00:28",
- "publishedAt": "2026-07-30T01:00:36.965135+00:00",
+ "dealsFound": 2459,
+ "updatedAt": "2026-07-29T21:15:38",
+ "publishedAt": "2026-07-30T01:15:46.304987+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 69803
+ "totalDeals": 69965
 }
