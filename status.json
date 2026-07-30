@@ -1,14 +1,14 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "BCN->MIA 2027-02-09",
- "checksDone": 2652,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 96,
- "dealsFound": 710,
- "updatedAt": "2026-07-30T17:40:04",
- "publishedAt": "2026-07-30T21:40:09.283565+00:00",
+ "percent": 100,
+ "dealsFound": 723,
+ "updatedAt": "2026-07-30T17:44:42",
+ "publishedAt": "2026-07-30T21:44:48.644377+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 70736
+ "totalDeals": 70748
 }
