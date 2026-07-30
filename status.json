@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DEN->PRG 2026-08-03",
- "checksDone": 13830,
+ "phase": "YYC->CPH 2026-10-05",
+ "checksDone": 14169,
  "checksPlanned": 104236,
- "percent": 13,
- "dealsFound": 2646,
- "updatedAt": "2026-07-29T21:30:51",
- "publishedAt": "2026-07-30T01:30:57.026336+00:00",
+ "percent": 14,
+ "dealsFound": 2766,
+ "updatedAt": "2026-07-29T21:45:59",
+ "publishedAt": "2026-07-30T01:46:08.043773+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 70148
+ "totalDeals": 70269
 }
