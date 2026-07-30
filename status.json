@@ -1,14 +1,19 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->NRT 2026-12-07",
- "checksDone": 14508,
+ "phase": "HEL->MIA 2026-08-03",
+ "checksDone": 14850,
  "checksPlanned": 104236,
  "percent": 14,
- "dealsFound": 2822,
- "updatedAt": "2026-07-29T22:01:12",
- "publishedAt": "2026-07-30T02:01:17.479061+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 70324
+ "dealsFound": 2843,
+ "updatedAt": "2026-07-29T22:16:17",
+ "publishedAt": "2026-07-30T02:16:28.818042+00:00",
+ "queuedCount": 1,
+ "queued": [
+  {
+   "label": "daily",
+   "mode": "daily"
+  }
+ ],
+ "totalDeals": 70346
 }
