@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DFW->FRA 2027-02-08",
- "checksDone": 13503,
+ "phase": "DEN->PRG 2026-08-03",
+ "checksDone": 13830,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2459,
- "updatedAt": "2026-07-29T21:15:38",
- "publishedAt": "2026-07-30T01:15:46.304987+00:00",
+ "dealsFound": 2646,
+ "updatedAt": "2026-07-29T21:30:51",
+ "publishedAt": "2026-07-30T01:30:57.026336+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 69965
+ "totalDeals": 70148
 }
