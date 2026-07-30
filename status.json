@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYD->LHR 2026-10-05",
- "checksDone": 12165,
+ "phase": "BNE->MUC 2026-12-07",
+ "checksDone": 12492,
  "checksPlanned": 104236,
  "percent": 12,
- "dealsFound": 2092,
- "updatedAt": "2026-07-29T20:14:57",
- "publishedAt": "2026-07-30T00:15:06.246168+00:00",
+ "dealsFound": 2186,
+ "updatedAt": "2026-07-29T20:30:11",
+ "publishedAt": "2026-07-30T00:30:16.361291+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 69617
+ "totalDeals": 69703
 }
