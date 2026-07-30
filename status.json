@@ -1,19 +1,14 @@
 {
  "running": true,
- "mode": "full",
- "phase": "SEA->WAW 2026-08-03",
- "checksDone": 16206,
- "checksPlanned": 104236,
- "percent": 16,
- "dealsFound": 3101,
- "updatedAt": "2026-07-29T23:16:58",
- "publishedAt": "2026-07-30T03:17:08.791718+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  }
- ],
- "totalDeals": 70599
+ "mode": "daily",
+ "phase": "YYZ->KWI 2026-11-24",
+ "checksDone": 315,
+ "checksPlanned": 2750,
+ "percent": 11,
+ "dealsFound": 40,
+ "updatedAt": "2026-07-30T15:53:40",
+ "publishedAt": "2026-07-30T19:53:46.051140+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 70095
 }
