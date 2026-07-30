@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "YYZ->KWI 2026-11-24",
- "checksDone": 315,
+ "phase": "YYZ->UIO 2027-01-19",
+ "checksDone": 642,
  "checksPlanned": 2750,
- "percent": 11,
- "dealsFound": 40,
- "updatedAt": "2026-07-30T15:53:40",
- "publishedAt": "2026-07-30T19:53:46.051140+00:00",
+ "percent": 23,
+ "dealsFound": 171,
+ "updatedAt": "2026-07-30T16:08:51",
+ "publishedAt": "2026-07-30T20:09:00.042841+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 70095
+ "totalDeals": 70198
 }
