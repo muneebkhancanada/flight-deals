@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NRT->BCN 2026-12-07",
- "checksDone": 15528,
+ "phase": "MIA->EDI 2026-08-03",
+ "checksDone": 15882,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 2908,
- "updatedAt": "2026-07-29T22:46:40",
- "publishedAt": "2026-07-30T02:46:51.344507+00:00",
+ "dealsFound": 2936,
+ "updatedAt": "2026-07-29T23:01:48",
+ "publishedAt": "2026-07-30T03:01:59.843689+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 70408
+ "totalDeals": 70433
 }
