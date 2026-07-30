@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HEL->MIA 2026-08-03",
- "checksDone": 14850,
+ "phase": "GRU->LAX 2026-12-07",
+ "checksDone": 15180,
  "checksPlanned": 104236,
- "percent": 14,
- "dealsFound": 2843,
- "updatedAt": "2026-07-29T22:16:17",
- "publishedAt": "2026-07-30T02:16:28.818042+00:00",
+ "percent": 15,
+ "dealsFound": 2870,
+ "updatedAt": "2026-07-29T22:31:31",
+ "publishedAt": "2026-07-30T02:31:39.563743+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 70346
+ "totalDeals": 70372
 }
