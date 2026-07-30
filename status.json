@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BNE->DUB 2026-12-07",
- "checksDone": 12840,
+ "phase": "DKR->EDI 2026-08-03",
+ "checksDone": 13182,
  "checksPlanned": 104236,
- "percent": 12,
- "dealsFound": 2248,
- "updatedAt": "2026-07-29T20:45:22",
- "publishedAt": "2026-07-30T00:45:27.662318+00:00",
+ "percent": 13,
+ "dealsFound": 2289,
+ "updatedAt": "2026-07-29T21:00:28",
+ "publishedAt": "2026-07-30T01:00:36.965135+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 69764
+ "totalDeals": 69803
 }
