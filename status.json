@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAD->AKL 2026-10-28",
- "checksDone": 1695,
+ "phase": "CMN->YYC 2026-10-28",
+ "checksDone": 2031,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 296,
- "updatedAt": "2026-07-31T14:59:32",
- "publishedAt": "2026-07-31T18:59:37.195363+00:00",
+ "dealsFound": 327,
+ "updatedAt": "2026-07-31T15:14:37",
+ "publishedAt": "2026-07-31T19:14:48.536834+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 71084
+ "totalDeals": 71115
 }
