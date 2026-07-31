@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "UIO->YYC 2026-08-26",
- "checksDone": 3384,
+ "phase": "EZE->EDI 2027-03-03",
+ "checksDone": 3729,
  "checksPlanned": 104236,
- "percent": 3,
- "dealsFound": 645,
- "updatedAt": "2026-07-31T16:15:28",
- "publishedAt": "2026-07-31T20:15:32.474070+00:00",
+ "percent": 4,
+ "dealsFound": 681,
+ "updatedAt": "2026-07-31T16:30:33",
+ "publishedAt": "2026-07-31T20:30:41.115518+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 71433
+ "totalDeals": 71468
 }
