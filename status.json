@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "MRU->YYZ 2027-02-02",
- "checksDone": 1659,
+ "phase": "CLT->BCN 2026-10-06",
+ "checksDone": 1998,
  "checksPlanned": 2750,
- "percent": 60,
- "dealsFound": 22,
- "updatedAt": "2026-07-30T22:49:10",
- "publishedAt": "2026-07-31T02:49:20.400948+00:00",
+ "percent": 73,
+ "dealsFound": 27,
+ "updatedAt": "2026-07-30T23:04:17",
+ "publishedAt": "2026-07-31T03:04:29.016738+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 70770
+ "totalDeals": 70775
 }
