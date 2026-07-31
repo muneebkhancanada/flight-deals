@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SCL->BCN 2026-12-30",
- "checksDone": 4758,
+ "phase": "LAX->AGP 2026-12-30",
+ "checksDone": 5094,
  "checksPlanned": 104236,
  "percent": 5,
- "dealsFound": 906,
- "updatedAt": "2026-07-31T17:16:02",
- "publishedAt": "2026-07-31T21:16:10.164859+00:00",
+ "dealsFound": 1008,
+ "updatedAt": "2026-07-31T17:31:10",
+ "publishedAt": "2026-07-31T21:31:21.504464+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 71693
+ "totalDeals": 71798
 }
