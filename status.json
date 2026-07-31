@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->GIG 2026-12-30",
- "checksDone": 4410,
+ "phase": "SCL->BCN 2026-12-30",
+ "checksDone": 4758,
  "checksPlanned": 104236,
- "percent": 4,
- "dealsFound": 875,
- "updatedAt": "2026-07-31T17:00:50",
- "publishedAt": "2026-07-31T21:01:01.202222+00:00",
+ "percent": 5,
+ "dealsFound": 906,
+ "updatedAt": "2026-07-31T17:16:02",
+ "publishedAt": "2026-07-31T21:16:10.164859+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 71662
+ "totalDeals": 71693
 }
