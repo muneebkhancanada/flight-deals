@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->NAP 2027-03-03",
- "checksDone": 2709,
+ "phase": "MAD->SCL 2026-10-28",
+ "checksDone": 3039,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 530,
- "updatedAt": "2026-07-31T15:45:02",
- "publishedAt": "2026-07-31T19:45:09.577184+00:00",
+ "dealsFound": 614,
+ "updatedAt": "2026-07-31T16:00:11",
+ "publishedAt": "2026-07-31T20:00:21.239435+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 71319
+ "totalDeals": 71402
 }
