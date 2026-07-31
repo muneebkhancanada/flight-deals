@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATH->BRU 2027-03-03",
- "checksDone": 1029,
+ "phase": "YYC->OPO 2026-10-28",
+ "checksDone": 1359,
  "checksPlanned": 104236,
  "percent": 1,
- "dealsFound": 92,
- "updatedAt": "2026-07-31T14:29:11",
- "publishedAt": "2026-07-31T18:29:17.212252+00:00",
+ "dealsFound": 253,
+ "updatedAt": "2026-07-31T14:44:22",
+ "publishedAt": "2026-07-31T18:44:27.788952+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 70880
+ "totalDeals": 71041
 }
