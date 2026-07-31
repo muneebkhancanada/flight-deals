@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATH->DUB 2027-03-03",
- "checksDone": 5433,
+ "phase": "GIG->WAW 2026-10-28",
+ "checksDone": 5775,
  "checksPlanned": 104236,
- "percent": 5,
- "dealsFound": 1125,
- "updatedAt": "2026-07-31T17:46:22",
- "publishedAt": "2026-07-31T21:46:31.957182+00:00",
+ "percent": 6,
+ "dealsFound": 1178,
+ "updatedAt": "2026-07-31T18:01:31",
+ "publishedAt": "2026-07-31T22:01:41.537458+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 71912
+ "totalDeals": 71965
 }
