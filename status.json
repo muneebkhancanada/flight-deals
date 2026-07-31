@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "PVG->YYZ 2026-09-15",
- "checksDone": 1326,
+ "phase": "MRU->YYZ 2027-02-02",
+ "checksDone": 1659,
  "checksPlanned": 2750,
- "percent": 48,
- "dealsFound": 17,
- "updatedAt": "2026-07-30T22:34:04",
- "publishedAt": "2026-07-31T02:34:09.677815+00:00",
+ "percent": 60,
+ "dealsFound": 22,
+ "updatedAt": "2026-07-30T22:49:10",
+ "publishedAt": "2026-07-31T02:49:20.400948+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 70765
+ "totalDeals": 70770
 }
