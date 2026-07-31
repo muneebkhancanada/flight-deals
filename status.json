@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "MIA->ATH 2027-02-09",
- "checksDone": 2328,
+ "phase": "FCO->MIA 2027-02-09",
+ "checksDone": 2664,
  "checksPlanned": 2750,
- "percent": 85,
- "dealsFound": 30,
- "updatedAt": "2026-07-30T23:19:33",
- "publishedAt": "2026-07-31T03:19:37.992695+00:00",
+ "percent": 97,
+ "dealsFound": 42,
+ "updatedAt": "2026-07-30T23:34:37",
+ "publishedAt": "2026-07-31T03:34:47.838859+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 70778
+ "totalDeals": 70790
 }
