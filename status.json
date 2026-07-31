@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->LIM 2026-10-28",
- "checksDone": 6807,
+ "phase": "EDI->UIO 2026-10-28",
+ "checksDone": 7155,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 1394,
- "updatedAt": "2026-07-31T18:47:07",
- "publishedAt": "2026-07-31T22:47:13.071118+00:00",
+ "dealsFound": 1414,
+ "updatedAt": "2026-07-31T19:02:18",
+ "publishedAt": "2026-07-31T23:02:23.744477+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72178
+ "totalDeals": 72198
 }
