@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KEF->MUC 2027-03-03",
- "checksDone": 6117,
+ "phase": "YVR->MDE 2026-08-26",
+ "checksDone": 6456,
  "checksPlanned": 104236,
  "percent": 6,
- "dealsFound": 1278,
- "updatedAt": "2026-07-31T18:16:44",
- "publishedAt": "2026-07-31T22:16:51.921989+00:00",
+ "dealsFound": 1362,
+ "updatedAt": "2026-07-31T18:31:50",
+ "publishedAt": "2026-07-31T22:32:01.384574+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72063
+ "totalDeals": 72150
 }
