@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->MDE 2026-08-26",
- "checksDone": 6456,
+ "phase": "OSL->LIM 2026-10-28",
+ "checksDone": 6807,
  "checksPlanned": 104236,
- "percent": 6,
- "dealsFound": 1362,
- "updatedAt": "2026-07-31T18:31:50",
- "publishedAt": "2026-07-31T22:32:01.384574+00:00",
+ "percent": 7,
+ "dealsFound": 1394,
+ "updatedAt": "2026-07-31T18:47:07",
+ "publishedAt": "2026-07-31T22:47:13.071118+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72150
+ "totalDeals": 72178
 }
