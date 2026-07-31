@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->DKR 2026-10-28",
- "checksDone": 4059,
+ "phase": "OSL->GIG 2026-12-30",
+ "checksDone": 4410,
  "checksPlanned": 104236,
  "percent": 4,
- "dealsFound": 830,
- "updatedAt": "2026-07-31T16:45:43",
- "publishedAt": "2026-07-31T20:45:51.452710+00:00",
+ "dealsFound": 875,
+ "updatedAt": "2026-07-31T17:00:50",
+ "publishedAt": "2026-07-31T21:01:01.202222+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 71617
+ "totalDeals": 71662
 }
