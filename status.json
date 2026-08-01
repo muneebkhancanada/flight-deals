@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->EZE 2027-03-24",
- "checksDone": 17484,
+ "phase": "IAD->SYX 2026-09-16",
+ "checksDone": 17835,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 2812,
- "updatedAt": "2026-08-01T02:52:31",
- "publishedAt": "2026-08-01T06:52:41.026857+00:00",
+ "dealsFound": 2854,
+ "updatedAt": "2026-08-01T03:07:44",
+ "publishedAt": "2026-08-01T07:07:53.279410+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 73593
+ "totalDeals": 73635
 }
