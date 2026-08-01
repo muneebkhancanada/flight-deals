@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->KWI 2027-01-20",
- "checksDone": 22365,
+ "phase": "LAX->SJJ 2027-03-24",
+ "checksDone": 22704,
  "checksPlanned": 104236,
- "percent": 21,
- "dealsFound": 3722,
- "updatedAt": "2026-08-01T06:25:00",
- "publishedAt": "2026-08-01T10:25:07.470848+00:00",
+ "percent": 22,
+ "dealsFound": 3808,
+ "updatedAt": "2026-08-01T06:40:05",
+ "publishedAt": "2026-08-01T10:40:16.765302+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 74502
+ "totalDeals": 74588
 }
