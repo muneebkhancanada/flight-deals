@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->IAD 2026-10-28",
- "checksDone": 12771,
+ "phase": "FCO->IAD 2026-08-26",
+ "checksDone": 13092,
  "checksPlanned": 104236,
- "percent": 12,
- "dealsFound": 1921,
- "updatedAt": "2026-07-31T23:20:10",
- "publishedAt": "2026-08-01T03:20:16.029551+00:00",
+ "percent": 13,
+ "dealsFound": 1971,
+ "updatedAt": "2026-07-31T23:35:19",
+ "publishedAt": "2026-08-01T03:35:27.392937+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72705
+ "totalDeals": 72757
 }
