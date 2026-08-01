@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->LIM 2027-03-24",
- "checksDone": 38712,
+ "phase": "EDI->ZRH 2026-11-18",
+ "checksDone": 39054,
  "checksPlanned": 104236,
  "percent": 37,
- "dealsFound": 5875,
- "updatedAt": "2026-08-01T18:03:26",
- "publishedAt": "2026-08-01T22:03:32.556237+00:00",
+ "dealsFound": 5888,
+ "updatedAt": "2026-08-01T18:18:35",
+ "publishedAt": "2026-08-01T22:18:43.254101+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 76645
+ "totalDeals": 76658
 }
