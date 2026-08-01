@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZRH->JFK 2026-10-28",
- "checksDone": 12447,
+ "phase": "BCN->IAD 2026-10-28",
+ "checksDone": 12771,
  "checksPlanned": 104236,
  "percent": 12,
- "dealsFound": 1875,
- "updatedAt": "2026-07-31T23:04:56",
- "publishedAt": "2026-08-01T03:05:05.467259+00:00",
+ "dealsFound": 1921,
+ "updatedAt": "2026-07-31T23:20:10",
+ "publishedAt": "2026-08-01T03:20:16.029551+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72661
+ "totalDeals": 72705
 }
