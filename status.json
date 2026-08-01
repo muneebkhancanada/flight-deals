@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->BJL 2026-09-16",
- "checksDone": 28599,
+ "phase": "MUC->CAN 2027-01-20",
+ "checksDone": 28953,
  "checksPlanned": 104236,
- "percent": 27,
- "dealsFound": 4463,
- "updatedAt": "2026-08-01T10:58:18",
- "publishedAt": "2026-08-01T14:58:26.602953+00:00",
+ "percent": 28,
+ "dealsFound": 4547,
+ "updatedAt": "2026-08-01T11:13:28",
+ "publishedAt": "2026-08-01T15:13:37.219401+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75238
+ "totalDeals": 75322
 }
