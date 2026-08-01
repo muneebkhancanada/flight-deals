@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->TAS 2027-03-24",
- "checksDone": 26844,
+ "phase": "CDG->IST 2026-11-18",
+ "checksDone": 27198,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 4256,
- "updatedAt": "2026-08-01T09:42:22",
- "publishedAt": "2026-08-01T13:42:28.411869+00:00",
+ "dealsFound": 4278,
+ "updatedAt": "2026-08-01T09:57:31",
+ "publishedAt": "2026-08-01T13:57:39.893001+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75035
+ "totalDeals": 75057
 }
