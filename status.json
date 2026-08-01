@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MUC->CAN 2027-01-20",
- "checksDone": 28953,
+ "phase": "ZRH->IST 2026-11-18",
+ "checksDone": 29310,
  "checksPlanned": 104236,
  "percent": 28,
- "dealsFound": 4547,
- "updatedAt": "2026-08-01T11:13:28",
- "publishedAt": "2026-08-01T15:13:37.219401+00:00",
+ "dealsFound": 4569,
+ "updatedAt": "2026-08-01T11:28:41",
+ "publishedAt": "2026-08-01T15:28:48.802104+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75322
+ "totalDeals": 75344
 }
