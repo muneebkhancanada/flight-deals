@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->IST 2026-11-18",
- "checksDone": 27198,
+ "phase": "CDG->ZNZ 2026-11-18",
+ "checksDone": 27546,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 4278,
- "updatedAt": "2026-08-01T09:57:31",
- "publishedAt": "2026-08-01T13:57:39.893001+00:00",
+ "dealsFound": 4338,
+ "updatedAt": "2026-08-01T10:12:45",
+ "publishedAt": "2026-08-01T14:12:52.329976+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75057
+ "totalDeals": 75117
 }
