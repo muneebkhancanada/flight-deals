@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TIA->YYZ 2027-01-06",
- "checksDone": 40086,
+ "phase": "HAN->YYZ 2026-09-30",
+ "checksDone": 40419,
  "checksPlanned": 104236,
- "percent": 38,
- "dealsFound": 5959,
- "updatedAt": "2026-08-01T19:04:13",
- "publishedAt": "2026-08-01T23:04:18.618501+00:00",
+ "percent": 39,
+ "dealsFound": 5992,
+ "updatedAt": "2026-08-01T19:19:21",
+ "publishedAt": "2026-08-01T23:19:28.827710+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 76729
+ "totalDeals": 76763
 }
