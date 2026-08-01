@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->ACC 2026-11-18",
- "checksDone": 17130,
+ "phase": "PHL->EZE 2027-03-24",
+ "checksDone": 17484,
  "checksPlanned": 104236,
- "percent": 16,
- "dealsFound": 2768,
- "updatedAt": "2026-08-01T02:37:25",
- "publishedAt": "2026-08-01T06:37:31.087531+00:00",
+ "percent": 17,
+ "dealsFound": 2812,
+ "updatedAt": "2026-08-01T02:52:31",
+ "publishedAt": "2026-08-01T06:52:41.026857+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 73549
+ "totalDeals": 73593
 }
