@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->ZNZ 2026-11-18",
- "checksDone": 27546,
+ "phase": "AMS->KHI 2027-01-20",
+ "checksDone": 27897,
  "checksPlanned": 104236,
- "percent": 26,
- "dealsFound": 4338,
- "updatedAt": "2026-08-01T10:12:45",
- "publishedAt": "2026-08-01T14:12:52.329976+00:00",
+ "percent": 27,
+ "dealsFound": 4387,
+ "updatedAt": "2026-08-01T10:27:56",
+ "publishedAt": "2026-08-01T14:28:04.465508+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75117
+ "totalDeals": 75167
 }
