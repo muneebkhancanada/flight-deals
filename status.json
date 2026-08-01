@@ -1,19 +1,27 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->TIA 2026-11-18",
- "checksDone": 25446,
+ "phase": "LHR->CDG 2027-03-24",
+ "checksDone": 25800,
  "checksPlanned": 104236,
- "percent": 24,
- "dealsFound": 4151,
- "updatedAt": "2026-08-01T08:41:30",
- "publishedAt": "2026-08-01T12:41:42.119773+00:00",
- "queuedCount": 1,
+ "percent": 25,
+ "dealsFound": 4185,
+ "updatedAt": "2026-08-01T08:56:47",
+ "publishedAt": "2026-08-01T12:56:52.288772+00:00",
+ "queuedCount": 3,
  "queued": [
   {
    "label": "daily",
    "mode": "daily"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU",
+   "mode": "quick"
+  },
+  {
+   "label": "round trip (primary ⇄ all, 14-24 nights)",
+   "mode": "quick"
   }
  ],
- "totalDeals": 74930
+ "totalDeals": 74964
 }
