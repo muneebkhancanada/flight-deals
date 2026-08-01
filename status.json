@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ORD->DAR 2026-11-18",
- "checksDone": 18522,
+ "phase": "DTW->CMB 2026-11-18",
+ "checksDone": 18858,
  "checksPlanned": 104236,
  "percent": 18,
- "dealsFound": 3050,
- "updatedAt": "2026-08-01T03:38:08",
- "publishedAt": "2026-08-01T07:38:15.183970+00:00",
+ "dealsFound": 3136,
+ "updatedAt": "2026-08-01T03:53:20",
+ "publishedAt": "2026-08-01T07:53:25.491029+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 73831
+ "totalDeals": 73917
 }
