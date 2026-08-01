@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->ALA 2026-11-18",
- "checksDone": 39414,
+ "phase": "NAP->YYZ 2026-11-11",
+ "checksDone": 39759,
  "checksPlanned": 104236,
  "percent": 38,
- "dealsFound": 5908,
- "updatedAt": "2026-08-01T18:33:50",
- "publishedAt": "2026-08-01T22:33:54.805293+00:00",
+ "dealsFound": 5940,
+ "updatedAt": "2026-08-01T18:48:58",
+ "publishedAt": "2026-08-01T22:49:07.253843+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 76678
+ "totalDeals": 76710
 }
