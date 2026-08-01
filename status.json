@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->TAS 2027-03-24",
- "checksDone": 34020,
+ "phase": "BRU->IST 2026-09-16",
+ "checksDone": 34383,
  "checksPlanned": 104236,
  "percent": 33,
- "dealsFound": 5194,
- "updatedAt": "2026-08-01T14:46:02",
- "publishedAt": "2026-08-01T18:46:10.189608+00:00",
+ "dealsFound": 5214,
+ "updatedAt": "2026-08-01T15:01:11",
+ "publishedAt": "2026-08-01T19:01:22.270479+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75965
+ "totalDeals": 75985
 }
