@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->LHE 2027-03-24",
- "checksDone": 31128,
+ "phase": "MXP->AUH 2026-09-16",
+ "checksDone": 31491,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 4857,
- "updatedAt": "2026-08-01T12:44:31",
- "publishedAt": "2026-08-01T16:44:40.583018+00:00",
+ "dealsFound": 4888,
+ "updatedAt": "2026-08-01T12:59:42",
+ "publishedAt": "2026-08-01T16:59:52.486845+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75632
+ "totalDeals": 75663
 }
