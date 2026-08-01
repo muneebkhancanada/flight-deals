@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->IAD 2026-08-26",
- "checksDone": 13092,
+ "phase": "MXP->YOW 2027-03-03",
+ "checksDone": 13425,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 1971,
- "updatedAt": "2026-07-31T23:35:19",
- "publishedAt": "2026-08-01T03:35:27.392937+00:00",
+ "dealsFound": 1987,
+ "updatedAt": "2026-07-31T23:50:27",
+ "publishedAt": "2026-08-01T03:50:37.564080+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72757
+ "totalDeals": 72771
 }
