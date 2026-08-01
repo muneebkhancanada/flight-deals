@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DEN->KWI 2026-11-18",
- "checksDone": 21666,
+ "phase": "SEA->BAH 2026-09-16",
+ "checksDone": 22023,
  "checksPlanned": 104236,
  "percent": 21,
- "dealsFound": 3581,
- "updatedAt": "2026-08-01T05:54:37",
- "publishedAt": "2026-08-01T09:54:46.062597+00:00",
+ "dealsFound": 3629,
+ "updatedAt": "2026-08-01T06:09:48",
+ "publishedAt": "2026-08-01T10:09:57.225330+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 74361
+ "totalDeals": 74410
 }
