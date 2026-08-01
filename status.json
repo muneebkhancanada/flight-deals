@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->VIE 2027-03-24",
- "checksDone": 38028,
+ "phase": "MAN->HKG 2027-01-20",
+ "checksDone": 38373,
  "checksPlanned": 104236,
- "percent": 36,
- "dealsFound": 5854,
- "updatedAt": "2026-08-01T17:32:58",
- "publishedAt": "2026-08-01T21:33:08.509886+00:00",
+ "percent": 37,
+ "dealsFound": 5861,
+ "updatedAt": "2026-08-01T17:48:16",
+ "publishedAt": "2026-08-01T21:48:21.789071+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 76624
+ "totalDeals": 76631
 }
