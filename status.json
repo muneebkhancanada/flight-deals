@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYZ->DKR 2027-02-17",
- "checksDone": 15087,
+ "phase": "JFK->BAH 2026-11-18",
+ "checksDone": 15426,
  "checksPlanned": 104236,
- "percent": 14,
- "dealsFound": 2308,
- "updatedAt": "2026-08-01T01:06:18",
- "publishedAt": "2026-08-01T05:06:27.849484+00:00",
+ "percent": 15,
+ "dealsFound": 2368,
+ "updatedAt": "2026-08-01T01:21:33",
+ "publishedAt": "2026-08-01T05:21:38.845125+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 73089
+ "totalDeals": 73149
 }
