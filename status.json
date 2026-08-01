@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MXP->IAH 2026-08-26",
- "checksDone": 10512,
+ "phase": "DUB->MSP 2026-12-30",
+ "checksDone": 10830,
  "checksPlanned": 104236,
  "percent": 10,
- "dealsFound": 1680,
- "updatedAt": "2026-07-31T21:33:53",
- "publishedAt": "2026-08-01T01:34:03.968789+00:00",
+ "dealsFound": 1701,
+ "updatedAt": "2026-07-31T21:49:04",
+ "publishedAt": "2026-08-01T01:49:12.973995+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72464
+ "totalDeals": 72485
 }
