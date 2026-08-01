@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->SYX 2026-11-18",
- "checksDone": 30762,
+ "phase": "FCO->LHE 2027-03-24",
+ "checksDone": 31128,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 4807,
- "updatedAt": "2026-08-01T12:29:22",
- "publishedAt": "2026-08-01T16:29:31.091571+00:00",
+ "dealsFound": 4857,
+ "updatedAt": "2026-08-01T12:44:31",
+ "publishedAt": "2026-08-01T16:44:40.583018+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75582
+ "totalDeals": 75632
 }
