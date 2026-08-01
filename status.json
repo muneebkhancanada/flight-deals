@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYZ->ARN 2027-03-03",
- "checksDone": 14085,
+ "phase": "YYZ->NRT 2027-03-17",
+ "checksDone": 14409,
  "checksPlanned": 104236,
  "percent": 14,
- "dealsFound": 2084,
- "updatedAt": "2026-08-01T00:20:52",
- "publishedAt": "2026-08-01T04:20:57.983855+00:00",
+ "dealsFound": 2092,
+ "updatedAt": "2026-08-01T00:35:57",
+ "publishedAt": "2026-08-01T04:36:06.825759+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72866
+ "totalDeals": 72873
 }
