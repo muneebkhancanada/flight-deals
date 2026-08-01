@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CPH->LAX 2026-08-26",
- "checksDone": 9216,
+ "phase": "OSL->YYC 2026-08-26",
+ "checksDone": 9540,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1545,
- "updatedAt": "2026-07-31T20:33:18",
- "publishedAt": "2026-08-01T00:33:23.579522+00:00",
+ "dealsFound": 1578,
+ "updatedAt": "2026-07-31T20:48:26",
+ "publishedAt": "2026-08-01T00:48:35.323114+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72329
+ "totalDeals": 72362
 }
