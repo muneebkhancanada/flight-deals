@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->KHI 2027-01-20",
- "checksDone": 27897,
+ "phase": "FRA->WAW 2027-03-24",
+ "checksDone": 28248,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 4387,
- "updatedAt": "2026-08-01T10:27:56",
- "publishedAt": "2026-08-01T14:28:04.465508+00:00",
+ "dealsFound": 4408,
+ "updatedAt": "2026-08-01T10:43:05",
+ "publishedAt": "2026-08-01T14:43:14.852524+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 75167
+ "totalDeals": 75183
 }
