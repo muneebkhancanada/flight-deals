@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DTW->AKL 2026-11-18",
- "checksDone": 19206,
+ "phase": "MSP->ISB 2027-01-20",
+ "checksDone": 19557,
  "checksPlanned": 104236,
- "percent": 18,
- "dealsFound": 3184,
- "updatedAt": "2026-08-01T04:08:24",
- "publishedAt": "2026-08-01T08:08:34.169338+00:00",
+ "percent": 19,
+ "dealsFound": 3249,
+ "updatedAt": "2026-08-01T04:23:39",
+ "publishedAt": "2026-08-01T08:23:43.472845+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 73966
+ "totalDeals": 74030
 }
