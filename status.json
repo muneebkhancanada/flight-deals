@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CLT->BJS 2026-09-16",
- "checksDone": 20259,
+ "phase": "MIA->RUH 2026-11-18",
+ "checksDone": 20622,
  "checksPlanned": 104236,
- "percent": 19,
- "dealsFound": 3360,
- "updatedAt": "2026-08-01T04:53:54",
- "publishedAt": "2026-08-01T08:54:06.448895+00:00",
+ "percent": 20,
+ "dealsFound": 3383,
+ "updatedAt": "2026-08-01T05:09:10",
+ "publishedAt": "2026-08-01T09:09:15.938005+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 74140
+ "totalDeals": 74163
 }
