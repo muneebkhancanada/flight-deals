@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->SEA 2026-12-30",
- "checksDone": 8898,
+ "phase": "CPH->LAX 2026-08-26",
+ "checksDone": 9216,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1498,
- "updatedAt": "2026-07-31T20:18:09",
- "publishedAt": "2026-08-01T00:18:14.056265+00:00",
+ "dealsFound": 1545,
+ "updatedAt": "2026-07-31T20:33:18",
+ "publishedAt": "2026-08-01T00:33:23.579522+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72283
+ "totalDeals": 72329
 }
