@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->SJJ 2027-03-24",
- "checksDone": 22704,
+ "phase": "YUL->OPO 2026-11-18",
+ "checksDone": 23046,
  "checksPlanned": 104236,
  "percent": 22,
- "dealsFound": 3808,
- "updatedAt": "2026-08-01T06:40:05",
- "publishedAt": "2026-08-01T10:40:16.765302+00:00",
+ "dealsFound": 3938,
+ "updatedAt": "2026-08-01T06:55:17",
+ "publishedAt": "2026-08-01T10:55:27.429691+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 74588
+ "totalDeals": 74717
 }
