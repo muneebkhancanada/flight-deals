@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MXP->YOW 2027-03-03",
- "checksDone": 13425,
+ "phase": "YYZ->AGP 2027-01-06",
+ "checksDone": 13758,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 1987,
- "updatedAt": "2026-07-31T23:50:27",
- "publishedAt": "2026-08-01T03:50:37.564080+00:00",
+ "dealsFound": 2022,
+ "updatedAt": "2026-08-01T00:05:39",
+ "publishedAt": "2026-08-01T04:05:48.365426+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72771
+ "totalDeals": 72803
 }
