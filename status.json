@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->DXB 2027-03-24",
- "checksDone": 16788,
+ "phase": "BOS->ACC 2026-11-18",
+ "checksDone": 17130,
  "checksPlanned": 104236,
  "percent": 16,
- "dealsFound": 2709,
- "updatedAt": "2026-08-01T02:22:15",
- "publishedAt": "2026-08-01T06:22:21.295634+00:00",
+ "dealsFound": 2768,
+ "updatedAt": "2026-08-01T02:37:25",
+ "publishedAt": "2026-08-01T06:37:31.087531+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 73490
+ "totalDeals": 73549
 }
