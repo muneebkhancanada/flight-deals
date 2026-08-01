@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EWR->CAN 2027-03-24",
- "checksDone": 16104,
+ "phase": "EWR->NAN 2026-09-16",
+ "checksDone": 16443,
  "checksPlanned": 104236,
- "percent": 15,
- "dealsFound": 2531,
- "updatedAt": "2026-08-01T01:51:55",
- "publishedAt": "2026-08-01T05:52:00.813569+00:00",
+ "percent": 16,
+ "dealsFound": 2594,
+ "updatedAt": "2026-08-01T02:07:00",
+ "publishedAt": "2026-08-01T06:07:11.090339+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 73312
+ "totalDeals": 73376
 }
