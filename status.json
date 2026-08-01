@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->RUH 2026-11-18",
- "checksDone": 20622,
+ "phase": "DFW->KWI 2027-01-20",
+ "checksDone": 20973,
  "checksPlanned": 104236,
  "percent": 20,
- "dealsFound": 3383,
- "updatedAt": "2026-08-01T05:09:10",
- "publishedAt": "2026-08-01T09:09:15.938005+00:00",
+ "dealsFound": 3459,
+ "updatedAt": "2026-08-01T05:24:18",
+ "publishedAt": "2026-08-01T09:24:25.394891+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 74163
+ "totalDeals": 74239
 }
