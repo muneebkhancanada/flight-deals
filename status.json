@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->YUL 2026-10-28",
- "checksDone": 12123,
+ "phase": "ZRH->JFK 2026-10-28",
+ "checksDone": 12447,
  "checksPlanned": 104236,
  "percent": 12,
- "dealsFound": 1829,
- "updatedAt": "2026-07-31T22:49:42",
- "publishedAt": "2026-08-01T02:49:53.820224+00:00",
+ "dealsFound": 1875,
+ "updatedAt": "2026-07-31T23:04:56",
+ "publishedAt": "2026-08-01T03:05:05.467259+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "daily"
   }
  ],
- "totalDeals": 72613
+ "totalDeals": 72661
 }
