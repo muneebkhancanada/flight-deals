@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "RUH->SEA 2026-10-07",
- "checksDone": 47658,
+ "phase": "MCT->SFO 2027-02-10",
+ "checksDone": 48000,
  "checksPlanned": 104236,
  "percent": 46,
- "dealsFound": 6762,
- "updatedAt": "2026-08-02T00:38:19",
- "publishedAt": "2026-08-02T04:38:29.627024+00:00",
+ "dealsFound": 6799,
+ "updatedAt": "2026-08-02T00:53:36",
+ "publishedAt": "2026-08-02T04:53:40.981249+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 77532
+ "totalDeals": 77569
 }
