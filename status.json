@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JNB->EWR 2026-12-09",
- "checksDone": 42117,
+ "phase": "BAH->BOS 2026-12-09",
+ "checksDone": 42453,
  "checksPlanned": 104236,
- "percent": 40,
- "dealsFound": 6217,
- "updatedAt": "2026-08-01T20:35:20",
- "publishedAt": "2026-08-02T00:35:26.424478+00:00",
+ "percent": 41,
+ "dealsFound": 6247,
+ "updatedAt": "2026-08-01T20:50:27",
+ "publishedAt": "2026-08-02T00:50:36.190671+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 76987
+ "totalDeals": 77017
 }
