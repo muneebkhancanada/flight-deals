@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MRU->YOW 2027-02-10",
- "checksDone": 50076,
+ "phase": "ISB->YYC 2026-12-09",
+ "checksDone": 50433,
  "checksPlanned": 104236,
  "percent": 48,
- "dealsFound": 7005,
- "updatedAt": "2026-08-02T02:24:43",
- "publishedAt": "2026-08-02T06:24:48.852122+00:00",
+ "dealsFound": 7013,
+ "updatedAt": "2026-08-02T02:39:54",
+ "publishedAt": "2026-08-02T06:39:59.633166+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 77775
+ "totalDeals": 77783
 }
