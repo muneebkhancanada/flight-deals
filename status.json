@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ISB->VIE 2026-12-09",
- "checksDone": 54993,
+ "phase": "MLE->MAD 2026-08-05",
+ "checksDone": 55359,
  "checksPlanned": 104236,
  "percent": 53,
- "dealsFound": 7963,
- "updatedAt": "2026-08-02T05:57:14",
- "publishedAt": "2026-08-02T09:57:22.607554+00:00",
+ "dealsFound": 8041,
+ "updatedAt": "2026-08-02T06:12:25",
+ "publishedAt": "2026-08-02T10:12:33.099289+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 78733
+ "totalDeals": 78811
 }
