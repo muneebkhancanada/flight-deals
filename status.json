@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ISB->OSL 2026-08-05",
- "checksDone": 58983,
+ "phase": "MCT->BRU 2026-10-07",
+ "checksDone": 59346,
  "checksPlanned": 104236,
  "percent": 57,
- "dealsFound": 8579,
- "updatedAt": "2026-08-02T08:44:21",
- "publishedAt": "2026-08-02T12:44:27.500433+00:00",
- "queuedCount": 3,
+ "dealsFound": 8607,
+ "updatedAt": "2026-08-02T08:59:31",
+ "publishedAt": "2026-08-02T12:59:39.736240+00:00",
+ "queuedCount": 4,
  "queued": [
   {
    "label": "daily",
@@ -21,7 +21,11 @@
   {
    "label": "round trip (primary ⇄ all, 14-24 nights)",
    "mode": "quick"
+  },
+  {
+   "label": "custom (KWI, KHI → everywhere)",
+   "mode": "quick"
   }
  ],
- "totalDeals": 79349
+ "totalDeals": 79379
 }
