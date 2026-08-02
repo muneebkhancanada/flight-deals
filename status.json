@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SZX->BCN 2027-02-10",
- "checksDone": 55728,
+ "phase": "SJJ->FCO 2026-08-05",
+ "checksDone": 56091,
  "checksPlanned": 104236,
- "percent": 53,
- "dealsFound": 8113,
- "updatedAt": "2026-08-02T06:27:35",
- "publishedAt": "2026-08-02T10:27:43.920775+00:00",
+ "percent": 54,
+ "dealsFound": 8125,
+ "updatedAt": "2026-08-02T06:42:45",
+ "publishedAt": "2026-08-02T10:42:55.821690+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 78883
+ "totalDeals": 78895
 }
