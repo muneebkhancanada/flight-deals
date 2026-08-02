@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OPO->YOW 2026-08-05",
- "checksDone": 49359,
+ "phase": "SGN->YOW 2026-12-09",
+ "checksDone": 49713,
  "checksPlanned": 104236,
- "percent": 47,
- "dealsFound": 6958,
- "updatedAt": "2026-08-02T01:54:12",
- "publishedAt": "2026-08-02T05:54:23.830544+00:00",
+ "percent": 48,
+ "dealsFound": 6972,
+ "updatedAt": "2026-08-02T02:09:28",
+ "publishedAt": "2026-08-02T06:09:36.774168+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 77728
+ "totalDeals": 77742
 }
