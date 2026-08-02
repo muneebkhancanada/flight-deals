@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BUD->AMS 2026-12-09",
- "checksDone": 52509,
+ "phase": "DSS->AMS 2026-12-09",
+ "checksDone": 52857,
  "checksPlanned": 104236,
- "percent": 50,
- "dealsFound": 7420,
- "updatedAt": "2026-08-02T04:10:53",
- "publishedAt": "2026-08-02T08:11:02.764386+00:00",
+ "percent": 51,
+ "dealsFound": 7535,
+ "updatedAt": "2026-08-02T04:26:06",
+ "publishedAt": "2026-08-02T08:26:13.617269+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 78190
+ "totalDeals": 78305
 }
