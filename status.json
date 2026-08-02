@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SJJ->MSP 2026-12-09",
- "checksDone": 44853,
+ "phase": "BJL->MSP 2027-02-10",
+ "checksDone": 45204,
  "checksPlanned": 104236,
  "percent": 43,
- "dealsFound": 6548,
- "updatedAt": "2026-08-01T22:36:50",
- "publishedAt": "2026-08-02T02:36:56.634623+00:00",
+ "dealsFound": 6578,
+ "updatedAt": "2026-08-01T22:52:05",
+ "publishedAt": "2026-08-02T02:52:10.231492+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 77319
+ "totalDeals": 77348
 }
