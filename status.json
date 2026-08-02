@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TIA->CPH 2026-12-09",
- "checksDone": 57909,
+ "phase": "DAR->CPH 2027-02-10",
+ "checksDone": 58260,
  "checksPlanned": 104236,
  "percent": 56,
- "dealsFound": 8407,
- "updatedAt": "2026-08-02T07:58:49",
- "publishedAt": "2026-08-02T11:58:54.538585+00:00",
+ "dealsFound": 8482,
+ "updatedAt": "2026-08-02T08:13:55",
+ "publishedAt": "2026-08-02T12:14:04.748234+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 79178
+ "totalDeals": 79252
 }
