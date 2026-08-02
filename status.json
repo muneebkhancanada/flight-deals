@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DOH->EWR 2026-08-05",
- "checksDone": 41775,
+ "phase": "JNB->EWR 2026-12-09",
+ "checksDone": 42117,
  "checksPlanned": 104236,
  "percent": 40,
- "dealsFound": 6194,
- "updatedAt": "2026-08-01T20:20:09",
- "publishedAt": "2026-08-02T00:20:15.088588+00:00",
+ "dealsFound": 6217,
+ "updatedAt": "2026-08-01T20:35:20",
+ "publishedAt": "2026-08-02T00:35:26.424478+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 76964
+ "totalDeals": 76987
 }
