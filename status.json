@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PRG->MUC 2026-10-07",
- "checksDone": 53562,
+ "phase": "NBO->MUC 2026-08-05",
+ "checksDone": 53919,
  "checksPlanned": 104236,
- "percent": 51,
- "dealsFound": 7666,
- "updatedAt": "2026-08-02T04:56:31",
- "publishedAt": "2026-08-02T08:56:36.522373+00:00",
+ "percent": 52,
+ "dealsFound": 7768,
+ "updatedAt": "2026-08-02T05:11:44",
+ "publishedAt": "2026-08-02T09:11:49.945652+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 78436
+ "totalDeals": 78538
 }
