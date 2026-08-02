@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DUB->LGW 2027-02-10",
- "checksDone": 51468,
+ "phase": "CAI->LGW 2027-02-10",
+ "checksDone": 51816,
  "checksPlanned": 104236,
- "percent": 49,
- "dealsFound": 7191,
- "updatedAt": "2026-08-02T03:25:26",
- "publishedAt": "2026-08-02T07:25:30.578766+00:00",
+ "percent": 50,
+ "dealsFound": 7302,
+ "updatedAt": "2026-08-02T03:40:33",
+ "publishedAt": "2026-08-02T07:40:41.123244+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 77961
+ "totalDeals": 78074
 }
