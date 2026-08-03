@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MDE->MAN 2026-10-07",
- "checksDone": 63858,
+ "phase": "VCE->EDI 2026-08-05",
+ "checksDone": 64119,
  "checksPlanned": 104236,
- "percent": 61,
- "dealsFound": 9092,
- "updatedAt": "2026-08-02T12:19:26",
- "publishedAt": "2026-08-02T16:19:43.056217+00:00",
+ "percent": 62,
+ "dealsFound": 9158,
+ "updatedAt": "2026-08-02T12:31:35",
+ "publishedAt": "2026-08-03T03:27:57.931808+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 79862
+ "totalDeals": 79928
 }
