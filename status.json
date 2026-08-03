@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->AMS 2026-08-05",
- "checksDone": 90051,
+ "phase": "CPH->ICN 2026-10-07",
+ "checksDone": 90402,
  "checksPlanned": 104236,
- "percent": 86,
- "dealsFound": 15965,
- "updatedAt": "2026-08-03T19:05:03",
- "publishedAt": "2026-08-03T23:05:13.277555+00:00",
+ "percent": 87,
+ "dealsFound": 16008,
+ "updatedAt": "2026-08-03T19:20:15",
+ "publishedAt": "2026-08-03T23:20:25.487024+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 86708
+ "totalDeals": 86751
 }
