@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->JNB 2026-10-07",
- "checksDone": 72582,
+ "phase": "BNE->JFK 2026-08-05",
+ "checksDone": 72915,
  "checksPlanned": 104236,
  "percent": 70,
- "dealsFound": 11774,
- "updatedAt": "2026-08-03T05:51:00",
- "publishedAt": "2026-08-03T09:51:09.344116+00:00",
+ "dealsFound": 11898,
+ "updatedAt": "2026-08-03T06:06:15",
+ "publishedAt": "2026-08-03T10:06:20.050834+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 82524
+ "totalDeals": 82648
 }
