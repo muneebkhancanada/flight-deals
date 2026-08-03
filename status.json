@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PVG->YVR 2026-10-07",
- "checksDone": 76254,
+ "phase": "JNB->LGW 2026-08-05",
+ "checksDone": 76587,
  "checksPlanned": 104236,
  "percent": 73,
- "dealsFound": 12577,
- "updatedAt": "2026-08-03T08:38:07",
- "publishedAt": "2026-08-03T12:38:19.382711+00:00",
+ "dealsFound": 12723,
+ "updatedAt": "2026-08-03T08:53:23",
+ "publishedAt": "2026-08-03T12:53:31.641488+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 83330
+ "totalDeals": 83474
 }
