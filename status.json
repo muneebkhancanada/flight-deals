@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAD->HKG 2026-10-07",
- "checksDone": 67134,
+ "phase": "ORD->GIG 2026-10-07",
+ "checksDone": 67470,
  "checksPlanned": 104236,
- "percent": 64,
- "dealsFound": 10339,
- "updatedAt": "2026-08-03T01:44:59",
- "publishedAt": "2026-08-03T05:45:10.572534+00:00",
+ "percent": 65,
+ "dealsFound": 10521,
+ "updatedAt": "2026-08-03T02:00:17",
+ "publishedAt": "2026-08-03T06:00:23.295808+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 81092
+ "totalDeals": 81274
 }
