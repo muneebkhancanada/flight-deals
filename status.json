@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->AGP 2026-10-07",
- "checksDone": 81570,
+ "phase": "FRA->BCN 2026-10-07",
+ "checksDone": 81918,
  "checksPlanned": 104236,
- "percent": 78,
- "dealsFound": 14330,
- "updatedAt": "2026-08-03T12:42:57",
- "publishedAt": "2026-08-03T16:43:09.142433+00:00",
+ "percent": 79,
+ "dealsFound": 14353,
+ "updatedAt": "2026-08-03T12:58:14",
+ "publishedAt": "2026-08-03T16:58:22.528575+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 85080
+ "totalDeals": 85103
 }
