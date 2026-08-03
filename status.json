@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->TPE 2026-10-07",
- "checksDone": 66462,
+ "phase": "IAD->VCE 2026-10-07",
+ "checksDone": 66798,
  "checksPlanned": 104236,
  "percent": 64,
- "dealsFound": 10138,
- "updatedAt": "2026-08-03T01:14:38",
- "publishedAt": "2026-08-03T05:14:47.014095+00:00",
+ "dealsFound": 10249,
+ "updatedAt": "2026-08-03T01:29:53",
+ "publishedAt": "2026-08-03T05:29:58.494824+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 80892
+ "totalDeals": 81001
 }
