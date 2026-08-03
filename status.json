@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AGP->EDI 2026-08-05",
- "checksDone": 88023,
+ "phase": "MSP->OSL 2027-02-10",
+ "checksDone": 88356,
  "checksPlanned": 104236,
- "percent": 84,
- "dealsFound": 15393,
- "updatedAt": "2026-08-03T17:33:52",
- "publishedAt": "2026-08-03T21:34:00.347775+00:00",
+ "percent": 85,
+ "dealsFound": 15516,
+ "updatedAt": "2026-08-03T17:49:03",
+ "publishedAt": "2026-08-03T21:49:11.527620+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 86136
+ "totalDeals": 86261
 }
