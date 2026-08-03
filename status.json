@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BRU->DPS 2027-02-10",
- "checksDone": 72240,
+ "phase": "EDI->JNB 2026-10-07",
+ "checksDone": 72582,
  "checksPlanned": 104236,
- "percent": 69,
- "dealsFound": 11744,
- "updatedAt": "2026-08-03T05:35:47",
- "publishedAt": "2026-08-03T09:35:58.250180+00:00",
+ "percent": 70,
+ "dealsFound": 11774,
+ "updatedAt": "2026-08-03T05:51:00",
+ "publishedAt": "2026-08-03T09:51:09.344116+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 82494
+ "totalDeals": 82524
 }
