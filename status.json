@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DPS->CDG 2026-08-05",
- "checksDone": 85983,
+ "phase": "HKG->MUC 2026-10-07",
+ "checksDone": 86322,
  "checksPlanned": 104236,
- "percent": 82,
- "dealsFound": 14908,
- "updatedAt": "2026-08-03T16:02:39",
- "publishedAt": "2026-08-03T20:02:47.433996+00:00",
+ "percent": 83,
+ "dealsFound": 14998,
+ "updatedAt": "2026-08-03T16:17:53",
+ "publishedAt": "2026-08-03T20:17:59.156235+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 85658
+ "totalDeals": 85746
 }
