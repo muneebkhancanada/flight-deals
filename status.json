@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->PVG 2026-08-05",
- "checksDone": 65799,
+ "phase": "PHL->VCE 2026-08-05",
+ "checksDone": 66135,
  "checksPlanned": 104236,
  "percent": 63,
- "dealsFound": 9807,
- "updatedAt": "2026-08-03T00:44:14",
- "publishedAt": "2026-08-03T04:44:25.975865+00:00",
+ "dealsFound": 10003,
+ "updatedAt": "2026-08-03T00:59:25",
+ "publishedAt": "2026-08-03T04:59:35.924243+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 80562
+ "totalDeals": 80755
 }
