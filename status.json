@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DFW->DOH 2026-08-05",
- "checksDone": 89019,
+ "phase": "LGW->LIS 2027-02-10",
+ "checksDone": 89352,
  "checksPlanned": 104236,
- "percent": 85,
- "dealsFound": 15807,
- "updatedAt": "2026-08-03T18:19:24",
- "publishedAt": "2026-08-03T22:19:34.742870+00:00",
+ "percent": 86,
+ "dealsFound": 15899,
+ "updatedAt": "2026-08-03T18:34:40",
+ "publishedAt": "2026-08-03T22:34:48.011785+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 86553
+ "totalDeals": 86642
 }
