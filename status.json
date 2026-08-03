@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NAP->CLT 2027-02-10",
- "checksDone": 84648,
+ "phase": "KUL->DFW 2026-10-07",
+ "checksDone": 84978,
  "checksPlanned": 104236,
- "percent": 81,
- "dealsFound": 14595,
- "updatedAt": "2026-08-03T14:59:47",
- "publishedAt": "2026-08-03T18:59:58.783527+00:00",
+ "percent": 82,
+ "dealsFound": 14634,
+ "updatedAt": "2026-08-03T15:15:02",
+ "publishedAt": "2026-08-03T19:15:11.392021+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 85345
+ "totalDeals": 85386
 }
