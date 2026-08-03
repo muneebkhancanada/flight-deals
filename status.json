@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BNE->JFK 2026-08-05",
- "checksDone": 72915,
+ "phase": "MEL->EWR 2026-12-09",
+ "checksDone": 73245,
  "checksPlanned": 104236,
  "percent": 70,
- "dealsFound": 11898,
- "updatedAt": "2026-08-03T06:06:15",
- "publishedAt": "2026-08-03T10:06:20.050834+00:00",
+ "dealsFound": 11965,
+ "updatedAt": "2026-08-03T06:21:21",
+ "publishedAt": "2026-08-03T10:21:30.883271+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 82648
+ "totalDeals": 82717
 }
