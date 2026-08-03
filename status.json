@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MSP->KUL 2027-02-10",
- "checksDone": 68124,
+ "phase": "MIA->SYD 2026-10-07",
+ "checksDone": 68466,
  "checksPlanned": 104236,
- "percent": 65,
- "dealsFound": 10745,
- "updatedAt": "2026-08-03T02:30:37",
- "publishedAt": "2026-08-03T06:30:47.190512+00:00",
+ "percent": 66,
+ "dealsFound": 10858,
+ "updatedAt": "2026-08-03T02:45:54",
+ "publishedAt": "2026-08-03T06:45:59.243246+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 81497
+ "totalDeals": 81610
 }
