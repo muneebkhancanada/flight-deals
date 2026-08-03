@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ORD->VIE 2026-10-07",
- "checksDone": 79638,
+ "phase": "MSP->GIG 2026-08-05",
+ "checksDone": 79971,
  "checksPlanned": 104236,
- "percent": 76,
- "dealsFound": 13546,
- "updatedAt": "2026-08-03T11:11:06",
- "publishedAt": "2026-08-03T15:11:19.205244+00:00",
+ "percent": 77,
+ "dealsFound": 13677,
+ "updatedAt": "2026-08-03T11:26:24",
+ "publishedAt": "2026-08-03T15:26:35.097830+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 84296
+ "totalDeals": 84427
 }
