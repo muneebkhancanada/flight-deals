@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NCE->VIE 2026-10-08",
- "checksDone": 11310,
+ "phase": "PVG->ARN 2026-12-07",
+ "checksDone": 11655,
  "checksPlanned": 17216,
- "percent": 66,
- "dealsFound": 2103,
- "updatedAt": "2026-08-04T16:11:58",
- "publishedAt": "2026-08-04T20:12:09.032293+00:00",
+ "percent": 68,
+ "dealsFound": 2188,
+ "updatedAt": "2026-08-04T16:27:08",
+ "publishedAt": "2026-08-04T20:27:17.851409+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 91598
+ "totalDeals": 91682
 }
