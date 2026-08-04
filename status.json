@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ICN->IAH 2027-02-10",
- "checksDone": 91404,
+ "phase": "PVG->LHR 2027-02-10",
+ "checksDone": 91728,
  "checksPlanned": 104236,
  "percent": 88,
- "dealsFound": 16094,
- "updatedAt": "2026-08-03T20:06:00",
- "publishedAt": "2026-08-04T00:06:16.571063+00:00",
+ "dealsFound": 16132,
+ "updatedAt": "2026-08-03T20:21:22",
+ "publishedAt": "2026-08-04T00:21:37.949774+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 86837
+ "totalDeals": 86873
 }
