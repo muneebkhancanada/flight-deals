@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "full",
- "phase": "finished",
- "checksDone": 104236,
- "checksPlanned": 104236,
- "percent": 100,
- "dealsFound": 18468,
- "updatedAt": "2026-08-04T05:43:57",
- "publishedAt": "2026-08-04T09:44:02.927827+00:00",
- "queuedCount": 4,
+ "running": true,
+ "mode": "daily",
+ "phase": "YYZ->BAH 2026-11-01",
+ "checksDone": 330,
+ "checksPlanned": 2750,
+ "percent": 12,
+ "dealsFound": 43,
+ "updatedAt": "2026-08-04T05:59:16",
+ "publishedAt": "2026-08-04T09:59:25.008012+00:00",
+ "queuedCount": 3,
  "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  },
   {
    "label": "inbound from everywhere → NA, EU",
    "mode": "quick"
@@ -27,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 89072
+ "totalDeals": 89113
 }
