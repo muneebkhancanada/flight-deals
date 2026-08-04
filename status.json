@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYD->ATH 2026-12-09",
- "checksDone": 100893,
+ "phase": "DFW->OSL 2026-08-05",
+ "checksDone": 101223,
  "checksPlanned": 104236,
  "percent": 97,
- "dealsFound": 17600,
- "updatedAt": "2026-08-04T03:13:48",
- "publishedAt": "2026-08-04T07:14:00.427178+00:00",
+ "dealsFound": 17754,
+ "updatedAt": "2026-08-04T03:29:08",
+ "publishedAt": "2026-08-04T07:29:13.533259+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 88208
+ "totalDeals": 88362
 }
