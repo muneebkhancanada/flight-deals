@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OPO->MUC 2027-02-10",
- "checksDone": 100200,
+ "phase": "MXP->DUB 2026-10-07",
+ "checksDone": 100542,
  "checksPlanned": 104236,
  "percent": 96,
- "dealsFound": 17494,
- "updatedAt": "2026-08-04T02:43:29",
- "publishedAt": "2026-08-04T06:43:34.642854+00:00",
+ "dealsFound": 17560,
+ "updatedAt": "2026-08-04T02:58:37",
+ "publishedAt": "2026-08-04T06:58:47.621529+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 88106
+ "totalDeals": 88169
 }
