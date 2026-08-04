@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "daily",
- "phase": "finished",
- "checksDone": 2750,
- "checksPlanned": 2750,
- "percent": 100,
- "dealsFound": 430,
- "updatedAt": "2026-08-04T07:49:11",
- "publishedAt": "2026-08-04T11:49:17.042905+00:00",
- "queuedCount": 3,
+ "running": true,
+ "mode": "custom",
+ "phase": "DKR->YYZ 2026-10-08",
+ "checksDone": 330,
+ "checksPlanned": 17216,
+ "percent": 2,
+ "dealsFound": 48,
+ "updatedAt": "2026-08-04T08:04:32",
+ "publishedAt": "2026-08-04T12:04:38.205306+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "inbound from everywhere → NA, EU",
-   "mode": "quick"
-  },
   {
    "label": "round trip (primary ⇄ all, 14-24 nights)",
    "mode": "quick"
@@ -23,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 89499
+ "totalDeals": 89545
 }
