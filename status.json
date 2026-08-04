@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "OSL->IAH 2026-08-09",
- "checksDone": 16053,
+ "phase": "FRA->MSP 2026-10-08",
+ "checksDone": 16374,
  "checksPlanned": 17216,
- "percent": 93,
- "dealsFound": 2882,
- "updatedAt": "2026-08-04T19:44:14",
- "publishedAt": "2026-08-04T23:44:22.333469+00:00",
+ "percent": 95,
+ "dealsFound": 2913,
+ "updatedAt": "2026-08-04T19:59:22",
+ "publishedAt": "2026-08-04T23:59:32.943258+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 92370
+ "totalDeals": 92401
 }
