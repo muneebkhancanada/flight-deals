@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "PVG->ARN 2026-12-07",
- "checksDone": 11655,
+ "phase": "AUH->DFW 2026-10-08",
+ "checksDone": 11994,
  "checksPlanned": 17216,
- "percent": 68,
- "dealsFound": 2188,
- "updatedAt": "2026-08-04T16:27:08",
- "publishedAt": "2026-08-04T20:27:17.851409+00:00",
+ "percent": 70,
+ "dealsFound": 2234,
+ "updatedAt": "2026-08-04T16:42:19",
+ "publishedAt": "2026-08-04T20:42:28.778499+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 91682
+ "totalDeals": 91727
 }
