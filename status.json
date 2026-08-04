@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->NRT 2026-12-09",
- "checksDone": 99177,
+ "phase": "UIO->DEN 2026-12-09",
+ "checksDone": 99525,
  "checksPlanned": 104236,
  "percent": 95,
- "dealsFound": 17346,
- "updatedAt": "2026-08-04T01:57:50",
- "publishedAt": "2026-08-04T05:57:58.962678+00:00",
+ "dealsFound": 17397,
+ "updatedAt": "2026-08-04T02:13:05",
+ "publishedAt": "2026-08-04T06:13:10.589515+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 87958
+ "totalDeals": 88009
 }
