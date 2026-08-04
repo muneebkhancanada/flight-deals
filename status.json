@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATL->EDI 2026-08-05",
- "checksDone": 93411,
+ "phase": "DEN->GRU 2026-10-07",
+ "checksDone": 93726,
  "checksPlanned": 104236,
  "percent": 90,
- "dealsFound": 16395,
- "updatedAt": "2026-08-03T21:38:21",
- "publishedAt": "2026-08-04T01:38:34.111930+00:00",
+ "dealsFound": 16498,
+ "updatedAt": "2026-08-03T21:53:40",
+ "publishedAt": "2026-08-04T01:53:59.284594+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 87129
+ "totalDeals": 87234
 }
