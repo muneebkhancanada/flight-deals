@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DEN->GRU 2026-10-07",
- "checksDone": 93726,
+ "phase": "FRA->LIS 2027-02-10",
+ "checksDone": 94044,
  "checksPlanned": 104236,
  "percent": 90,
- "dealsFound": 16498,
- "updatedAt": "2026-08-03T21:53:40",
- "publishedAt": "2026-08-04T01:53:59.284594+00:00",
+ "dealsFound": 16552,
+ "updatedAt": "2026-08-03T22:09:08",
+ "publishedAt": "2026-08-04T02:09:26.845437+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 87234
+ "totalDeals": 87286
 }
