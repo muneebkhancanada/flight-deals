@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CAI->DEN 2027-02-10",
- "checksDone": 95736,
+ "phase": "OPO->FRA 2026-08-05",
+ "checksDone": 96075,
  "checksPlanned": 104236,
  "percent": 92,
- "dealsFound": 16695,
- "updatedAt": "2026-08-03T23:25:45",
- "publishedAt": "2026-08-04T03:25:54.382866+00:00",
+ "dealsFound": 16739,
+ "updatedAt": "2026-08-03T23:41:00",
+ "publishedAt": "2026-08-04T03:41:06.268828+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 87429
+ "totalDeals": 87473
 }
