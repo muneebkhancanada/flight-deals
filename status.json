@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->HEL 2027-02-10",
- "checksDone": 98136,
+ "phase": "FRA->SYD 2026-10-07",
+ "checksDone": 98478,
  "checksPlanned": 104236,
  "percent": 94,
- "dealsFound": 17275,
- "updatedAt": "2026-08-04T01:12:14",
- "publishedAt": "2026-08-04T05:12:19.903967+00:00",
+ "dealsFound": 17304,
+ "updatedAt": "2026-08-04T01:27:27",
+ "publishedAt": "2026-08-04T05:27:32.913449+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 87888
+ "totalDeals": 87916
 }
