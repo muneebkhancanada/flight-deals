@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ACC->BRU 2026-08-05",
- "checksDone": 93087,
+ "phase": "ATL->EDI 2026-08-05",
+ "checksDone": 93411,
  "checksPlanned": 104236,
- "percent": 89,
- "dealsFound": 16349,
- "updatedAt": "2026-08-03T21:22:59",
- "publishedAt": "2026-08-04T01:23:10.589535+00:00",
+ "percent": 90,
+ "dealsFound": 16395,
+ "updatedAt": "2026-08-03T21:38:21",
+ "publishedAt": "2026-08-04T01:38:34.111930+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 87084
+ "totalDeals": 87129
 }
