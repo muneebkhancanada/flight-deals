@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DKR->IAH 2026-10-08",
- "checksDone": 13362,
+ "phase": "SYD->FCO 2026-10-08",
+ "checksDone": 13698,
  "checksPlanned": 17216,
- "percent": 78,
- "dealsFound": 2516,
- "updatedAt": "2026-08-04T17:43:00",
- "publishedAt": "2026-08-04T21:43:05.644937+00:00",
+ "percent": 80,
+ "dealsFound": 2576,
+ "updatedAt": "2026-08-04T17:58:05",
+ "publishedAt": "2026-08-04T21:58:15.923749+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 92005
+ "totalDeals": 92065
 }
