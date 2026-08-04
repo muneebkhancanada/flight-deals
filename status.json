@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ICN->BRU 2026-12-09",
- "checksDone": 97125,
+ "phase": "MIA->NCE 2027-02-10",
+ "checksDone": 97464,
  "checksPlanned": 104236,
- "percent": 93,
- "dealsFound": 16900,
- "updatedAt": "2026-08-04T00:26:32",
- "publishedAt": "2026-08-04T04:26:42.189962+00:00",
+ "percent": 94,
+ "dealsFound": 16978,
+ "updatedAt": "2026-08-04T00:41:45",
+ "publishedAt": "2026-08-04T04:41:56.076774+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 87514
+ "totalDeals": 87594
 }
