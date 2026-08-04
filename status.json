@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->NAP 2026-10-07",
- "checksDone": 101898,
+ "phase": "MAD->HND 2026-10-07",
+ "checksDone": 102246,
  "checksPlanned": 104236,
  "percent": 98,
- "dealsFound": 18085,
- "updatedAt": "2026-08-04T03:59:28",
- "publishedAt": "2026-08-04T07:59:37.487869+00:00",
+ "dealsFound": 18131,
+ "updatedAt": "2026-08-04T04:14:36",
+ "publishedAt": "2026-08-04T08:14:49.630254+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 88693
+ "totalDeals": 88739
 }
