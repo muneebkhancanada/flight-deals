@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NBO->YVR 2026-10-07",
- "checksDone": 99858,
+ "phase": "OPO->MUC 2027-02-10",
+ "checksDone": 100200,
  "checksPlanned": 104236,
  "percent": 96,
- "dealsFound": 17429,
- "updatedAt": "2026-08-04T02:28:12",
- "publishedAt": "2026-08-04T06:28:23.146722+00:00",
+ "dealsFound": 17494,
+ "updatedAt": "2026-08-04T02:43:29",
+ "publishedAt": "2026-08-04T06:43:34.642854+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 88042
+ "totalDeals": 88106
 }
