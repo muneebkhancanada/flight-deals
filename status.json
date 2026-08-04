@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CMN->PHL 2026-12-07",
- "checksDone": 8631,
+ "phase": "BKK->MSP 2026-12-07",
+ "checksDone": 8967,
  "checksPlanned": 17216,
- "percent": 50,
- "dealsFound": 1466,
- "updatedAt": "2026-08-04T14:10:33",
- "publishedAt": "2026-08-04T18:10:41.256084+00:00",
+ "percent": 52,
+ "dealsFound": 1521,
+ "updatedAt": "2026-08-04T14:25:45",
+ "publishedAt": "2026-08-04T18:25:53.791806+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 90963
+ "totalDeals": 91018
 }
