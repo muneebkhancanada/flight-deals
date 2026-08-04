@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "OPO->MXP 2026-08-09",
- "checksDone": 13017,
+ "phase": "DKR->IAH 2026-10-08",
+ "checksDone": 13362,
  "checksPlanned": 17216,
- "percent": 76,
- "dealsFound": 2445,
- "updatedAt": "2026-08-04T17:27:45",
- "publishedAt": "2026-08-04T21:27:56.256183+00:00",
+ "percent": 78,
+ "dealsFound": 2516,
+ "updatedAt": "2026-08-04T17:43:00",
+ "publishedAt": "2026-08-04T21:43:05.644937+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 91934
+ "totalDeals": 92005
 }
