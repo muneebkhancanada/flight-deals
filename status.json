@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CAN->MAD 2026-10-08",
- "checksDone": 5838,
+ "phase": "NBO->FCO 2026-10-08",
+ "checksDone": 6198,
  "checksPlanned": 17216,
- "percent": 34,
- "dealsFound": 816,
- "updatedAt": "2026-08-04T12:08:19",
- "publishedAt": "2026-08-04T16:08:26.093582+00:00",
+ "percent": 36,
+ "dealsFound": 906,
+ "updatedAt": "2026-08-04T12:23:29",
+ "publishedAt": "2026-08-04T16:23:39.563758+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 90314
+ "totalDeals": 90403
 }
