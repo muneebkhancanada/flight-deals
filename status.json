@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SYD->IAH 2026-08-09",
- "checksDone": 2385,
+ "phase": "ZNZ->SFO 2026-10-08",
+ "checksDone": 2730,
  "checksPlanned": 17216,
- "percent": 14,
- "dealsFound": 251,
- "updatedAt": "2026-08-04T09:35:50",
- "publishedAt": "2026-08-04T13:36:01.790185+00:00",
+ "percent": 16,
+ "dealsFound": 276,
+ "updatedAt": "2026-08-04T09:51:06",
+ "publishedAt": "2026-08-04T13:51:16.096606+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 89748
+ "totalDeals": 89773
 }
