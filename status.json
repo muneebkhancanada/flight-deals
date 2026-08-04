@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DKR->LIS 2026-12-09",
- "checksDone": 92745,
+ "phase": "ACC->BRU 2026-08-05",
+ "checksDone": 93087,
  "checksPlanned": 104236,
  "percent": 89,
- "dealsFound": 16322,
- "updatedAt": "2026-08-03T21:07:35",
- "publishedAt": "2026-08-04T01:07:48.358896+00:00",
+ "dealsFound": 16349,
+ "updatedAt": "2026-08-03T21:22:59",
+ "publishedAt": "2026-08-04T01:23:10.589535+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 87057
+ "totalDeals": 87084
 }
