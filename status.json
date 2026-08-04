@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MRU->BRU 2026-10-08",
- "checksDone": 7266,
+ "phase": "NBO->ATH 2026-08-09",
+ "checksDone": 7617,
  "checksPlanned": 17216,
- "percent": 42,
- "dealsFound": 1092,
- "updatedAt": "2026-08-04T13:09:39",
- "publishedAt": "2026-08-04T17:09:47.788147+00:00",
+ "percent": 44,
+ "dealsFound": 1186,
+ "updatedAt": "2026-08-04T13:24:49",
+ "publishedAt": "2026-08-04T17:24:59.533223+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 90590
+ "totalDeals": 90683
 }
