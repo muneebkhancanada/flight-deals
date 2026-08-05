@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "YYZ->KTM 2027-01-14",
- "checksDone": 360,
+ "phase": "finished",
+ "checksDone": 499,
  "checksPlanned": 499,
- "percent": 72,
- "dealsFound": 148,
- "updatedAt": "2026-08-04T21:09:06",
- "publishedAt": "2026-08-05T01:09:15.284113+00:00",
+ "percent": 100,
+ "dealsFound": 190,
+ "updatedAt": "2026-08-04T21:19:29",
+ "publishedAt": "2026-08-05T01:19:36.177222+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 92652
+ "totalDeals": 92693
 }
