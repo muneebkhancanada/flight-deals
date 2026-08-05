@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NAN->CLT 2026-12-08",
- "checksDone": 2043,
+ "phase": "SYD->IAH 2027-02-06",
+ "checksDone": 2388,
  "checksPlanned": 17216,
- "percent": 12,
- "dealsFound": 241,
- "updatedAt": "2026-08-05T14:36:41",
- "publishedAt": "2026-08-05T18:36:45.895222+00:00",
+ "percent": 14,
+ "dealsFound": 276,
+ "updatedAt": "2026-08-05T14:51:47",
+ "publishedAt": "2026-08-05T18:51:56.144583+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 95664
+ "totalDeals": 95699
 }
