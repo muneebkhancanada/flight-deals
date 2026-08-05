@@ -1,14 +1,31 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SCL->EWR 2026-08-09",
- "checksDone": 669,
+ "phase": "GIG->PHL 2026-10-08",
+ "checksDone": 1014,
  "checksPlanned": 17216,
- "percent": 4,
- "dealsFound": 83,
- "updatedAt": "2026-08-04T22:20:09",
- "publishedAt": "2026-08-05T02:20:15.101549+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 92973
+ "percent": 6,
+ "dealsFound": 111,
+ "updatedAt": "2026-08-04T22:35:19",
+ "publishedAt": "2026-08-05T02:35:25.855913+00:00",
+ "queuedCount": 4,
+ "queued": [
+  {
+   "label": "round trip (NA ⇄ all, 10-25 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU",
+   "mode": "quick"
+  },
+  {
+   "label": "full",
+   "mode": "full"
+  }
+ ],
+ "totalDeals": 92998
 }
