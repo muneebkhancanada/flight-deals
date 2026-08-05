@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TIA->HNL 2026-08-10",
- "checksDone": 4125,
+ "phase": "BJS->LHR 2026-10-09",
+ "checksDone": 4482,
  "checksPlanned": 17216,
- "percent": 24,
- "dealsFound": 423,
- "updatedAt": "2026-08-05T16:07:44",
- "publishedAt": "2026-08-05T20:07:50.710367+00:00",
+ "percent": 26,
+ "dealsFound": 485,
+ "updatedAt": "2026-08-05T16:22:51",
+ "publishedAt": "2026-08-05T20:23:00.096095+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 95846
+ "totalDeals": 95909
 }
