@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VCE->DFW 2026-08-09",
- "checksDone": 13881,
+ "phase": "CMN->DEN 2026-10-08",
+ "checksDone": 14226,
  "checksPlanned": 17216,
- "percent": 81,
- "dealsFound": 2610,
- "updatedAt": "2026-08-05T07:56:41",
- "publishedAt": "2026-08-05T11:56:47.859835+00:00",
+ "percent": 83,
+ "dealsFound": 2665,
+ "updatedAt": "2026-08-05T08:11:52",
+ "publishedAt": "2026-08-05T12:11:58.152124+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 94508
+ "totalDeals": 94534
 }
