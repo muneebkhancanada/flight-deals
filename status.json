@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SHJ->EDI 2026-08-09",
- "checksDone": 8097,
+ "phase": "ICN->BOS 2026-10-08",
+ "checksDone": 8430,
  "checksPlanned": 17216,
- "percent": 47,
- "dealsFound": 1335,
- "updatedAt": "2026-08-05T03:38:40",
- "publishedAt": "2026-08-05T07:38:47.492493+00:00",
+ "percent": 49,
+ "dealsFound": 1408,
+ "updatedAt": "2026-08-05T03:53:48",
+ "publishedAt": "2026-08-05T07:53:56.910510+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 93741
+ "totalDeals": 93797
 }
