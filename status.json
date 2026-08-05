@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "DXB->HNL 2026-10-12",
- "checksDone": 2310,
+ "phase": "GRU->EDI 2026-08-10",
+ "checksDone": 2643,
  "checksPlanned": 2750,
- "percent": 84,
- "dealsFound": 490,
- "updatedAt": "2026-08-05T12:45:21",
- "publishedAt": "2026-08-05T16:45:27.925946+00:00",
+ "percent": 96,
+ "dealsFound": 577,
+ "updatedAt": "2026-08-05T13:00:33",
+ "publishedAt": "2026-08-05T17:00:38.789068+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 95319
+ "totalDeals": 95406
 }
