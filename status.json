@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BJL->ZRH 2026-10-08",
- "checksDone": 5574,
+ "phase": "DXB->BCN 2026-10-08",
+ "checksDone": 5934,
  "checksPlanned": 17216,
- "percent": 32,
- "dealsFound": 735,
- "updatedAt": "2026-08-05T01:52:29",
- "publishedAt": "2026-08-05T05:52:36.821275+00:00",
+ "percent": 34,
+ "dealsFound": 822,
+ "updatedAt": "2026-08-05T02:07:37",
+ "publishedAt": "2026-08-05T06:07:48.756073+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 93411
+ "totalDeals": 93462
 }
