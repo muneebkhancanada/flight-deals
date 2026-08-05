@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "GRU->EDI 2026-08-10",
- "checksDone": 2643,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 96,
- "dealsFound": 577,
- "updatedAt": "2026-08-05T13:00:33",
- "publishedAt": "2026-08-05T17:00:38.789068+00:00",
+ "percent": 100,
+ "dealsFound": 596,
+ "updatedAt": "2026-08-05T13:05:28",
+ "publishedAt": "2026-08-05T17:05:34.516403+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 95406
+ "totalDeals": 95425
 }
