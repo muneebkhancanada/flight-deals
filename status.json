@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KHI->LIS 2026-08-10",
- "checksDone": 6597,
+ "phase": "MRU->ARN 2026-12-08",
+ "checksDone": 6951,
  "checksPlanned": 17216,
- "percent": 38,
- "dealsFound": 993,
- "updatedAt": "2026-08-05T17:53:50",
- "publishedAt": "2026-08-05T21:53:59.224442+00:00",
+ "percent": 40,
+ "dealsFound": 1051,
+ "updatedAt": "2026-08-05T18:08:58",
+ "publishedAt": "2026-08-05T22:09:09.754501+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 96416
+ "totalDeals": 96475
 }
