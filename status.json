@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
- "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 3015,
- "updatedAt": "2026-08-04T20:38:33",
- "publishedAt": "2026-08-05T00:38:43.778501+00:00",
- "queuedCount": 3,
+ "running": true,
+ "mode": "roundtrip",
+ "phase": "YYZ->IST 2026-10-30",
+ "checksDone": 171,
+ "checksPlanned": 499,
+ "percent": 34,
+ "dealsFound": 73,
+ "updatedAt": "2026-08-04T20:53:52",
+ "publishedAt": "2026-08-05T00:54:06.523435+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "round trip (primary ⇄ all, 14-24 nights)",
-   "mode": "quick"
-  },
   {
    "label": "custom (KWI, KHI → everywhere)",
    "mode": "quick"
@@ -23,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 92503
+ "totalDeals": 92577
 }
