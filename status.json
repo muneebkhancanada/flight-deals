@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DPS->IAD 2026-12-07",
- "checksDone": 8763,
+ "phase": "BNE->MIA 2026-12-07",
+ "checksDone": 9099,
  "checksPlanned": 17216,
- "percent": 51,
- "dealsFound": 1474,
- "updatedAt": "2026-08-05T04:08:59",
- "publishedAt": "2026-08-05T08:09:07.724926+00:00",
+ "percent": 53,
+ "dealsFound": 1533,
+ "updatedAt": "2026-08-05T04:24:09",
+ "publishedAt": "2026-08-05T08:24:16.788110+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 93854
+ "totalDeals": 93894
 }
