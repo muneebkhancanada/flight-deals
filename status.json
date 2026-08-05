@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BJL->CDG 2026-12-07",
- "checksDone": 4863,
+ "phase": "DAR->FRA 2026-08-09",
+ "checksDone": 5217,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 543,
- "updatedAt": "2026-08-05T01:22:06",
- "publishedAt": "2026-08-05T05:22:16.523846+00:00",
+ "percent": 30,
+ "dealsFound": 643,
+ "updatedAt": "2026-08-05T01:37:16",
+ "publishedAt": "2026-08-05T05:37:26.410442+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 93294
+ "totalDeals": 93351
 }
