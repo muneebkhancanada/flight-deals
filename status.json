@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 500,
- "checksPlanned": 500,
- "percent": 100,
- "dealsFound": 93,
- "updatedAt": "2026-08-05T10:58:55",
- "publishedAt": "2026-08-05T14:59:01.211934+00:00",
- "queuedCount": 3,
+ "running": true,
+ "mode": "daily",
+ "phase": "YYZ->MCT 2026-11-02",
+ "checksDone": 330,
+ "checksPlanned": 2750,
+ "percent": 12,
+ "dealsFound": 64,
+ "updatedAt": "2026-08-05T11:14:13",
+ "publishedAt": "2026-08-05T15:14:25.092489+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  },
   {
    "label": "inbound from everywhere → NA, EU",
    "mode": "quick"
@@ -23,5 +19,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 94829
+ "totalDeals": 94893
 }
