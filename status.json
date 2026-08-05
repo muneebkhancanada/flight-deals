@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "EWR->HKG 2027-07-02",
- "checksDone": 279,
+ "phase": "finished",
+ "checksDone": 500,
  "checksPlanned": 500,
- "percent": 56,
- "dealsFound": 45,
- "updatedAt": "2026-08-05T10:44:33",
- "publishedAt": "2026-08-05T14:44:46.262875+00:00",
+ "percent": 100,
+ "dealsFound": 93,
+ "updatedAt": "2026-08-05T10:58:55",
+ "publishedAt": "2026-08-05T14:59:01.211934+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 94782
+ "totalDeals": 94829
 }
