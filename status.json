@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DOH->MXP 2027-02-05",
- "checksDone": 6300,
+ "phase": "BJL->LIS 2026-12-07",
+ "checksDone": 6663,
  "checksPlanned": 17216,
- "percent": 37,
- "dealsFound": 903,
- "updatedAt": "2026-08-05T02:22:49",
- "publishedAt": "2026-08-05T06:22:58.083344+00:00",
+ "percent": 39,
+ "dealsFound": 972,
+ "updatedAt": "2026-08-05T02:38:02",
+ "publishedAt": "2026-08-05T06:38:06.999409+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 93503
+ "totalDeals": 93542
 }
