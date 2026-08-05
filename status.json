@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AKL->SFO 2027-02-05",
- "checksDone": 2748,
+ "phase": "BJL->YUL 2026-12-07",
+ "checksDone": 3087,
  "checksPlanned": 17216,
- "percent": 16,
- "dealsFound": 281,
- "updatedAt": "2026-08-04T23:51:10",
- "publishedAt": "2026-08-05T03:51:16.339330+00:00",
+ "percent": 18,
+ "dealsFound": 322,
+ "updatedAt": "2026-08-05T00:06:19",
+ "publishedAt": "2026-08-05T04:06:24.677664+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 93135
+ "totalDeals": 93123
 }
