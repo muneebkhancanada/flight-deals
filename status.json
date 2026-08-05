@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AGP->MAN 2027-02-06",
- "checksDone": 7668,
+ "phase": "ZNZ->MAN 2027-02-06",
+ "checksDone": 8004,
  "checksPlanned": 17216,
- "percent": 45,
- "dealsFound": 1197,
- "updatedAt": "2026-08-05T18:39:20",
- "publishedAt": "2026-08-05T22:39:29.206762+00:00",
+ "percent": 46,
+ "dealsFound": 1331,
+ "updatedAt": "2026-08-05T18:54:31",
+ "publishedAt": "2026-08-05T22:54:40.716272+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 96620
+ "totalDeals": 96755
 }
