@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DKR->YYZ 2026-10-09",
- "checksDone": 330,
+ "phase": "SCL->EWR 2026-08-10",
+ "checksDone": 669,
  "checksPlanned": 17216,
- "percent": 2,
- "dealsFound": 43,
- "updatedAt": "2026-08-05T13:20:46",
- "publishedAt": "2026-08-05T17:20:55.620647+00:00",
+ "percent": 4,
+ "dealsFound": 94,
+ "updatedAt": "2026-08-05T13:35:56",
+ "publishedAt": "2026-08-05T17:36:04.561085+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 95466
+ "totalDeals": 95517
 }
