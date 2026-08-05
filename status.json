@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "FCO->IAH 2026-12-07",
- "checksDone": 16227,
+ "phase": "LHR->ORD 2026-10-08",
+ "checksDone": 16554,
  "checksPlanned": 17216,
- "percent": 94,
- "dealsFound": 2894,
- "updatedAt": "2026-08-05T09:42:47",
- "publishedAt": "2026-08-05T13:42:59.560072+00:00",
+ "percent": 96,
+ "dealsFound": 2921,
+ "updatedAt": "2026-08-05T09:57:57",
+ "publishedAt": "2026-08-05T13:58:10.027730+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 94685
+ "totalDeals": 94704
 }
