@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VIE->CDG 2026-12-07",
- "checksDone": 12183,
+ "phase": "ICN->OSL 2026-10-08",
+ "checksDone": 12534,
  "checksPlanned": 17216,
- "percent": 71,
- "dealsFound": 2258,
- "updatedAt": "2026-08-05T06:40:39",
- "publishedAt": "2026-08-05T10:40:45.205699+00:00",
+ "percent": 73,
+ "dealsFound": 2351,
+ "updatedAt": "2026-08-05T06:55:49",
+ "publishedAt": "2026-08-05T10:55:55.726559+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 94343
+ "totalDeals": 94386
 }
