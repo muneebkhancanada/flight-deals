@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "OSL->JFK 2026-08-09",
- "checksDone": 16701,
+ "phase": "VIE->YUL 2026-08-09",
+ "checksDone": 17025,
  "checksPlanned": 17216,
- "percent": 97,
- "dealsFound": 2949,
- "updatedAt": "2026-08-04T20:14:38",
- "publishedAt": "2026-08-05T00:14:43.406675+00:00",
+ "percent": 99,
+ "dealsFound": 3007,
+ "updatedAt": "2026-08-04T20:29:48",
+ "publishedAt": "2026-08-05T00:29:53.859588+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 92438
+ "totalDeals": 92495
 }
