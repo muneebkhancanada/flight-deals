@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TPE->CLT 2027-02-06",
- "checksDone": 9012,
+ "phase": "ICN->YYC 2026-08-10",
+ "checksDone": 9345,
  "checksPlanned": 17216,
- "percent": 52,
- "dealsFound": 1545,
- "updatedAt": "2026-08-05T19:40:04",
- "publishedAt": "2026-08-05T23:40:10.580387+00:00",
+ "percent": 54,
+ "dealsFound": 1610,
+ "updatedAt": "2026-08-05T19:55:09",
+ "publishedAt": "2026-08-05T23:55:19.387412+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 96968
+ "totalDeals": 97034
 }
