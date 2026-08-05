@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "HEL->MAN 2026-08-09",
- "checksDone": 7749,
+ "phase": "SHJ->EDI 2026-08-09",
+ "checksDone": 8097,
  "checksPlanned": 17216,
- "percent": 45,
- "dealsFound": 1203,
- "updatedAt": "2026-08-05T03:23:25",
- "publishedAt": "2026-08-05T07:23:36.246423+00:00",
+ "percent": 47,
+ "dealsFound": 1335,
+ "updatedAt": "2026-08-05T03:38:40",
+ "publishedAt": "2026-08-05T07:38:47.492493+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 93658
+ "totalDeals": 93741
 }
