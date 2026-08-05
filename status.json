@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ALA->CDG 2026-08-10",
- "checksDone": 4833,
+ "phase": "ALA->FRA 2026-10-09",
+ "checksDone": 5178,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 590,
- "updatedAt": "2026-08-05T16:38:05",
- "publishedAt": "2026-08-05T20:38:10.853727+00:00",
+ "percent": 30,
+ "dealsFound": 690,
+ "updatedAt": "2026-08-05T16:53:10",
+ "publishedAt": "2026-08-05T20:53:20.881369+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 96014
+ "totalDeals": 96115
 }
