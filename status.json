@@ -1,23 +1,19 @@
 {
- "running": false,
- "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 499,
- "checksPlanned": 499,
- "percent": 100,
- "dealsFound": 190,
- "updatedAt": "2026-08-04T21:19:29",
- "publishedAt": "2026-08-05T01:19:36.177222+00:00",
- "queuedCount": 2,
+ "running": true,
+ "mode": "custom",
+ "phase": "KHI->MAD 2026-08-09",
+ "checksDone": 381,
+ "checksPlanned": 744,
+ "percent": 51,
+ "dealsFound": 127,
+ "updatedAt": "2026-08-04T21:34:50",
+ "publishedAt": "2026-08-05T01:34:58.243676+00:00",
+ "queuedCount": 1,
  "queued": [
-  {
-   "label": "custom (KWI, KHI → everywhere)",
-   "mode": "quick"
-  },
   {
    "label": "inbound from everywhere → NA, EU",
    "mode": "quick"
   }
  ],
- "totalDeals": 92693
+ "totalDeals": 92803
 }
