@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SYD->IAH 2027-02-06",
- "checksDone": 2388,
+ "phase": "TUN->SFO 2027-02-06",
+ "checksDone": 2724,
  "checksPlanned": 17216,
- "percent": 14,
- "dealsFound": 276,
- "updatedAt": "2026-08-05T14:51:47",
- "publishedAt": "2026-08-05T18:51:56.144583+00:00",
+ "percent": 16,
+ "dealsFound": 308,
+ "updatedAt": "2026-08-05T15:06:56",
+ "publishedAt": "2026-08-05T19:07:04.800371+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 95699
+ "totalDeals": 95731
 }
