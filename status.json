@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BNE->MIA 2026-12-07",
- "checksDone": 9099,
+ "phase": "AKL->YVR 2026-10-08",
+ "checksDone": 9438,
  "checksPlanned": 17216,
- "percent": 53,
- "dealsFound": 1533,
- "updatedAt": "2026-08-05T04:24:09",
- "publishedAt": "2026-08-05T08:24:16.788110+00:00",
+ "percent": 55,
+ "dealsFound": 1616,
+ "updatedAt": "2026-08-05T04:39:18",
+ "publishedAt": "2026-08-05T08:39:26.776868+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 93894
+ "totalDeals": 93950
 }
