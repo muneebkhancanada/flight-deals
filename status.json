@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LIM->ZRH 2026-08-09",
- "checksDone": 15249,
+ "phase": "CDG->SFO 2026-12-07",
+ "checksDone": 15591,
  "checksPlanned": 17216,
- "percent": 89,
- "dealsFound": 2799,
- "updatedAt": "2026-08-05T08:57:20",
- "publishedAt": "2026-08-05T12:57:28.723514+00:00",
+ "percent": 91,
+ "dealsFound": 2813,
+ "updatedAt": "2026-08-05T09:12:32",
+ "publishedAt": "2026-08-05T13:12:38.747064+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 94630
+ "totalDeals": 94642
 }
