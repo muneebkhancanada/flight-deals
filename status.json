@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->MDE 2026-11-03",
- "checksDone": 7923,
+ "phase": "MXP->MDE 2027-01-05",
+ "checksDone": 8274,
  "checksPlanned": 104236,
  "percent": 8,
- "dealsFound": 1715,
- "updatedAt": "2026-08-06T07:36:49",
- "publishedAt": "2026-08-06T11:36:55.979289+00:00",
+ "dealsFound": 1720,
+ "updatedAt": "2026-08-06T07:51:58",
+ "publishedAt": "2026-08-06T11:52:05.538833+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99396
+ "totalDeals": 99401
 }
