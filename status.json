@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OPO->SEA 2026-11-03",
- "checksDone": 4467,
+ "phase": "EZE->MXP 2027-01-05",
+ "checksDone": 4818,
  "checksPlanned": 104236,
- "percent": 4,
- "dealsFound": 1068,
- "updatedAt": "2026-08-06T05:05:00",
- "publishedAt": "2026-08-06T09:05:08.589108+00:00",
+ "percent": 5,
+ "dealsFound": 1115,
+ "updatedAt": "2026-08-06T05:20:09",
+ "publishedAt": "2026-08-06T09:20:19.693207+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 98765
+ "totalDeals": 98812
 }
