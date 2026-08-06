@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->RUH 2026-09-22",
- "checksDone": 22395,
+ "phase": "LAX->BAH 2027-03-30",
+ "checksDone": 22728,
  "checksPlanned": 104236,
- "percent": 21,
- "dealsFound": 4064,
- "updatedAt": "2026-08-06T18:30:47",
- "publishedAt": "2026-08-06T22:31:00.847655+00:00",
+ "percent": 22,
+ "dealsFound": 4172,
+ "updatedAt": "2026-08-06T18:46:04",
+ "publishedAt": "2026-08-06T22:46:24.383692+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 101706
+ "totalDeals": 101814
 }
