@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->WAW 2027-03-09",
- "checksDone": 2745,
+ "phase": "DUB->SCL 2027-01-05",
+ "checksDone": 3090,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 718,
- "updatedAt": "2026-08-06T03:49:05",
- "publishedAt": "2026-08-06T07:49:16.610683+00:00",
+ "dealsFound": 791,
+ "updatedAt": "2026-08-06T04:04:16",
+ "publishedAt": "2026-08-06T08:04:27.858859+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 98422
+ "totalDeals": 98495
 }
