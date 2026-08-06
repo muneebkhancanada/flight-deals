@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MSP->TIA 2027-03-30",
- "checksDone": 19236,
+ "phase": "MSP->DSS 2027-01-26",
+ "checksDone": 19581,
  "checksPlanned": 104236,
- "percent": 18,
- "dealsFound": 3486,
- "updatedAt": "2026-08-06T16:14:09",
- "publishedAt": "2026-08-06T20:14:16.333562+00:00",
+ "percent": 19,
+ "dealsFound": 3564,
+ "updatedAt": "2026-08-06T16:29:17",
+ "publishedAt": "2026-08-06T20:29:26.811892+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 101128
+ "totalDeals": 101206
 }
