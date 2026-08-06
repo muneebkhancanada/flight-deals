@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->LAX 2026-09-01",
- "checksDone": 8616,
+ "phase": "OSL->LAX 2027-01-05",
+ "checksDone": 8946,
  "checksPlanned": 104236,
- "percent": 8,
- "dealsFound": 1736,
- "updatedAt": "2026-08-06T08:07:06",
- "publishedAt": "2026-08-06T12:07:15.065806+00:00",
+ "percent": 9,
+ "dealsFound": 1788,
+ "updatedAt": "2026-08-06T08:22:12",
+ "publishedAt": "2026-08-06T12:22:24.505786+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99417
+ "totalDeals": 99472
 }
