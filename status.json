@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
- "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 3015,
- "updatedAt": "2026-08-06T01:47:20",
- "publishedAt": "2026-08-06T05:47:35.501487+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "full",
-   "mode": "full"
-  }
- ],
- "totalDeals": 97775
+ "running": true,
+ "mode": "full",
+ "phase": "ATH->AGP 2026-09-01",
+ "checksDone": 348,
+ "checksPlanned": 104236,
+ "percent": 0,
+ "dealsFound": 58,
+ "updatedAt": "2026-08-06T02:02:53",
+ "publishedAt": "2026-08-06T06:03:02.246877+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 97834
 }
