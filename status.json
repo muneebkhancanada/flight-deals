@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MDE->YVR 2027-01-05",
- "checksDone": 6522,
+ "phase": "FRA->LIM 2026-11-03",
+ "checksDone": 6867,
  "checksPlanned": 104236,
- "percent": 6,
- "dealsFound": 1644,
- "updatedAt": "2026-08-06T06:36:00",
- "publishedAt": "2026-08-06T10:36:11.779166+00:00",
+ "percent": 7,
+ "dealsFound": 1674,
+ "updatedAt": "2026-08-06T06:51:09",
+ "publishedAt": "2026-08-06T10:51:21.881658+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99325
+ "totalDeals": 99355
 }
