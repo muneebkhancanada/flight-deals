@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DXB->SEA 2026-12-08",
- "checksDone": 12759,
+ "phase": "MNL->LIS 2027-02-06",
+ "checksDone": 13104,
  "checksPlanned": 17216,
- "percent": 74,
- "dealsFound": 2403,
- "updatedAt": "2026-08-05T22:26:52",
- "publishedAt": "2026-08-06T02:27:00.551429+00:00",
+ "percent": 76,
+ "dealsFound": 2474,
+ "updatedAt": "2026-08-05T22:42:04",
+ "publishedAt": "2026-08-06T02:42:10.755437+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 97826
+ "totalDeals": 97897
 }
