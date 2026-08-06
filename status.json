@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->MDE 2026-09-22",
- "checksDone": 17511,
+ "phase": "IAD->ALA 2027-03-30",
+ "checksDone": 17868,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 3099,
- "updatedAt": "2026-08-06T14:58:16",
- "publishedAt": "2026-08-06T18:58:22.869909+00:00",
+ "dealsFound": 3150,
+ "updatedAt": "2026-08-06T15:13:24",
+ "publishedAt": "2026-08-06T19:13:33.795930+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 100752
+ "totalDeals": 100799
 }
