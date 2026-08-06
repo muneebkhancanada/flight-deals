@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YUL->KHI 2027-01-26",
- "checksDone": 23697,
+ "phase": "YOW->BCN 2027-01-26",
+ "checksDone": 24033,
  "checksPlanned": 104236,
  "percent": 23,
- "dealsFound": 4403,
- "updatedAt": "2026-08-06T19:32:19",
- "publishedAt": "2026-08-06T23:32:31.940060+00:00",
+ "dealsFound": 4418,
+ "updatedAt": "2026-08-06T19:47:40",
+ "publishedAt": "2026-08-06T23:47:54.628734+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 102045
+ "totalDeals": 102060
 }
