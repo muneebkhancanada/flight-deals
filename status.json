@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATL->SCL 2027-01-26",
- "checksDone": 19941,
+ "phase": "CLT->TAS 2027-03-30",
+ "checksDone": 20292,
  "checksPlanned": 104236,
  "percent": 19,
- "dealsFound": 3636,
- "updatedAt": "2026-08-06T16:44:30",
- "publishedAt": "2026-08-06T20:44:37.115496+00:00",
+ "dealsFound": 3678,
+ "updatedAt": "2026-08-06T16:59:41",
+ "publishedAt": "2026-08-06T20:59:46.680823+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 101278
+ "totalDeals": 101320
 }
