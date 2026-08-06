@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SCL->OSL 2027-03-09",
- "checksDone": 6177,
+ "phase": "MDE->YVR 2027-01-05",
+ "checksDone": 6522,
  "checksPlanned": 104236,
  "percent": 6,
- "dealsFound": 1531,
- "updatedAt": "2026-08-06T06:20:52",
- "publishedAt": "2026-08-06T10:21:01.013958+00:00",
+ "dealsFound": 1644,
+ "updatedAt": "2026-08-06T06:36:00",
+ "publishedAt": "2026-08-06T10:36:11.779166+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99212
+ "totalDeals": 99325
 }
