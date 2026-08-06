@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "UIO->EDI 2026-09-01",
- "checksDone": 7212,
+ "phase": "ZRH->UIO 2026-11-03",
+ "checksDone": 7563,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 1700,
- "updatedAt": "2026-08-06T07:06:27",
- "publishedAt": "2026-08-06T11:06:33.573906+00:00",
+ "dealsFound": 1707,
+ "updatedAt": "2026-08-06T07:21:35",
+ "publishedAt": "2026-08-06T11:21:44.626958+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99382
+ "totalDeals": 99388
 }
