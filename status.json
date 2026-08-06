@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->SEA 2027-03-09",
- "checksDone": 9585,
+ "phase": "LHR->DEN 2027-01-05",
+ "checksDone": 9918,
  "checksPlanned": 104236,
- "percent": 9,
- "dealsFound": 1865,
- "updatedAt": "2026-08-06T08:53:55",
- "publishedAt": "2026-08-06T12:54:01.644411+00:00",
+ "percent": 10,
+ "dealsFound": 1880,
+ "updatedAt": "2026-08-06T09:09:06",
+ "publishedAt": "2026-08-06T13:09:12.360512+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99546
+ "totalDeals": 99561
 }
