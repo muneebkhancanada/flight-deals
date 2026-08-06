@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATH->MSP 2026-09-01",
- "checksDone": 11532,
+ "phase": "DUB->EWR 2027-03-09",
+ "checksDone": 11853,
  "checksPlanned": 104236,
  "percent": 11,
- "dealsFound": 2038,
- "updatedAt": "2026-08-06T10:24:58",
- "publishedAt": "2026-08-06T14:25:07.785858+00:00",
+ "dealsFound": 2066,
+ "updatedAt": "2026-08-06T10:40:07",
+ "publishedAt": "2026-08-06T14:40:19.286854+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99719
+ "totalDeals": 99747
 }
