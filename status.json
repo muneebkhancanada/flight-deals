@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "UIO->SFO 2026-08-10",
- "checksDone": 14817,
+ "phase": "KEF->MXP 2026-12-08",
+ "checksDone": 15159,
  "checksPlanned": 17216,
- "percent": 86,
- "dealsFound": 2775,
- "updatedAt": "2026-08-05T23:57:57",
- "publishedAt": "2026-08-06T03:58:05.793083+00:00",
+ "percent": 88,
+ "dealsFound": 2814,
+ "updatedAt": "2026-08-06T00:13:10",
+ "publishedAt": "2026-08-06T04:13:15.794114+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 98200
+ "totalDeals": 97577
 }
