@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->CMN 2026-11-03",
- "checksDone": 1383,
+ "phase": "BCN->AKL 2027-01-05",
+ "checksDone": 1722,
  "checksPlanned": 104236,
- "percent": 1,
- "dealsFound": 373,
- "updatedAt": "2026-08-06T02:48:24",
- "publishedAt": "2026-08-06T06:48:36.044200+00:00",
+ "percent": 2,
+ "dealsFound": 407,
+ "updatedAt": "2026-08-06T03:03:34",
+ "publishedAt": "2026-08-06T07:03:45.102421+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 98093
+ "totalDeals": 98127
 }
