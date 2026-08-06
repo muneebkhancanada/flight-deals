@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYZ->MRU 2027-01-12",
- "checksDone": 15135,
+ "phase": "JFK->CMB 2026-11-24",
+ "checksDone": 15474,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 2611,
- "updatedAt": "2026-08-06T13:11:57",
- "publishedAt": "2026-08-06T17:12:05.490052+00:00",
+ "dealsFound": 2692,
+ "updatedAt": "2026-08-06T13:27:07",
+ "publishedAt": "2026-08-06T17:27:16.092528+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 100287
+ "totalDeals": 100368
 }
