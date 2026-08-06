@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATH->AGP 2026-09-01",
- "checksDone": 348,
+ "phase": "VCE->YVR 2027-01-05",
+ "checksDone": 690,
  "checksPlanned": 104236,
- "percent": 0,
- "dealsFound": 58,
- "updatedAt": "2026-08-06T02:02:53",
- "publishedAt": "2026-08-06T06:03:02.246877+00:00",
+ "percent": 1,
+ "dealsFound": 114,
+ "updatedAt": "2026-08-06T02:18:02",
+ "publishedAt": "2026-08-06T06:18:14.487640+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 97834
+ "totalDeals": 97889
 }
