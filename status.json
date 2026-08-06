@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KUL->MUC 2026-08-10",
- "checksDone": 9681,
+ "phase": "BKK->DUB 2026-10-09",
+ "checksDone": 10026,
  "checksPlanned": 17216,
- "percent": 56,
- "dealsFound": 1731,
- "updatedAt": "2026-08-05T20:10:21",
- "publishedAt": "2026-08-06T00:10:28.238988+00:00",
+ "percent": 58,
+ "dealsFound": 1830,
+ "updatedAt": "2026-08-05T20:25:27",
+ "publishedAt": "2026-08-06T00:25:39.504313+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 97155
+ "totalDeals": 97255
 }
