@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ORD->SYD 2027-01-26",
- "checksDone": 18549,
+ "phase": "DTW->LHE 2026-09-22",
+ "checksDone": 18879,
  "checksPlanned": 104236,
  "percent": 18,
- "dealsFound": 3332,
- "updatedAt": "2026-08-06T15:43:46",
- "publishedAt": "2026-08-06T19:43:56.207746+00:00",
+ "dealsFound": 3451,
+ "updatedAt": "2026-08-06T15:58:54",
+ "publishedAt": "2026-08-06T19:59:05.721107+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 100976
+ "totalDeals": 101094
 }
