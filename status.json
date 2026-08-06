@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->YUL 2027-01-05",
- "checksDone": 13134,
+ "phase": "CDG->DTW 2027-03-09",
+ "checksDone": 13473,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2280,
- "updatedAt": "2026-08-06T11:40:51",
- "publishedAt": "2026-08-06T15:41:00.516655+00:00",
+ "dealsFound": 2289,
+ "updatedAt": "2026-08-06T11:56:05",
+ "publishedAt": "2026-08-06T15:56:11.542941+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99961
+ "totalDeals": 99970
 }
