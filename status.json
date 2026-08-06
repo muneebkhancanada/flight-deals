@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AKL->WAW 2026-11-03",
- "checksDone": 2415,
+ "phase": "LAX->WAW 2027-03-09",
+ "checksDone": 2745,
  "checksPlanned": 104236,
- "percent": 2,
- "dealsFound": 555,
- "updatedAt": "2026-08-06T03:33:57",
- "publishedAt": "2026-08-06T07:34:06.362894+00:00",
+ "percent": 3,
+ "dealsFound": 718,
+ "updatedAt": "2026-08-06T03:49:05",
+ "publishedAt": "2026-08-06T07:49:16.610683+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 98258
+ "totalDeals": 98422
 }
