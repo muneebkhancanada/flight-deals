@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHR->DEN 2027-01-05",
- "checksDone": 9918,
+ "phase": "BRU->IAH 2026-11-03",
+ "checksDone": 10239,
  "checksPlanned": 104236,
  "percent": 10,
- "dealsFound": 1880,
- "updatedAt": "2026-08-06T09:09:06",
- "publishedAt": "2026-08-06T13:09:12.360512+00:00",
+ "dealsFound": 1908,
+ "updatedAt": "2026-08-06T09:24:15",
+ "publishedAt": "2026-08-06T13:24:21.896642+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 99561
+ "totalDeals": 99589
 }
