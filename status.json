@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DUB->SEA 2026-10-09",
- "checksDone": 15510,
+ "phase": "OSL->YYC 2027-02-06",
+ "checksDone": 15840,
  "checksPlanned": 17216,
- "percent": 90,
- "dealsFound": 2837,
- "updatedAt": "2026-08-06T00:28:20",
- "publishedAt": "2026-08-06T04:28:26.647313+00:00",
+ "percent": 92,
+ "dealsFound": 2881,
+ "updatedAt": "2026-08-06T00:43:28",
+ "publishedAt": "2026-08-06T04:43:37.667654+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 97599
+ "totalDeals": 97643
 }
