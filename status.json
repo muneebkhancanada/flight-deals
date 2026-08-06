@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ICN->YYC 2026-08-10",
- "checksDone": 9345,
+ "phase": "KUL->MUC 2026-08-10",
+ "checksDone": 9681,
  "checksPlanned": 17216,
- "percent": 54,
- "dealsFound": 1610,
- "updatedAt": "2026-08-05T19:55:09",
- "publishedAt": "2026-08-05T23:55:19.387412+00:00",
+ "percent": 56,
+ "dealsFound": 1731,
+ "updatedAt": "2026-08-05T20:10:21",
+ "publishedAt": "2026-08-06T00:10:28.238988+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 97034
+ "totalDeals": 97155
 }
