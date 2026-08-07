@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->YYZ 2027-01-12",
- "checksDone": 39627,
+ "phase": "CPH->YYZ 2027-01-26",
+ "checksDone": 39951,
  "checksPlanned": 104236,
  "percent": 38,
- "dealsFound": 7324,
- "updatedAt": "2026-08-07T15:27:48",
- "publishedAt": "2026-08-07T19:27:57.958406+00:00",
+ "dealsFound": 7389,
+ "updatedAt": "2026-08-07T15:43:02",
+ "publishedAt": "2026-08-07T19:43:09.179884+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 104934
+ "totalDeals": 104997
 }
