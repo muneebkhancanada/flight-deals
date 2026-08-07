@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->ALA 2026-11-24",
- "checksDone": 27414,
+ "phase": "AMS->SJJ 2027-03-30",
+ "checksDone": 27756,
  "checksPlanned": 104236,
- "percent": 26,
- "dealsFound": 4834,
- "updatedAt": "2026-08-06T22:21:38",
- "publishedAt": "2026-08-07T02:21:52.061768+00:00",
+ "percent": 27,
+ "dealsFound": 4893,
+ "updatedAt": "2026-08-06T22:36:59",
+ "publishedAt": "2026-08-07T02:37:15.350510+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 102476
+ "totalDeals": 102536
 }
