@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->ZNZ 2026-09-22",
- "checksDone": 25731,
+ "phase": "LHR->DOH 2027-01-26",
+ "checksDone": 26061,
  "checksPlanned": 104236,
  "percent": 25,
- "dealsFound": 4586,
- "updatedAt": "2026-08-06T21:04:37",
- "publishedAt": "2026-08-07T01:04:53.961595+00:00",
+ "dealsFound": 4659,
+ "updatedAt": "2026-08-06T21:20:01",
+ "publishedAt": "2026-08-07T01:20:17.087138+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 102228
+ "totalDeals": 102301
 }
