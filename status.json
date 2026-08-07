@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MRU->IAD 2026-12-15",
- "checksDone": 43701,
+ "phase": "MLE->ORD 2026-08-11",
+ "checksDone": 44043,
  "checksPlanned": 104236,
  "percent": 42,
- "dealsFound": 7826,
- "updatedAt": "2026-08-07T18:29:54",
- "publishedAt": "2026-08-07T22:30:04.222203+00:00",
+ "dealsFound": 7890,
+ "updatedAt": "2026-08-07T18:45:06",
+ "publishedAt": "2026-08-07T22:45:15.815410+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 105434
+ "totalDeals": 105498
 }
