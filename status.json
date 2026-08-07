@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ACC->YYZ 2026-12-01",
- "checksDone": 40950,
+ "phase": "MCT->JFK 2027-02-16",
+ "checksDone": 41292,
  "checksPlanned": 104236,
- "percent": 39,
- "dealsFound": 7533,
- "updatedAt": "2026-08-07T16:28:36",
- "publishedAt": "2026-08-07T20:28:42.216269+00:00",
+ "percent": 40,
+ "dealsFound": 7555,
+ "updatedAt": "2026-08-07T16:43:43",
+ "publishedAt": "2026-08-07T20:43:52.621870+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 105141
+ "totalDeals": 105163
 }
