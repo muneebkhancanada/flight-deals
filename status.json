@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->SJJ 2027-03-30",
- "checksDone": 27756,
+ "phase": "AMS->DAR 2026-09-22",
+ "checksDone": 28095,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 4893,
- "updatedAt": "2026-08-06T22:36:59",
- "publishedAt": "2026-08-07T02:37:15.350510+00:00",
+ "dealsFound": 4956,
+ "updatedAt": "2026-08-06T22:52:25",
+ "publishedAt": "2026-08-07T02:52:39.386275+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 102536
+ "totalDeals": 102598
 }
