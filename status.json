@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SGN->DTW 2026-10-13",
- "checksDone": 44382,
+ "phase": "MRU->DTW 2026-08-11",
+ "checksDone": 44727,
  "checksPlanned": 104236,
  "percent": 43,
- "dealsFound": 7912,
- "updatedAt": "2026-08-07T19:00:21",
- "publishedAt": "2026-08-07T23:00:28.432497+00:00",
+ "dealsFound": 7956,
+ "updatedAt": "2026-08-07T19:15:32",
+ "publishedAt": "2026-08-07T23:15:40.078271+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 105521
+ "totalDeals": 105564
 }
