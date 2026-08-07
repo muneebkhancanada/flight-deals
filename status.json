@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DUB->RUH 2026-09-22",
- "checksDone": 32199,
+ "phase": "LIS->MCT 2026-11-24",
+ "checksDone": 32562,
  "checksPlanned": 104236,
  "percent": 31,
- "dealsFound": 5861,
- "updatedAt": "2026-08-07T10:05:53",
- "publishedAt": "2026-08-07T14:05:59.635414+00:00",
- "queuedCount": 4,
+ "dealsFound": 5930,
+ "updatedAt": "2026-08-07T10:21:02",
+ "publishedAt": "2026-08-07T14:21:11.362179+00:00",
+ "queuedCount": 6,
  "queued": [
   {
    "label": "daily",
@@ -25,7 +25,15 @@
   {
    "label": "round trip (primary ⇄ BJS, 14-21 nights)",
    "mode": "quick"
+  },
+  {
+   "label": "inbound from everywhere → IAD, NYC, BOS",
+   "mode": "quick"
+  },
+  {
+   "label": "custom (IAD, NYC, BOS → everywhere)",
+   "mode": "quick"
   }
  ],
- "totalDeals": 103486
+ "totalDeals": 103554
 }
