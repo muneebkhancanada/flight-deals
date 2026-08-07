@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->SJJ 2027-03-30",
- "checksDone": 25056,
+ "phase": "YYC->SYD 2026-09-22",
+ "checksDone": 25395,
  "checksPlanned": 104236,
  "percent": 24,
- "dealsFound": 4494,
- "updatedAt": "2026-08-06T20:33:46",
- "publishedAt": "2026-08-07T00:34:03.651593+00:00",
+ "dealsFound": 4543,
+ "updatedAt": "2026-08-06T20:49:12",
+ "publishedAt": "2026-08-07T00:49:29.613773+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 102136
+ "totalDeals": 102185
 }
