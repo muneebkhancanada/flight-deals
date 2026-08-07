@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->MRU 2027-03-30",
- "checksDone": 33660,
+ "phase": "OSL->MLE 2026-09-22",
+ "checksDone": 34035,
  "checksPlanned": 104236,
- "percent": 32,
- "dealsFound": 6110,
- "updatedAt": "2026-08-07T11:06:36",
- "publishedAt": "2026-08-07T15:06:46.776149+00:00",
+ "percent": 33,
+ "dealsFound": 6197,
+ "updatedAt": "2026-08-07T11:21:45",
+ "publishedAt": "2026-08-07T15:21:58.164827+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 103733
+ "totalDeals": 103816
 }
