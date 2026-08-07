@@ -1,14 +1,31 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->MUC 2027-01-26",
- "checksDone": 28269,
+ "phase": "FRA->MRU 2026-11-24",
+ "checksDone": 28614,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 4966,
- "updatedAt": "2026-08-06T23:00:19",
- "publishedAt": "2026-08-07T11:18:17.136412+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 102602
+ "dealsFound": 5042,
+ "updatedAt": "2026-08-07T07:33:25",
+ "publishedAt": "2026-08-07T11:33:39.152884+00:00",
+ "queuedCount": 4,
+ "queued": [
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU",
+   "mode": "quick"
+  },
+  {
+   "label": "custom (NA, EU → everywhere)",
+   "mode": "quick"
+  },
+  {
+   "label": "round trip (primary ⇄ BJS, 14-21 nights)",
+   "mode": "quick"
+  }
+ ],
+ "totalDeals": 102679
 }
