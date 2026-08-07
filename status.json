@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAD->KTM 2027-01-26",
- "checksDone": 30405,
+ "phase": "BCN->SYX 2027-03-30",
+ "checksDone": 30768,
  "checksPlanned": 104236,
- "percent": 29,
- "dealsFound": 5468,
- "updatedAt": "2026-08-07T08:49:55",
- "publishedAt": "2026-08-07T12:50:01.615577+00:00",
+ "percent": 30,
+ "dealsFound": 5551,
+ "updatedAt": "2026-08-07T09:05:01",
+ "publishedAt": "2026-08-07T13:05:14.535370+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 103094
+ "totalDeals": 103177
 }
