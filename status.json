@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BAH->BCN 2026-08-11",
- "checksDone": 55635,
+ "phase": "DUB->FCO 2026-08-11",
+ "checksDone": 56007,
  "checksPlanned": 104236,
- "percent": 53,
- "dealsFound": 9721,
- "updatedAt": "2026-08-08T03:06:09",
- "publishedAt": "2026-08-08T07:06:21.450277+00:00",
+ "percent": 54,
+ "dealsFound": 9760,
+ "updatedAt": "2026-08-08T03:21:21",
+ "publishedAt": "2026-08-08T07:21:31.583405+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 107285
+ "totalDeals": 107322
 }
