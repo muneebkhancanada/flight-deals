@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BJL->MIA 2027-02-16",
- "checksDone": 46488,
+ "phase": "ZNZ->DFW 2027-02-16",
+ "checksDone": 46836,
  "checksPlanned": 104236,
  "percent": 45,
- "dealsFound": 8105,
- "updatedAt": "2026-08-07T20:31:26",
- "publishedAt": "2026-08-08T00:31:36.474133+00:00",
+ "dealsFound": 8127,
+ "updatedAt": "2026-08-07T20:46:39",
+ "publishedAt": "2026-08-08T00:46:47.096051+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 105713
+ "totalDeals": 105735
 }
