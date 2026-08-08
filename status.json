@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZNZ->DEN 2026-12-15",
- "checksDone": 47529,
+ "phase": "DAR->SEA 2026-12-15",
+ "checksDone": 47877,
  "checksPlanned": 104236,
  "percent": 46,
- "dealsFound": 8193,
- "updatedAt": "2026-08-07T21:16:56",
- "publishedAt": "2026-08-08T01:17:07.692174+00:00",
+ "dealsFound": 8213,
+ "updatedAt": "2026-08-07T21:32:12",
+ "publishedAt": "2026-08-08T01:32:18.617439+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 105801
+ "totalDeals": 105821
 }
