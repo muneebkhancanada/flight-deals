@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TIA->ATH 2027-02-16",
- "checksDone": 60348,
+ "phase": "NAN->ATH 2026-12-15",
+ "checksDone": 60717,
  "checksPlanned": 104236,
  "percent": 58,
- "dealsFound": 10504,
- "updatedAt": "2026-08-08T06:23:41",
- "publishedAt": "2026-08-08T10:23:48.451380+00:00",
+ "dealsFound": 10567,
+ "updatedAt": "2026-08-08T06:38:52",
+ "publishedAt": "2026-08-08T10:38:58.968339+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 108066
+ "totalDeals": 108129
 }
