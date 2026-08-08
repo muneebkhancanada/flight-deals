@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BKK->ORD 2027-02-16",
- "checksDone": 74472,
+ "phase": "DOH->DTW 2027-02-16",
+ "checksDone": 74808,
  "checksPlanned": 104236,
- "percent": 71,
- "dealsFound": 14567,
- "updatedAt": "2026-08-08T16:46:28",
- "publishedAt": "2026-08-08T20:46:38.142631+00:00",
+ "percent": 72,
+ "dealsFound": 14645,
+ "updatedAt": "2026-08-08T17:01:38",
+ "publishedAt": "2026-08-08T21:01:50.717715+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 112114
+ "totalDeals": 112192
 }
