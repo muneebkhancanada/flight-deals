@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "cooling off 5 min (rate-limited?)",
- "checksDone": 75777,
+ "phase": "PVG->YYC 2026-10-13",
+ "checksDone": 76098,
  "checksPlanned": 104236,
  "percent": 73,
- "dealsFound": 14844,
- "updatedAt": "2026-08-08T17:46:40",
- "publishedAt": "2026-08-08T21:51:43.632637+00:00",
+ "dealsFound": 14946,
+ "updatedAt": "2026-08-08T18:06:53",
+ "publishedAt": "2026-08-08T22:07:02.841074+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 112391
+ "totalDeals": 112493
 }
