@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PVG->YYC 2026-10-13",
- "checksDone": 76098,
+ "phase": "SIN->LHR 2027-02-16",
+ "checksDone": 76440,
  "checksPlanned": 104236,
  "percent": 73,
- "dealsFound": 14946,
- "updatedAt": "2026-08-08T18:06:53",
- "publishedAt": "2026-08-08T22:07:02.841074+00:00",
+ "dealsFound": 15034,
+ "updatedAt": "2026-08-08T18:22:07",
+ "publishedAt": "2026-08-08T22:22:13.295844+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 112493
+ "totalDeals": 112582
 }
