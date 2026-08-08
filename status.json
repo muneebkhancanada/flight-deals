@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->WAW 2026-12-15",
- "checksDone": 59637,
+ "phase": "SYX->WAW 2026-12-15",
+ "checksDone": 59985,
  "checksPlanned": 104236,
- "percent": 57,
- "dealsFound": 10417,
- "updatedAt": "2026-08-08T05:53:19",
- "publishedAt": "2026-08-08T09:53:25.811680+00:00",
+ "percent": 58,
+ "dealsFound": 10458,
+ "updatedAt": "2026-08-08T06:08:31",
+ "publishedAt": "2026-08-08T10:08:37.846170+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 107979
+ "totalDeals": 108020
 }
