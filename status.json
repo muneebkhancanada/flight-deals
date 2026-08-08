@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MRU->LHR 2027-02-16",
- "checksDone": 51360,
+ "phase": "SZX->LGW 2026-10-13",
+ "checksDone": 51714,
  "checksPlanned": 104236,
- "percent": 49,
- "dealsFound": 8657,
- "updatedAt": "2026-08-08T00:04:01",
- "publishedAt": "2026-08-08T04:04:10.194275+00:00",
+ "percent": 50,
+ "dealsFound": 8740,
+ "updatedAt": "2026-08-08T00:19:14",
+ "publishedAt": "2026-08-08T04:19:20.111970+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 106220
+ "totalDeals": 106302
 }
