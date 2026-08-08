@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->LIS 2026-10-13",
- "checksDone": 66018,
+ "phase": "PHL->MUC 2026-08-11",
+ "checksDone": 66351,
  "checksPlanned": 104236,
- "percent": 63,
- "dealsFound": 12030,
- "updatedAt": "2026-08-08T10:26:49",
- "publishedAt": "2026-08-08T14:26:56.051333+00:00",
+ "percent": 64,
+ "dealsFound": 12169,
+ "updatedAt": "2026-08-08T10:41:55",
+ "publishedAt": "2026-08-08T14:42:07.201795+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 109592
+ "totalDeals": 109732
 }
