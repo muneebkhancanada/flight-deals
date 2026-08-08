@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DXB->BRU 2027-02-16",
- "checksDone": 59280,
+ "phase": "AMS->WAW 2026-12-15",
+ "checksDone": 59637,
  "checksPlanned": 104236,
  "percent": 57,
- "dealsFound": 10368,
- "updatedAt": "2026-08-08T05:38:03",
- "publishedAt": "2026-08-08T09:38:15.241197+00:00",
+ "dealsFound": 10417,
+ "updatedAt": "2026-08-08T05:53:19",
+ "publishedAt": "2026-08-08T09:53:25.811680+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 107931
+ "totalDeals": 107979
 }
