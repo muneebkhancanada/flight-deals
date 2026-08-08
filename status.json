@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHE->HNL 2027-02-16",
- "checksDone": 62556,
+ "phase": "MEL->HNL 2027-02-16",
+ "checksDone": 62940,
  "checksPlanned": 104236,
  "percent": 60,
- "dealsFound": 10669,
- "updatedAt": "2026-08-08T07:54:48",
- "publishedAt": "2026-08-08T11:54:59.155676+00:00",
+ "dealsFound": 10703,
+ "updatedAt": "2026-08-08T08:10:01",
+ "publishedAt": "2026-08-08T12:10:11.102402+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 108232
+ "totalDeals": 108265
 }
