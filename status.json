@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IST->DUB 2026-08-11",
- "checksDone": 57099,
+ "phase": "NAN->DUB 2026-10-13",
+ "checksDone": 57462,
  "checksPlanned": 104236,
  "percent": 55,
- "dealsFound": 10000,
- "updatedAt": "2026-08-08T04:07:00",
- "publishedAt": "2026-08-08T08:07:07.167392+00:00",
+ "dealsFound": 10061,
+ "updatedAt": "2026-08-08T04:22:08",
+ "publishedAt": "2026-08-08T08:22:17.479973+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 107562
+ "totalDeals": 107623
 }
