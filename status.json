@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HKG->DEN 2026-12-15",
- "checksDone": 75489,
+ "phase": "cooling off 5 min (rate-limited?)",
+ "checksDone": 75777,
  "checksPlanned": 104236,
- "percent": 72,
- "dealsFound": 14762,
- "updatedAt": "2026-08-08T17:32:07",
- "publishedAt": "2026-08-08T21:32:14.040619+00:00",
+ "percent": 73,
+ "dealsFound": 14844,
+ "updatedAt": "2026-08-08T17:46:40",
+ "publishedAt": "2026-08-08T21:51:43.632637+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 112309
+ "totalDeals": 112391
 }
