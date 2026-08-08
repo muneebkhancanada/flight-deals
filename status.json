@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SZX->LGW 2026-10-13",
- "checksDone": 51714,
+ "phase": "IST->CDG 2026-12-15",
+ "checksDone": 52065,
  "checksPlanned": 104236,
  "percent": 50,
- "dealsFound": 8740,
- "updatedAt": "2026-08-08T00:19:14",
- "publishedAt": "2026-08-08T04:19:20.111970+00:00",
+ "dealsFound": 8822,
+ "updatedAt": "2026-08-08T00:34:18",
+ "publishedAt": "2026-08-08T04:34:30.229604+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 106302
+ "totalDeals": 106385
 }
