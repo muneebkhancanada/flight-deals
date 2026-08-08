@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JFK->LHR 2026-10-13",
- "checksDone": 64686,
+ "phase": "JFK->KUL 2026-10-13",
+ "checksDone": 65022,
  "checksPlanned": 104236,
  "percent": 62,
- "dealsFound": 11318,
- "updatedAt": "2026-08-08T09:25:57",
- "publishedAt": "2026-08-08T13:26:09.528721+00:00",
+ "dealsFound": 11504,
+ "updatedAt": "2026-08-08T09:41:13",
+ "publishedAt": "2026-08-08T13:41:20.343934+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 108883
+ "totalDeals": 109067
 }
