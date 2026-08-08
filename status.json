@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYX->AMS 2027-02-16",
- "checksDone": 52764,
+ "phase": "AUH->FRA 2026-10-13",
+ "checksDone": 53118,
  "checksPlanned": 104236,
  "percent": 51,
- "dealsFound": 9048,
- "updatedAt": "2026-08-08T01:04:43",
- "publishedAt": "2026-08-08T05:04:53.444317+00:00",
+ "dealsFound": 9123,
+ "updatedAt": "2026-08-08T01:19:57",
+ "publishedAt": "2026-08-08T05:20:03.452924+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 106611
+ "totalDeals": 106686
 }
