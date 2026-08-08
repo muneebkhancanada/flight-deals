@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DAR->LAX 2027-02-16",
- "checksDone": 48564,
+ "phase": "ICN->YUL 2026-12-15",
+ "checksDone": 48909,
  "checksPlanned": 104236,
  "percent": 47,
- "dealsFound": 8300,
- "updatedAt": "2026-08-07T22:02:31",
- "publishedAt": "2026-08-08T02:02:41.744110+00:00",
+ "dealsFound": 8364,
+ "updatedAt": "2026-08-07T22:17:46",
+ "publishedAt": "2026-08-08T02:17:52.651785+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 105908
+ "totalDeals": 105972
 }
