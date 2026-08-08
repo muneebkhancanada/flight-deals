@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MEL->CLT 2027-02-16",
- "checksDone": 46140,
+ "phase": "BJL->MIA 2027-02-16",
+ "checksDone": 46488,
  "checksPlanned": 104236,
- "percent": 44,
- "dealsFound": 8049,
- "updatedAt": "2026-08-07T20:16:14",
- "publishedAt": "2026-08-08T00:16:25.518557+00:00",
+ "percent": 45,
+ "dealsFound": 8105,
+ "updatedAt": "2026-08-07T20:31:26",
+ "publishedAt": "2026-08-08T00:31:36.474133+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 105657
+ "totalDeals": 105713
 }
