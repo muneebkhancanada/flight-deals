@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "CDG->MSP 2027-02-19",
- "checksDone": 2688,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 98,
- "dealsFound": 457,
- "updatedAt": "2026-08-09T17:05:28",
- "publishedAt": "2026-08-09T21:05:37.310453+00:00",
+ "percent": 100,
+ "dealsFound": 463,
+ "updatedAt": "2026-08-09T17:08:27",
+ "publishedAt": "2026-08-09T21:08:37.902267+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 119669
+ "totalDeals": 119675
 }
