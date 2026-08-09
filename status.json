@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ACC->MSP 2027-02-16",
- "checksDone": 84360,
+ "phase": "AUH->CLT 2026-10-13",
+ "checksDone": 84702,
  "checksPlanned": 104236,
  "percent": 81,
- "dealsFound": 17195,
- "updatedAt": "2026-08-09T00:11:45",
- "publishedAt": "2026-08-09T04:11:51.442798+00:00",
+ "dealsFound": 17243,
+ "updatedAt": "2026-08-09T00:26:50",
+ "publishedAt": "2026-08-09T04:27:02.940115+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 114704
+ "totalDeals": 114752
 }
