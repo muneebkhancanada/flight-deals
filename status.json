@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "YYZ->MCT 2026-11-06",
- "checksDone": 330,
+ "phase": "YYZ->CAI 2027-03-26",
+ "checksDone": 663,
  "checksPlanned": 2750,
- "percent": 12,
- "dealsFound": 44,
- "updatedAt": "2026-08-09T15:19:01",
- "publishedAt": "2026-08-09T19:19:08.567026+00:00",
+ "percent": 24,
+ "dealsFound": 136,
+ "updatedAt": "2026-08-09T15:34:15",
+ "publishedAt": "2026-08-09T19:34:22.140673+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 119256
+ "totalDeals": 119348
 }
