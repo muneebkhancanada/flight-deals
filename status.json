@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "full",
- "phase": "finished",
- "checksDone": 104236,
- "checksPlanned": 104236,
- "percent": 100,
- "dealsFound": 22025,
- "updatedAt": "2026-08-09T15:03:27",
- "publishedAt": "2026-08-09T19:03:36.675002+00:00",
- "queuedCount": 6,
+ "running": true,
+ "mode": "daily",
+ "phase": "YYZ->MCT 2026-11-06",
+ "checksDone": 330,
+ "checksPlanned": 2750,
+ "percent": 12,
+ "dealsFound": 44,
+ "updatedAt": "2026-08-09T15:19:01",
+ "publishedAt": "2026-08-09T19:19:08.567026+00:00",
+ "queuedCount": 5,
  "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  },
   {
    "label": "inbound from everywhere → NA, EU",
    "mode": "quick"
@@ -35,5 +31,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 119212
+ "totalDeals": 119256
 }
