@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "full",
- "phase": "SFO->GIG 2027-02-16",
- "checksDone": 104088,
+ "phase": "finished",
+ "checksDone": 104236,
  "checksPlanned": 104236,
  "percent": 100,
- "dealsFound": 21990,
- "updatedAt": "2026-08-09T14:56:32",
- "publishedAt": "2026-08-09T18:56:39.678153+00:00",
+ "dealsFound": 22025,
+ "updatedAt": "2026-08-09T15:03:27",
+ "publishedAt": "2026-08-09T19:03:36.675002+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 119177
+ "totalDeals": 119212
 }
