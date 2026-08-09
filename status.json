@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->CDG 2026-12-15",
- "checksDone": 103761,
+ "phase": "SFO->GIG 2027-02-16",
+ "checksDone": 104088,
  "checksPlanned": 104236,
  "percent": 100,
- "dealsFound": 21849,
- "updatedAt": "2026-08-09T14:40:58",
- "publishedAt": "2026-08-09T18:41:17.215435+00:00",
+ "dealsFound": 21990,
+ "updatedAt": "2026-08-09T14:56:32",
+ "publishedAt": "2026-08-09T18:56:39.678153+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 119036
+ "totalDeals": 119177
 }
