@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->CPT 2027-02-16",
- "checksDone": 81912,
+ "phase": "VIE->MXP 2027-02-16",
+ "checksDone": 82260,
  "checksPlanned": 104236,
  "percent": 79,
- "dealsFound": 16761,
- "updatedAt": "2026-08-08T22:25:17",
- "publishedAt": "2026-08-09T02:25:26.842065+00:00",
+ "dealsFound": 16793,
+ "updatedAt": "2026-08-08T22:40:29",
+ "publishedAt": "2026-08-09T02:40:38.451178+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 114289
+ "totalDeals": 114321
 }
