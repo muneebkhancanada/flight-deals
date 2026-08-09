@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->SGN 2027-02-16",
- "checksDone": 81228,
+ "phase": "LGW->OPO 2027-02-16",
+ "checksDone": 81564,
  "checksPlanned": 104236,
  "percent": 78,
- "dealsFound": 16553,
- "updatedAt": "2026-08-08T21:54:55",
- "publishedAt": "2026-08-09T01:55:05.018527+00:00",
+ "dealsFound": 16704,
+ "updatedAt": "2026-08-08T22:10:07",
+ "publishedAt": "2026-08-09T02:10:15.526425+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 114083
+ "totalDeals": 114232
 }
