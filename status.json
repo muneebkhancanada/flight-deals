@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MEL->ATH 2026-10-13",
- "checksDone": 97266,
+ "phase": "DFW->FCO 2026-12-15",
+ "checksDone": 97605,
  "checksPlanned": 104236,
- "percent": 93,
- "dealsFound": 20104,
- "updatedAt": "2026-08-09T09:34:07",
- "publishedAt": "2026-08-09T13:34:14.094629+00:00",
+ "percent": 94,
+ "dealsFound": 20226,
+ "updatedAt": "2026-08-09T09:49:19",
+ "publishedAt": "2026-08-09T13:49:25.584983+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 117404
+ "totalDeals": 117526
 }
