@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NRT->ARN 2026-10-13",
- "checksDone": 96918,
+ "phase": "MEL->ATH 2026-10-13",
+ "checksDone": 97266,
  "checksPlanned": 104236,
  "percent": 93,
- "dealsFound": 20032,
- "updatedAt": "2026-08-09T09:18:52",
- "publishedAt": "2026-08-09T13:19:01.907467+00:00",
+ "dealsFound": 20104,
+ "updatedAt": "2026-08-09T09:34:07",
+ "publishedAt": "2026-08-09T13:34:14.094629+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 117340
+ "totalDeals": 117404
 }
