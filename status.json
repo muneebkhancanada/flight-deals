@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->CMB 2026-12-15",
- "checksDone": 89253,
+ "phase": "FRA->TPE 2027-02-16",
+ "checksDone": 89616,
  "checksPlanned": 104236,
  "percent": 86,
- "dealsFound": 18440,
- "updatedAt": "2026-08-09T03:44:25",
- "publishedAt": "2026-08-09T07:44:37.068421+00:00",
+ "dealsFound": 18482,
+ "updatedAt": "2026-08-09T03:59:40",
+ "publishedAt": "2026-08-09T07:59:47.487260+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 115943
+ "totalDeals": 115982
 }
