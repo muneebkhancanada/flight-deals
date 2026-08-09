@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->PVG 2026-12-15",
- "checksDone": 94833,
+ "phase": "WAW->BCN 2026-12-15",
+ "checksDone": 95181,
  "checksPlanned": 104236,
  "percent": 91,
- "dealsFound": 19631,
- "updatedAt": "2026-08-09T07:47:32",
- "publishedAt": "2026-08-09T11:47:45.396694+00:00",
+ "dealsFound": 19686,
+ "updatedAt": "2026-08-09T08:02:48",
+ "publishedAt": "2026-08-09T12:02:58.813466+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 116974
+ "totalDeals": 117029
 }
