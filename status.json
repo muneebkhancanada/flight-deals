@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->WAW 2026-10-13",
- "checksDone": 87858,
+ "phase": "MSP->FCO 2026-12-15",
+ "checksDone": 88209,
  "checksPlanned": 104236,
- "percent": 84,
- "dealsFound": 17967,
- "updatedAt": "2026-08-09T02:43:36",
- "publishedAt": "2026-08-09T06:43:48.013334+00:00",
+ "percent": 85,
+ "dealsFound": 18023,
+ "updatedAt": "2026-08-09T02:58:53",
+ "publishedAt": "2026-08-09T06:59:00.159521+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 115467
+ "totalDeals": 115523
 }
