@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NRT->MIA 2026-10-13",
- "checksDone": 95526,
+ "phase": "DXB->YVR 2027-02-16",
+ "checksDone": 95868,
  "checksPlanned": 104236,
  "percent": 92,
- "dealsFound": 19704,
- "updatedAt": "2026-08-09T08:17:59",
- "publishedAt": "2026-08-09T12:18:11.265916+00:00",
+ "dealsFound": 19736,
+ "updatedAt": "2026-08-09T08:33:15",
+ "publishedAt": "2026-08-09T12:33:26.571870+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 117047
+ "totalDeals": 117079
 }
