@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->TPE 2027-02-16",
- "checksDone": 94476,
+ "phase": "LIS->PVG 2026-12-15",
+ "checksDone": 94833,
  "checksPlanned": 104236,
  "percent": 91,
- "dealsFound": 19539,
- "updatedAt": "2026-08-09T07:32:19",
- "publishedAt": "2026-08-09T11:32:31.536789+00:00",
+ "dealsFound": 19631,
+ "updatedAt": "2026-08-09T07:47:32",
+ "publishedAt": "2026-08-09T11:47:45.396694+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 116887
+ "totalDeals": 116974
 }
