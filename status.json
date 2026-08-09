@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BKK->SFO 2026-10-13",
- "checksDone": 85386,
+ "phase": "HEL->LGW 2026-10-13",
+ "checksDone": 85734,
  "checksPlanned": 104236,
  "percent": 82,
- "dealsFound": 17351,
- "updatedAt": "2026-08-09T00:57:15",
- "publishedAt": "2026-08-09T04:57:24.574395+00:00",
+ "dealsFound": 17477,
+ "updatedAt": "2026-08-09T01:12:27",
+ "publishedAt": "2026-08-09T05:12:35.928154+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 114862
+ "totalDeals": 114988
 }
