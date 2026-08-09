@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SCL->SEA 2027-02-16",
- "checksDone": 102912,
+ "phase": "HND->VIE 2027-02-16",
+ "checksDone": 103236,
  "checksPlanned": 104236,
  "percent": 99,
- "dealsFound": 21616,
- "updatedAt": "2026-08-09T13:54:30",
- "publishedAt": "2026-08-09T17:54:48.145140+00:00",
+ "dealsFound": 21684,
+ "updatedAt": "2026-08-09T14:09:50",
+ "publishedAt": "2026-08-09T18:10:14.510926+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 118851
+ "totalDeals": 118913
 }
