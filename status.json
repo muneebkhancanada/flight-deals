@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LIM->EWR 2027-02-10",
- "checksDone": 684,
+ "phase": "BOG->PHL 2026-10-13",
+ "checksDone": 1026,
  "checksPlanned": 17216,
- "percent": 4,
- "dealsFound": 100,
- "updatedAt": "2026-08-09T17:39:06",
- "publishedAt": "2026-08-09T21:39:14.368108+00:00",
+ "percent": 6,
+ "dealsFound": 124,
+ "updatedAt": "2026-08-09T17:54:14",
+ "publishedAt": "2026-08-09T21:54:26.664065+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 119768
+ "totalDeals": 119788
 }
