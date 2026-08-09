@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "DEL->ZRH 2026-08-14",
- "checksDone": 2007,
+ "phase": "ATL->IST 2026-08-14",
+ "checksDone": 2343,
  "checksPlanned": 2750,
- "percent": 73,
- "dealsFound": 352,
- "updatedAt": "2026-08-09T16:35:05",
- "publishedAt": "2026-08-09T20:35:12.474655+00:00",
+ "percent": 85,
+ "dealsFound": 432,
+ "updatedAt": "2026-08-09T16:50:14",
+ "publishedAt": "2026-08-09T20:50:24.009363+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 119564
+ "totalDeals": 119644
 }
