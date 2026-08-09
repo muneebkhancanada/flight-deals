@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VIE->MXP 2027-02-16",
- "checksDone": 82260,
+ "phase": "BCN->SGN 2026-08-11",
+ "checksDone": 82611,
  "checksPlanned": 104236,
  "percent": 79,
- "dealsFound": 16793,
- "updatedAt": "2026-08-08T22:40:29",
- "publishedAt": "2026-08-09T02:40:38.451178+00:00",
+ "dealsFound": 16878,
+ "updatedAt": "2026-08-08T22:55:43",
+ "publishedAt": "2026-08-09T02:55:50.153102+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 114321
+ "totalDeals": 114404
 }
