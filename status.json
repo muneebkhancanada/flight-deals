@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->OPO 2027-02-16",
- "checksDone": 81564,
+ "phase": "AMS->CPT 2027-02-16",
+ "checksDone": 81912,
  "checksPlanned": 104236,
- "percent": 78,
- "dealsFound": 16704,
- "updatedAt": "2026-08-08T22:10:07",
- "publishedAt": "2026-08-09T02:10:15.526425+00:00",
+ "percent": 79,
+ "dealsFound": 16761,
+ "updatedAt": "2026-08-08T22:25:17",
+ "publishedAt": "2026-08-09T02:25:26.842065+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 114232
+ "totalDeals": 114289
 }
