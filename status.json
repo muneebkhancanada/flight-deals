@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CMN->ZRH 2026-08-11",
- "checksDone": 96207,
+ "phase": "MEL->MXP 2027-02-16",
+ "checksDone": 96564,
  "checksPlanned": 104236,
- "percent": 92,
- "dealsFound": 19826,
- "updatedAt": "2026-08-09T08:48:27",
- "publishedAt": "2026-08-09T12:48:38.996037+00:00",
+ "percent": 93,
+ "dealsFound": 19952,
+ "updatedAt": "2026-08-09T09:03:40",
+ "publishedAt": "2026-08-09T13:03:51.403830+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 117160
+ "totalDeals": 117273
 }
