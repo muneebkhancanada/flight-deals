@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->FCO 2027-02-16",
- "checksDone": 83664,
+ "phase": "NCE->ORD 2026-12-15",
+ "checksDone": 84009,
  "checksPlanned": 104236,
- "percent": 80,
- "dealsFound": 17122,
- "updatedAt": "2026-08-08T23:41:14",
- "publishedAt": "2026-08-09T03:41:25.723958+00:00",
+ "percent": 81,
+ "dealsFound": 17158,
+ "updatedAt": "2026-08-08T23:56:29",
+ "publishedAt": "2026-08-09T03:56:39.353603+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 114643
+ "totalDeals": 114680
 }
