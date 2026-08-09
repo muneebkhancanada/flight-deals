@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->NCE 2026-12-15",
- "checksDone": 101325,
+ "phase": "DEN->PRG 2027-02-16",
+ "checksDone": 101604,
  "checksPlanned": 104236,
  "percent": 97,
- "dealsFound": 21195,
- "updatedAt": "2026-08-09T12:37:17",
- "publishedAt": "2026-08-09T16:37:34.066505+00:00",
+ "dealsFound": 21347,
+ "updatedAt": "2026-08-09T12:52:45",
+ "publishedAt": "2026-08-09T16:53:04.284296+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 118435
+ "totalDeals": 118583
 }
