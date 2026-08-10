@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "YYZ->BJS 2027-02-27",
- "checksDone": 393,
+ "phase": "finished",
+ "checksDone": 472,
  "checksPlanned": 472,
- "percent": 83,
- "dealsFound": 276,
- "updatedAt": "2026-08-10T18:56:40",
- "publishedAt": "2026-08-10T22:56:55.323017+00:00",
+ "percent": 100,
+ "dealsFound": 340,
+ "updatedAt": "2026-08-10T19:02:10",
+ "publishedAt": "2026-08-10T23:02:18.020646+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 125557
+ "totalDeals": 125618
 }
