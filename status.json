@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YYC->CPT 2026-08-15",
- "checksDone": 13773,
+ "phase": "CPH->EDI 2026-10-14",
+ "checksDone": 14118,
  "checksPlanned": 17216,
- "percent": 80,
- "dealsFound": 2664,
- "updatedAt": "2026-08-10T15:50:50",
- "publishedAt": "2026-08-10T19:50:57.504405+00:00",
+ "percent": 82,
+ "dealsFound": 2726,
+ "updatedAt": "2026-08-10T16:06:01",
+ "publishedAt": "2026-08-10T20:06:09.838871+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 124504
+ "totalDeals": 124566
 }
