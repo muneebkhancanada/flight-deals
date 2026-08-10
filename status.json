@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SFO->MCT 2027-02-11",
- "checksDone": 2748,
+ "phase": "YUL->SJJ 2026-12-13",
+ "checksDone": 3087,
  "checksPlanned": 17216,
- "percent": 16,
- "dealsFound": 439,
- "updatedAt": "2026-08-10T07:44:04",
- "publishedAt": "2026-08-10T11:44:13.732809+00:00",
+ "percent": 18,
+ "dealsFound": 510,
+ "updatedAt": "2026-08-10T07:59:16",
+ "publishedAt": "2026-08-10T11:59:26.088197+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 122290
+ "totalDeals": 122360
 }
