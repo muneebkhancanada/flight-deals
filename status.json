@@ -1,23 +1,19 @@
 {
- "running": false,
- "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 472,
- "checksPlanned": 472,
- "percent": 100,
- "dealsFound": 340,
- "updatedAt": "2026-08-10T19:02:10",
- "publishedAt": "2026-08-10T23:02:18.020646+00:00",
- "queuedCount": 2,
+ "running": true,
+ "mode": "custom",
+ "phase": "TPE->NYC 2027-02-11",
+ "checksDone": 348,
+ "checksPlanned": 1128,
+ "percent": 31,
+ "dealsFound": 96,
+ "updatedAt": "2026-08-10T19:17:31",
+ "publishedAt": "2026-08-10T23:17:44.177659+00:00",
+ "queuedCount": 1,
  "queued": [
-  {
-   "label": "inbound from everywhere → IAD, NYC, BOS",
-   "mode": "quick"
-  },
   {
    "label": "custom (IAD, NYC, BOS → everywhere)",
    "mode": "quick"
   }
  ],
- "totalDeals": 125618
+ "totalDeals": 125714
 }
