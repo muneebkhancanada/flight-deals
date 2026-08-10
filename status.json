@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EWR->ARN 2026-12-13",
- "checksDone": 8727,
+ "phase": "PHL->BRU 2026-10-14",
+ "checksDone": 9054,
  "checksPlanned": 17216,
- "percent": 51,
- "dealsFound": 1452,
- "updatedAt": "2026-08-10T12:02:36",
- "publishedAt": "2026-08-10T16:02:45.716651+00:00",
+ "percent": 53,
+ "dealsFound": 1574,
+ "updatedAt": "2026-08-10T12:17:49",
+ "publishedAt": "2026-08-10T16:17:59.721484+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 123293
+ "totalDeals": 123415
 }
