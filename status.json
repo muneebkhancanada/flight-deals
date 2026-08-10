@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BNE->EWR 2026-10-13",
- "checksDone": 8406,
+ "phase": "SGN->IAD 2026-12-12",
+ "checksDone": 8739,
  "checksPlanned": 17216,
- "percent": 49,
- "dealsFound": 1405,
- "updatedAt": "2026-08-09T23:13:51",
- "publishedAt": "2026-08-10T03:13:58.246135+00:00",
+ "percent": 51,
+ "dealsFound": 1468,
+ "updatedAt": "2026-08-09T23:28:59",
+ "publishedAt": "2026-08-10T03:29:11.064718+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 120873
+ "totalDeals": 120933
 }
