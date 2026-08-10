@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BCN->MCT 2026-10-14",
- "checksDone": 6258,
+ "phase": "MXP->NBO 2026-10-14",
+ "checksDone": 6618,
  "checksPlanned": 17216,
- "percent": 36,
- "dealsFound": 997,
- "updatedAt": "2026-08-10T10:16:10",
- "publishedAt": "2026-08-10T14:16:16.443941+00:00",
+ "percent": 38,
+ "dealsFound": 1057,
+ "updatedAt": "2026-08-10T10:31:21",
+ "publishedAt": "2026-08-10T14:31:28.329799+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 122841
+ "totalDeals": 122900
 }
