@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TPE->NYC 2027-02-11",
- "checksDone": 348,
+ "phase": "EZE->BOS 2026-10-14",
+ "checksDone": 678,
  "checksPlanned": 1128,
- "percent": 31,
- "dealsFound": 96,
- "updatedAt": "2026-08-10T19:17:31",
- "publishedAt": "2026-08-10T23:17:44.177659+00:00",
+ "percent": 60,
+ "dealsFound": 172,
+ "updatedAt": "2026-08-10T19:32:50",
+ "publishedAt": "2026-08-10T23:32:56.904177+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 125714
+ "totalDeals": 125790
 }
