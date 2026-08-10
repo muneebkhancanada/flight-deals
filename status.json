@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SGN->IAD 2026-12-12",
- "checksDone": 8739,
+ "phase": "JNB->MIA 2027-02-10",
+ "checksDone": 9084,
  "checksPlanned": 17216,
- "percent": 51,
- "dealsFound": 1468,
- "updatedAt": "2026-08-09T23:28:59",
- "publishedAt": "2026-08-10T03:29:11.064718+00:00",
+ "percent": 53,
+ "dealsFound": 1531,
+ "updatedAt": "2026-08-09T23:44:17",
+ "publishedAt": "2026-08-10T03:44:24.045083+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 120933
+ "totalDeals": 120984
 }
