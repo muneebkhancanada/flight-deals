@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YOW->KWI 2026-08-15",
- "checksDone": 3429,
+ "phase": "YVR->BAH 2026-08-15",
+ "checksDone": 3777,
  "checksPlanned": 17216,
- "percent": 20,
- "dealsFound": 537,
- "updatedAt": "2026-08-10T08:14:30",
- "publishedAt": "2026-08-10T12:14:37.322730+00:00",
+ "percent": 22,
+ "dealsFound": 561,
+ "updatedAt": "2026-08-10T08:29:37",
+ "publishedAt": "2026-08-10T12:29:49.267504+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 122386
+ "totalDeals": 122408
 }
