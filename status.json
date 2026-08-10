@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CDG->OPO 2026-10-14",
- "checksDone": 13086,
+ "phase": "ARN->BCN 2027-02-11",
+ "checksDone": 13428,
  "checksPlanned": 17216,
- "percent": 76,
- "dealsFound": 2545,
- "updatedAt": "2026-08-10T15:20:21",
- "publishedAt": "2026-08-10T19:20:29.275125+00:00",
+ "percent": 78,
+ "dealsFound": 2594,
+ "updatedAt": "2026-08-10T15:35:31",
+ "publishedAt": "2026-08-10T19:35:43.647438+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 124385
+ "totalDeals": 124435
 }
