@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EZE->BOS 2026-10-14",
- "checksDone": 678,
+ "phase": "CPH->BOS 2027-02-11",
+ "checksDone": 1008,
  "checksPlanned": 1128,
- "percent": 60,
- "dealsFound": 172,
- "updatedAt": "2026-08-10T19:32:50",
- "publishedAt": "2026-08-10T23:32:56.904177+00:00",
+ "percent": 89,
+ "dealsFound": 215,
+ "updatedAt": "2026-08-10T19:48:03",
+ "publishedAt": "2026-08-10T23:48:09.745892+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 125790
+ "totalDeals": 125833
 }
