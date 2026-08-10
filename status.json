@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BUF->SYX 2026-12-13",
- "checksDone": 4131,
+ "phase": "HNL->LHE 2026-12-13",
+ "checksDone": 4491,
  "checksPlanned": 17216,
- "percent": 24,
- "dealsFound": 617,
- "updatedAt": "2026-08-10T08:44:50",
- "publishedAt": "2026-08-10T12:45:00.631375+00:00",
+ "percent": 26,
+ "dealsFound": 730,
+ "updatedAt": "2026-08-10T09:00:06",
+ "publishedAt": "2026-08-10T13:00:11.670354+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 122463
+ "totalDeals": 122576
 }
