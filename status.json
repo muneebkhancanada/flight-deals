@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MUC->CGK 2026-08-15",
- "checksDone": 10377,
+ "phase": "LIS->FCO 2026-10-14",
+ "checksDone": 10722,
  "checksPlanned": 17216,
- "percent": 60,
- "dealsFound": 1932,
- "updatedAt": "2026-08-10T13:18:40",
- "publishedAt": "2026-08-10T17:18:50.538629+00:00",
+ "percent": 62,
+ "dealsFound": 1995,
+ "updatedAt": "2026-08-10T13:33:51",
+ "publishedAt": "2026-08-10T17:34:02.692868+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 123772
+ "totalDeals": 123838
 }
