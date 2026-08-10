@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EDI->YYC 2026-10-13",
- "checksDone": 15738,
+ "phase": "LHR->DFW 2026-08-14",
+ "checksDone": 16065,
  "checksPlanned": 17216,
- "percent": 91,
- "dealsFound": 2873,
- "updatedAt": "2026-08-10T04:32:58",
- "publishedAt": "2026-08-10T08:33:07.146635+00:00",
+ "percent": 93,
+ "dealsFound": 2900,
+ "updatedAt": "2026-08-10T04:48:13",
+ "publishedAt": "2026-08-10T08:48:20.444759+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 121707
+ "totalDeals": 121733
 }
