@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VCE->YYC 2026-10-13",
- "checksDone": 13998,
+ "phase": "FCO->DUB 2026-08-14",
+ "checksDone": 14349,
  "checksPlanned": 17216,
- "percent": 81,
- "dealsFound": 2625,
- "updatedAt": "2026-08-10T03:16:58",
- "publishedAt": "2026-08-10T07:17:08.759060+00:00",
+ "percent": 83,
+ "dealsFound": 2678,
+ "updatedAt": "2026-08-10T03:32:08",
+ "publishedAt": "2026-08-10T07:32:19.170784+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 121473
+ "totalDeals": 121520
 }
