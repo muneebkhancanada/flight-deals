@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AGP->VIE 2026-12-12",
- "checksDone": 13647,
+ "phase": "VCE->YYC 2026-10-13",
+ "checksDone": 13998,
  "checksPlanned": 17216,
- "percent": 79,
- "dealsFound": 2551,
- "updatedAt": "2026-08-10T03:01:49",
- "publishedAt": "2026-08-10T07:01:55.992254+00:00",
+ "percent": 81,
+ "dealsFound": 2625,
+ "updatedAt": "2026-08-10T03:16:58",
+ "publishedAt": "2026-08-10T07:17:08.759060+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 121406
+ "totalDeals": 121473
 }
