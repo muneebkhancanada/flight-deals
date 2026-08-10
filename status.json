@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MNL->YVR 2026-08-14",
- "checksDone": 9429,
+ "phase": "SIN->VIE 2026-08-14",
+ "checksDone": 9777,
  "checksPlanned": 17216,
- "percent": 55,
- "dealsFound": 1599,
- "updatedAt": "2026-08-09T23:59:26",
- "publishedAt": "2026-08-10T03:59:36.089123+00:00",
+ "percent": 57,
+ "dealsFound": 1732,
+ "updatedAt": "2026-08-10T00:14:35",
+ "publishedAt": "2026-08-10T04:14:46.780397+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 121039
+ "totalDeals": 120724
 }
