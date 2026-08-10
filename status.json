@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SIN->VIE 2026-08-14",
- "checksDone": 9777,
+ "phase": "BRU->CPH 2027-02-10",
+ "checksDone": 10140,
  "checksPlanned": 17216,
- "percent": 57,
- "dealsFound": 1732,
- "updatedAt": "2026-08-10T00:14:35",
- "publishedAt": "2026-08-10T04:14:46.780397+00:00",
+ "percent": 59,
+ "dealsFound": 1805,
+ "updatedAt": "2026-08-10T00:29:51",
+ "publishedAt": "2026-08-10T04:29:58.584452+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 120724
+ "totalDeals": 120788
 }
