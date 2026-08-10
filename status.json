@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SFO->ICN 2027-02-11",
- "checksDone": 11724,
+ "phase": "ZRH->CPH 2027-02-11",
+ "checksDone": 12060,
  "checksPlanned": 17216,
- "percent": 68,
- "dealsFound": 2257,
- "updatedAt": "2026-08-10T14:19:29",
- "publishedAt": "2026-08-10T18:19:39.182241+00:00",
+ "percent": 70,
+ "dealsFound": 2326,
+ "updatedAt": "2026-08-10T14:34:44",
+ "publishedAt": "2026-08-10T18:34:50.601766+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 124099
+ "totalDeals": 124166
 }
