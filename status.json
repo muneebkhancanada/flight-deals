@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NAP->MUC 2026-08-14",
- "checksDone": 5241,
+ "phase": "DAR->ZRH 2026-10-13",
+ "checksDone": 5586,
  "checksPlanned": 17216,
- "percent": 30,
- "dealsFound": 664,
- "updatedAt": "2026-08-09T20:56:46",
- "publishedAt": "2026-08-10T00:56:53.290871+00:00",
+ "percent": 32,
+ "dealsFound": 753,
+ "updatedAt": "2026-08-09T21:11:54",
+ "publishedAt": "2026-08-10T01:12:04.973272+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 120250
+ "totalDeals": 120328
 }
