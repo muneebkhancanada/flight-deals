@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NAP->ORD 2027-02-10",
- "checksDone": 10488,
+ "phase": "JNB->DFW 2026-10-13",
+ "checksDone": 10830,
  "checksPlanned": 17216,
- "percent": 61,
- "dealsFound": 1885,
- "updatedAt": "2026-08-10T00:45:01",
- "publishedAt": "2026-08-10T04:45:10.326272+00:00",
+ "percent": 63,
+ "dealsFound": 1932,
+ "updatedAt": "2026-08-10T01:00:08",
+ "publishedAt": "2026-08-10T05:00:20.804712+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 120860
+ "totalDeals": 120901
 }
