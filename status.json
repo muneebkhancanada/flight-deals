@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DEN->MXP 2026-08-15",
- "checksDone": 15117,
+ "phase": "ATH->ICN 2027-02-11",
+ "checksDone": 15456,
  "checksPlanned": 17216,
- "percent": 88,
- "dealsFound": 2992,
- "updatedAt": "2026-08-10T16:51:43",
- "publishedAt": "2026-08-10T20:51:50.331832+00:00",
+ "percent": 90,
+ "dealsFound": 3056,
+ "updatedAt": "2026-08-10T17:06:50",
+ "publishedAt": "2026-08-10T21:07:03.662641+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 124832
+ "totalDeals": 124896
 }
