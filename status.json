@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LGW->NCE 2026-12-13",
- "checksDone": 4839,
+ "phase": "CDG->KTM 2026-12-13",
+ "checksDone": 5187,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 761,
- "updatedAt": "2026-08-10T09:15:14",
- "publishedAt": "2026-08-10T13:15:24.195918+00:00",
+ "percent": 30,
+ "dealsFound": 796,
+ "updatedAt": "2026-08-10T09:30:25",
+ "publishedAt": "2026-08-10T13:30:37.130472+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 122607
+ "totalDeals": 122643
 }
