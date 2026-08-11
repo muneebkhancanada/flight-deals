@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ACC->YVR 2026-10-15",
- "checksDone": 14310,
+ "phase": "NAP->LAX 2026-12-14",
+ "checksDone": 14655,
  "checksPlanned": 17216,
- "percent": 83,
- "dealsFound": 12993,
- "updatedAt": "2026-08-11T19:21:36",
- "publishedAt": "2026-08-11T23:21:44.077043+00:00",
+ "percent": 85,
+ "dealsFound": 13302,
+ "updatedAt": "2026-08-11T19:36:49",
+ "publishedAt": "2026-08-11T23:37:01.506994+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 138818
+ "totalDeals": 139129
 }
