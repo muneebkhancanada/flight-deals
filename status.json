@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BOS->KWI 2026-10-14",
- "checksDone": 666,
+ "phase": "IAD->CAI 2026-10-14",
+ "checksDone": 1002,
  "checksPlanned": 1128,
- "percent": 59,
- "dealsFound": 254,
- "updatedAt": "2026-08-10T20:24:22",
- "publishedAt": "2026-08-11T00:24:32.313607+00:00",
+ "percent": 89,
+ "dealsFound": 327,
+ "updatedAt": "2026-08-10T20:43:19",
+ "publishedAt": "2026-08-11T00:43:30.957439+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 126070
+ "totalDeals": 126101
 }
