@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NAP->ZRH 2027-02-12",
- "checksDone": 5436,
+ "phase": "AGP->MAD 2026-12-14",
+ "checksDone": 5787,
  "checksPlanned": 17216,
- "percent": 32,
- "dealsFound": 4760,
- "updatedAt": "2026-08-11T12:45:43",
- "publishedAt": "2026-08-11T16:45:57.223745+00:00",
- "queuedCount": 4,
+ "percent": 34,
+ "dealsFound": 5065,
+ "updatedAt": "2026-08-11T13:01:03",
+ "publishedAt": "2026-08-11T17:01:10.471085+00:00",
+ "queuedCount": 6,
  "queued": [
   {
    "label": "daily",
@@ -25,7 +25,15 @@
   {
    "label": "round trip (NA ⇄ all, 15-26 nights)",
    "mode": "quick"
+  },
+  {
+   "label": "custom (YYZ, YUL, IAD → everywhere)",
+   "mode": "quick"
+  },
+  {
+   "label": "custom (JFK, BOS, YVR → everywhere)",
+   "mode": "quick"
   }
  ],
- "totalDeals": 130596
+ "totalDeals": 130897
 }
