@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DPS->ARN 2027-02-12",
- "checksDone": 10236,
+ "phase": "SCL->MSP 2027-02-12",
+ "checksDone": 10572,
  "checksPlanned": 17216,
- "percent": 59,
- "dealsFound": 9066,
- "updatedAt": "2026-08-11T16:18:55",
- "publishedAt": "2026-08-11T20:19:05.443372+00:00",
+ "percent": 61,
+ "dealsFound": 9387,
+ "updatedAt": "2026-08-11T16:34:12",
+ "publishedAt": "2026-08-11T20:34:19.314215+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 134894
+ "totalDeals": 135214
 }
