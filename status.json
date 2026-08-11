@@ -1,14 +1,31 @@
 {
- "running": false,
- "mode": "custom",
- "phase": "finished",
- "checksDone": 1128,
- "checksPlanned": 1128,
- "percent": 100,
- "dealsFound": 376,
- "updatedAt": "2026-08-10T20:49:11",
- "publishedAt": "2026-08-11T00:49:23.913659+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 126128
+ "running": true,
+ "mode": "quick",
+ "phase": "YYZ->SHJ 2026-09-15",
+ "checksDone": 330,
+ "checksPlanned": 752,
+ "percent": 44,
+ "dealsFound": 36,
+ "updatedAt": "2026-08-11T07:44:37",
+ "publishedAt": "2026-08-11T11:44:45.077804+00:00",
+ "queuedCount": 4,
+ "queued": [
+  {
+   "label": "round trip (NA ⇄ all, 15-26 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU (all fares)",
+   "mode": "quick"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "full",
+   "mode": "full"
+  }
+ ],
+ "totalDeals": 125586
 }
