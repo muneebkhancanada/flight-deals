@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "roundtrip",
- "phase": "BUF->MUC 2027-01-11",
- "checksDone": 222,
+ "phase": "MIA->KRK 2026-11-07",
+ "checksDone": 423,
  "checksPlanned": 500,
- "percent": 44,
- "dealsFound": 62,
- "updatedAt": "2026-08-11T08:19:48",
- "publishedAt": "2026-08-11T12:19:57.700131+00:00",
+ "percent": 85,
+ "dealsFound": 139,
+ "updatedAt": "2026-08-11T08:34:55",
+ "publishedAt": "2026-08-11T12:35:16.256115+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 125729
+ "totalDeals": 125808
 }
