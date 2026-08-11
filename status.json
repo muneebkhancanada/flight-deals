@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CMN->MUC 2026-12-14",
- "checksDone": 13623,
+ "phase": "SCL->SEA 2026-08-16",
+ "checksDone": 13965,
  "checksPlanned": 17216,
- "percent": 79,
- "dealsFound": 12357,
- "updatedAt": "2026-08-11T18:51:04",
- "publishedAt": "2026-08-11T22:51:17.275215+00:00",
+ "percent": 81,
+ "dealsFound": 12676,
+ "updatedAt": "2026-08-11T19:06:19",
+ "publishedAt": "2026-08-11T23:06:31.176415+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 138184
+ "totalDeals": 138503
 }
