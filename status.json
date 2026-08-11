@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DKR->YYZ 2026-10-15",
- "checksDone": 330,
+ "phase": "GIG->EWR 2026-12-14",
+ "checksDone": 663,
  "checksPlanned": 17216,
- "percent": 2,
- "dealsFound": 325,
- "updatedAt": "2026-08-11T08:56:57",
- "publishedAt": "2026-08-11T12:57:08.611477+00:00",
- "queuedCount": 2,
+ "percent": 4,
+ "dealsFound": 647,
+ "updatedAt": "2026-08-11T09:12:14",
+ "publishedAt": "2026-08-11T13:12:25.302257+00:00",
+ "queuedCount": 4,
  "queued": [
   {
    "label": "daily",
@@ -17,7 +17,15 @@
   {
    "label": "full",
    "mode": "full"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "round trip (NA ⇄ all, 15-26 nights)",
+   "mode": "quick"
   }
  ],
- "totalDeals": 126163
+ "totalDeals": 126486
 }
