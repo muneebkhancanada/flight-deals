@@ -1,19 +1,14 @@
 {
- "running": false,
+ "running": true,
  "mode": "custom",
- "phase": "finished",
- "checksDone": 1128,
+ "phase": "NYC->NRT 2027-02-11",
+ "checksDone": 336,
  "checksPlanned": 1128,
- "percent": 100,
- "dealsFound": 229,
- "updatedAt": "2026-08-10T19:53:43",
- "publishedAt": "2026-08-10T23:53:51.193840+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "custom (IAD, NYC, BOS → everywhere)",
-   "mode": "quick"
-  }
- ],
- "totalDeals": 125847
+ "percent": 30,
+ "dealsFound": 130,
+ "updatedAt": "2026-08-10T20:09:11",
+ "publishedAt": "2026-08-11T00:09:18.766951+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 125964
 }
