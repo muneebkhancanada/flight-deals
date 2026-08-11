@@ -1,14 +1,14 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "IAD->CAI 2026-10-14",
- "checksDone": 1002,
+ "phase": "finished",
+ "checksDone": 1128,
  "checksPlanned": 1128,
- "percent": 89,
- "dealsFound": 327,
- "updatedAt": "2026-08-10T20:43:19",
- "publishedAt": "2026-08-11T00:43:30.957439+00:00",
+ "percent": 100,
+ "dealsFound": 376,
+ "updatedAt": "2026-08-10T20:49:11",
+ "publishedAt": "2026-08-11T00:49:23.913659+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 126101
+ "totalDeals": 126128
 }
