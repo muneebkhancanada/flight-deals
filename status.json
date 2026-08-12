@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "daily",
- "phase": "finished",
- "checksDone": 2750,
- "checksPlanned": 2750,
- "percent": 100,
- "dealsFound": 550,
- "updatedAt": "2026-08-12T10:44:06",
- "publishedAt": "2026-08-12T14:44:14.845072+00:00",
- "queuedCount": 3,
+ "running": true,
+ "mode": "roundtrip",
+ "phase": "BUF->MUC 2027-01-12",
+ "checksDone": 222,
+ "checksPlanned": 500,
+ "percent": 44,
+ "dealsFound": 62,
+ "updatedAt": "2026-08-12T10:59:44",
+ "publishedAt": "2026-08-12T14:59:51.397630+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "round trip (NA ⇄ all, 15-26 nights)",
-   "mode": "quick"
-  },
   {
    "label": "custom (YYZ, YUL, IAD → everywhere)",
    "mode": "quick"
@@ -23,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 141947
+ "totalDeals": 142009
 }
