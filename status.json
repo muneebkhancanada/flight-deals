@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->GIG 2027-01-10",
- "checksDone": 1710,
+ "phase": "DKR->YYC 2027-01-10",
+ "checksDone": 2046,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 335,
- "updatedAt": "2026-08-12T00:57:04",
- "publishedAt": "2026-08-12T04:57:15.624722+00:00",
+ "dealsFound": 386,
+ "updatedAt": "2026-08-12T01:12:25",
+ "publishedAt": "2026-08-12T05:12:33.750310+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 141310
+ "totalDeals": 141361
 }
