@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "AGP->YYZ 2026-11-09",
- "checksDone": 936,
+ "phase": "NRT->YYZ 2026-10-12",
+ "checksDone": 1257,
  "checksPlanned": 2750,
- "percent": 34,
- "dealsFound": 187,
- "updatedAt": "2026-08-12T09:20:20",
- "publishedAt": "2026-08-12T13:20:31.738658+00:00",
+ "percent": 46,
+ "dealsFound": 215,
+ "updatedAt": "2026-08-12T09:35:36",
+ "publishedAt": "2026-08-12T13:35:49.418858+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 141584
+ "totalDeals": 141612
 }
