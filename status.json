@@ -1,14 +1,14 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "IAD->HEL 2026-12-15",
- "checksDone": 963,
+ "phase": "finished",
+ "checksDone": 1128,
  "checksPlanned": 1128,
- "percent": 85,
- "dealsFound": 121,
- "updatedAt": "2026-08-12T18:53:07",
- "publishedAt": "2026-08-12T22:53:28.239222+00:00",
+ "percent": 100,
+ "dealsFound": 172,
+ "updatedAt": "2026-08-12T19:01:12",
+ "publishedAt": "2026-08-12T23:01:32.984822+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 142647
+ "totalDeals": 142691
 }
