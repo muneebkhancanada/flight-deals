@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "daily",
- "phase": "finished",
- "checksDone": 2750,
- "checksPlanned": 2750,
- "percent": 100,
- "dealsFound": 72,
- "updatedAt": "2026-08-12T18:06:16",
- "publishedAt": "2026-08-12T22:06:33.151722+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "custom (YYZ, IAD, YUL → everywhere)",
-   "mode": "quick"
-  }
- ],
- "totalDeals": 142594
+ "running": true,
+ "mode": "custom",
+ "phase": "YYZ->CPT 2026-10-16",
+ "checksDone": 318,
+ "checksPlanned": 1128,
+ "percent": 28,
+ "dealsFound": 41,
+ "updatedAt": "2026-08-12T18:22:10",
+ "publishedAt": "2026-08-12T22:22:27.382668+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 142606
 }
