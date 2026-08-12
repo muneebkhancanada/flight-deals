@@ -1,19 +1,15 @@
 {
  "running": true,
- "mode": "full",
- "phase": "AKL->BRU 2027-01-10",
- "checksDone": 2394,
- "checksPlanned": 104236,
- "percent": 2,
- "dealsFound": 461,
- "updatedAt": "2026-08-12T01:27:42",
- "publishedAt": "2026-08-12T05:27:50.023583+00:00",
- "queuedCount": 4,
+ "mode": "daily",
+ "phase": "YYZ->IST 2026-12-21",
+ "checksDone": 282,
+ "checksPlanned": 2750,
+ "percent": 10,
+ "dealsFound": 38,
+ "updatedAt": "2026-08-12T08:49:17",
+ "publishedAt": "2026-08-12T12:49:37.323088+00:00",
+ "queuedCount": 3,
  "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  },
   {
    "label": "round trip (NA ⇄ all, 15-26 nights)",
    "mode": "quick"
@@ -27,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 141420
+ "totalDeals": 141448
 }
