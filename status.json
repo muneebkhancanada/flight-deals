@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "JFK->NRT 2026-12-15",
- "checksDone": 675,
+ "phase": "YVR->KRK 2026-12-15",
+ "checksDone": 1011,
  "checksPlanned": 1128,
- "percent": 60,
- "dealsFound": 100,
- "updatedAt": "2026-08-12T12:44:24",
- "publishedAt": "2026-08-12T16:44:32.069099+00:00",
+ "percent": 90,
+ "dealsFound": 219,
+ "updatedAt": "2026-08-12T12:59:32",
+ "publishedAt": "2026-08-12T16:59:45.792507+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 142383
+ "totalDeals": 142502
 }
