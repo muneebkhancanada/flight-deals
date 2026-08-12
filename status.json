@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "roundtrip",
- "phase": "BUF->MUC 2027-01-12",
- "checksDone": 222,
+ "phase": "YVR->DXB 2026-11-16",
+ "checksDone": 420,
  "checksPlanned": 500,
- "percent": 44,
- "dealsFound": 62,
- "updatedAt": "2026-08-12T10:59:44",
- "publishedAt": "2026-08-12T14:59:51.397630+00:00",
+ "percent": 84,
+ "dealsFound": 142,
+ "updatedAt": "2026-08-12T11:14:49",
+ "publishedAt": "2026-08-12T15:15:07.010256+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 142009
+ "totalDeals": 142091
 }
