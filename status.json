@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "YVR->DXB 2026-11-16",
- "checksDone": 420,
+ "phase": "finished",
+ "checksDone": 500,
  "checksPlanned": 500,
- "percent": 84,
- "dealsFound": 142,
- "updatedAt": "2026-08-12T11:14:49",
- "publishedAt": "2026-08-12T15:15:07.010256+00:00",
+ "percent": 100,
+ "dealsFound": 178,
+ "updatedAt": "2026-08-12T11:20:53",
+ "publishedAt": "2026-08-12T15:21:00.463357+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 142091
+ "totalDeals": 142125
 }
