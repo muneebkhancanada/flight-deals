@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "IST->IAH 2026-10-18",
- "checksDone": 2346,
+ "phase": "BCN->IAH 2026-12-20",
+ "checksDone": 2685,
  "checksPlanned": 2750,
- "percent": 85,
- "dealsFound": 567,
- "updatedAt": "2026-08-11T23:22:08",
- "publishedAt": "2026-08-12T03:22:19.143464+00:00",
+ "percent": 98,
+ "dealsFound": 647,
+ "updatedAt": "2026-08-11T23:37:24",
+ "publishedAt": "2026-08-12T03:37:32.248413+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 142154
+ "totalDeals": 142233
 }
