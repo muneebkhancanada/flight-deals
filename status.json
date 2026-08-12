@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "SEA->DUB 2026-10-19",
- "checksDone": 2598,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 94,
- "dealsFound": 548,
- "updatedAt": "2026-08-12T10:36:52",
- "publishedAt": "2026-08-12T14:36:59.582903+00:00",
+ "percent": 100,
+ "dealsFound": 550,
+ "updatedAt": "2026-08-12T10:44:06",
+ "publishedAt": "2026-08-12T14:44:14.845072+00:00",
  "queuedCount": 3,
  "queued": [
   {
@@ -23,5 +23,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 141945
+ "totalDeals": 141947
 }
