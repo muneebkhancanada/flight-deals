@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "LIS->SEA 2026-10-19",
- "checksDone": 2622,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 95,
+ "percent": 100,
  "dealsFound": 72,
- "updatedAt": "2026-08-12T17:59:33",
- "publishedAt": "2026-08-12T21:59:51.313095+00:00",
+ "updatedAt": "2026-08-12T18:06:16",
+ "publishedAt": "2026-08-12T22:06:33.151722+00:00",
  "queuedCount": 1,
  "queued": [
   {
