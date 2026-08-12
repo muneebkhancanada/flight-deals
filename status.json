@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "UIO->YVR 2027-02-12",
- "checksDone": 15000,
+ "phase": "MDE->LIS 2026-10-15",
+ "checksDone": 15342,
  "checksPlanned": 17216,
- "percent": 87,
- "dealsFound": 13625,
- "updatedAt": "2026-08-11T19:52:03",
- "publishedAt": "2026-08-11T23:52:16.052297+00:00",
+ "percent": 89,
+ "dealsFound": 13960,
+ "updatedAt": "2026-08-11T20:07:15",
+ "publishedAt": "2026-08-12T00:07:28.205413+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 139452
+ "totalDeals": 139787
 }
