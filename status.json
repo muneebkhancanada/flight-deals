@@ -1,19 +1,14 @@
 {
- "running": false,
+ "running": true,
  "mode": "custom",
- "phase": "finished",
- "checksDone": 1128,
+ "phase": "BOS->SHJ 2026-08-17",
+ "checksDone": 333,
  "checksPlanned": 1128,
- "percent": 100,
- "dealsFound": 166,
- "updatedAt": "2026-08-12T12:12:57",
- "publishedAt": "2026-08-12T16:13:04.075973+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "custom (JFK, BOS, YVR → everywhere)",
-   "mode": "quick"
-  }
- ],
- "totalDeals": 142283
+ "percent": 30,
+ "dealsFound": 58,
+ "updatedAt": "2026-08-12T12:29:06",
+ "publishedAt": "2026-08-12T16:29:19.161481+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 142342
 }
