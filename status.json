@@ -1,23 +1,19 @@
 {
- "running": false,
- "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 500,
- "checksPlanned": 500,
- "percent": 100,
- "dealsFound": 178,
- "updatedAt": "2026-08-12T11:20:53",
- "publishedAt": "2026-08-12T15:21:00.463357+00:00",
- "queuedCount": 2,
+ "running": true,
+ "mode": "custom",
+ "phase": "YYZ->DSS 2026-08-17",
+ "checksDone": 333,
+ "checksPlanned": 1128,
+ "percent": 30,
+ "dealsFound": 38,
+ "updatedAt": "2026-08-12T11:36:19",
+ "publishedAt": "2026-08-12T15:36:31.263738+00:00",
+ "queuedCount": 1,
  "queued": [
-  {
-   "label": "custom (YYZ, YUL, IAD → everywhere)",
-   "mode": "quick"
-  },
   {
    "label": "custom (JFK, BOS, YVR → everywhere)",
    "mode": "quick"
   }
  ],
- "totalDeals": 142125
+ "totalDeals": 142155
 }
