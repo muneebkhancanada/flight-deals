@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YYZ->DSS 2026-08-17",
- "checksDone": 333,
+ "phase": "YUL->NBO 2027-02-13",
+ "checksDone": 660,
  "checksPlanned": 1128,
- "percent": 30,
- "dealsFound": 38,
- "updatedAt": "2026-08-12T11:36:19",
- "publishedAt": "2026-08-12T15:36:31.263738+00:00",
+ "percent": 59,
+ "dealsFound": 72,
+ "updatedAt": "2026-08-12T11:51:31",
+ "publishedAt": "2026-08-12T15:51:44.140517+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 142155
+ "totalDeals": 142189
 }
