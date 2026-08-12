@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "IAD->KRK 2027-02-13",
- "checksDone": 996,
+ "phase": "finished",
+ "checksDone": 1128,
  "checksPlanned": 1128,
- "percent": 88,
- "dealsFound": 121,
- "updatedAt": "2026-08-12T12:06:46",
- "publishedAt": "2026-08-12T16:06:56.303282+00:00",
+ "percent": 100,
+ "dealsFound": 166,
+ "updatedAt": "2026-08-12T12:12:57",
+ "publishedAt": "2026-08-12T16:13:04.075973+00:00",
  "queuedCount": 1,
  "queued": [
   {
@@ -15,5 +15,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 142239
+ "totalDeals": 142283
 }
