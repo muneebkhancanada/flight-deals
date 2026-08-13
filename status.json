@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KHI->MSP 2026-10-17",
- "checksDone": 1674,
+ "phase": "DAR->CLT 2026-10-17",
+ "checksDone": 2022,
  "checksPlanned": 17216,
- "percent": 10,
- "dealsFound": 1576,
- "updatedAt": "2026-08-13T07:33:46",
- "publishedAt": "2026-08-13T11:33:57.038583+00:00",
+ "percent": 12,
+ "dealsFound": 1865,
+ "updatedAt": "2026-08-13T07:49:04",
+ "publishedAt": "2026-08-13T11:49:15.733544+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 144226
+ "totalDeals": 144515
 }
