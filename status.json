@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ALA->MAN 2026-08-18",
- "checksDone": 7905,
+ "phase": "PVG->JFK 2027-02-14",
+ "checksDone": 8244,
  "checksPlanned": 17216,
- "percent": 46,
- "dealsFound": 6788,
- "updatedAt": "2026-08-13T12:09:20",
- "publishedAt": "2026-08-13T16:09:32.589763+00:00",
+ "percent": 48,
+ "dealsFound": 7074,
+ "updatedAt": "2026-08-13T12:24:39",
+ "publishedAt": "2026-08-13T16:24:50.765199+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 149434
+ "totalDeals": 149720
 }
