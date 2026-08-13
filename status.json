@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NAP->ZRH 2027-02-14",
- "checksDone": 5436,
+ "phase": "NAP->MAD 2026-10-17",
+ "checksDone": 5790,
  "checksPlanned": 17216,
- "percent": 32,
- "dealsFound": 4746,
- "updatedAt": "2026-08-13T10:22:06",
- "publishedAt": "2026-08-13T14:22:23.125842+00:00",
+ "percent": 34,
+ "dealsFound": 5054,
+ "updatedAt": "2026-08-13T10:37:32",
+ "publishedAt": "2026-08-13T14:37:42.948745+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 147395
+ "totalDeals": 147700
 }
