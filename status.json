@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SGN->LIS 2027-02-14",
- "checksDone": 11556,
+ "phase": "VCE->ATL 2026-08-18",
+ "checksDone": 11889,
  "checksPlanned": 17216,
- "percent": 67,
- "dealsFound": 10338,
- "updatedAt": "2026-08-13T14:57:43",
- "publishedAt": "2026-08-13T18:58:00.547795+00:00",
+ "percent": 69,
+ "dealsFound": 10663,
+ "updatedAt": "2026-08-13T15:13:02",
+ "publishedAt": "2026-08-13T19:13:20.531468+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 152981
+ "totalDeals": 153306
 }
