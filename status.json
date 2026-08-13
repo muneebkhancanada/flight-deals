@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "PVG->JFK 2027-02-14",
- "checksDone": 8244,
+ "phase": "AMM->PHL 2027-02-14",
+ "checksDone": 8568,
  "checksPlanned": 17216,
- "percent": 48,
- "dealsFound": 7074,
- "updatedAt": "2026-08-13T12:24:39",
- "publishedAt": "2026-08-13T16:24:50.765199+00:00",
+ "percent": 50,
+ "dealsFound": 7398,
+ "updatedAt": "2026-08-13T12:39:54",
+ "publishedAt": "2026-08-13T16:40:08.978690+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 149720
+ "totalDeals": 150045
 }
