@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ISB->PHL 2026-10-17",
- "checksDone": 1002,
+ "phase": "ISB->ORD 2026-08-18",
+ "checksDone": 1341,
  "checksPlanned": 17216,
- "percent": 6,
- "dealsFound": 952,
- "updatedAt": "2026-08-13T07:03:05",
- "publishedAt": "2026-08-13T11:03:19.195776+00:00",
+ "percent": 8,
+ "dealsFound": 1265,
+ "updatedAt": "2026-08-13T07:18:27",
+ "publishedAt": "2026-08-13T11:18:37.751079+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 143604
+ "totalDeals": 143915
 }
