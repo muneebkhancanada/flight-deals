@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NAP->SEA 2026-08-18",
- "checksDone": 14229,
+ "phase": "AKL->MXP 2026-08-18",
+ "checksDone": 14565,
  "checksPlanned": 17216,
- "percent": 83,
- "dealsFound": 12894,
- "updatedAt": "2026-08-13T17:00:22",
- "publishedAt": "2026-08-13T21:00:40.450975+00:00",
+ "percent": 85,
+ "dealsFound": 13202,
+ "updatedAt": "2026-08-13T17:15:49",
+ "publishedAt": "2026-08-13T21:16:02.558104+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 155536
+ "totalDeals": 155842
 }
