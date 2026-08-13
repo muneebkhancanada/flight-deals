@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "GRU->MSP 2026-08-18",
- "checksDone": 10557,
+ "phase": "CGK->IAH 2027-02-14",
+ "checksDone": 10884,
  "checksPlanned": 17216,
- "percent": 61,
- "dealsFound": 9350,
- "updatedAt": "2026-08-13T14:11:48",
- "publishedAt": "2026-08-13T18:12:02.156783+00:00",
+ "percent": 63,
+ "dealsFound": 9672,
+ "updatedAt": "2026-08-13T14:27:06",
+ "publishedAt": "2026-08-13T18:27:19.803457+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 151992
+ "totalDeals": 152314
 }
