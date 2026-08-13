@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ARN->BRU 2027-02-14",
- "checksDone": 12564,
+ "phase": "ICN->MUC 2026-12-16",
+ "checksDone": 12891,
  "checksPlanned": 17216,
- "percent": 73,
- "dealsFound": 11323,
- "updatedAt": "2026-08-13T15:43:48",
- "publishedAt": "2026-08-13T19:44:00.914980+00:00",
+ "percent": 75,
+ "dealsFound": 11645,
+ "updatedAt": "2026-08-13T15:59:03",
+ "publishedAt": "2026-08-13T19:59:19.695494+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 153964
+ "totalDeals": 154287
 }
