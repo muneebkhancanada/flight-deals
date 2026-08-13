@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NRT->CDG 2026-08-18",
- "checksDone": 13557,
+ "phase": "CMN->DFW 2027-02-14",
+ "checksDone": 13896,
  "checksPlanned": 17216,
- "percent": 79,
- "dealsFound": 12274,
- "updatedAt": "2026-08-13T16:29:42",
- "publishedAt": "2026-08-13T20:30:00.228499+00:00",
+ "percent": 81,
+ "dealsFound": 12590,
+ "updatedAt": "2026-08-13T16:45:03",
+ "publishedAt": "2026-08-13T20:45:21.872696+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 154916
+ "totalDeals": 155232
 }
