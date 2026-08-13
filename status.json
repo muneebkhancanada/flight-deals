@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ICN->WAW 2026-10-17",
- "checksDone": 13230,
+ "phase": "NRT->CDG 2026-08-18",
+ "checksDone": 13557,
  "checksPlanned": 17216,
- "percent": 77,
- "dealsFound": 11968,
- "updatedAt": "2026-08-13T16:14:22",
- "publishedAt": "2026-08-13T20:14:39.991445+00:00",
+ "percent": 79,
+ "dealsFound": 12274,
+ "updatedAt": "2026-08-13T16:29:42",
+ "publishedAt": "2026-08-13T20:30:00.228499+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 154610
+ "totalDeals": 154916
 }
