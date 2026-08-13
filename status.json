@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "HKG->FRA 2027-02-14",
- "checksDone": 11220,
+ "phase": "SGN->LIS 2027-02-14",
+ "checksDone": 11556,
  "checksPlanned": 17216,
- "percent": 65,
- "dealsFound": 10008,
- "updatedAt": "2026-08-13T14:42:22",
- "publishedAt": "2026-08-13T18:42:40.065893+00:00",
+ "percent": 67,
+ "dealsFound": 10338,
+ "updatedAt": "2026-08-13T14:57:43",
+ "publishedAt": "2026-08-13T18:58:00.547795+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 152651
+ "totalDeals": 152981
 }
