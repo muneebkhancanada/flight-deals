@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TIA->CDG 2026-12-16",
- "checksDone": 4755,
+ "phase": "KRK->FRA 2026-12-16",
+ "checksDone": 5091,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 4111,
- "updatedAt": "2026-08-13T09:51:28",
- "publishedAt": "2026-08-13T13:51:42.024713+00:00",
+ "percent": 30,
+ "dealsFound": 4433,
+ "updatedAt": "2026-08-13T10:06:45",
+ "publishedAt": "2026-08-13T14:07:01.733677+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 146759
+ "totalDeals": 147082
 }
