@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YYZ->NBO 2027-02-14",
- "checksDone": 324,
+ "phase": "EWR->CAN 2026-12-16",
+ "checksDone": 651,
  "checksPlanned": 17216,
- "percent": 2,
- "dealsFound": 322,
- "updatedAt": "2026-08-13T19:36:56",
- "publishedAt": "2026-08-13T23:37:08.114894+00:00",
+ "percent": 4,
+ "dealsFound": 637,
+ "updatedAt": "2026-08-13T19:52:10",
+ "publishedAt": "2026-08-13T23:52:28.024848+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 158724
+ "totalDeals": 159041
 }
