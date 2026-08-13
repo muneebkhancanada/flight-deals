@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ZRH->YYC 2026-10-17",
- "checksDone": 15894,
+ "phase": "FCO->MIA 2026-08-18",
+ "checksDone": 16209,
  "checksPlanned": 17216,
- "percent": 92,
- "dealsFound": 14458,
- "updatedAt": "2026-08-13T18:17:06",
- "publishedAt": "2026-08-13T22:17:24.169707+00:00",
+ "percent": 94,
+ "dealsFound": 14772,
+ "updatedAt": "2026-08-13T18:32:28",
+ "publishedAt": "2026-08-13T22:32:43.551226+00:00",
  "queuedCount": 6,
  "queued": [
   {
@@ -35,5 +35,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 157100
+ "totalDeals": 157413
 }
