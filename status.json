@@ -1,14 +1,39 @@
 {
- "running": false,
+ "running": true,
  "mode": "custom",
- "phase": "finished",
- "checksDone": 1128,
- "checksPlanned": 1128,
- "percent": 100,
- "dealsFound": 172,
- "updatedAt": "2026-08-12T19:01:12",
- "publishedAt": "2026-08-12T23:01:32.984822+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 142691
+ "phase": "NBO->YYZ 2027-02-14",
+ "checksDone": 324,
+ "checksPlanned": 17216,
+ "percent": 2,
+ "dealsFound": 322,
+ "updatedAt": "2026-08-13T06:32:24",
+ "publishedAt": "2026-08-13T10:32:40.017659+00:00",
+ "queuedCount": 6,
+ "queued": [
+  {
+   "label": "custom (NA, EU → everywhere) (all fares)",
+   "mode": "quick"
+  },
+  {
+   "label": "custom (YYZ, YUL, IAD → everywhere)",
+   "mode": "quick"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "full",
+   "mode": "full"
+  }
+ ],
+ "totalDeals": 142976
 }
