@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MAN->OSL 2026-10-17",
- "checksDone": 7986,
+ "phase": "EDI->VIE 2026-12-16",
+ "checksDone": 8307,
  "checksPlanned": 17216,
- "percent": 46,
- "dealsFound": 6739,
- "updatedAt": "2026-08-14T01:33:21",
- "publishedAt": "2026-08-14T05:33:44.853915+00:00",
+ "percent": 48,
+ "dealsFound": 7037,
+ "updatedAt": "2026-08-14T01:48:57",
+ "publishedAt": "2026-08-14T05:49:24.965509+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 164360
+ "totalDeals": 164646
 }
