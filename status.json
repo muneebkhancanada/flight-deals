@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "SIN->OSL 2026-10-21",
- "checksDone": 2334,
+ "phase": "DUB->YOW 2026-12-23",
+ "checksDone": 2673,
  "checksPlanned": 2750,
- "percent": 85,
- "dealsFound": 21,
- "updatedAt": "2026-08-14T17:35:32",
- "publishedAt": "2026-08-14T21:35:45.500452+00:00",
+ "percent": 97,
+ "dealsFound": 23,
+ "updatedAt": "2026-08-14T17:50:54",
+ "publishedAt": "2026-08-14T21:51:06.538142+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 173355
+ "totalDeals": 173357
 }
