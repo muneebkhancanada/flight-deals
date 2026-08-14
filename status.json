@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "JFK->DPS 2026-12-16",
- "checksDone": 8631,
+ "phase": "BOS->AKL 2026-10-17",
+ "checksDone": 8946,
  "checksPlanned": 17216,
- "percent": 50,
- "dealsFound": 7321,
- "updatedAt": "2026-08-14T02:04:39",
- "publishedAt": "2026-08-14T06:05:05.526831+00:00",
+ "percent": 52,
+ "dealsFound": 7636,
+ "updatedAt": "2026-08-14T02:20:21",
+ "publishedAt": "2026-08-14T06:20:46.018459+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 164921
+ "totalDeals": 165235
 }
