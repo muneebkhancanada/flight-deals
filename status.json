@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LAX->SIN 2026-10-17",
- "checksDone": 11790,
+ "phase": "MAD->OPO 2026-12-16",
+ "checksDone": 12123,
  "checksPlanned": 17216,
- "percent": 68,
- "dealsFound": 10430,
- "updatedAt": "2026-08-14T08:32:14",
- "publishedAt": "2026-08-14T12:32:26.880886+00:00",
+ "percent": 70,
+ "dealsFound": 10763,
+ "updatedAt": "2026-08-14T08:47:33",
+ "publishedAt": "2026-08-14T12:47:47.560598+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 167863
+ "totalDeals": 168145
 }
