@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SFO->UIO 2027-02-14",
- "checksDone": 16392,
+ "phase": "WAW->EZE 2026-10-17",
+ "checksDone": 16722,
  "checksPlanned": 17216,
- "percent": 95,
- "dealsFound": 14852,
- "updatedAt": "2026-08-14T12:07:55",
- "publishedAt": "2026-08-14T16:08:14.577748+00:00",
+ "percent": 97,
+ "dealsFound": 15170,
+ "updatedAt": "2026-08-14T12:23:24",
+ "publishedAt": "2026-08-14T16:23:38.102513+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 171893
+ "totalDeals": 172207
 }
