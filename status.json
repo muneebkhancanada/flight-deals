@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "DUB->YOW 2026-12-23",
- "checksDone": 2673,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 97,
+ "percent": 100,
  "dealsFound": 23,
- "updatedAt": "2026-08-14T17:50:54",
- "publishedAt": "2026-08-14T21:51:06.538142+00:00",
+ "updatedAt": "2026-08-14T17:54:46",
+ "publishedAt": "2026-08-14T21:55:00.428052+00:00",
  "queuedCount": 2,
  "queued": [
   {
