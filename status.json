@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CLT->NCE 2026-08-18",
- "checksDone": 11457,
+ "phase": "LAX->SIN 2026-10-17",
+ "checksDone": 11790,
  "checksPlanned": 17216,
- "percent": 67,
- "dealsFound": 10099,
- "updatedAt": "2026-08-14T08:16:46",
- "publishedAt": "2026-08-14T12:17:05.825235+00:00",
+ "percent": 68,
+ "dealsFound": 10430,
+ "updatedAt": "2026-08-14T08:32:14",
+ "publishedAt": "2026-08-14T12:32:26.880886+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 167534
+ "totalDeals": 167863
 }
