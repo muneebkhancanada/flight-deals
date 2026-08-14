@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CPH->NAP 2026-12-16",
- "checksDone": 10791,
+ "phase": "EDI->SIN 2027-02-14",
+ "checksDone": 11124,
  "checksPlanned": 17216,
- "percent": 63,
- "dealsFound": 9451,
- "updatedAt": "2026-08-14T07:46:01",
- "publishedAt": "2026-08-14T11:46:19.330829+00:00",
+ "percent": 65,
+ "dealsFound": 9777,
+ "updatedAt": "2026-08-14T08:01:21",
+ "publishedAt": "2026-08-14T12:01:41.487365+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 166950
+ "totalDeals": 167212
 }
