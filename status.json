@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MUC->TIA 2027-02-14",
- "checksDone": 5628,
+ "phase": "VIE->DXB 2026-12-16",
+ "checksDone": 5955,
  "checksPlanned": 17216,
- "percent": 33,
- "dealsFound": 4820,
- "updatedAt": "2026-08-13T23:43:29",
- "publishedAt": "2026-08-14T03:43:58.446283+00:00",
+ "percent": 35,
+ "dealsFound": 5105,
+ "updatedAt": "2026-08-13T23:59:11",
+ "publishedAt": "2026-08-14T03:59:41.003736+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 163138
+ "totalDeals": 163420
 }
