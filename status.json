@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VIE->BKK 2026-10-17",
- "checksDone": 10446,
+ "phase": "CPH->NAP 2026-12-16",
+ "checksDone": 10791,
  "checksPlanned": 17216,
- "percent": 61,
- "dealsFound": 9114,
- "updatedAt": "2026-08-14T07:30:40",
- "publishedAt": "2026-08-14T11:30:56.565904+00:00",
+ "percent": 63,
+ "dealsFound": 9451,
+ "updatedAt": "2026-08-14T07:46:01",
+ "publishedAt": "2026-08-14T11:46:19.330829+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 166656
+ "totalDeals": 166950
 }
