@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IAD->TUN 2027-02-14",
- "checksDone": 1320,
+ "phase": "DTW->BJL 2026-08-18",
+ "checksDone": 1653,
  "checksPlanned": 17216,
- "percent": 8,
- "dealsFound": 1236,
- "updatedAt": "2026-08-13T20:22:52",
- "publishedAt": "2026-08-14T00:23:07.894126+00:00",
+ "percent": 10,
+ "dealsFound": 1546,
+ "updatedAt": "2026-08-13T20:38:12",
+ "publishedAt": "2026-08-14T00:38:27.138748+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 159639
+ "totalDeals": 159948
 }
