@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ORD->UIO 2026-10-17",
- "checksDone": 9450,
+ "phase": "DFW->CGK 2026-12-16",
+ "checksDone": 9783,
  "checksPlanned": 17216,
- "percent": 55,
- "dealsFound": 8135,
- "updatedAt": "2026-08-14T02:46:21",
- "publishedAt": "2026-08-14T10:44:37.739071+00:00",
+ "percent": 57,
+ "dealsFound": 8454,
+ "updatedAt": "2026-08-14T06:59:47",
+ "publishedAt": "2026-08-14T11:00:06.760885+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 165733
+ "totalDeals": 166054
 }
