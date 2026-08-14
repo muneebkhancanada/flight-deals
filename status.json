@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "CGK->YYZ 2027-01-06",
- "checksDone": 1653,
+ "phase": "DXB->OSL 2026-10-21",
+ "checksDone": 1998,
  "checksPlanned": 2750,
- "percent": 60,
+ "percent": 73,
  "dealsFound": 15,
- "updatedAt": "2026-08-14T17:04:47",
- "publishedAt": "2026-08-14T21:05:06.290546+00:00",
+ "updatedAt": "2026-08-14T17:20:16",
+ "publishedAt": "2026-08-14T21:20:28.093737+00:00",
  "queuedCount": 2,
  "queued": [
   {
