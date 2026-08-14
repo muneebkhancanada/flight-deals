@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DFW->CGK 2026-12-16",
- "checksDone": 9783,
+ "phase": "YVR->MNL 2026-12-16",
+ "checksDone": 10107,
  "checksPlanned": 17216,
- "percent": 57,
- "dealsFound": 8454,
- "updatedAt": "2026-08-14T06:59:47",
- "publishedAt": "2026-08-14T11:00:06.760885+00:00",
+ "percent": 59,
+ "dealsFound": 8777,
+ "updatedAt": "2026-08-14T07:15:18",
+ "publishedAt": "2026-08-14T11:15:33.255958+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 166054
+ "totalDeals": 166376
 }
