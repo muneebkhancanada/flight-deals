@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "IAD->WAW 2026-10-18",
- "checksDone": 990,
+ "phase": "finished",
+ "checksDone": 1128,
  "checksPlanned": 1128,
- "percent": 88,
- "dealsFound": 148,
- "updatedAt": "2026-08-14T13:32:59",
- "publishedAt": "2026-08-14T17:33:17.442321+00:00",
+ "percent": 100,
+ "dealsFound": 202,
+ "updatedAt": "2026-08-14T13:39:43",
+ "publishedAt": "2026-08-14T17:39:57.243444+00:00",
  "queuedCount": 4,
  "queued": [
   {
@@ -27,5 +27,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 172791
+ "totalDeals": 172844
 }
