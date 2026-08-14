@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EDI->VIE 2026-12-16",
- "checksDone": 8307,
+ "phase": "JFK->DPS 2026-12-16",
+ "checksDone": 8631,
  "checksPlanned": 17216,
- "percent": 48,
- "dealsFound": 7037,
- "updatedAt": "2026-08-14T01:48:57",
- "publishedAt": "2026-08-14T05:49:24.965509+00:00",
+ "percent": 50,
+ "dealsFound": 7321,
+ "updatedAt": "2026-08-14T02:04:39",
+ "publishedAt": "2026-08-14T06:05:05.526831+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 164646
+ "totalDeals": 164921
 }
