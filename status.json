@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EDI->SIN 2027-02-14",
- "checksDone": 11124,
+ "phase": "CLT->NCE 2026-08-18",
+ "checksDone": 11457,
  "checksPlanned": 17216,
- "percent": 65,
- "dealsFound": 9777,
- "updatedAt": "2026-08-14T08:01:21",
- "publishedAt": "2026-08-14T12:01:41.487365+00:00",
+ "percent": 67,
+ "dealsFound": 10099,
+ "updatedAt": "2026-08-14T08:16:46",
+ "publishedAt": "2026-08-14T12:17:05.825235+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 167212
+ "totalDeals": 167534
 }
