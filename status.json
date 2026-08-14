@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VIE->DXB 2026-12-16",
- "checksDone": 5955,
+ "phase": "BCN->TAS 2026-10-17",
+ "checksDone": 6294,
  "checksPlanned": 17216,
- "percent": 35,
- "dealsFound": 5105,
- "updatedAt": "2026-08-13T23:59:11",
- "publishedAt": "2026-08-14T03:59:41.003736+00:00",
+ "percent": 37,
+ "dealsFound": 5374,
+ "updatedAt": "2026-08-14T00:14:57",
+ "publishedAt": "2026-08-14T04:15:23.417635+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 163420
+ "totalDeals": 163084
 }
