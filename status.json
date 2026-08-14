@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ATL->NAN 2027-02-14",
- "checksDone": 1992,
+ "phase": "DFW->ISB 2026-12-16",
+ "checksDone": 2331,
  "checksPlanned": 17216,
- "percent": 12,
- "dealsFound": 1830,
- "updatedAt": "2026-08-13T20:53:30",
- "publishedAt": "2026-08-14T00:53:47.845373+00:00",
+ "percent": 14,
+ "dealsFound": 2090,
+ "updatedAt": "2026-08-13T21:08:53",
+ "publishedAt": "2026-08-14T01:09:07.602376+00:00",
  "queuedCount": 5,
  "queued": [
   {
@@ -31,5 +31,5 @@
    "mode": "full"
   }
  ],
- "totalDeals": 160234
+ "totalDeals": 160493
 }
