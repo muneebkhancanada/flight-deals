@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "daily",
- "phase": "finished",
- "checksDone": 2750,
- "checksPlanned": 2750,
- "percent": 100,
- "dealsFound": 9,
- "updatedAt": "2026-08-14T20:01:26",
- "publishedAt": "2026-08-15T00:01:39.839449+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "full",
-   "mode": "full"
-  }
- ],
- "totalDeals": 173366
+ "running": true,
+ "mode": "full",
+ "phase": "LAX->KRK 2026-11-11",
+ "checksDone": 324,
+ "checksPlanned": 104236,
+ "percent": 0,
+ "dealsFound": 161,
+ "updatedAt": "2026-08-14T20:16:55",
+ "publishedAt": "2026-08-15T00:17:13.095066+00:00",
+ "queuedCount": 0,
+ "queued": [],
+ "totalDeals": 173530
 }
