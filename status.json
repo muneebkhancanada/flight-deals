@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->AGP 2026-11-11",
- "checksDone": 1356,
+ "phase": "YVR->CMN 2027-01-13",
+ "checksDone": 1683,
  "checksPlanned": 104236,
- "percent": 1,
- "dealsFound": 344,
- "updatedAt": "2026-08-14T21:03:02",
- "publishedAt": "2026-08-15T01:03:17.494908+00:00",
+ "percent": 2,
+ "dealsFound": 478,
+ "updatedAt": "2026-08-14T21:18:21",
+ "publishedAt": "2026-08-15T01:18:39.615142+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 173701
+ "totalDeals": 173832
 }
