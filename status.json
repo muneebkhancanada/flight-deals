@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DUB->LIM 2027-01-13",
- "checksDone": 4059,
+ "phase": "LIM->AMS 2026-09-09",
+ "checksDone": 4401,
  "checksPlanned": 104236,
  "percent": 4,
- "dealsFound": 1049,
- "updatedAt": "2026-08-14T23:05:57",
- "publishedAt": "2026-08-15T03:06:12.912281+00:00",
+ "dealsFound": 1075,
+ "updatedAt": "2026-08-14T23:21:22",
+ "publishedAt": "2026-08-15T03:21:34.852651+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 174363
+ "totalDeals": 174387
 }
