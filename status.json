@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->DPS 2026-12-02",
- "checksDone": 19647,
+ "phase": "SFO->KHI 2026-09-30",
+ "checksDone": 19992,
  "checksPlanned": 104236,
  "percent": 19,
- "dealsFound": 3596,
- "updatedAt": "2026-08-15T10:52:35",
- "publishedAt": "2026-08-15T14:52:52.932064+00:00",
+ "dealsFound": 3705,
+ "updatedAt": "2026-08-15T11:08:01",
+ "publishedAt": "2026-08-15T15:08:13.156238+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 176621
+ "totalDeals": 176729
 }
