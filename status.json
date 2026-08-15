@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VIE->LAX 2026-11-11",
- "checksDone": 7128,
+ "phase": "LIS->MIA 2026-11-11",
+ "checksDone": 7464,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 1271,
- "updatedAt": "2026-08-15T01:24:12",
- "publishedAt": "2026-08-15T05:24:24.843381+00:00",
+ "dealsFound": 1285,
+ "updatedAt": "2026-08-15T01:39:28",
+ "publishedAt": "2026-08-15T05:39:44.590639+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 174403
+ "totalDeals": 174415
 }
