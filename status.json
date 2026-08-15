@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->MIA 2026-11-11",
- "checksDone": 7464,
+ "phase": "LIS->DFW 2027-03-17",
+ "checksDone": 7794,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 1285,
- "updatedAt": "2026-08-15T01:39:28",
- "publishedAt": "2026-08-15T05:39:44.590639+00:00",
+ "dealsFound": 1330,
+ "updatedAt": "2026-08-15T01:54:47",
+ "publishedAt": "2026-08-15T05:55:06.304850+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 174415
+ "totalDeals": 174455
 }
