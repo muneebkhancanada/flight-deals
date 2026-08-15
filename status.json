@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->SZX 2026-09-30",
- "checksDone": 18252,
+ "phase": "DFW->KHI 2026-09-30",
+ "checksDone": 18600,
  "checksPlanned": 104236,
  "percent": 18,
- "dealsFound": 3262,
- "updatedAt": "2026-08-15T09:51:13",
- "publishedAt": "2026-08-15T13:51:30.766725+00:00",
+ "dealsFound": 3367,
+ "updatedAt": "2026-08-15T10:06:38",
+ "publishedAt": "2026-08-15T14:06:50.747935+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 176287
+ "totalDeals": 176391
 }
