@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "UIO->MXP 2027-03-17",
- "checksDone": 5454,
+ "phase": "FRA->MDE 2026-11-11",
+ "checksDone": 5808,
  "checksPlanned": 104236,
- "percent": 5,
- "dealsFound": 1109,
- "updatedAt": "2026-08-15T00:07:27",
- "publishedAt": "2026-08-15T04:07:40.665179+00:00",
+ "percent": 6,
+ "dealsFound": 1117,
+ "updatedAt": "2026-08-15T00:22:49",
+ "publishedAt": "2026-08-15T04:23:02.344076+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 174246
+ "totalDeals": 174253
 }
