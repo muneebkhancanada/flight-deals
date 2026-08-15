@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->KEF 2026-11-11",
- "checksDone": 3384,
+ "phase": "SCL->FCO 2027-03-17",
+ "checksDone": 3726,
  "checksPlanned": 104236,
- "percent": 3,
- "dealsFound": 846,
- "updatedAt": "2026-08-14T22:35:12",
- "publishedAt": "2026-08-15T02:35:30.046200+00:00",
+ "percent": 4,
+ "dealsFound": 954,
+ "updatedAt": "2026-08-14T22:50:37",
+ "publishedAt": "2026-08-15T02:50:50.940971+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 174162
+ "totalDeals": 174269
 }
