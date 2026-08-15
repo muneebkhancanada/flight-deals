@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "GRU->MXP 2027-01-13",
- "checksDone": 2379,
+ "phase": "LAX->LHR 2027-01-13",
+ "checksDone": 2703,
  "checksPlanned": 104236,
- "percent": 2,
- "dealsFound": 552,
- "updatedAt": "2026-08-14T21:49:10",
- "publishedAt": "2026-08-15T01:49:23.523137+00:00",
+ "percent": 3,
+ "dealsFound": 676,
+ "updatedAt": "2026-08-14T22:04:25",
+ "publishedAt": "2026-08-15T02:04:44.082490+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 173897
+ "totalDeals": 174021
 }
