@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->SYX 2026-09-30",
- "checksDone": 31572,
+ "phase": "BRU->TIA 2027-04-07",
+ "checksDone": 31941,
  "checksPlanned": 104236,
- "percent": 30,
- "dealsFound": 5936,
- "updatedAt": "2026-08-15T19:35:12",
- "publishedAt": "2026-08-15T23:35:26.130928+00:00",
+ "percent": 31,
+ "dealsFound": 5972,
+ "updatedAt": "2026-08-15T19:50:35",
+ "publishedAt": "2026-08-15T23:50:49.041264+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 178843
+ "totalDeals": 178878
 }
