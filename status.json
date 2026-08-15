@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MSP->DAR 2026-09-30",
- "checksDone": 17196,
+ "phase": "ATL->LIM 2026-12-02",
+ "checksDone": 17547,
  "checksPlanned": 104236,
- "percent": 16,
- "dealsFound": 3085,
- "updatedAt": "2026-08-15T09:05:02",
- "publishedAt": "2026-08-15T13:05:23.133287+00:00",
+ "percent": 17,
+ "dealsFound": 3180,
+ "updatedAt": "2026-08-15T09:20:33",
+ "publishedAt": "2026-08-15T13:20:48.196287+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 176111
+ "totalDeals": 176206
 }
