@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EZE->LHR 2027-03-17",
- "checksDone": 1014,
+ "phase": "SEA->AGP 2026-11-11",
+ "checksDone": 1356,
  "checksPlanned": 104236,
  "percent": 1,
- "dealsFound": 281,
- "updatedAt": "2026-08-14T20:47:42",
- "publishedAt": "2026-08-15T00:47:54.746967+00:00",
+ "dealsFound": 344,
+ "updatedAt": "2026-08-14T21:03:02",
+ "publishedAt": "2026-08-15T01:03:17.494908+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 173644
+ "totalDeals": 173701
 }
