@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CPH->TUN 2026-12-02",
- "checksDone": 30843,
+ "phase": "ARN->DSS 2026-12-02",
+ "checksDone": 31203,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 5794,
- "updatedAt": "2026-08-15T19:04:21",
- "publishedAt": "2026-08-15T23:04:38.608035+00:00",
+ "dealsFound": 5869,
+ "updatedAt": "2026-08-15T19:19:44",
+ "publishedAt": "2026-08-15T23:20:01.707936+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 178705
+ "totalDeals": 178779
 }
