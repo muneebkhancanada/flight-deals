@@ -1,14 +1,23 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DTW->TIA 2027-02-03",
- "checksDone": 16182,
+ "phase": "DTW->SYX 2026-12-02",
+ "checksDone": 16503,
  "checksPlanned": 104236,
  "percent": 16,
- "dealsFound": 2809,
- "updatedAt": "2026-08-15T08:18:57",
- "publishedAt": "2026-08-15T12:19:08.991327+00:00",
- "queuedCount": 0,
- "queued": [],
- "totalDeals": 175837
+ "dealsFound": 2937,
+ "updatedAt": "2026-08-15T08:34:14",
+ "publishedAt": "2026-08-15T12:34:33.112504+00:00",
+ "queuedCount": 2,
+ "queued": [
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "quick",
+   "mode": "quick"
+  }
+ ],
+ "totalDeals": 175964
 }
