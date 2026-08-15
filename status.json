@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->DFW 2027-03-17",
- "checksDone": 7794,
+ "phase": "CPH->DFW 2026-09-09",
+ "checksDone": 8121,
  "checksPlanned": 104236,
- "percent": 7,
- "dealsFound": 1330,
- "updatedAt": "2026-08-15T01:54:47",
- "publishedAt": "2026-08-15T05:55:06.304850+00:00",
+ "percent": 8,
+ "dealsFound": 1378,
+ "updatedAt": "2026-08-15T02:10:09",
+ "publishedAt": "2026-08-15T06:10:26.603265+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 174455
+ "totalDeals": 174499
 }
