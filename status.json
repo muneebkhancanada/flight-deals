@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->CMN 2027-01-13",
- "checksDone": 1683,
+ "phase": "KEF->IAH 2027-01-13",
+ "checksDone": 2031,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 478,
- "updatedAt": "2026-08-14T21:18:21",
- "publishedAt": "2026-08-15T01:18:39.615142+00:00",
+ "dealsFound": 504,
+ "updatedAt": "2026-08-14T21:33:41",
+ "publishedAt": "2026-08-15T01:34:00.954225+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 173832
+ "totalDeals": 173852
 }
