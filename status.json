@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->DSS 2026-12-02",
- "checksDone": 31203,
+ "phase": "OSL->SYX 2026-09-30",
+ "checksDone": 31572,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 5869,
- "updatedAt": "2026-08-15T19:19:44",
- "publishedAt": "2026-08-15T23:20:01.707936+00:00",
+ "dealsFound": 5936,
+ "updatedAt": "2026-08-15T19:35:12",
+ "publishedAt": "2026-08-15T23:35:26.130928+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 178779
+ "totalDeals": 178843
 }
