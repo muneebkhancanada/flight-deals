@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->CLT 2026-11-11",
- "checksDone": 9120,
+ "phase": "VIE->BOS 2027-01-13",
+ "checksDone": 9447,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1480,
- "updatedAt": "2026-08-15T02:56:13",
- "publishedAt": "2026-08-15T06:56:32.031486+00:00",
+ "dealsFound": 1516,
+ "updatedAt": "2026-08-15T03:11:37",
+ "publishedAt": "2026-08-15T07:11:52.865588+00:00",
  "queuedCount": 0,
  "queued": [],
- "totalDeals": 174600
+ "totalDeals": 174636
 }
