@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->SCL 2027-02-03",
- "checksDone": 36246,
+ "phase": "EDI->VCE 2027-04-07",
+ "checksDone": 36585,
  "checksPlanned": 104236,
  "percent": 35,
- "dealsFound": 6914,
- "updatedAt": "2026-08-15T22:55:05",
- "publishedAt": "2026-08-16T02:55:21.994759+00:00",
+ "dealsFound": 6954,
+ "updatedAt": "2026-08-15T23:10:25",
+ "publishedAt": "2026-08-16T03:10:43.279595+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 179804
+ "totalDeals": 179844
 }
