@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KWI->LAX 2026-08-19",
- "checksDone": 45888,
+ "phase": "AGP->YUL 2026-12-23",
+ "checksDone": 46230,
  "checksPlanned": 104236,
  "percent": 44,
- "dealsFound": 7862,
- "updatedAt": "2026-08-16T06:05:00",
- "publishedAt": "2026-08-16T10:05:12.625651+00:00",
+ "dealsFound": 7933,
+ "updatedAt": "2026-08-16T06:20:14",
+ "publishedAt": "2026-08-16T10:20:33.337611+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 179418
+ "totalDeals": 179492
 }
