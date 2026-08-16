@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HNL->BKK 2027-04-07",
- "checksDone": 34845,
+ "phase": "HNL->CPT 2026-09-30",
+ "checksDone": 35208,
  "checksPlanned": 104236,
- "percent": 33,
- "dealsFound": 6615,
- "updatedAt": "2026-08-15T21:53:40",
- "publishedAt": "2026-08-16T01:53:57.549569+00:00",
+ "percent": 34,
+ "dealsFound": 6684,
+ "updatedAt": "2026-08-15T22:09:00",
+ "publishedAt": "2026-08-16T02:09:18.657548+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 179513
+ "totalDeals": 179577
 }
