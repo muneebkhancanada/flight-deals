@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KTM->AMS 2027-02-24",
- "checksDone": 50397,
+ "phase": "BAH->FRA 2026-12-23",
+ "checksDone": 50742,
  "checksPlanned": 104236,
- "percent": 48,
- "dealsFound": 8628,
- "updatedAt": "2026-08-16T09:32:13",
- "publishedAt": "2026-08-16T13:32:25.686450+00:00",
+ "percent": 49,
+ "dealsFound": 8735,
+ "updatedAt": "2026-08-16T09:47:32",
+ "publishedAt": "2026-08-16T13:47:55.983029+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 180173
+ "totalDeals": 180279
 }
