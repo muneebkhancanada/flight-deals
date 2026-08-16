@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BAH->SEA 2026-08-19",
- "checksDone": 45204,
+ "phase": "KWI->SFO 2027-02-24",
+ "checksDone": 45549,
  "checksPlanned": 104236,
- "percent": 43,
- "dealsFound": 7787,
- "updatedAt": "2026-08-16T05:34:13",
- "publishedAt": "2026-08-16T09:34:30.597448+00:00",
+ "percent": 44,
+ "dealsFound": 7828,
+ "updatedAt": "2026-08-16T05:49:34",
+ "publishedAt": "2026-08-16T09:49:51.403454+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 179346
+ "totalDeals": 179384
 }
