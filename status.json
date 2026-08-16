@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->DPS 2027-02-24",
- "checksDone": 63477,
+ "phase": "PHL->VIE 2026-10-21",
+ "checksDone": 63795,
  "checksPlanned": 104236,
  "percent": 61,
- "dealsFound": 11550,
- "updatedAt": "2026-08-16T19:00:41",
- "publishedAt": "2026-08-16T23:01:02.297166+00:00",
+ "dealsFound": 11692,
+ "updatedAt": "2026-08-16T19:16:09",
+ "publishedAt": "2026-08-16T23:16:25.613962+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 183067
+ "totalDeals": 183205
 }
