@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SZX->VIE 2026-08-19",
- "checksDone": 52488,
+ "phase": "LHE->MAD 2026-12-23",
+ "checksDone": 52854,
  "checksPlanned": 104236,
- "percent": 50,
- "dealsFound": 9158,
- "updatedAt": "2026-08-16T11:04:31",
- "publishedAt": "2026-08-16T15:04:49.976010+00:00",
+ "percent": 51,
+ "dealsFound": 9246,
+ "updatedAt": "2026-08-16T11:19:58",
+ "publishedAt": "2026-08-16T15:20:12.002677+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 180694
+ "totalDeals": 180782
 }
