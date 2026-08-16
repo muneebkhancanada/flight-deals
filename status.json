@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HNL->CPT 2026-09-30",
- "checksDone": 35208,
+ "phase": "MAN->EDI 2027-02-03",
+ "checksDone": 35574,
  "checksPlanned": 104236,
  "percent": 34,
- "dealsFound": 6684,
- "updatedAt": "2026-08-15T22:09:00",
- "publishedAt": "2026-08-16T02:09:18.657548+00:00",
+ "dealsFound": 6749,
+ "updatedAt": "2026-08-15T22:24:23",
+ "publishedAt": "2026-08-16T02:24:41.192633+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 179577
+ "totalDeals": 179642
 }
