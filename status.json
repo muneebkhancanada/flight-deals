@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->VIE 2026-10-21",
- "checksDone": 63795,
+ "phase": "PHL->KUL 2026-10-21",
+ "checksDone": 64119,
  "checksPlanned": 104236,
- "percent": 61,
- "dealsFound": 11692,
- "updatedAt": "2026-08-16T19:16:09",
- "publishedAt": "2026-08-16T23:16:25.613962+00:00",
+ "percent": 62,
+ "dealsFound": 11841,
+ "updatedAt": "2026-08-16T19:31:30",
+ "publishedAt": "2026-08-16T23:31:48.032617+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 183205
+ "totalDeals": 183356
 }
