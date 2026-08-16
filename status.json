@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ISB->YYZ 2027-01-20",
- "checksDone": 38271,
+ "phase": "DAR->YYZ 2026-10-28",
+ "checksDone": 38622,
  "checksPlanned": 104236,
  "percent": 37,
- "dealsFound": 7111,
- "updatedAt": "2026-08-16T00:27:11",
- "publishedAt": "2026-08-16T04:27:26.455327+00:00",
+ "dealsFound": 7145,
+ "updatedAt": "2026-08-16T00:42:30",
+ "publishedAt": "2026-08-16T04:42:47.901919+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 178678
+ "totalDeals": 178712
 }
