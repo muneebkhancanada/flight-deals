@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->AMS 2026-08-19",
- "checksDone": 50052,
+ "phase": "KTM->AMS 2027-02-24",
+ "checksDone": 50397,
  "checksPlanned": 104236,
  "percent": 48,
- "dealsFound": 8496,
- "updatedAt": "2026-08-16T09:16:47",
- "publishedAt": "2026-08-16T13:17:05.263250+00:00",
+ "dealsFound": 8628,
+ "updatedAt": "2026-08-16T09:32:13",
+ "publishedAt": "2026-08-16T13:32:25.686450+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 180042
+ "totalDeals": 180173
 }
