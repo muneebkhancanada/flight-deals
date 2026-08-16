@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ISB->CPH 2026-08-19",
- "checksDone": 55740,
+ "phase": "SYX->ARN 2026-12-23",
+ "checksDone": 56106,
  "checksPlanned": 104236,
- "percent": 53,
- "dealsFound": 9838,
- "updatedAt": "2026-08-16T13:22:44",
- "publishedAt": "2026-08-16T17:23:02.378914+00:00",
+ "percent": 54,
+ "dealsFound": 9907,
+ "updatedAt": "2026-08-16T13:38:10",
+ "publishedAt": "2026-08-16T17:38:24.694795+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 181367
+ "totalDeals": 181436
 }
