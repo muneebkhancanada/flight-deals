@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BJS->JFK 2027-02-24",
- "checksDone": 38961,
+ "phase": "TIA->EWR 2026-12-23",
+ "checksDone": 39306,
  "checksPlanned": 104236,
- "percent": 37,
- "dealsFound": 7195,
- "updatedAt": "2026-08-16T00:57:55",
- "publishedAt": "2026-08-16T04:58:07.472248+00:00",
+ "percent": 38,
+ "dealsFound": 7251,
+ "updatedAt": "2026-08-16T01:13:15",
+ "publishedAt": "2026-08-16T05:13:27.706483+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 178763
+ "totalDeals": 178818
 }
