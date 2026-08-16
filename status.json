@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BAH->CDG 2026-12-23",
- "checksDone": 49710,
+ "phase": "EDI->AMS 2026-08-19",
+ "checksDone": 50052,
  "checksPlanned": 104236,
  "percent": 48,
- "dealsFound": 8420,
- "updatedAt": "2026-08-16T09:01:31",
- "publishedAt": "2026-08-16T13:01:44.380972+00:00",
+ "dealsFound": 8496,
+ "updatedAt": "2026-08-16T09:16:47",
+ "publishedAt": "2026-08-16T13:17:05.263250+00:00",
  "queuedCount": 2,
  "queued": [
   {
@@ -19,5 +19,5 @@
    "mode": "quick"
   }
  ],
- "totalDeals": 179967
+ "totalDeals": 180042
 }
