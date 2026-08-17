@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "daily",
- "phase": "finished",
- "checksDone": 2750,
- "checksPlanned": 2750,
- "percent": 100,
- "dealsFound": 608,
- "updatedAt": "2026-08-17T09:36:23",
- "publishedAt": "2026-08-17T13:36:44.340049+00:00",
- "queuedCount": 6,
+ "running": true,
+ "mode": "quick",
+ "phase": "YYZ->RUH 2026-11-20",
+ "checksDone": 324,
+ "checksPlanned": 752,
+ "percent": 43,
+ "dealsFound": 41,
+ "updatedAt": "2026-08-17T09:52:06",
+ "publishedAt": "2026-08-17T13:52:20.195507+00:00",
+ "queuedCount": 5,
  "queued": [
-  {
-   "label": "quick",
-   "mode": "quick"
-  },
   {
    "label": "custom (YYZ, YUL, IAD → everywhere)",
    "mode": "quick"
