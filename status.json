@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DSS->YYZ 2026-08-22",
- "checksDone": 333,
+ "phase": "BJS->IAD 2026-12-20",
+ "checksDone": 663,
  "checksPlanned": 1128,
- "percent": 30,
- "dealsFound": 45,
- "updatedAt": "2026-08-17T13:34:19",
- "publishedAt": "2026-08-17T17:34:37.113072+00:00",
+ "percent": 59,
+ "dealsFound": 67,
+ "updatedAt": "2026-08-17T13:49:44",
+ "publishedAt": "2026-08-17T17:49:55.329783+00:00",
  "queuedCount": 4,
  "queued": [
   {
