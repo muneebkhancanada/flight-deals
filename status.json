@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "daily",
- "phase": "finished",
- "checksDone": 2750,
- "checksPlanned": 2750,
- "percent": 100,
- "dealsFound": 31,
- "updatedAt": "2026-08-17T13:18:52",
- "publishedAt": "2026-08-17T17:19:05.010765+00:00",
- "queuedCount": 5,
+ "running": true,
+ "mode": "custom",
+ "phase": "DSS->YYZ 2026-08-22",
+ "checksDone": 333,
+ "checksPlanned": 1128,
+ "percent": 30,
+ "dealsFound": 45,
+ "updatedAt": "2026-08-17T13:34:19",
+ "publishedAt": "2026-08-17T17:34:37.113072+00:00",
+ "queuedCount": 4,
  "queued": [
-  {
-   "label": "inbound from everywhere → YYZ, YUL, IAD",
-   "mode": "quick"
-  },
   {
    "label": "inbound from everywhere → NYC",
    "mode": "quick"
