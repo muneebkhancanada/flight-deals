@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "roundtrip",
- "phase": "YYZ->IST 2027-02-03",
- "checksDone": 174,
+ "phase": "YYZ->ISB 2027-01-20",
+ "checksDone": 354,
  "checksPlanned": 499,
- "percent": 35,
- "dealsFound": 79,
- "updatedAt": "2026-08-17T15:39:27",
- "publishedAt": "2026-08-17T19:39:41.177699+00:00",
+ "percent": 71,
+ "dealsFound": 140,
+ "updatedAt": "2026-08-17T15:54:44",
+ "publishedAt": "2026-08-17T19:54:59.607325+00:00",
  "queuedCount": 1,
  "queued": [
   {
