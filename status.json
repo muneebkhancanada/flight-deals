@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "YYZ->KWI 2027-03-06",
- "checksDone": 321,
+ "phase": "YYZ->CAI 2026-09-05",
+ "checksDone": 648,
  "checksPlanned": 2750,
- "percent": 12,
- "dealsFound": 4,
- "updatedAt": "2026-08-17T11:20:13",
- "publishedAt": "2026-08-17T15:20:27.894529+00:00",
+ "percent": 24,
+ "dealsFound": 11,
+ "updatedAt": "2026-08-17T11:35:28",
+ "publishedAt": "2026-08-17T15:35:46.136679+00:00",
  "queuedCount": 3,
  "queued": [
   {
