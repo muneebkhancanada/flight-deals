@@ -1,19 +1,15 @@
 {
  "running": true,
- "mode": "full",
- "phase": "LHR->EDI 2026-12-23",
- "checksDone": 79050,
- "checksPlanned": 104236,
- "percent": 76,
- "dealsFound": 16501,
- "updatedAt": "2026-08-17T07:23:34",
- "publishedAt": "2026-08-17T11:23:40.976006+00:00",
- "queuedCount": 2,
+ "mode": "daily",
+ "phase": "YYZ->MCT 2026-12-26",
+ "checksDone": 333,
+ "checksPlanned": 2750,
+ "percent": 12,
+ "dealsFound": 24,
+ "updatedAt": "2026-08-17T07:39:41",
+ "publishedAt": "2026-08-17T11:39:54.512527+00:00",
+ "queuedCount": 1,
  "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  },
   {
    "label": "quick",
    "mode": "quick"
