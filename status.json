@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "quick",
- "phase": "finished",
- "checksDone": 752,
- "checksPlanned": 752,
- "percent": 100,
- "dealsFound": 124,
- "updatedAt": "2026-08-17T10:12:21",
- "publishedAt": "2026-08-17T14:12:33.098275+00:00",
- "queuedCount": 5,
+ "running": true,
+ "mode": "custom",
+ "phase": "YYZ->DKR 2026-10-21",
+ "checksDone": 330,
+ "checksPlanned": 1128,
+ "percent": 29,
+ "dealsFound": 59,
+ "updatedAt": "2026-08-17T10:28:00",
+ "publishedAt": "2026-08-17T14:28:12.034954+00:00",
+ "queuedCount": 4,
  "queued": [
-  {
-   "label": "custom (YYZ, YUL, IAD → everywhere)",
-   "mode": "quick"
-  },
   {
    "label": "daily",
    "mode": "daily"
