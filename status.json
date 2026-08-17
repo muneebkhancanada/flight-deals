@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "IAD->ARN 2026-10-21",
- "checksDone": 1002,
+ "phase": "finished",
+ "checksDone": 1128,
  "checksPlanned": 1128,
- "percent": 89,
- "dealsFound": 153,
- "updatedAt": "2026-08-17T10:58:33",
- "publishedAt": "2026-08-17T14:58:46.609391+00:00",
+ "percent": 100,
+ "dealsFound": 197,
+ "updatedAt": "2026-08-17T11:04:39",
+ "publishedAt": "2026-08-17T15:04:51.026666+00:00",
  "queuedCount": 4,
  "queued": [
   {
