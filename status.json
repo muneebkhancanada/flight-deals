@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 499,
- "checksPlanned": 499,
- "percent": 100,
- "dealsFound": 187,
- "updatedAt": "2026-08-17T16:05:43",
- "publishedAt": "2026-08-17T20:05:54.056093+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "full",
-   "mode": "full"
-  }
- ],
+ "running": true,
+ "mode": "full",
+ "phase": "AMS->EDI 2026-12-05",
+ "checksDone": 348,
+ "checksPlanned": 104236,
+ "percent": 0,
+ "dealsFound": 45,
+ "updatedAt": "2026-08-17T16:21:20",
+ "publishedAt": "2026-08-17T20:21:34.103049+00:00",
+ "queuedCount": 0,
+ "queued": [],
  "totalDeals": 75000
 }
