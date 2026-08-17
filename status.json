@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "NRT->LGW 2026-10-24",
- "checksDone": 2502,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 91,
+ "percent": 100,
  "dealsFound": 31,
- "updatedAt": "2026-08-17T13:07:23",
- "publishedAt": "2026-08-17T17:07:35.606466+00:00",
+ "updatedAt": "2026-08-17T13:18:52",
+ "publishedAt": "2026-08-17T17:19:05.010765+00:00",
  "queuedCount": 5,
  "queued": [
   {
