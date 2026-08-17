@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JNB->IAH 2026-10-03",
- "checksDone": 3765,
+ "phase": "CMB->YVR 2026-12-05",
+ "checksDone": 4104,
  "checksPlanned": 104236,
  "percent": 4,
- "dealsFound": 516,
- "updatedAt": "2026-08-17T18:54:29",
- "publishedAt": "2026-08-17T22:54:43.679261+00:00",
+ "dealsFound": 613,
+ "updatedAt": "2026-08-17T19:09:47",
+ "publishedAt": "2026-08-17T23:10:02.350765+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
