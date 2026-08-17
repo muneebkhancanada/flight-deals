@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "GIG->MSP 2026-12-05",
- "checksDone": 2760,
+ "phase": "DKR->ATL 2027-02-06",
+ "checksDone": 3099,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 398,
- "updatedAt": "2026-08-17T18:08:35",
- "publishedAt": "2026-08-17T22:08:47.183451+00:00",
+ "dealsFound": 432,
+ "updatedAt": "2026-08-17T18:23:49",
+ "publishedAt": "2026-08-17T22:24:05.586426+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
