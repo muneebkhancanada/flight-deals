@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "LGW->DOH 2027-01-16",
- "checksDone": 999,
+ "phase": "DXB->YYZ 2026-09-19",
+ "checksDone": 1302,
  "checksPlanned": 2750,
- "percent": 36,
- "dealsFound": 204,
- "updatedAt": "2026-08-17T08:10:14",
- "publishedAt": "2026-08-17T12:10:46.730018+00:00",
+ "percent": 47,
+ "dealsFound": 245,
+ "updatedAt": "2026-08-17T08:25:37",
+ "publishedAt": "2026-08-17T12:26:33.227406+00:00",
  "queuedCount": 6,
  "queued": [
   {
