@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "DXB->YYZ 2026-12-12",
- "checksDone": 1308,
+ "phase": "KTM->YYZ 2026-09-05",
+ "checksDone": 1590,
  "checksPlanned": 2750,
- "percent": 48,
- "dealsFound": 19,
- "updatedAt": "2026-08-17T12:06:10",
- "publishedAt": "2026-08-17T16:06:22.290035+00:00",
+ "percent": 58,
+ "dealsFound": 20,
+ "updatedAt": "2026-08-17T12:21:22",
+ "publishedAt": "2026-08-17T16:21:40.228036+00:00",
  "queuedCount": 5,
  "queued": [
   {
