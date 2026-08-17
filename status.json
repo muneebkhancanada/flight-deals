@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "NBO->LHR 2027-02-27",
- "checksDone": 1908,
+ "phase": "LGW->DEL 2026-08-22",
+ "checksDone": 2235,
  "checksPlanned": 2750,
- "percent": 69,
- "dealsFound": 317,
- "updatedAt": "2026-08-17T08:57:21",
- "publishedAt": "2026-08-17T12:57:35.738220+00:00",
+ "percent": 81,
+ "dealsFound": 456,
+ "updatedAt": "2026-08-17T09:12:35",
+ "publishedAt": "2026-08-17T13:12:54.516721+00:00",
  "queuedCount": 6,
  "queued": [
   {
