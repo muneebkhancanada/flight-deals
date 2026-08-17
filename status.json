@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "YYZ->CAI 2026-09-05",
- "checksDone": 648,
+ "phase": "LGW->DXB 2026-09-12",
+ "checksDone": 981,
  "checksPlanned": 2750,
- "percent": 24,
- "dealsFound": 11,
- "updatedAt": "2026-08-17T11:35:28",
- "publishedAt": "2026-08-17T15:35:46.136679+00:00",
- "queuedCount": 3,
+ "percent": 36,
+ "dealsFound": 14,
+ "updatedAt": "2026-08-17T11:50:46",
+ "publishedAt": "2026-08-17T15:51:03.855155+00:00",
+ "queuedCount": 5,
  "queued": [
   {
    "label": "inbound from everywhere → YYZ, YUL, IAD",
@@ -21,6 +21,14 @@
   {
    "label": "inbound from asia, oceania → LAX, SFO, YVR",
    "mode": "quick"
+  },
+  {
+   "label": "round trip (primary ⇄ all, 7-10 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "full",
+   "mode": "full"
   }
  ],
  "totalDeals": 75000
