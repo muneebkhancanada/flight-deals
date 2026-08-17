@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZRH->BRU 2027-02-06",
- "checksDone": 687,
+ "phase": "BCN->AGP 2027-02-06",
+ "checksDone": 1023,
  "checksPlanned": 104236,
  "percent": 1,
- "dealsFound": 79,
- "updatedAt": "2026-08-17T16:36:38",
- "publishedAt": "2026-08-17T20:36:52.106431+00:00",
+ "dealsFound": 136,
+ "updatedAt": "2026-08-17T16:51:54",
+ "publishedAt": "2026-08-17T20:52:12.325468+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
