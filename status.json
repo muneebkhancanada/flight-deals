@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BAH->NYC 2026-09-21",
- "checksDone": 306,
+ "phase": "CAI->NYC 2026-12-20",
+ "checksDone": 621,
  "checksPlanned": 752,
- "percent": 41,
- "dealsFound": 100,
- "updatedAt": "2026-08-17T14:26:47",
- "publishedAt": "2026-08-17T18:27:02.803785+00:00",
+ "percent": 83,
+ "dealsFound": 224,
+ "updatedAt": "2026-08-17T14:42:04",
+ "publishedAt": "2026-08-17T18:42:21.248427+00:00",
  "queuedCount": 3,
  "queued": [
   {
