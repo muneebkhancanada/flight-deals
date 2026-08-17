@@ -1,17 +1,37 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "YYZ->CPT 2026-10-31",
- "checksDone": 669,
+ "phase": "LGW->DOH 2027-01-16",
+ "checksDone": 999,
  "checksPlanned": 2750,
- "percent": 24,
- "dealsFound": 132,
- "updatedAt": "2026-08-17T07:54:56",
- "publishedAt": "2026-08-17T11:55:12.769570+00:00",
- "queuedCount": 1,
+ "percent": 36,
+ "dealsFound": 204,
+ "updatedAt": "2026-08-17T08:10:14",
+ "publishedAt": "2026-08-17T12:10:46.730018+00:00",
+ "queuedCount": 6,
  "queued": [
   {
    "label": "quick",
+   "mode": "quick"
+  },
+  {
+   "label": "custom (YYZ, YUL, IAD → everywhere)",
+   "mode": "quick"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "inbound from everywhere → YYZ, YUL, IAD",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from everywhere → NYC",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from asia, oceania → LAX, SFO, YVR",
    "mode": "quick"
   }
  ],
