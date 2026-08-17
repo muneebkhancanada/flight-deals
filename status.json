@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CMB->YVR 2026-12-05",
- "checksDone": 4104,
+ "phase": "HKG->CDG 2026-12-05",
+ "checksDone": 4452,
  "checksPlanned": 104236,
  "percent": 4,
- "dealsFound": 613,
- "updatedAt": "2026-08-17T19:09:47",
- "publishedAt": "2026-08-17T23:10:02.350765+00:00",
+ "dealsFound": 717,
+ "updatedAt": "2026-08-17T19:25:04",
+ "publishedAt": "2026-08-17T23:25:23.254455+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
