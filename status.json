@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->LIS 2026-12-05",
- "checksDone": 7848,
+ "phase": "MUC->OSL 2026-10-03",
+ "checksDone": 8193,
  "checksPlanned": 104236,
  "percent": 8,
- "dealsFound": 1720,
- "updatedAt": "2026-08-17T21:58:16",
- "publishedAt": "2026-08-18T01:58:27.981629+00:00",
+ "dealsFound": 1750,
+ "updatedAt": "2026-08-17T22:13:34",
+ "publishedAt": "2026-08-18T02:13:46.981838+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
