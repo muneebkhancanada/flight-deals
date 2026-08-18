@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MXP->EZE 2026-10-03",
- "checksDone": 27057,
+ "phase": "GRU->FRA 2027-02-06",
+ "checksDone": 27399,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 5582,
- "updatedAt": "2026-08-18T16:28:08",
- "publishedAt": "2026-08-18T20:28:21.302836+00:00",
+ "dealsFound": 5615,
+ "updatedAt": "2026-08-18T16:44:29",
+ "publishedAt": "2026-08-18T20:44:47.967807+00:00",
  "queuedCount": 5,
  "queued": [
   {
