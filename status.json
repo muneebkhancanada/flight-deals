@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TPE->BRU 2026-10-03",
- "checksDone": 11541,
+ "phase": "ATL->CDG 2027-04-10",
+ "checksDone": 11874,
  "checksPlanned": 104236,
  "percent": 11,
- "dealsFound": 2324,
- "updatedAt": "2026-08-18T00:49:17",
- "publishedAt": "2026-08-18T04:49:44.818332+00:00",
+ "dealsFound": 2387,
+ "updatedAt": "2026-08-18T01:04:55",
+ "publishedAt": "2026-08-18T05:05:20.936370+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
