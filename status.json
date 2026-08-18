@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->BNE 2027-02-06",
- "checksDone": 13539,
+ "phase": "EDI->SYD 2026-12-05",
+ "checksDone": 13872,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2686,
- "updatedAt": "2026-08-18T02:22:56",
- "publishedAt": "2026-08-18T06:23:21.933097+00:00",
+ "dealsFound": 2721,
+ "updatedAt": "2026-08-18T02:38:32",
+ "publishedAt": "2026-08-18T06:38:58.375725+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
