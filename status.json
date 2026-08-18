@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "GRU->FRA 2027-02-06",
- "checksDone": 27399,
+ "phase": "SFO->AMS 2026-12-05",
+ "checksDone": 27744,
  "checksPlanned": 104236,
- "percent": 26,
- "dealsFound": 5615,
- "updatedAt": "2026-08-18T16:44:29",
- "publishedAt": "2026-08-18T20:44:47.967807+00:00",
+ "percent": 27,
+ "dealsFound": 5677,
+ "updatedAt": "2026-08-18T17:00:24",
+ "publishedAt": "2026-08-18T21:00:36.917420+00:00",
  "queuedCount": 5,
  "queued": [
   {
