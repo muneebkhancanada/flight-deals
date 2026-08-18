@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->CMN 2027-04-10",
- "checksDone": 21018,
+ "phase": "BOG->DEN 2026-12-05",
+ "checksDone": 21348,
  "checksPlanned": 104236,
  "percent": 20,
- "dealsFound": 4358,
- "updatedAt": "2026-08-18T11:52:13",
- "publishedAt": "2026-08-18T15:52:27.176764+00:00",
+ "dealsFound": 4381,
+ "updatedAt": "2026-08-18T12:07:27",
+ "publishedAt": "2026-08-18T16:07:47.334683+00:00",
  "queuedCount": 5,
  "queued": [
   {
