@@ -125,6 +125,7 @@
   .rprice{font-weight:800;font-size:16px;white-space:nowrap;text-align:right}
   .ractions button{font:inherit;font-size:12.5px;cursor:pointer;border:1px solid var(--line);
     background:var(--bg);color:var(--brand-ink);border-radius:8px;padding:4px 9px;white-space:nowrap}
+  .route-note{color:var(--muted);font-size:12.5px;margin:-2px 0 10px;line-height:1.45}
   @media (max-width:640px){
     .rrow{grid-template-columns:1fr auto;gap:5px 10px}
     .rmeta{grid-column:1/-1}
@@ -181,32 +182,39 @@
   <div class="seg" id="view" style="margin-bottom:14px">
     <button data-v="deals" class="on">✈ Deals</button>
     <button data-v="airlines">🏢 By airline</button>
-    <button data-v="routes" title="Routes by airline, using the filters below">🗺 Airline routes</button>
+    <button data-v="routes" title="Scheduled airline networks from AirLabs">🗺 Airline routes</button>
   </div>
 
   <div class="controls">
     <input type="search" id="q" placeholder="Search route, city, airline…" autocomplete="off">
-    <div class="seg" id="kind" title="Deals beat a price/value bar. Fares are just the cheapest fare found on a route.">
+    <div class="seg deal-only" id="kind" title="Deals beat a price/value bar. Fares are just the cheapest fare found on a route.">
       <button data-v="deals" class="on">Deals</button>
       <button data-v="fares">Fares</button>
       <button data-v="all">Both</button>
     </div>
-    <div class="seg" id="trip">
+    <div class="seg deal-only" id="trip">
       <button data-v="all" class="on">All</button>
       <button data-v="one_way">One-way</button>
       <button data-v="round_trip">Round-trip</button>
     </div>
-    <select id="sort">
+    <select id="sort" class="deal-only">
       <option value="new">Newest</option>
       <option value="cheap">Cheapest</option>
       <option value="value">Best value ($/hr for length)</option>
       <option value="depart">By departure</option>
     </select>
     <span class="count" id="count"></span>
-    <button id="btnExport" class="clr" style="margin-left:auto" title="Download the deals matching your current filters as a CSV spreadsheet">⬇ Export to spreadsheet</button>
+    <select id="routeDay" hidden>
+      <option value="">Any operating day</option>
+      <option value="mon">Monday</option><option value="tue">Tuesday</option>
+      <option value="wed">Wednesday</option><option value="thu">Thursday</option>
+      <option value="fri">Friday</option><option value="sat">Saturday</option>
+      <option value="sun">Sunday</option>
+    </select>
+    <button id="btnExport" class="clr deal-only" style="margin-left:auto" title="Download the deals matching your current filters as a CSV spreadsheet">⬇ Export to spreadsheet</button>
   </div>
 
-  <div class="filters">
+  <div class="filters deal-only">
     <div id="msOrigins" class="ms"></div>
     <div id="msDests" class="ms"></div>
     <div id="msAirlines" class="ms"></div>
@@ -237,6 +245,7 @@
     <button id="btnMore" class="clr">Load more</button>
   </div>
   <div id="airlines" hidden></div>
+  <div id="routeNote" class="route-note" hidden></div>
   <div id="routes" hidden></div>
   <div class="empty" id="empty" hidden>No matching deals right now.</div>
 
@@ -260,7 +269,7 @@
 
 <script>
 const $ = s => document.querySelector(s);
-let DEALS = [], trip = "all", kind = "deals";  // kind: deals | fares | all
+let DEALS = [], NETWORK = {routes:[],airlines:[]}, trip = "all", kind = "deals";  // kind: deals | fares | all
 let VIEW = [], shownLimit = 250; const PAGE = 250;  // paging of the filtered list
 let view = "deals";  // deals | airlines | routes
 
@@ -411,16 +420,20 @@ function render(){
   paint();
 }
 function paint(){
-  $("#empty").hidden=VIEW.length>0;
-  $("#btnExport").style.display=VIEW.length?"inline-block":"none";
   const airlineView = view==="airlines";
   const routeView = view==="routes";
+  $("#empty").hidden=routeView ? true : VIEW.length>0;
+  $("#btnExport").style.display=(!routeView&&VIEW.length)?"inline-block":"none";
+  $("#routeDay").hidden=!routeView;
+  $("#routeNote").hidden=!routeView;
+  document.querySelectorAll(".deal-only").forEach(el=>el.hidden=routeView);
   // Use inline display, not the [hidden] attr: .deals / #airlines set
   // display:grid in CSS, which outranks [hidden]{display:none} and would
   // leave both lists visible.
   $("#deals").style.display=(airlineView||routeView)?"none":"";
   $("#airlines").style.display=airlineView?"":"none";
   $("#routes").style.display=routeView?"":"none";
+  $("#routeNote").style.display=routeView?"":"none";
   if(airlineView){ $("#moreWrap").hidden=true; paintAirlines(); return; }
   if(routeView){ paintRoutes(); return; }
   const noun = kind==="fares" ? "fare" : "deal";
@@ -462,53 +475,59 @@ function paintAirlines(){
     </div>`).join("") ||
     "<div class='empty' style='position:static'>No airlines in this selection.</div>";
 }
-// Group the already-filtered deal list by carrier and route. This deliberately
-// reuses every common filter above (airline, airport, price, trip type, stops,
-// dates, quality, and search) so the route tab never drifts out of sync.
+// This is deliberately a different data set from the fare scan.  AirLabs
+// sends scheduled, direct airline services; a route stays visible even when
+// the scanner has never searched it or did not find a deal on it.
 function paintRoutes(){
+  const routes=Array.isArray(NETWORK.routes)?NETWORK.routes:[];
+  const term=$("#q").value.trim().toLowerCase();
+  const origins=msOrigins.selected, dests=msDests.selected, airlines=msAirlines.selected;
+  const day=$("#routeDay").value;
   const by=new Map();
-  for(const d of VIEW){
-    const carriers=[...new Set((d.airline||"").split(",").map(s=>s.trim()).filter(Boolean))];
-    for(const a of carriers){
-      const key=[a,d.origin,d.destination,d.tripType].join("\u0001");
-      let x=by.get(key);
-      if(!x){
-        x={a,origin:d.origin,destination:d.destination,trip:d.tripType,n:0,
-           min:Infinity,pph:Infinity,next:"",newest:0,values:0,minStops:Infinity};
-        by.set(key,x);
-      }
-      x.n++;
-      if(d.priceCad>0) x.min=Math.min(x.min,d.priceCad);
-      if(d.pricePerHour>0) x.pph=Math.min(x.pph,d.pricePerHour);
-      if(d.flightDate && (!x.next || d.flightDate<x.next)) x.next=d.flightDate;
-      x.newest=Math.max(x.newest,d.txnId||0);
-      if(d.valueDeal) x.values++;
-      x.minStops=Math.min(x.minStops,Math.max(0,d.stops||0));
-    }
+  for(const r of routes){
+    if(origins.size&&!origins.has(r.origin)) continue;
+    if(dests.size&&!dests.has(r.destination)) continue;
+    if(airlines.size&&!airlines.has(r.airline)) continue;
+    if(day&&!(r.days||[]).includes(day)) continue;
+    const hay=[r.airline,r.airlineCode,r.origin,r.destination,r.flight].join(" ").toLowerCase();
+    if(term&&!hay.includes(term)) continue;
+    const key=[r.airlineCode,r.origin,r.destination].join("\u0001");
+    let x=by.get(key);
+    if(!x){ x={a:r.airline,code:r.airlineCode,origin:r.origin,destination:r.destination,
+               flights:new Set(),days:new Set(),times:new Set(),aircraft:new Set()}; by.set(key,x); }
+    if(r.flight) x.flights.add(r.flight);
+    for(const d of r.days||[]) x.days.add(d);
+    if(r.departureTime||r.arrivalTime) x.times.add(`${r.departureTime||"?"}–${r.arrivalTime||"?"}`);
+    if(r.aircraft) x.aircraft.add(r.aircraft);
   }
-  const sort=$("#sort").value;
-  const pph=r=>r.pph<Infinity?r.pph:Infinity;
-  const list=[...by.values()].sort((a,b)=>
-    sort==="cheap" ? a.min-b.min || b.n-a.n
-    : sort==="value" ? pph(a)-pph(b) || b.values-a.values || a.min-b.min
-    : sort==="depart" ? (a.next||"9999").localeCompare(b.next||"9999") || a.min-b.min
-    : b.newest-a.newest || b.n-a.n || a.min-b.min);
+  const order=["mon","tue","wed","thu","fri","sat","sun"];
+  const dayName={mon:"Mon",tue:"Tue",wed:"Wed",thu:"Thu",fri:"Fri",sat:"Sat",sun:"Sun"};
+  const list=[...by.values()].sort((a,b)=>a.a.localeCompare(b.a)||a.origin.localeCompare(b.origin)||a.destination.localeCompare(b.destination));
+  const known=Array.isArray(NETWORK.airlines)?NETWORK.airlines:[];
+  const incomplete=known.filter(x=>!x.complete).length;
+  const source=NETWORK.source||"AirLabs Airline Routes Database";
+  $("#routeNote").textContent=routes.length
+    ? `${source} · ${known.length.toLocaleString()} airline network${known.length===1?"":"s"} · updated ${ago(NETWORK.updatedAt)}${incomplete?` · ${incomplete} network${incomplete===1?"":"s"} still syncing`:""}. Fare-only filters are hidden here because they do not apply to scheduled routes.`
+    : "Scheduled airline networks are being downloaded from AirLabs. This can take more than one publish for large carriers.";
   const shown=Math.min(list.length,shownLimit);
   $("#count").textContent=list.length>shown
-    ? `showing ${shown.toLocaleString()} of ${list.length.toLocaleString()} airline routes across ${VIEW.length.toLocaleString()} deals`
-    : `${list.length.toLocaleString()} airline route${list.length===1?"":"s"} across ${VIEW.length.toLocaleString()} deals`;
+    ? `showing ${shown.toLocaleString()} of ${list.length.toLocaleString()} scheduled airline routes`
+    : `${list.length.toLocaleString()} scheduled airline route${list.length===1?"":"s"}`;
   $("#empty").hidden=list.length>0;
-  if(!list.length) $("#empty").textContent="No matching airline routes right now.";
+  if(!list.length) $("#empty").textContent=routes.length
+    ? "No scheduled airline routes match these filters."
+    : "No airline-network data has been published yet.";
   $("#routes").innerHTML=list.slice(0,shownLimit).map(r=>{
-    const rt=r.trip==="round_trip";
-    const stops=r.minStops===Infinity?"stops unknown":r.minStops?`from ${r.minStops} stop${r.minStops===1?"":"s"}`:"nonstop available";
-    const value=r.values?` · ${r.values.toLocaleString()} value deal${r.values===1?"":"s"}`:"";
-    return `<article class="rrow" data-a="${esc(r.a)}" data-o="${esc(r.origin)}" data-d="${esc(r.destination)}" data-trip="${esc(r.trip)}" title="Show matching deals">
-      <div><div class="rcarrier">${esc(r.a)}</div>
-        <div class="rroute">${esc(r.origin)}<span class="arrow">${rt?"⇄":"→"}</span>${esc(r.destination)}${rt?'<span class="tag">round trip</span>':''}</div>
-        <div class="rmeta">${r.n.toLocaleString()} deal${r.n===1?"":"s"} · ${stops}${r.next?` · departs from ${fmtDate(r.next)}`:""}${value}</div></div>
-      <div class="rprice">from C$${r.min===Infinity?"—":r.min.toLocaleString()}${r.pph<Infinity?`<div class="rmeta">best C$${r.pph}/hr</div>`:""}</div>
-      <span class="ractions"><button type="button">View deals</button></span>
+    const flights=[...r.flights].sort(), days=order.filter(d=>r.days.has(d)).map(d=>dayName[d]).join(" · ");
+    const times=[...r.times].sort().slice(0,3).join(", ");
+    const aircraft=[...r.aircraft].sort().slice(0,3).join(", ");
+    const schedule=[flights.length?`${flights.slice(0,4).join(", ")}${flights.length>4?` +${flights.length-4}`:""}`:"scheduled service",days,times,aircraft].filter(Boolean).join(" · ");
+    return `<article class="rrow" data-a="${esc(r.a)}" data-o="${esc(r.origin)}" data-d="${esc(r.destination)}" title="Show scanner deals on this route">
+      <div><div class="rcarrier">${esc(r.a)}${r.code?` (${esc(r.code)})`:""}</div>
+        <div class="rroute">${esc(r.origin)}<span class="arrow">→</span>${esc(r.destination)}</div>
+        <div class="rmeta">${esc(schedule)}</div></div>
+      <div class="rprice">nonstop<div class="rmeta">scheduled network</div></div>
+      <span class="ractions"><button type="button">View scanner deals</button></span>
     </article>`;
   }).join("") || "<div class='empty' style='position:static'>No airline routes in this selection.</div>";
   const remaining=list.length-shown;
@@ -562,11 +581,13 @@ async function load(){
     // min lag between a publish and it showing here is an inherent
     // GitHub Pages limit, not a bug.
     const bust="?t="+Date.now();
-    const [dz,sz]=await Promise.all([
+    const [dz,sz,nz]=await Promise.all([
       fetch("deals.json"+bust,{cache:"no-store"}).then(r=>r.json()),
-      fetch("status.json"+bust,{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
+      fetch("status.json"+bust,{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null),
+      fetch("airline_routes.json"+bust,{cache:"no-store"}).then(r=>r.ok?r.json():null).catch(()=>null)
     ]);
     DEALS=Array.isArray(dz)?dz:[];
+    NETWORK=nz&&typeof nz==="object"?nz:{routes:[],airlines:[]};
     populateFilters();
     renderStatus(sz); render();
   }catch(e){
@@ -576,15 +597,20 @@ async function load(){
 }
 function populateFilters(){
   const uniq=arr=>[...new Set(arr.filter(Boolean))].sort();
-  msOrigins.setOptions(uniq(DEALS.map(d=>d.origin)));
-  msDests.setOptions(uniq(DEALS.map(d=>d.destination)));
-  msAirlines.setOptions(uniq(DEALS.flatMap(d=>(d.airline||"").split(",").map(s=>s.trim()))));
+  const networkRoutes=Array.isArray(NETWORK.routes)?NETWORK.routes:[];
+  msOrigins.setOptions(uniq([...DEALS.map(d=>d.origin),...networkRoutes.map(r=>r.origin)]));
+  msDests.setOptions(uniq([...DEALS.map(d=>d.destination),...networkRoutes.map(r=>r.destination)]));
+  msAirlines.setOptions(uniq([
+    ...DEALS.flatMap(d=>(d.airline||"").split(",").map(s=>s.trim())),
+    ...networkRoutes.map(r=>r.airline)
+  ]));
 }
 // A user filter/sort change resets paging to the first page; the periodic
 // auto-refresh calls render() directly so it keeps however much you loaded.
 function refilter(){ shownLimit=PAGE; render(); }
 $("#q").addEventListener("input",refilter);
 $("#sort").addEventListener("change",refilter);
+$("#routeDay").addEventListener("change",refilter);
 ["#fPrice","#fMinH","#fMaxH","#fMaxPph","#fAfter","#fBefore"].forEach(id=>$(id).addEventListener("input",refilter));
 ["#fStops","#fTier"].forEach(id=>$(id).addEventListener("change",refilter));
 $("#fValue").addEventListener("change",refilter);
@@ -607,14 +633,13 @@ $("#airlines").addEventListener("click",e=>{
   [...$("#view").children].forEach(x=>x.classList.toggle("on",x.dataset.v==="deals"));
   refilter();
 });
-// Route rows carry the same practical filters people use to narrow a search.
+// A scheduled route can be sent back to the fare view to see whether the
+// scanner has already found anything bookable on that exact airport pair.
 $("#routes").addEventListener("click",e=>{
   const row=e.target.closest(".rrow"); if(!row) return;
   msAirlines.setSelected([row.dataset.a]);
   msOrigins.setSelected([row.dataset.o]);
   msDests.setSelected([row.dataset.d]);
-  trip=row.dataset.trip;
-  [...$("#trip").children].forEach(x=>x.classList.toggle("on",x.dataset.v===trip));
   view="deals";
   [...$("#view").children].forEach(x=>x.classList.toggle("on",x.dataset.v==="deals"));
   refilter();

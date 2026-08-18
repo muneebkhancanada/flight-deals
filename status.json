@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->LIM 2026-12-05",
- "checksDone": 22704,
+ "phase": "WAW->LIS 2026-10-03",
+ "checksDone": 23037,
  "checksPlanned": 104236,
  "percent": 22,
- "dealsFound": 4712,
- "updatedAt": "2026-08-18T13:08:48",
- "publishedAt": "2026-08-18T17:09:03.739765+00:00",
+ "dealsFound": 4738,
+ "updatedAt": "2026-08-18T13:24:09",
+ "publishedAt": "2026-08-18T17:24:23.533370+00:00",
  "queuedCount": 5,
  "queued": [
   {
