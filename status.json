@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATH->WAW 2027-02-06",
- "checksDone": 15651,
+ "phase": "MIA->MXP 2026-12-05",
+ "checksDone": 15984,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 3051,
- "updatedAt": "2026-08-18T07:46:57",
- "publishedAt": "2026-08-18T11:47:07.890288+00:00",
+ "dealsFound": 3133,
+ "updatedAt": "2026-08-18T08:02:08",
+ "publishedAt": "2026-08-18T12:02:26.487304+00:00",
  "queuedCount": 5,
  "queued": [
   {
