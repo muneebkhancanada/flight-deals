@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BNE->WAW 2026-10-03",
- "checksDone": 19353,
+ "phase": "DFW->VIE 2027-02-06",
+ "checksDone": 19683,
  "checksPlanned": 104236,
  "percent": 19,
- "dealsFound": 3845,
- "updatedAt": "2026-08-18T10:35:34",
- "publishedAt": "2026-08-18T14:35:46.276772+00:00",
+ "dealsFound": 3963,
+ "updatedAt": "2026-08-18T10:50:50",
+ "publishedAt": "2026-08-18T14:51:04.776760+00:00",
  "queuedCount": 5,
  "queued": [
   {
