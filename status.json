@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HEL->SFO 2027-02-06",
- "checksDone": 26043,
+ "phase": "KEF->OSL 2026-10-03",
+ "checksDone": 26385,
  "checksPlanned": 104236,
  "percent": 25,
- "dealsFound": 5381,
- "updatedAt": "2026-08-18T15:42:01",
- "publishedAt": "2026-08-18T19:42:20.121898+00:00",
+ "dealsFound": 5406,
+ "updatedAt": "2026-08-18T15:57:24",
+ "publishedAt": "2026-08-18T19:57:39.348228+00:00",
  "queuedCount": 5,
  "queued": [
   {
