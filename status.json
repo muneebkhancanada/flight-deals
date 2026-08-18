@@ -1,14 +1,35 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AGP->FCO 2026-10-03",
- "checksDone": 14961,
+ "phase": "AGP->CPH 2027-02-06",
+ "checksDone": 15303,
  "checksPlanned": 104236,
- "percent": 14,
- "dealsFound": 2938,
- "updatedAt": "2026-08-18T03:30:16",
- "publishedAt": "2026-08-18T11:16:34.075310+00:00",
- "queuedCount": 0,
- "queued": [],
+ "percent": 15,
+ "dealsFound": 3022,
+ "updatedAt": "2026-08-18T07:31:38",
+ "publishedAt": "2026-08-18T11:31:51.574956+00:00",
+ "queuedCount": 5,
+ "queued": [
+  {
+   "label": "custom (YYZ, YUL, JFK → everywhere)",
+   "mode": "quick"
+  },
+  {
+   "label": "custom (NA, EU → everywhere)",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU",
+   "mode": "quick"
+  },
+  {
+   "label": "round trip (EU ⇄ all, 10-28 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "round trip (NA ⇄ all, 10-28 nights)",
+   "mode": "quick"
+  }
+ ],
  "totalDeals": 75000
 }
