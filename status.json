@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->LIS 2026-10-03",
- "checksDone": 23037,
+ "phase": "ATH->CDG 2026-12-05",
+ "checksDone": 23100,
  "checksPlanned": 104236,
  "percent": 22,
- "dealsFound": 4738,
- "updatedAt": "2026-08-18T13:24:09",
- "publishedAt": "2026-08-18T17:24:23.533370+00:00",
+ "dealsFound": 4765,
+ "updatedAt": "2026-08-18T13:27:08",
+ "publishedAt": "2026-08-18T17:27:14.235136+00:00",
  "queuedCount": 5,
  "queued": [
   {
