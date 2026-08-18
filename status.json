@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KEF->MAD 2026-10-03",
- "checksDone": 28401,
+ "phase": "CPH->SCL 2027-02-06",
+ "checksDone": 28731,
  "checksPlanned": 104236,
- "percent": 27,
- "dealsFound": 5860,
- "updatedAt": "2026-08-18T17:30:59",
- "publishedAt": "2026-08-18T21:31:17.531005+00:00",
+ "percent": 28,
+ "dealsFound": 5959,
+ "updatedAt": "2026-08-18T17:46:20",
+ "publishedAt": "2026-08-18T21:46:34.638260+00:00",
  "queuedCount": 5,
  "queued": [
   {
