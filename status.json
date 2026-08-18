@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KEF->FCO 2026-10-03",
- "checksDone": 29409,
+ "phase": "DUB->UIO 2026-10-03",
+ "checksDone": 29745,
  "checksPlanned": 104236,
- "percent": 28,
- "dealsFound": 6088,
- "updatedAt": "2026-08-18T18:16:57",
- "publishedAt": "2026-08-18T22:17:09.648617+00:00",
+ "percent": 29,
+ "dealsFound": 6099,
+ "updatedAt": "2026-08-18T18:32:13",
+ "publishedAt": "2026-08-18T22:32:27.886064+00:00",
  "queuedCount": 5,
  "queued": [
   {
