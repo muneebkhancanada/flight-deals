@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYD->MXP 2026-10-03",
- "checksDone": 19005,
+ "phase": "BNE->WAW 2026-10-03",
+ "checksDone": 19353,
  "checksPlanned": 104236,
- "percent": 18,
- "dealsFound": 3765,
- "updatedAt": "2026-08-18T10:20:06",
- "publishedAt": "2026-08-18T14:20:24.842617+00:00",
+ "percent": 19,
+ "dealsFound": 3845,
+ "updatedAt": "2026-08-18T10:35:34",
+ "publishedAt": "2026-08-18T14:35:46.276772+00:00",
  "queuedCount": 5,
  "queued": [
   {
