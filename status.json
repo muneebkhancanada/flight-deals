@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->CAI 2026-12-05",
- "checksDone": 12192,
+ "phase": "AMS->ICN 2027-02-06",
+ "checksDone": 12519,
  "checksPlanned": 104236,
  "percent": 12,
- "dealsFound": 2471,
- "updatedAt": "2026-08-18T01:20:27",
- "publishedAt": "2026-08-18T05:20:58.098704+00:00",
+ "dealsFound": 2512,
+ "updatedAt": "2026-08-18T01:36:08",
+ "publishedAt": "2026-08-18T05:36:32.668659+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
