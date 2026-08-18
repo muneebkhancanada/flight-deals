@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DEN->CDG 2026-10-03",
- "checksDone": 22377,
+ "phase": "YYC->LIM 2026-12-05",
+ "checksDone": 22704,
  "checksPlanned": 104236,
- "percent": 21,
- "dealsFound": 4605,
- "updatedAt": "2026-08-18T12:53:28",
- "publishedAt": "2026-08-18T16:53:44.174115+00:00",
+ "percent": 22,
+ "dealsFound": 4712,
+ "updatedAt": "2026-08-18T13:08:48",
+ "publishedAt": "2026-08-18T17:09:03.739765+00:00",
  "queuedCount": 5,
  "queued": [
   {
