@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VCE->YVR 2026-12-05",
- "checksDone": 23424,
+ "phase": "AKL->LGW 2027-02-06",
+ "checksDone": 23511,
  "checksPlanned": 104236,
- "percent": 22,
- "dealsFound": 4795,
- "updatedAt": "2026-08-18T13:42:02",
- "publishedAt": "2026-08-18T17:42:07.940448+00:00",
+ "percent": 23,
+ "dealsFound": 4806,
+ "updatedAt": "2026-08-18T13:46:04",
+ "publishedAt": "2026-08-18T17:46:09.644044+00:00",
  "queuedCount": 5,
  "queued": [
   {
