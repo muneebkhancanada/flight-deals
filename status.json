@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->AMS 2026-12-05",
- "checksDone": 27744,
+ "phase": "LIS->KEF 2027-04-10",
+ "checksDone": 28074,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 5677,
- "updatedAt": "2026-08-18T17:00:24",
- "publishedAt": "2026-08-18T21:00:36.917420+00:00",
+ "dealsFound": 5821,
+ "updatedAt": "2026-08-18T17:15:41",
+ "publishedAt": "2026-08-18T21:15:58.382572+00:00",
  "queuedCount": 5,
  "queued": [
   {
