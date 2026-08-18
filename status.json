@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->ZRH 2027-04-10",
- "checksDone": 26718,
+ "phase": "MXP->EZE 2026-10-03",
+ "checksDone": 27057,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 5525,
- "updatedAt": "2026-08-18T16:12:47",
- "publishedAt": "2026-08-18T20:13:00.410163+00:00",
+ "dealsFound": 5582,
+ "updatedAt": "2026-08-18T16:28:08",
+ "publishedAt": "2026-08-18T20:28:21.302836+00:00",
  "queuedCount": 5,
  "queued": [
   {
