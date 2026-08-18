@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->SYD 2027-02-06",
- "checksDone": 17331,
+ "phase": "WAW->NRT 2026-10-03",
+ "checksDone": 17673,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 3451,
- "updatedAt": "2026-08-18T09:03:30",
- "publishedAt": "2026-08-18T13:03:41.781882+00:00",
+ "dealsFound": 3520,
+ "updatedAt": "2026-08-18T09:18:47",
+ "publishedAt": "2026-08-18T13:19:00.268148+00:00",
  "queuedCount": 5,
  "queued": [
   {
