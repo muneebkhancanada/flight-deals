@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MSP->OSL 2026-10-03",
- "checksDone": 6849,
+ "phase": "CLT->AMS 2027-04-10",
+ "checksDone": 7182,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 1375,
- "updatedAt": "2026-08-17T21:12:19",
- "publishedAt": "2026-08-18T01:12:32.818527+00:00",
+ "dealsFound": 1460,
+ "updatedAt": "2026-08-17T21:27:38",
+ "publishedAt": "2026-08-18T01:27:49.841865+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
