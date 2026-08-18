@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->UIO 2026-10-03",
- "checksDone": 30081,
+ "phase": "CDG->BOG 2026-12-05",
+ "checksDone": 30420,
  "checksPlanned": 104236,
  "percent": 29,
- "dealsFound": 6116,
- "updatedAt": "2026-08-18T18:47:30",
- "publishedAt": "2026-08-18T22:47:47.646746+00:00",
+ "dealsFound": 6119,
+ "updatedAt": "2026-08-18T19:02:50",
+ "publishedAt": "2026-08-18T23:03:09.378413+00:00",
  "queuedCount": 5,
  "queued": [
   {
