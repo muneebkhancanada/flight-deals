@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DFW->VIE 2027-02-06",
- "checksDone": 19683,
+ "phase": "IAH->CMN 2027-02-06",
+ "checksDone": 20007,
  "checksPlanned": 104236,
  "percent": 19,
- "dealsFound": 3963,
- "updatedAt": "2026-08-18T10:50:50",
- "publishedAt": "2026-08-18T14:51:04.776760+00:00",
+ "dealsFound": 4120,
+ "updatedAt": "2026-08-18T11:06:08",
+ "publishedAt": "2026-08-18T15:06:25.844432+00:00",
  "queuedCount": 5,
  "queued": [
   {
