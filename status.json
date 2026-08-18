@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZRH->AKL 2026-10-03",
- "checksDone": 24369,
+ "phase": "LIM->SFO 2026-10-03",
+ "checksDone": 24705,
  "checksPlanned": 104236,
- "percent": 23,
- "dealsFound": 5038,
- "updatedAt": "2026-08-18T14:25:29",
- "publishedAt": "2026-08-18T18:25:43.136650+00:00",
+ "percent": 24,
+ "dealsFound": 5078,
+ "updatedAt": "2026-08-18T14:40:45",
+ "publishedAt": "2026-08-18T18:41:04.811918+00:00",
  "queuedCount": 5,
  "queued": [
   {
