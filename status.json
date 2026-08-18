@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "GIG->DUB 2026-12-05",
- "checksDone": 23628,
+ "phase": "ATH->ARN 2027-02-06",
+ "checksDone": 23715,
  "checksPlanned": 104236,
  "percent": 23,
- "dealsFound": 4838,
- "updatedAt": "2026-08-18T13:51:02",
- "publishedAt": "2026-08-18T17:51:10.573208+00:00",
+ "dealsFound": 4863,
+ "updatedAt": "2026-08-18T13:54:46",
+ "publishedAt": "2026-08-18T17:55:00.592335+00:00",
  "queuedCount": 5,
  "queued": [
   {
