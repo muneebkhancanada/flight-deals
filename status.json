@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HND->FRA 2027-04-10",
- "checksDone": 18666,
+ "phase": "SYD->MXP 2026-10-03",
+ "checksDone": 19005,
  "checksPlanned": 104236,
  "percent": 18,
- "dealsFound": 3680,
- "updatedAt": "2026-08-18T10:04:17",
- "publishedAt": "2026-08-18T14:05:03.781267+00:00",
+ "dealsFound": 3765,
+ "updatedAt": "2026-08-18T10:20:06",
+ "publishedAt": "2026-08-18T14:20:24.842617+00:00",
  "queuedCount": 5,
  "queued": [
   {
