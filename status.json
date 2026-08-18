@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CPH->SCL 2027-02-06",
- "checksDone": 28731,
+ "phase": "WAW->SCL 2027-02-06",
+ "checksDone": 29067,
  "checksPlanned": 104236,
  "percent": 28,
- "dealsFound": 5959,
- "updatedAt": "2026-08-18T17:46:20",
- "publishedAt": "2026-08-18T21:46:34.638260+00:00",
+ "dealsFound": 6030,
+ "updatedAt": "2026-08-18T18:01:36",
+ "publishedAt": "2026-08-18T22:01:52.319298+00:00",
  "queuedCount": 5,
  "queued": [
   {
