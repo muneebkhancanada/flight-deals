@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DUB->YVR 2027-04-10",
- "checksDone": 31074,
+ "phase": "UIO->ATH 2027-02-06",
+ "checksDone": 31407,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 6126,
- "updatedAt": "2026-08-18T19:33:36",
- "publishedAt": "2026-08-18T23:33:49.363077+00:00",
+ "dealsFound": 6134,
+ "updatedAt": "2026-08-18T19:48:56",
+ "publishedAt": "2026-08-18T23:49:09.825140+00:00",
  "queuedCount": 5,
  "queued": [
   {
