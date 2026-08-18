@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->EZE 2027-04-10",
- "checksDone": 16650,
+ "phase": "FRA->SYD 2027-02-06",
+ "checksDone": 16983,
  "checksPlanned": 104236,
  "percent": 16,
- "dealsFound": 3397,
- "updatedAt": "2026-08-18T08:32:47",
- "publishedAt": "2026-08-18T12:33:05.065158+00:00",
+ "dealsFound": 3419,
+ "updatedAt": "2026-08-18T08:48:09",
+ "publishedAt": "2026-08-18T12:48:23.919687+00:00",
  "queuedCount": 5,
  "queued": [
   {
