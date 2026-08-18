@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATH->ARN 2027-02-06",
- "checksDone": 23715,
+ "phase": "SFO->ACC 2027-02-06",
+ "checksDone": 24039,
  "checksPlanned": 104236,
  "percent": 23,
- "dealsFound": 4863,
- "updatedAt": "2026-08-18T13:54:46",
- "publishedAt": "2026-08-18T17:55:00.592335+00:00",
+ "dealsFound": 4995,
+ "updatedAt": "2026-08-18T14:10:08",
+ "publishedAt": "2026-08-18T18:10:21.537182+00:00",
  "queuedCount": 5,
  "queued": [
   {
