@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KEF->OSL 2026-10-03",
- "checksDone": 26385,
+ "phase": "LAX->ZRH 2027-04-10",
+ "checksDone": 26718,
  "checksPlanned": 104236,
- "percent": 25,
- "dealsFound": 5406,
- "updatedAt": "2026-08-18T15:57:24",
- "publishedAt": "2026-08-18T19:57:39.348228+00:00",
+ "percent": 26,
+ "dealsFound": 5525,
+ "updatedAt": "2026-08-18T16:12:47",
+ "publishedAt": "2026-08-18T20:13:00.410163+00:00",
  "queuedCount": 5,
  "queued": [
   {
