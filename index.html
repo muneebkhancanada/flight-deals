@@ -112,6 +112,23 @@
     border-radius:8px;padding:4px 9px;text-decoration:none;white-space:nowrap}
   .arow{cursor:pointer}
   .arow:hover{border-color:var(--brand)}
+  /* carrier / route directory */
+  #routes{display:grid;gap:8px}
+  .rrow{background:var(--card);border:1px solid var(--line);border-radius:12px;
+    padding:12px 14px;display:grid;grid-template-columns:minmax(230px,1fr) auto auto;
+    gap:5px 16px;align-items:center;cursor:pointer}
+  .rrow:hover{border-color:var(--brand)}
+  .rcarrier{color:var(--muted);font-size:12.5px;font-weight:700}
+  .rroute{font-weight:800;font-size:17px;letter-spacing:.2px}
+  .rroute .arrow{color:var(--muted);margin:0 6px}
+  .rmeta{color:var(--muted);font-size:12.5px}
+  .rprice{font-weight:800;font-size:16px;white-space:nowrap;text-align:right}
+  .ractions button{font:inherit;font-size:12.5px;cursor:pointer;border:1px solid var(--line);
+    background:var(--bg);color:var(--brand-ink);border-radius:8px;padding:4px 9px;white-space:nowrap}
+  @media (max-width:640px){
+    .rrow{grid-template-columns:1fr auto;gap:5px 10px}
+    .rmeta{grid-column:1/-1}
+  }
   .deal{background:var(--card);border:1px solid var(--line);border-radius:14px;
     padding:14px 16px;display:grid;grid-template-columns:1fr auto;gap:6px 14px;
     align-items:center;box-shadow:0 1px 2px rgba(0,0,0,.04)}
@@ -164,6 +181,7 @@
   <div class="seg" id="view" style="margin-bottom:14px">
     <button data-v="deals" class="on">✈ Deals</button>
     <button data-v="airlines">🏢 By airline</button>
+    <button data-v="routes" title="Routes by airline, using the filters below">🗺 Airline routes</button>
   </div>
 
   <div class="controls">
@@ -219,6 +237,7 @@
     <button id="btnMore" class="clr">Load more</button>
   </div>
   <div id="airlines" hidden></div>
+  <div id="routes" hidden></div>
   <div class="empty" id="empty" hidden>No matching deals right now.</div>
 
   <footer id="foot">
@@ -243,7 +262,7 @@
 const $ = s => document.querySelector(s);
 let DEALS = [], trip = "all", kind = "deals";  // kind: deals | fares | all
 let VIEW = [], shownLimit = 250; const PAGE = 250;  // paging of the filtered list
-let view = "deals";  // deals | airlines
+let view = "deals";  // deals | airlines | routes
 
 function fmtDate(d){ if(!d) return ""; const [y,m,day]=d.split("-");
   return new Date(y,m-1,day).toLocaleDateString(undefined,{month:"short",day:"numeric"}); }
@@ -395,12 +414,15 @@ function paint(){
   $("#empty").hidden=VIEW.length>0;
   $("#btnExport").style.display=VIEW.length?"inline-block":"none";
   const airlineView = view==="airlines";
+  const routeView = view==="routes";
   // Use inline display, not the [hidden] attr: .deals / #airlines set
   // display:grid in CSS, which outranks [hidden]{display:none} and would
   // leave both lists visible.
-  $("#deals").style.display=airlineView?"none":"";
+  $("#deals").style.display=(airlineView||routeView)?"none":"";
   $("#airlines").style.display=airlineView?"":"none";
+  $("#routes").style.display=routeView?"":"none";
   if(airlineView){ $("#moreWrap").hidden=true; paintAirlines(); return; }
+  if(routeView){ paintRoutes(); return; }
   const noun = kind==="fares" ? "fare" : "deal";
   const shown=Math.min(VIEW.length,shownLimit);
   $("#count").textContent = VIEW.length>shown
@@ -439,6 +461,60 @@ function paintAirlines(){
         <a href="https://www.google.com/search?q=${encodeURIComponent(r.a+' flights official site')}" target="_blank" rel="noopener" onclick="event.stopPropagation()">website ↗</a></span>
     </div>`).join("") ||
     "<div class='empty' style='position:static'>No airlines in this selection.</div>";
+}
+// Group the already-filtered deal list by carrier and route. This deliberately
+// reuses every common filter above (airline, airport, price, trip type, stops,
+// dates, quality, and search) so the route tab never drifts out of sync.
+function paintRoutes(){
+  const by=new Map();
+  for(const d of VIEW){
+    const carriers=[...new Set((d.airline||"").split(",").map(s=>s.trim()).filter(Boolean))];
+    for(const a of carriers){
+      const key=[a,d.origin,d.destination,d.tripType].join("\u0001");
+      let x=by.get(key);
+      if(!x){
+        x={a,origin:d.origin,destination:d.destination,trip:d.tripType,n:0,
+           min:Infinity,pph:Infinity,next:"",newest:0,values:0,minStops:Infinity};
+        by.set(key,x);
+      }
+      x.n++;
+      if(d.priceCad>0) x.min=Math.min(x.min,d.priceCad);
+      if(d.pricePerHour>0) x.pph=Math.min(x.pph,d.pricePerHour);
+      if(d.flightDate && (!x.next || d.flightDate<x.next)) x.next=d.flightDate;
+      x.newest=Math.max(x.newest,d.txnId||0);
+      if(d.valueDeal) x.values++;
+      x.minStops=Math.min(x.minStops,Math.max(0,d.stops||0));
+    }
+  }
+  const sort=$("#sort").value;
+  const pph=r=>r.pph<Infinity?r.pph:Infinity;
+  const list=[...by.values()].sort((a,b)=>
+    sort==="cheap" ? a.min-b.min || b.n-a.n
+    : sort==="value" ? pph(a)-pph(b) || b.values-a.values || a.min-b.min
+    : sort==="depart" ? (a.next||"9999").localeCompare(b.next||"9999") || a.min-b.min
+    : b.newest-a.newest || b.n-a.n || a.min-b.min);
+  const shown=Math.min(list.length,shownLimit);
+  $("#count").textContent=list.length>shown
+    ? `showing ${shown.toLocaleString()} of ${list.length.toLocaleString()} airline routes across ${VIEW.length.toLocaleString()} deals`
+    : `${list.length.toLocaleString()} airline route${list.length===1?"":"s"} across ${VIEW.length.toLocaleString()} deals`;
+  $("#empty").hidden=list.length>0;
+  if(!list.length) $("#empty").textContent="No matching airline routes right now.";
+  $("#routes").innerHTML=list.slice(0,shownLimit).map(r=>{
+    const rt=r.trip==="round_trip";
+    const stops=r.minStops===Infinity?"stops unknown":r.minStops?`from ${r.minStops} stop${r.minStops===1?"":"s"}`:"nonstop available";
+    const value=r.values?` · ${r.values.toLocaleString()} value deal${r.values===1?"":"s"}`:"";
+    return `<article class="rrow" data-a="${esc(r.a)}" data-o="${esc(r.origin)}" data-d="${esc(r.destination)}" data-trip="${esc(r.trip)}" title="Show matching deals">
+      <div><div class="rcarrier">${esc(r.a)}</div>
+        <div class="rroute">${esc(r.origin)}<span class="arrow">${rt?"⇄":"→"}</span>${esc(r.destination)}${rt?'<span class="tag">round trip</span>':''}</div>
+        <div class="rmeta">${r.n.toLocaleString()} deal${r.n===1?"":"s"} · ${stops}${r.next?` · departs from ${fmtDate(r.next)}`:""}${value}</div></div>
+      <div class="rprice">from C$${r.min===Infinity?"—":r.min.toLocaleString()}${r.pph<Infinity?`<div class="rmeta">best C$${r.pph}/hr</div>`:""}</div>
+      <span class="ractions"><button type="button">View deals</button></span>
+    </article>`;
+  }).join("") || "<div class='empty' style='position:static'>No airline routes in this selection.</div>";
+  const remaining=list.length-shown;
+  $("#moreWrap").hidden=remaining<=0;
+  if(remaining>0)
+    $("#btnMore").textContent=`Load ${Math.min(remaining,PAGE).toLocaleString()} more (${remaining.toLocaleString()} left)`;
 }
 // Skyscanner deep link (no API): opens the exact route/date search. Path
 // dates are YYMMDD; codes lowercase; a second date = round trip.
@@ -527,6 +603,18 @@ $("#view").addEventListener("click",e=>{ const b=e.target.closest("button"); if(
 $("#airlines").addEventListener("click",e=>{
   const row=e.target.closest(".arow"); if(!row) return;
   msAirlines.setSelected([row.dataset.a]);
+  view="deals";
+  [...$("#view").children].forEach(x=>x.classList.toggle("on",x.dataset.v==="deals"));
+  refilter();
+});
+// Route rows carry the same practical filters people use to narrow a search.
+$("#routes").addEventListener("click",e=>{
+  const row=e.target.closest(".rrow"); if(!row) return;
+  msAirlines.setSelected([row.dataset.a]);
+  msOrigins.setSelected([row.dataset.o]);
+  msDests.setSelected([row.dataset.d]);
+  trip=row.dataset.trip;
+  [...$("#trip").children].forEach(x=>x.classList.toggle("on",x.dataset.v===trip));
   view="deals";
   [...$("#view").children].forEach(x=>x.classList.toggle("on",x.dataset.v==="deals"));
   refilter();
