@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->NRT 2026-10-03",
- "checksDone": 17673,
+ "phase": "IST->DEN 2026-10-03",
+ "checksDone": 18009,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 3520,
- "updatedAt": "2026-08-18T09:18:47",
- "publishedAt": "2026-08-18T13:19:00.268148+00:00",
+ "dealsFound": 3581,
+ "updatedAt": "2026-08-18T09:34:00",
+ "publishedAt": "2026-08-18T13:34:18.571795+00:00",
  "queuedCount": 5,
  "queued": [
   {
