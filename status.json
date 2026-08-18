@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BUD->SEA 2026-12-05",
- "checksDone": 23256,
+ "phase": "AMM->LAX 2026-10-03",
+ "checksDone": 23373,
  "checksPlanned": 104236,
  "percent": 22,
  "dealsFound": 4785,
- "updatedAt": "2026-08-18T13:34:15",
- "publishedAt": "2026-08-18T17:34:24.314529+00:00",
+ "updatedAt": "2026-08-18T13:39:28",
+ "publishedAt": "2026-08-18T17:39:45.141500+00:00",
  "queuedCount": 5,
  "queued": [
   {
