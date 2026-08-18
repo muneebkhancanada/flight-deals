@@ -423,10 +423,14 @@ function paint(){
   const airlineView = view==="airlines";
   const routeView = view==="routes";
   $("#empty").hidden=routeView ? true : VIEW.length>0;
-  $("#btnExport").style.display=(!routeView&&VIEW.length)?"inline-block":"none";
   $("#routeDay").hidden=!routeView;
   $("#routeNote").hidden=!routeView;
-  document.querySelectorAll(".deal-only").forEach(el=>el.hidden=routeView);
+  document.querySelectorAll(".deal-only").forEach(el=>{
+    el.hidden=routeView;
+    // .filters has a grid display rule, so the attribute alone is not enough.
+    if(el.id!=="btnExport") el.style.display=routeView?"none":"";
+  });
+  $("#btnExport").style.display=(!routeView&&VIEW.length)?"inline-block":"none";
   // Use inline display, not the [hidden] attr: .deals / #airlines set
   // display:grid in CSS, which outranks [hidden]{display:none} and would
   // leave both lists visible.
