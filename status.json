@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VIE->OPO 2026-12-05",
- "checksDone": 20676,
+ "phase": "WAW->CMN 2027-04-10",
+ "checksDone": 21018,
  "checksPlanned": 104236,
  "percent": 20,
- "dealsFound": 4296,
- "updatedAt": "2026-08-18T11:36:50",
- "publishedAt": "2026-08-18T15:37:05.995583+00:00",
+ "dealsFound": 4358,
+ "updatedAt": "2026-08-18T11:52:13",
+ "publishedAt": "2026-08-18T15:52:27.176764+00:00",
  "queuedCount": 5,
  "queued": [
   {
