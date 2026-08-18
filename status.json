@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AGP->CPH 2027-02-06",
- "checksDone": 15303,
+ "phase": "ATH->WAW 2027-02-06",
+ "checksDone": 15651,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 3022,
- "updatedAt": "2026-08-18T07:31:38",
- "publishedAt": "2026-08-18T11:31:51.574956+00:00",
+ "dealsFound": 3051,
+ "updatedAt": "2026-08-18T07:46:57",
+ "publishedAt": "2026-08-18T11:47:07.890288+00:00",
  "queuedCount": 5,
  "queued": [
   {
