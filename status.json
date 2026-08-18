@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->CMN 2027-02-06",
- "checksDone": 20007,
+ "phase": "LAX->NBO 2027-02-06",
+ "checksDone": 20331,
  "checksPlanned": 104236,
- "percent": 19,
- "dealsFound": 4120,
- "updatedAt": "2026-08-18T11:06:08",
- "publishedAt": "2026-08-18T15:06:25.844432+00:00",
+ "percent": 20,
+ "dealsFound": 4254,
+ "updatedAt": "2026-08-18T11:21:32",
+ "publishedAt": "2026-08-18T15:21:45.929839+00:00",
  "queuedCount": 5,
  "queued": [
   {
