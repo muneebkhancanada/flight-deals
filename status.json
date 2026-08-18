@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->DKR 2026-12-05",
- "checksDone": 8868,
+ "phase": "WAW->OSL 2027-04-10",
+ "checksDone": 9210,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1880,
- "updatedAt": "2026-08-17T22:44:32",
- "publishedAt": "2026-08-18T02:44:56.785220+00:00",
+ "dealsFound": 1942,
+ "updatedAt": "2026-08-17T23:00:05",
+ "publishedAt": "2026-08-18T03:00:32.721260+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
