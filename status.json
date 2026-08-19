@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->ISB 2026-08-22",
- "checksDone": 53541,
+ "phase": "FCO->SYX 2026-08-22",
+ "checksDone": 53901,
  "checksPlanned": 104236,
- "percent": 51,
- "dealsFound": 9392,
- "updatedAt": "2026-08-19T12:24:23",
- "publishedAt": "2026-08-19T16:24:38.658071+00:00",
+ "percent": 52,
+ "dealsFound": 9460,
+ "updatedAt": "2026-08-19T12:39:46",
+ "publishedAt": "2026-08-19T16:39:58.004399+00:00",
  "queuedCount": 5,
  "queued": [
   {
