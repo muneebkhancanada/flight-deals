@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->YYC 2026-12-05",
- "checksDone": 32376,
+ "phase": "EDI->DFW 2027-02-06",
+ "checksDone": 32715,
  "checksPlanned": 104236,
  "percent": 31,
- "dealsFound": 6260,
- "updatedAt": "2026-08-18T20:34:49",
- "publishedAt": "2026-08-19T00:35:07.887069+00:00",
+ "dealsFound": 6273,
+ "updatedAt": "2026-08-18T20:50:10",
+ "publishedAt": "2026-08-19T00:50:26.454825+00:00",
  "queuedCount": 5,
  "queued": [
   {
