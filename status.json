@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYZ->SYD 2026-11-28",
- "checksDone": 37935,
+ "phase": "JFK->BJS 2027-02-27",
+ "checksDone": 38274,
  "checksPlanned": 104236,
- "percent": 36,
- "dealsFound": 6713,
- "updatedAt": "2026-08-19T00:55:14",
- "publishedAt": "2026-08-19T04:55:30.468465+00:00",
+ "percent": 37,
+ "dealsFound": 6781,
+ "updatedAt": "2026-08-19T01:10:37",
+ "publishedAt": "2026-08-19T05:10:49.817529+00:00",
  "queuedCount": 5,
  "queued": [
   {
