@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MAN->ZRH 2027-02-27",
- "checksDone": 60750,
+ "phase": "MAN->ICN 2027-02-27",
+ "checksDone": 61086,
  "checksPlanned": 104236,
- "percent": 58,
- "dealsFound": 10750,
- "updatedAt": "2026-08-19T17:30:50",
- "publishedAt": "2026-08-19T21:31:03.668347+00:00",
+ "percent": 59,
+ "dealsFound": 10850,
+ "updatedAt": "2026-08-19T17:46:06",
+ "publishedAt": "2026-08-19T21:46:21.927854+00:00",
  "queuedCount": 5,
  "queued": [
   {
