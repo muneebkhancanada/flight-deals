@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BUF->DSS 2027-02-27",
- "checksDone": 59298,
+ "phase": "HNL->BUD 2026-12-26",
+ "checksDone": 59655,
  "checksPlanned": 104236,
  "percent": 57,
- "dealsFound": 10337,
- "updatedAt": "2026-08-19T16:29:33",
- "publishedAt": "2026-08-19T20:29:45.254897+00:00",
+ "dealsFound": 10488,
+ "updatedAt": "2026-08-19T16:44:46",
+ "publishedAt": "2026-08-19T20:45:05.809809+00:00",
  "queuedCount": 5,
  "queued": [
   {
