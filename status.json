@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->KHI 2026-08-22",
- "checksDone": 39633,
+ "phase": "PHL->TIA 2026-12-26",
+ "checksDone": 39975,
  "checksPlanned": 104236,
  "percent": 38,
- "dealsFound": 7007,
- "updatedAt": "2026-08-19T02:11:48",
- "publishedAt": "2026-08-19T06:12:05.194831+00:00",
+ "dealsFound": 7052,
+ "updatedAt": "2026-08-19T02:27:03",
+ "publishedAt": "2026-08-19T06:27:22.998124+00:00",
  "queuedCount": 5,
  "queued": [
   {
