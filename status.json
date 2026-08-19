@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DUB->MXP 2026-08-22",
- "checksDone": 54621,
+ "phase": "DUB->KHI 2026-08-22",
+ "checksDone": 54969,
  "checksPlanned": 104236,
- "percent": 52,
- "dealsFound": 9547,
- "updatedAt": "2026-08-19T13:10:23",
- "publishedAt": "2026-08-19T17:10:39.004731+00:00",
+ "percent": 53,
+ "dealsFound": 9660,
+ "updatedAt": "2026-08-19T13:25:46",
+ "publishedAt": "2026-08-19T17:25:59.722908+00:00",
  "queuedCount": 5,
  "queued": [
   {
