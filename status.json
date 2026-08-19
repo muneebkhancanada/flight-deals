@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YUL->RUH 2026-12-26",
- "checksDone": 46251,
+ "phase": "YUL->JNB 2026-10-24",
+ "checksDone": 46584,
  "checksPlanned": 104236,
- "percent": 44,
- "dealsFound": 8281,
- "updatedAt": "2026-08-19T07:02:44",
- "publishedAt": "2026-08-19T11:03:00.599362+00:00",
+ "percent": 45,
+ "dealsFound": 8336,
+ "updatedAt": "2026-08-19T07:18:04",
+ "publishedAt": "2026-08-19T11:18:19.233627+00:00",
  "queuedCount": 5,
  "queued": [
   {
