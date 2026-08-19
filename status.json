@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HNL->CPT 2027-02-27",
- "checksDone": 60378,
+ "phase": "MAN->ZRH 2027-02-27",
+ "checksDone": 60750,
  "checksPlanned": 104236,
  "percent": 58,
- "dealsFound": 10682,
- "updatedAt": "2026-08-19T17:15:27",
- "publishedAt": "2026-08-19T21:15:42.779831+00:00",
+ "dealsFound": 10750,
+ "updatedAt": "2026-08-19T17:30:50",
+ "publishedAt": "2026-08-19T21:31:03.668347+00:00",
  "queuedCount": 5,
  "queued": [
   {
