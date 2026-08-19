@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EWR->GIG 2026-10-24",
- "checksDone": 38952,
+ "phase": "BOS->MXP 2026-08-22",
+ "checksDone": 39297,
  "checksPlanned": 104236,
- "percent": 37,
- "dealsFound": 6863,
- "updatedAt": "2026-08-19T01:41:16",
- "publishedAt": "2026-08-19T05:41:27.488736+00:00",
+ "percent": 38,
+ "dealsFound": 6927,
+ "updatedAt": "2026-08-19T01:56:27",
+ "publishedAt": "2026-08-19T05:56:45.725476+00:00",
  "queuedCount": 5,
  "queued": [
   {
