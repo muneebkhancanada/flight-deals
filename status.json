@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VIE->SJJ 2026-10-24",
- "checksDone": 52464,
+ "phase": "VIE->DAR 2027-02-27",
+ "checksDone": 52818,
  "checksPlanned": 104236,
- "percent": 50,
- "dealsFound": 9131,
- "updatedAt": "2026-08-19T11:38:26",
- "publishedAt": "2026-08-19T15:38:40.228116+00:00",
+ "percent": 51,
+ "dealsFound": 9212,
+ "updatedAt": "2026-08-19T11:53:44",
+ "publishedAt": "2026-08-19T15:54:02.183605+00:00",
  "queuedCount": 5,
  "queued": [
   {
