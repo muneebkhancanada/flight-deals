@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->MLE 2026-12-26",
- "checksDone": 43479,
+ "phase": "DFW->SYX 2026-12-26",
+ "checksDone": 43827,
  "checksPlanned": 104236,
  "percent": 42,
- "dealsFound": 7683,
- "updatedAt": "2026-08-19T05:00:14",
- "publishedAt": "2026-08-19T09:00:30.053273+00:00",
+ "dealsFound": 7789,
+ "updatedAt": "2026-08-19T05:15:34",
+ "publishedAt": "2026-08-19T09:15:49.035437+00:00",
  "queuedCount": 5,
  "queued": [
   {
