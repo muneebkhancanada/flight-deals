@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOG->ATH 2027-04-10",
- "checksDone": 31734,
+ "phase": "FRA->LAX 2026-12-05",
+ "checksDone": 32052,
  "checksPlanned": 104236,
- "percent": 30,
- "dealsFound": 6174,
- "updatedAt": "2026-08-18T20:04:12",
- "publishedAt": "2026-08-19T00:04:29.617962+00:00",
+ "percent": 31,
+ "dealsFound": 6222,
+ "updatedAt": "2026-08-18T20:19:30",
+ "publishedAt": "2026-08-19T00:19:49.245517+00:00",
  "queuedCount": 5,
  "queued": [
   {
