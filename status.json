@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YOW->ACC 2027-02-27",
- "checksDone": 47634,
+ "phase": "YYC->BJS 2027-02-27",
+ "checksDone": 47982,
  "checksPlanned": 104236,
  "percent": 46,
- "dealsFound": 8412,
- "updatedAt": "2026-08-19T08:04:05",
- "publishedAt": "2026-08-19T12:04:18.952859+00:00",
+ "dealsFound": 8447,
+ "updatedAt": "2026-08-19T08:19:19",
+ "publishedAt": "2026-08-19T12:19:38.274485+00:00",
  "queuedCount": 5,
  "queued": [
   {
