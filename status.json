@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MUC->ISB 2026-08-22",
- "checksDone": 51765,
+ "phase": "ZRH->BAH 2026-08-22",
+ "checksDone": 52113,
  "checksPlanned": 104236,
  "percent": 50,
- "dealsFound": 8998,
- "updatedAt": "2026-08-19T11:07:45",
- "publishedAt": "2026-08-19T15:08:03.857625+00:00",
+ "dealsFound": 9064,
+ "updatedAt": "2026-08-19T11:23:07",
+ "publishedAt": "2026-08-19T15:23:23.242048+00:00",
  "queuedCount": 5,
  "queued": [
   {
