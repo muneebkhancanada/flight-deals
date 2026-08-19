@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->SYX 2026-12-26",
- "checksDone": 44175,
+ "phase": "DEN->TAS 2026-12-26",
+ "checksDone": 44535,
  "checksPlanned": 104236,
- "percent": 42,
- "dealsFound": 7853,
- "updatedAt": "2026-08-19T05:30:53",
- "publishedAt": "2026-08-19T09:31:08.030273+00:00",
+ "percent": 43,
+ "dealsFound": 7896,
+ "updatedAt": "2026-08-19T05:46:11",
+ "publishedAt": "2026-08-19T09:46:25.635903+00:00",
  "queuedCount": 5,
  "queued": [
   {
