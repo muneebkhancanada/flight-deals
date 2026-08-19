@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAD->SCL 2026-10-24",
- "checksDone": 40680,
+ "phase": "ORD->TPE 2026-10-24",
+ "checksDone": 41028,
  "checksPlanned": 104236,
  "percent": 39,
- "dealsFound": 7167,
- "updatedAt": "2026-08-19T02:57:47",
- "publishedAt": "2026-08-19T06:58:00.847077+00:00",
+ "dealsFound": 7250,
+ "updatedAt": "2026-08-19T03:13:08",
+ "publishedAt": "2026-08-19T07:13:20.036711+00:00",
  "queuedCount": 5,
  "queued": [
   {
