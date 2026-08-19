@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYZ->TIA 2026-10-31",
- "checksDone": 36930,
+ "phase": "YYZ->SGN 2027-03-20",
+ "checksDone": 37263,
  "checksPlanned": 104236,
- "percent": 35,
- "dealsFound": 6634,
- "updatedAt": "2026-08-19T00:09:19",
- "publishedAt": "2026-08-19T04:09:34.239244+00:00",
+ "percent": 36,
+ "dealsFound": 6658,
+ "updatedAt": "2026-08-19T00:24:34",
+ "publishedAt": "2026-08-19T04:24:52.448208+00:00",
  "queuedCount": 5,
  "queued": [
   {
