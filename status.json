@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LAX->TAS 2026-12-26",
- "checksDone": 45579,
+ "phase": "YUL->LHR 2026-08-22",
+ "checksDone": 45921,
  "checksPlanned": 104236,
  "percent": 44,
- "dealsFound": 8196,
- "updatedAt": "2026-08-19T06:32:10",
- "publishedAt": "2026-08-19T10:32:22.561212+00:00",
+ "dealsFound": 8273,
+ "updatedAt": "2026-08-19T06:47:30",
+ "publishedAt": "2026-08-19T10:47:41.760802+00:00",
  "queuedCount": 5,
  "queued": [
   {
