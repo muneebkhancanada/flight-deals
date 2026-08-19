@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->TIA 2026-12-26",
- "checksDone": 39975,
+ "phase": "PHL->DKR 2026-08-22",
+ "checksDone": 40329,
  "checksPlanned": 104236,
- "percent": 38,
- "dealsFound": 7052,
- "updatedAt": "2026-08-19T02:27:03",
- "publishedAt": "2026-08-19T06:27:22.998124+00:00",
+ "percent": 39,
+ "dealsFound": 7100,
+ "updatedAt": "2026-08-19T02:42:27",
+ "publishedAt": "2026-08-19T06:42:40.873923+00:00",
  "queuedCount": 5,
  "queued": [
   {
