@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DTW->ISB 2026-10-24",
- "checksDone": 41712,
+ "phase": "MSP->HND 2026-12-26",
+ "checksDone": 42063,
  "checksPlanned": 104236,
  "percent": 40,
- "dealsFound": 7441,
- "updatedAt": "2026-08-19T03:43:45",
- "publishedAt": "2026-08-19T07:43:59.395363+00:00",
+ "dealsFound": 7471,
+ "updatedAt": "2026-08-19T03:59:01",
+ "publishedAt": "2026-08-19T07:59:18.583516+00:00",
  "queuedCount": 5,
  "queued": [
   {
