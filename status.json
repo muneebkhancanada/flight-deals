@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->JFK 2026-10-03",
- "checksDone": 34653,
+ "phase": "LHR->IAD 2027-02-06",
+ "checksDone": 34971,
  "checksPlanned": 104236,
- "percent": 33,
- "dealsFound": 6443,
- "updatedAt": "2026-08-18T22:22:10",
- "publishedAt": "2026-08-19T02:22:24.479647+00:00",
+ "percent": 34,
+ "dealsFound": 6471,
+ "updatedAt": "2026-08-18T22:37:23",
+ "publishedAt": "2026-08-19T02:37:44.011648+00:00",
  "queuedCount": 5,
  "queued": [
   {
