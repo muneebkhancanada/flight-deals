@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CPH->ZNZ 2026-08-22",
- "checksDone": 56025,
+ "phase": "ARN->MRU 2027-02-27",
+ "checksDone": 56394,
  "checksPlanned": 104236,
  "percent": 54,
- "dealsFound": 9806,
- "updatedAt": "2026-08-19T14:11:38",
- "publishedAt": "2026-08-19T18:11:57.155140+00:00",
+ "dealsFound": 9887,
+ "updatedAt": "2026-08-19T14:27:04",
+ "publishedAt": "2026-08-19T18:27:15.717586+00:00",
  "queuedCount": 5,
  "queued": [
   {
