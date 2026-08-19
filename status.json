@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->DTW 2026-12-05",
- "checksDone": 36276,
+ "phase": "YYZ->VCE 2027-03-20",
+ "checksDone": 36600,
  "checksPlanned": 104236,
  "percent": 35,
- "dealsFound": 6603,
- "updatedAt": "2026-08-18T23:38:45",
- "publishedAt": "2026-08-19T03:38:58.854409+00:00",
+ "dealsFound": 6617,
+ "updatedAt": "2026-08-18T23:53:59",
+ "publishedAt": "2026-08-19T03:54:16.897487+00:00",
  "queuedCount": 5,
  "queued": [
   {
