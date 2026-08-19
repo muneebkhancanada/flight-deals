@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ORD->TPE 2026-10-24",
- "checksDone": 41028,
+ "phase": "DTW->KWI 2027-02-27",
+ "checksDone": 41370,
  "checksPlanned": 104236,
- "percent": 39,
- "dealsFound": 7250,
- "updatedAt": "2026-08-19T03:13:08",
- "publishedAt": "2026-08-19T07:13:20.036711+00:00",
+ "percent": 40,
+ "dealsFound": 7331,
+ "updatedAt": "2026-08-19T03:28:23",
+ "publishedAt": "2026-08-19T07:28:38.570238+00:00",
  "queuedCount": 5,
  "queued": [
   {
