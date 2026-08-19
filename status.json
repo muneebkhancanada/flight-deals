@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHR->KRK 2026-08-22",
- "checksDone": 48681,
+ "phase": "LHR->CAI 2026-08-22",
+ "checksDone": 49017,
  "checksPlanned": 104236,
  "percent": 47,
- "dealsFound": 8531,
- "updatedAt": "2026-08-19T08:50:02",
- "publishedAt": "2026-08-19T12:50:18.324467+00:00",
+ "dealsFound": 8575,
+ "updatedAt": "2026-08-19T09:05:22",
+ "publishedAt": "2026-08-19T13:05:37.593294+00:00",
  "queuedCount": 5,
  "queued": [
   {
