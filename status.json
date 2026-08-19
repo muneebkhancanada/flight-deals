@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MXP->YYZ 2027-03-20",
- "checksDone": 62469,
+ "phase": "MUC->YYZ 2026-09-19",
+ "checksDone": 62796,
  "checksPlanned": 104236,
  "percent": 60,
- "dealsFound": 11027,
- "updatedAt": "2026-08-19T18:47:18",
- "publishedAt": "2026-08-19T22:47:33.107450+00:00",
+ "dealsFound": 11037,
+ "updatedAt": "2026-08-19T19:02:41",
+ "publishedAt": "2026-08-19T23:02:53.309298+00:00",
  "queuedCount": 5,
  "queued": [
   {
