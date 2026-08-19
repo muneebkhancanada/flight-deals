@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->SYX 2026-08-22",
- "checksDone": 53901,
+ "phase": "MXP->KWI 2026-08-22",
+ "checksDone": 54261,
  "checksPlanned": 104236,
  "percent": 52,
- "dealsFound": 9460,
- "updatedAt": "2026-08-19T12:39:46",
- "publishedAt": "2026-08-19T16:39:58.004399+00:00",
+ "dealsFound": 9505,
+ "updatedAt": "2026-08-19T12:55:01",
+ "publishedAt": "2026-08-19T16:55:18.531630+00:00",
  "queuedCount": 5,
  "queued": [
   {
