@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BKK->YYZ 2026-11-14",
- "checksDone": 63123,
+ "phase": "KTM->YYZ 2027-02-20",
+ "checksDone": 63453,
  "checksPlanned": 104236,
  "percent": 61,
- "dealsFound": 11059,
- "updatedAt": "2026-08-19T19:17:59",
- "publishedAt": "2026-08-19T23:18:13.710263+00:00",
+ "dealsFound": 11097,
+ "updatedAt": "2026-08-19T19:33:18",
+ "publishedAt": "2026-08-19T23:33:29.592162+00:00",
  "queuedCount": 5,
  "queued": [
   {
