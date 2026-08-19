@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BRU->ZNZ 2026-08-22",
- "checksDone": 57465,
+ "phase": "WAW->DSS 2026-08-22",
+ "checksDone": 57825,
  "checksPlanned": 104236,
  "percent": 55,
- "dealsFound": 10055,
- "updatedAt": "2026-08-19T15:12:51",
- "publishedAt": "2026-08-19T19:13:09.060504+00:00",
+ "dealsFound": 10109,
+ "updatedAt": "2026-08-19T15:28:16",
+ "publishedAt": "2026-08-19T19:28:28.426067+00:00",
  "queuedCount": 5,
  "queued": [
   {
