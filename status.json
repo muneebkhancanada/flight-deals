@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->DFW 2027-04-10",
- "checksDone": 33354,
+ "phase": "LHR->MSP 2027-02-06",
+ "checksDone": 33675,
  "checksPlanned": 104236,
  "percent": 32,
- "dealsFound": 6341,
- "updatedAt": "2026-08-18T21:20:45",
- "publishedAt": "2026-08-19T01:21:05.537352+00:00",
+ "dealsFound": 6373,
+ "updatedAt": "2026-08-18T21:36:07",
+ "publishedAt": "2026-08-19T01:36:24.958647+00:00",
  "queuedCount": 5,
  "queued": [
   {
