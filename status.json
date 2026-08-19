@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->SYX 2026-10-24",
- "checksDone": 48336,
+ "phase": "LHR->KRK 2026-08-22",
+ "checksDone": 48681,
  "checksPlanned": 104236,
- "percent": 46,
- "dealsFound": 8484,
- "updatedAt": "2026-08-19T08:34:45",
- "publishedAt": "2026-08-19T12:35:00.197044+00:00",
+ "percent": 47,
+ "dealsFound": 8531,
+ "updatedAt": "2026-08-19T08:50:02",
+ "publishedAt": "2026-08-19T12:50:18.324467+00:00",
  "queuedCount": 5,
  "queued": [
   {
