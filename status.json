@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DTW->KWI 2027-02-27",
- "checksDone": 41370,
+ "phase": "DTW->ISB 2026-10-24",
+ "checksDone": 41712,
  "checksPlanned": 104236,
  "percent": 40,
- "dealsFound": 7331,
- "updatedAt": "2026-08-19T03:28:23",
- "publishedAt": "2026-08-19T07:28:38.570238+00:00",
+ "dealsFound": 7441,
+ "updatedAt": "2026-08-19T03:43:45",
+ "publishedAt": "2026-08-19T07:43:59.395363+00:00",
  "queuedCount": 5,
  "queued": [
   {
