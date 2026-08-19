@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YOW->HKG 2027-02-27",
- "checksDone": 47286,
+ "phase": "YOW->ACC 2027-02-27",
+ "checksDone": 47634,
  "checksPlanned": 104236,
- "percent": 45,
- "dealsFound": 8359,
- "updatedAt": "2026-08-19T07:48:41",
- "publishedAt": "2026-08-19T11:48:58.518134+00:00",
+ "percent": 46,
+ "dealsFound": 8412,
+ "updatedAt": "2026-08-19T08:04:05",
+ "publishedAt": "2026-08-19T12:04:18.952859+00:00",
  "queuedCount": 5,
  "queued": [
   {
