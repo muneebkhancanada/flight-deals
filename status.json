@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->MXP 2026-08-22",
- "checksDone": 39297,
+ "phase": "BOS->KHI 2026-08-22",
+ "checksDone": 39633,
  "checksPlanned": 104236,
  "percent": 38,
- "dealsFound": 6927,
- "updatedAt": "2026-08-19T01:56:27",
- "publishedAt": "2026-08-19T05:56:45.725476+00:00",
+ "dealsFound": 7007,
+ "updatedAt": "2026-08-19T02:11:48",
+ "publishedAt": "2026-08-19T06:12:05.194831+00:00",
  "queuedCount": 5,
  "queued": [
   {
