@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->MSP 2026-10-03",
- "checksDone": 34005,
+ "phase": "AMS->BOS 2026-10-03",
+ "checksDone": 34329,
  "checksPlanned": 104236,
  "percent": 33,
- "dealsFound": 6395,
- "updatedAt": "2026-08-18T21:51:31",
- "publishedAt": "2026-08-19T01:51:43.922435+00:00",
+ "dealsFound": 6414,
+ "updatedAt": "2026-08-18T22:06:44",
+ "publishedAt": "2026-08-19T02:07:03.499564+00:00",
  "queuedCount": 5,
  "queued": [
   {
