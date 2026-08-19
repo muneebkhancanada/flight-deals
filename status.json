@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->IST 2026-12-26",
- "checksDone": 49371,
+ "phase": "LGW->NAN 2026-08-22",
+ "checksDone": 49725,
  "checksPlanned": 104236,
- "percent": 47,
- "dealsFound": 8597,
- "updatedAt": "2026-08-19T09:20:37",
- "publishedAt": "2026-08-19T13:20:56.004935+00:00",
+ "percent": 48,
+ "dealsFound": 8636,
+ "updatedAt": "2026-08-19T09:36:02",
+ "publishedAt": "2026-08-19T13:36:14.689164+00:00",
  "queuedCount": 5,
  "queued": [
   {
