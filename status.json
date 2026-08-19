@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATL->TUN 2026-08-22",
- "checksDone": 42765,
+ "phase": "CLT->BOG 2026-08-22",
+ "checksDone": 43125,
  "checksPlanned": 104236,
  "percent": 41,
- "dealsFound": 7626,
- "updatedAt": "2026-08-19T04:29:39",
- "publishedAt": "2026-08-19T08:29:53.229557+00:00",
+ "dealsFound": 7657,
+ "updatedAt": "2026-08-19T04:44:54",
+ "publishedAt": "2026-08-19T08:45:12.381241+00:00",
  "queuedCount": 5,
  "queued": [
   {
