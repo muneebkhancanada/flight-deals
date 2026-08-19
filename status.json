@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "WAW->DSS 2026-08-22",
- "checksDone": 57825,
+ "phase": "ATH->CAI 2026-08-22",
+ "checksDone": 58185,
  "checksPlanned": 104236,
- "percent": 55,
- "dealsFound": 10109,
- "updatedAt": "2026-08-19T15:28:16",
- "publishedAt": "2026-08-19T19:28:28.426067+00:00",
+ "percent": 56,
+ "dealsFound": 10159,
+ "updatedAt": "2026-08-19T15:43:33",
+ "publishedAt": "2026-08-19T19:43:48.182719+00:00",
  "queuedCount": 5,
  "queued": [
   {
