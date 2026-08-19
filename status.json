@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->BJS 2027-02-27",
- "checksDone": 62118,
+ "phase": "MXP->YYZ 2027-03-20",
+ "checksDone": 62469,
  "checksPlanned": 104236,
  "percent": 60,
- "dealsFound": 10987,
- "updatedAt": "2026-08-19T18:31:55",
- "publishedAt": "2026-08-19T22:32:15.130910+00:00",
+ "dealsFound": 11027,
+ "updatedAt": "2026-08-19T18:47:18",
+ "publishedAt": "2026-08-19T22:47:33.107450+00:00",
  "queuedCount": 5,
  "queued": [
   {
