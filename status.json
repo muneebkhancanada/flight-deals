@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->TAS 2027-02-27",
- "checksDone": 45234,
+ "phase": "LAX->TAS 2026-12-26",
+ "checksDone": 45579,
  "checksPlanned": 104236,
- "percent": 43,
- "dealsFound": 8073,
- "updatedAt": "2026-08-19T06:16:50",
- "publishedAt": "2026-08-19T10:17:03.545493+00:00",
+ "percent": 44,
+ "dealsFound": 8196,
+ "updatedAt": "2026-08-19T06:32:10",
+ "publishedAt": "2026-08-19T10:32:22.561212+00:00",
  "queuedCount": 5,
  "queued": [
   {
