@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->KHI 2027-02-27",
- "checksDone": 50070,
+ "phase": "AMS->WAW 2027-02-27",
+ "checksDone": 50418,
  "checksPlanned": 104236,
  "percent": 48,
- "dealsFound": 8696,
- "updatedAt": "2026-08-19T09:51:18",
- "publishedAt": "2026-08-19T13:51:35.629111+00:00",
+ "dealsFound": 8748,
+ "updatedAt": "2026-08-19T10:06:35",
+ "publishedAt": "2026-08-19T14:06:52.183203+00:00",
  "queuedCount": 5,
  "queued": [
   {
