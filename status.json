@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CPH->YUL 2027-02-06",
- "checksDone": 35619,
+ "phase": "ATH->IAD 2026-10-03",
+ "checksDone": 35937,
  "checksPlanned": 104236,
  "percent": 34,
- "dealsFound": 6566,
- "updatedAt": "2026-08-18T23:08:07",
- "publishedAt": "2026-08-19T03:08:21.918935+00:00",
+ "dealsFound": 6597,
+ "updatedAt": "2026-08-18T23:23:21",
+ "publishedAt": "2026-08-19T03:23:38.539202+00:00",
  "queuedCount": 5,
  "queued": [
   {
