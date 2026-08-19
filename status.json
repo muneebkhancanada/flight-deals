@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->DFW 2027-02-06",
- "checksDone": 32715,
+ "phase": "FRA->MIA 2027-02-06",
+ "checksDone": 33039,
  "checksPlanned": 104236,
- "percent": 31,
- "dealsFound": 6273,
- "updatedAt": "2026-08-18T20:50:10",
- "publishedAt": "2026-08-19T00:50:26.454825+00:00",
+ "percent": 32,
+ "dealsFound": 6318,
+ "updatedAt": "2026-08-18T21:05:30",
+ "publishedAt": "2026-08-19T01:05:47.206011+00:00",
  "queuedCount": 5,
  "queued": [
   {
