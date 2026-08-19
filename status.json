@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->CAI 2026-08-22",
- "checksDone": 50757,
+ "phase": "FRA->DOH 2026-08-22",
+ "checksDone": 51069,
  "checksPlanned": 104236,
  "percent": 49,
- "dealsFound": 8832,
- "updatedAt": "2026-08-19T10:21:55",
- "publishedAt": "2026-08-19T14:22:09.245209+00:00",
+ "dealsFound": 8877,
+ "updatedAt": "2026-08-19T10:37:12",
+ "publishedAt": "2026-08-19T14:37:26.668750+00:00",
  "queuedCount": 5,
  "queued": [
   {
