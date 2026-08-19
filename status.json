@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->BJS 2027-02-27",
- "checksDone": 47982,
+ "phase": "YVR->SYX 2026-10-24",
+ "checksDone": 48336,
  "checksPlanned": 104236,
  "percent": 46,
- "dealsFound": 8447,
- "updatedAt": "2026-08-19T08:19:19",
- "publishedAt": "2026-08-19T12:19:38.274485+00:00",
+ "dealsFound": 8484,
+ "updatedAt": "2026-08-19T08:34:45",
+ "publishedAt": "2026-08-19T12:35:00.197044+00:00",
  "queuedCount": 5,
  "queued": [
   {
