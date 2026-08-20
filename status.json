@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TAS->EDI 2027-01-16",
- "checksDone": 87162,
+ "phase": "JFK->KRK 2026-11-14",
+ "checksDone": 87519,
  "checksPlanned": 104236,
  "percent": 84,
- "dealsFound": 14554,
- "updatedAt": "2026-08-20T12:41:22",
- "publishedAt": "2026-08-20T16:41:38.169374+00:00",
+ "dealsFound": 14637,
+ "updatedAt": "2026-08-20T12:56:43",
+ "publishedAt": "2026-08-20T16:56:59.469903+00:00",
  "queuedCount": 5,
  "queued": [
   {
