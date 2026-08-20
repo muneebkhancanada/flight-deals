@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CGK->EWR 2027-03-20",
- "checksDone": 95937,
+ "phase": "MEL->BOS 2026-09-12",
+ "checksDone": 96276,
  "checksPlanned": 104236,
  "percent": 92,
- "dealsFound": 17349,
- "updatedAt": "2026-08-20T19:20:13",
- "publishedAt": "2026-08-20T23:20:31.986449+00:00",
+ "dealsFound": 17434,
+ "updatedAt": "2026-08-20T19:35:38",
+ "publishedAt": "2026-08-20T23:35:52.337333+00:00",
  "queuedCount": 5,
  "queued": [
   {
