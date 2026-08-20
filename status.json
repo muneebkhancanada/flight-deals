@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->ICN 2027-03-20",
- "checksDone": 88509,
+ "phase": "PHL->AMS 2026-11-14",
+ "checksDone": 88839,
  "checksPlanned": 104236,
  "percent": 85,
- "dealsFound": 15073,
- "updatedAt": "2026-08-20T13:42:37",
- "publishedAt": "2026-08-20T17:42:57.729685+00:00",
+ "dealsFound": 15243,
+ "updatedAt": "2026-08-20T13:58:05",
+ "publishedAt": "2026-08-20T17:58:16.312579+00:00",
  "queuedCount": 5,
  "queued": [
   {
