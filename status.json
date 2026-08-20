@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOG->PHL 2026-09-12",
- "checksDone": 65844,
+ "phase": "TAS->IAD 2027-01-16",
+ "checksDone": 66198,
  "checksPlanned": 104236,
- "percent": 63,
- "dealsFound": 11323,
- "updatedAt": "2026-08-19T21:20:22",
- "publishedAt": "2026-08-20T01:20:39.843474+00:00",
+ "percent": 64,
+ "dealsFound": 11357,
+ "updatedAt": "2026-08-19T21:35:47",
+ "publishedAt": "2026-08-20T01:36:00.356452+00:00",
  "queuedCount": 5,
  "queued": [
   {
