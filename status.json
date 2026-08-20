@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TAS->IAD 2027-01-16",
- "checksDone": 66198,
+ "phase": "TIA->ORD 2027-01-16",
+ "checksDone": 66534,
  "checksPlanned": 104236,
  "percent": 64,
- "dealsFound": 11357,
- "updatedAt": "2026-08-19T21:35:47",
- "publishedAt": "2026-08-20T01:36:00.356452+00:00",
+ "dealsFound": 11407,
+ "updatedAt": "2026-08-19T21:51:05",
+ "publishedAt": "2026-08-20T01:51:18.037488+00:00",
  "queuedCount": 5,
  "queued": [
   {
