@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CAI->VIE 2027-03-20",
- "checksDone": 77757,
+ "phase": "KTM->MAD 2027-01-16",
+ "checksDone": 78126,
  "checksPlanned": 104236,
  "percent": 75,
- "dealsFound": 12906,
- "updatedAt": "2026-08-20T06:00:42",
- "publishedAt": "2026-08-20T10:01:00.277327+00:00",
+ "dealsFound": 12988,
+ "updatedAt": "2026-08-20T06:16:02",
+ "publishedAt": "2026-08-20T10:16:16.947314+00:00",
  "queuedCount": 5,
  "queued": [
   {
