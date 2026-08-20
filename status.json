@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHE->ATH 2026-11-14",
- "checksDone": 83235,
+ "phase": "ATH->BUF 2027-01-16",
+ "checksDone": 83610,
  "checksPlanned": 104236,
  "percent": 80,
- "dealsFound": 13960,
- "updatedAt": "2026-08-20T09:50:26",
- "publishedAt": "2026-08-20T13:50:40.208785+00:00",
+ "dealsFound": 13974,
+ "updatedAt": "2026-08-20T10:05:48",
+ "publishedAt": "2026-08-20T14:06:00.606704+00:00",
  "queuedCount": 5,
  "queued": [
   {
