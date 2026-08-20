@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TIA->AMS 2026-11-14",
- "checksDone": 75279,
+ "phase": "TUN->AMS 2026-11-14",
+ "checksDone": 75627,
  "checksPlanned": 104236,
- "percent": 72,
- "dealsFound": 12264,
- "updatedAt": "2026-08-20T04:13:38",
- "publishedAt": "2026-08-20T08:13:54.852602+00:00",
+ "percent": 73,
+ "dealsFound": 12396,
+ "updatedAt": "2026-08-20T04:28:58",
+ "publishedAt": "2026-08-20T08:29:14.192131+00:00",
  "queuedCount": 5,
  "queued": [
   {
