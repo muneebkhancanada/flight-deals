@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BRU->MUC 2027-01-16",
- "checksDone": 76338,
+ "phase": "MRU->MUC 2026-11-14",
+ "checksDone": 76695,
  "checksPlanned": 104236,
- "percent": 73,
- "dealsFound": 12559,
- "updatedAt": "2026-08-20T04:59:36",
- "publishedAt": "2026-08-20T08:59:49.276710+00:00",
+ "percent": 74,
+ "dealsFound": 12662,
+ "updatedAt": "2026-08-20T05:14:49",
+ "publishedAt": "2026-08-20T09:15:07.261260+00:00",
  "queuedCount": 5,
  "queued": [
   {
