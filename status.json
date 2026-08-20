@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->KUL 2026-11-14",
- "checksDone": 95283,
+ "phase": "MDE->JFK 2027-01-16",
+ "checksDone": 95610,
  "checksPlanned": 104236,
- "percent": 91,
- "dealsFound": 17180,
- "updatedAt": "2026-08-20T18:49:38",
- "publishedAt": "2026-08-20T22:49:51.815080+00:00",
+ "percent": 92,
+ "dealsFound": 17284,
+ "updatedAt": "2026-08-20T19:04:58",
+ "publishedAt": "2026-08-20T23:05:12.856833+00:00",
  "queuedCount": 5,
  "queued": [
   {
