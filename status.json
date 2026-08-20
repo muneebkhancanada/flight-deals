@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KTM->MAD 2027-01-16",
- "checksDone": 78126,
+ "phase": "TAS->BCN 2027-03-20",
+ "checksDone": 78501,
  "checksPlanned": 104236,
  "percent": 75,
- "dealsFound": 12988,
- "updatedAt": "2026-08-20T06:16:02",
- "publishedAt": "2026-08-20T10:16:16.947314+00:00",
+ "dealsFound": 13078,
+ "updatedAt": "2026-08-20T06:31:21",
+ "publishedAt": "2026-08-20T10:31:36.119125+00:00",
  "queuedCount": 5,
  "queued": [
   {
