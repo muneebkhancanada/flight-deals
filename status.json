@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BAH->DFW 2026-11-14",
- "checksDone": 69327,
+ "phase": "BAH->IAH 2026-09-12",
+ "checksDone": 69672,
  "checksPlanned": 104236,
  "percent": 67,
- "dealsFound": 11636,
- "updatedAt": "2026-08-19T23:53:29",
- "publishedAt": "2026-08-20T03:53:40.283144+00:00",
+ "dealsFound": 11661,
+ "updatedAt": "2026-08-20T00:08:40",
+ "publishedAt": "2026-08-20T04:08:58.969353+00:00",
  "queuedCount": 5,
  "queued": [
   {
