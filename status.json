@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAD->NCE 2027-01-16",
- "checksDone": 89490,
+ "phase": "IAD->NRT 2027-01-16",
+ "checksDone": 89826,
  "checksPlanned": 104236,
  "percent": 86,
- "dealsFound": 15487,
- "updatedAt": "2026-08-20T14:28:41",
- "publishedAt": "2026-08-20T18:29:09.827293+00:00",
+ "dealsFound": 15555,
+ "updatedAt": "2026-08-20T14:44:17",
+ "publishedAt": "2026-08-20T18:44:30.909096+00:00",
  "queuedCount": 5,
  "queued": [
   {
