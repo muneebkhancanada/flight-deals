@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MSP->BKK 2026-11-14",
- "checksDone": 90831,
+ "phase": "MIA->GIG 2027-01-16",
+ "checksDone": 91170,
  "checksPlanned": 104236,
  "percent": 87,
- "dealsFound": 15948,
- "updatedAt": "2026-08-20T15:30:13",
- "publishedAt": "2026-08-20T19:30:32.894988+00:00",
+ "dealsFound": 16088,
+ "updatedAt": "2026-08-20T15:45:38",
+ "publishedAt": "2026-08-20T19:45:52.330633+00:00",
  "queuedCount": 5,
  "queued": [
   {
