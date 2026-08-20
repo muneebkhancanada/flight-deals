@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JFK->KRK 2026-11-14",
- "checksDone": 87519,
+ "phase": "JFK->BNE 2026-09-12",
+ "checksDone": 87852,
  "checksPlanned": 104236,
  "percent": 84,
- "dealsFound": 14637,
- "updatedAt": "2026-08-20T12:56:43",
- "publishedAt": "2026-08-20T16:56:59.469903+00:00",
+ "dealsFound": 14815,
+ "updatedAt": "2026-08-20T13:12:05",
+ "publishedAt": "2026-08-20T17:12:17.584034+00:00",
  "queuedCount": 5,
  "queued": [
   {
