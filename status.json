@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NAP->YUL 2026-09-12",
- "checksDone": 71424,
+ "phase": "CGK->YUL 2026-09-12",
+ "checksDone": 71760,
  "checksPlanned": 104236,
  "percent": 69,
- "dealsFound": 11783,
- "updatedAt": "2026-08-20T01:25:15",
- "publishedAt": "2026-08-20T05:25:29.371943+00:00",
+ "dealsFound": 11805,
+ "updatedAt": "2026-08-20T01:40:34",
+ "publishedAt": "2026-08-20T05:40:46.280472+00:00",
  "queuedCount": 5,
  "queued": [
   {
