@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TAS->BCN 2027-03-20",
- "checksDone": 78501,
+ "phase": "AUH->FCO 2026-09-12",
+ "checksDone": 78864,
  "checksPlanned": 104236,
- "percent": 75,
- "dealsFound": 13078,
- "updatedAt": "2026-08-20T06:31:21",
- "publishedAt": "2026-08-20T10:31:36.119125+00:00",
+ "percent": 76,
+ "dealsFound": 13128,
+ "updatedAt": "2026-08-20T06:46:41",
+ "publishedAt": "2026-08-20T10:46:55.843734+00:00",
  "queuedCount": 5,
  "queued": [
   {
