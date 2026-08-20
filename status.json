@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MXP->JNB 2027-01-16",
- "checksDone": 93882,
+ "phase": "CPH->FCO 2026-11-14",
+ "checksDone": 94239,
  "checksPlanned": 104236,
  "percent": 90,
- "dealsFound": 16905,
- "updatedAt": "2026-08-20T17:48:19",
- "publishedAt": "2026-08-20T21:48:32.893628+00:00",
+ "dealsFound": 17003,
+ "updatedAt": "2026-08-20T18:03:33",
+ "publishedAt": "2026-08-20T22:03:50.677763+00:00",
  "queuedCount": 5,
  "queued": [
   {
