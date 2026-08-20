@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BJS->CLT 2027-01-16",
- "checksDone": 68610,
+ "phase": "RUH->MIA 2027-03-20",
+ "checksDone": 68973,
  "checksPlanned": 104236,
  "percent": 66,
- "dealsFound": 11573,
- "updatedAt": "2026-08-19T23:22:49",
- "publishedAt": "2026-08-20T03:23:05.812239+00:00",
+ "dealsFound": 11588,
+ "updatedAt": "2026-08-19T23:38:08",
+ "publishedAt": "2026-08-20T03:38:22.217126+00:00",
  "queuedCount": 5,
  "queued": [
   {
