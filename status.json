@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->AMS 2026-11-14",
- "checksDone": 92835,
+ "phase": "VIE->FCO 2027-03-20",
+ "checksDone": 93177,
  "checksPlanned": 104236,
  "percent": 89,
- "dealsFound": 16724,
- "updatedAt": "2026-08-20T17:02:16",
- "publishedAt": "2026-08-20T21:02:31.840898+00:00",
+ "dealsFound": 16779,
+ "updatedAt": "2026-08-20T17:17:39",
+ "publishedAt": "2026-08-20T21:17:53.559969+00:00",
  "queuedCount": 5,
  "queued": [
   {
