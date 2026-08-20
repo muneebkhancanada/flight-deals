@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BJL->LGW 2027-01-16",
- "checksDone": 74586,
+ "phase": "KHI->CDG 2027-01-16",
+ "checksDone": 74934,
  "checksPlanned": 104236,
  "percent": 72,
- "dealsFound": 12102,
- "updatedAt": "2026-08-20T03:43:05",
- "publishedAt": "2026-08-20T07:43:19.556026+00:00",
+ "dealsFound": 12215,
+ "updatedAt": "2026-08-20T03:58:19",
+ "publishedAt": "2026-08-20T07:58:37.263470+00:00",
  "queuedCount": 5,
  "queued": [
   {
