@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TUN->YOW 2027-03-20",
- "checksDone": 72825,
+ "phase": "DSS->YYC 2026-09-12",
+ "checksDone": 73188,
  "checksPlanned": 104236,
  "percent": 70,
- "dealsFound": 11843,
- "updatedAt": "2026-08-20T02:26:26",
- "publishedAt": "2026-08-20T06:26:42.504904+00:00",
+ "dealsFound": 11857,
+ "updatedAt": "2026-08-20T02:41:45",
+ "publishedAt": "2026-08-20T06:42:03.325222+00:00",
  "queuedCount": 5,
  "queued": [
   {
