@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CGK->YUL 2026-09-12",
- "checksDone": 71760,
+ "phase": "AGP->YOW 2027-01-16",
+ "checksDone": 72114,
  "checksPlanned": 104236,
  "percent": 69,
- "dealsFound": 11805,
- "updatedAt": "2026-08-20T01:40:34",
- "publishedAt": "2026-08-20T05:40:46.280472+00:00",
+ "dealsFound": 11825,
+ "updatedAt": "2026-08-20T01:55:49",
+ "publishedAt": "2026-08-20T05:56:04.112263+00:00",
  "queuedCount": 5,
  "queued": [
   {
