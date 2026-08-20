@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->AMS 2026-11-14",
- "checksDone": 88839,
+ "phase": "PHL->NRT 2026-11-14",
+ "checksDone": 89163,
  "checksPlanned": 104236,
- "percent": 85,
- "dealsFound": 15243,
- "updatedAt": "2026-08-20T13:58:05",
- "publishedAt": "2026-08-20T17:58:16.312579+00:00",
+ "percent": 86,
+ "dealsFound": 15372,
+ "updatedAt": "2026-08-20T14:13:18",
+ "publishedAt": "2026-08-20T18:13:39.481556+00:00",
  "queuedCount": 5,
  "queued": [
   {
