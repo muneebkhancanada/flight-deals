@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CMB->DTW 2027-01-16",
- "checksDone": 67206,
+ "phase": "AKL->DTW 2027-01-16",
+ "checksDone": 67554,
  "checksPlanned": 104236,
- "percent": 64,
- "dealsFound": 11484,
- "updatedAt": "2026-08-19T22:21:37",
- "publishedAt": "2026-08-20T02:21:54.239029+00:00",
+ "percent": 65,
+ "dealsFound": 11501,
+ "updatedAt": "2026-08-19T22:36:58",
+ "publishedAt": "2026-08-20T02:37:11.651597+00:00",
  "queuedCount": 5,
  "queued": [
   {
