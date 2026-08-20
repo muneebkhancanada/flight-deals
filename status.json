@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->GIG 2027-01-16",
- "checksDone": 91170,
+ "phase": "DEN->DPS 2026-11-14",
+ "checksDone": 91491,
  "checksPlanned": 104236,
- "percent": 87,
- "dealsFound": 16088,
- "updatedAt": "2026-08-20T15:45:38",
- "publishedAt": "2026-08-20T19:45:52.330633+00:00",
+ "percent": 88,
+ "dealsFound": 16216,
+ "updatedAt": "2026-08-20T16:00:58",
+ "publishedAt": "2026-08-20T20:01:12.066558+00:00",
  "queuedCount": 5,
  "queued": [
   {
