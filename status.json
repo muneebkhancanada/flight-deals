@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VCE->MXP 2026-11-14",
- "checksDone": 79239,
+ "phase": "MLE->MXP 2026-09-12",
+ "checksDone": 79596,
  "checksPlanned": 104236,
  "percent": 76,
- "dealsFound": 13232,
- "updatedAt": "2026-08-20T07:02:04",
- "publishedAt": "2026-08-20T11:02:14.782397+00:00",
+ "dealsFound": 13308,
+ "updatedAt": "2026-08-20T07:17:16",
+ "publishedAt": "2026-08-20T11:17:33.035809+00:00",
  "queuedCount": 5,
  "queued": [
   {
