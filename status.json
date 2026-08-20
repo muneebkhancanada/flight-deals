@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CPH->FCO 2026-11-14",
- "checksDone": 94239,
+ "phase": "ARN->SIN 2027-03-20",
+ "checksDone": 94593,
  "checksPlanned": 104236,
- "percent": 90,
- "dealsFound": 17003,
- "updatedAt": "2026-08-20T18:03:33",
- "publishedAt": "2026-08-20T22:03:50.677763+00:00",
+ "percent": 91,
+ "dealsFound": 17052,
+ "updatedAt": "2026-08-20T18:18:55",
+ "publishedAt": "2026-08-20T22:19:11.556116+00:00",
  "queuedCount": 5,
  "queued": [
   {
