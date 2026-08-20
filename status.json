@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MDE->BUF 2027-03-20",
- "checksDone": 84345,
+ "phase": "VCE->HNL 2026-11-14",
+ "checksDone": 84711,
  "checksPlanned": 104236,
  "percent": 81,
- "dealsFound": 14007,
- "updatedAt": "2026-08-20T10:37:49",
- "publishedAt": "2026-08-20T14:38:05.461935+00:00",
+ "dealsFound": 14017,
+ "updatedAt": "2026-08-20T10:54:07",
+ "publishedAt": "2026-08-20T14:54:21.524520+00:00",
  "queuedCount": 5,
  "queued": [
   {
