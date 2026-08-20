@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->KUL 2026-11-14",
- "checksDone": 92487,
+ "phase": "FRA->AMS 2026-11-14",
+ "checksDone": 92835,
  "checksPlanned": 104236,
  "percent": 89,
- "dealsFound": 16681,
- "updatedAt": "2026-08-20T16:46:56",
- "publishedAt": "2026-08-20T20:47:11.835472+00:00",
+ "dealsFound": 16724,
+ "updatedAt": "2026-08-20T17:02:16",
+ "publishedAt": "2026-08-20T21:02:31.840898+00:00",
  "queuedCount": 5,
  "queued": [
   {
