@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MLE->MXP 2026-09-12",
- "checksDone": 79596,
+ "phase": "SHJ->DUB 2027-03-20",
+ "checksDone": 79953,
  "checksPlanned": 104236,
- "percent": 76,
- "dealsFound": 13308,
- "updatedAt": "2026-08-20T07:17:16",
- "publishedAt": "2026-08-20T11:17:33.035809+00:00",
+ "percent": 77,
+ "dealsFound": 13400,
+ "updatedAt": "2026-08-20T07:32:35",
+ "publishedAt": "2026-08-20T11:32:52.252999+00:00",
  "queuedCount": 5,
  "queued": [
   {
