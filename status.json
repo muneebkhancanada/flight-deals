@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYX->JFK 2026-09-12",
- "checksDone": 64128,
+ "phase": "TIA->EWR 2026-09-12",
+ "checksDone": 64464,
  "checksPlanned": 104236,
  "percent": 62,
- "dealsFound": 11179,
- "updatedAt": "2026-08-19T20:03:53",
- "publishedAt": "2026-08-20T00:04:07.735709+00:00",
+ "dealsFound": 11224,
+ "updatedAt": "2026-08-19T20:19:07",
+ "publishedAt": "2026-08-20T00:19:25.571141+00:00",
  "queuedCount": 5,
  "queued": [
   {
