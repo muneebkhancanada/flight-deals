@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SHJ->ZRH 2026-09-12",
- "checksDone": 77040,
+ "phase": "KRK->VIE 2026-09-12",
+ "checksDone": 77400,
  "checksPlanned": 104236,
  "percent": 74,
- "dealsFound": 12752,
- "updatedAt": "2026-08-20T05:30:07",
- "publishedAt": "2026-08-20T09:30:24.078266+00:00",
+ "dealsFound": 12806,
+ "updatedAt": "2026-08-20T05:45:31",
+ "publishedAt": "2026-08-20T09:45:43.070101+00:00",
  "queuedCount": 5,
  "queued": [
   {
