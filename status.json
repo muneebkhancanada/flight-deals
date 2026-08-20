@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AUH->FCO 2026-09-12",
- "checksDone": 78864,
+ "phase": "VCE->MXP 2026-11-14",
+ "checksDone": 79239,
  "checksPlanned": 104236,
  "percent": 76,
- "dealsFound": 13128,
- "updatedAt": "2026-08-20T06:46:41",
- "publishedAt": "2026-08-20T10:46:55.843734+00:00",
+ "dealsFound": 13232,
+ "updatedAt": "2026-08-20T07:02:04",
+ "publishedAt": "2026-08-20T11:02:14.782397+00:00",
  "queuedCount": 5,
  "queued": [
   {
