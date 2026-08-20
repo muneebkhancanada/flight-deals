@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DOH->BOS 2026-09-12",
- "checksDone": 65148,
+ "phase": "DKR->BOS 2026-11-14",
+ "checksDone": 65487,
  "checksPlanned": 104236,
  "percent": 63,
- "dealsFound": 11278,
- "updatedAt": "2026-08-19T20:49:45",
- "publishedAt": "2026-08-20T00:50:02.933691+00:00",
+ "dealsFound": 11312,
+ "updatedAt": "2026-08-19T21:05:06",
+ "publishedAt": "2026-08-20T01:05:21.618563+00:00",
  "queuedCount": 5,
  "queued": [
   {
