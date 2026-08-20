@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AKL->DTW 2027-01-16",
- "checksDone": 67554,
+ "phase": "KTM->MSP 2026-09-12",
+ "checksDone": 67908,
  "checksPlanned": 104236,
  "percent": 65,
- "dealsFound": 11501,
- "updatedAt": "2026-08-19T22:36:58",
- "publishedAt": "2026-08-20T02:37:11.651597+00:00",
+ "dealsFound": 11523,
+ "updatedAt": "2026-08-19T22:52:15",
+ "publishedAt": "2026-08-20T02:52:30.691579+00:00",
  "queuedCount": 5,
  "queued": [
   {
