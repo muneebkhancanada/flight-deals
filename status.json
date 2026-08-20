@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CAN->BRU 2027-01-16",
- "checksDone": 82158,
+ "phase": "SJJ->WAW 2026-09-12",
+ "checksDone": 82512,
  "checksPlanned": 104236,
  "percent": 79,
- "dealsFound": 13762,
- "updatedAt": "2026-08-20T09:04:27",
- "publishedAt": "2026-08-20T13:04:43.161764+00:00",
+ "dealsFound": 13820,
+ "updatedAt": "2026-08-20T09:19:44",
+ "publishedAt": "2026-08-20T13:20:02.179570+00:00",
  "queuedCount": 5,
  "queued": [
   {
