@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MCT->HNL 2027-03-20",
- "checksDone": 85065,
+ "phase": "EZE->HNL 2026-11-14",
+ "checksDone": 85431,
  "checksPlanned": 104236,
  "percent": 82,
- "dealsFound": 14024,
- "updatedAt": "2026-08-20T11:09:26",
- "publishedAt": "2026-08-20T15:09:41.796217+00:00",
+ "dealsFound": 14056,
+ "updatedAt": "2026-08-20T11:24:49",
+ "publishedAt": "2026-08-20T15:25:04.392940+00:00",
  "queuedCount": 5,
  "queued": [
   {
