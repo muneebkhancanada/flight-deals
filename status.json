@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BUD->LGW 2027-03-20",
- "checksDone": 74241,
+ "phase": "BJL->LGW 2027-01-16",
+ "checksDone": 74586,
  "checksPlanned": 104236,
- "percent": 71,
- "dealsFound": 12008,
- "updatedAt": "2026-08-20T03:27:41",
- "publishedAt": "2026-08-20T07:28:00.170505+00:00",
+ "percent": 72,
+ "dealsFound": 12102,
+ "updatedAt": "2026-08-20T03:43:05",
+ "publishedAt": "2026-08-20T07:43:19.556026+00:00",
  "queuedCount": 5,
  "queued": [
   {
