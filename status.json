@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "VCE->HNL 2026-11-14",
- "checksDone": 84711,
+ "phase": "MCT->HNL 2027-03-20",
+ "checksDone": 85065,
  "checksPlanned": 104236,
- "percent": 81,
- "dealsFound": 14017,
- "updatedAt": "2026-08-20T10:54:07",
- "publishedAt": "2026-08-20T14:54:21.524520+00:00",
+ "percent": 82,
+ "dealsFound": 14024,
+ "updatedAt": "2026-08-20T11:09:26",
+ "publishedAt": "2026-08-20T15:09:41.796217+00:00",
  "queuedCount": 5,
  "queued": [
   {
