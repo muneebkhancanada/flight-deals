@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DAR->ORD 2027-03-20",
- "checksDone": 66873,
+ "phase": "CMB->DTW 2027-01-16",
+ "checksDone": 67206,
  "checksPlanned": 104236,
  "percent": 64,
- "dealsFound": 11433,
- "updatedAt": "2026-08-19T22:06:22",
- "publishedAt": "2026-08-20T02:06:36.391163+00:00",
+ "dealsFound": 11484,
+ "updatedAt": "2026-08-19T22:21:37",
+ "publishedAt": "2026-08-20T02:21:54.239029+00:00",
  "queuedCount": 5,
  "queued": [
   {
