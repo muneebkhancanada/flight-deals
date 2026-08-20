@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MCT->SFO 2026-11-14",
- "checksDone": 70731,
+ "phase": "MCT->LAX 2026-11-14",
+ "checksDone": 71079,
  "checksPlanned": 104236,
  "percent": 68,
- "dealsFound": 11708,
- "updatedAt": "2026-08-20T00:54:42",
- "publishedAt": "2026-08-20T04:54:53.758168+00:00",
+ "dealsFound": 11730,
+ "updatedAt": "2026-08-20T01:09:59",
+ "publishedAt": "2026-08-20T05:10:11.576074+00:00",
  "queuedCount": 5,
  "queued": [
   {
