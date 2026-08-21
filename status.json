@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CAI->DTW 2026-11-14",
- "checksDone": 97599,
+ "phase": "JNB->CLT 2027-01-16",
+ "checksDone": 97938,
  "checksPlanned": 104236,
  "percent": 94,
- "dealsFound": 17597,
- "updatedAt": "2026-08-20T20:36:52",
- "publishedAt": "2026-08-21T00:37:11.759365+00:00",
+ "dealsFound": 17654,
+ "updatedAt": "2026-08-20T20:52:17",
+ "publishedAt": "2026-08-21T00:52:32.751659+00:00",
  "queuedCount": 5,
  "queued": [
   {
