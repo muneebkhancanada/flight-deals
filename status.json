@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YOW->DXB 2026-10-25",
- "checksDone": 3414,
+ "phase": "YVR->TIA 2026-08-26",
+ "checksDone": 3765,
  "checksPlanned": 17216,
- "percent": 20,
- "dealsFound": 693,
- "updatedAt": "2026-08-21T04:59:28",
- "publishedAt": "2026-08-21T08:59:47.378741+00:00",
+ "percent": 22,
+ "dealsFound": 734,
+ "updatedAt": "2026-08-21T05:14:50",
+ "publishedAt": "2026-08-21T09:15:09.679589+00:00",
  "queuedCount": 3,
  "queued": [
   {
