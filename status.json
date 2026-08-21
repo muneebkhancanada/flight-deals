@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SGN->EDI 2026-11-14",
- "checksDone": 102075,
+ "phase": "ORD->WAW 2026-11-14",
+ "checksDone": 102411,
  "checksPlanned": 104236,
  "percent": 98,
- "dealsFound": 18632,
- "updatedAt": "2026-08-20T23:56:12",
- "publishedAt": "2026-08-21T03:56:28.074152+00:00",
+ "dealsFound": 18780,
+ "updatedAt": "2026-08-21T00:11:29",
+ "publishedAt": "2026-08-21T04:11:49.703223+00:00",
  "queuedCount": 5,
  "queued": [
   {
