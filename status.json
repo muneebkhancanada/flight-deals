@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LIS->BNE 2026-12-24",
- "checksDone": 15411,
+ "phase": "LIS->EZE 2027-02-22",
+ "checksDone": 15744,
  "checksPlanned": 17216,
- "percent": 90,
- "dealsFound": 3587,
- "updatedAt": "2026-08-21T13:56:38",
- "publishedAt": "2026-08-21T17:56:54.271125+00:00",
+ "percent": 91,
+ "dealsFound": 3673,
+ "updatedAt": "2026-08-21T14:12:01",
+ "publishedAt": "2026-08-21T18:12:14.285900+00:00",
  "queuedCount": 3,
  "queued": [
   {
