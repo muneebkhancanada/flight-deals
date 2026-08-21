@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "JFK->HEL 2026-08-26",
- "checksDone": 1017,
+ "phase": "finished",
+ "checksDone": 1128,
  "checksPlanned": 1128,
- "percent": 90,
- "dealsFound": 203,
- "updatedAt": "2026-08-21T02:20:31",
- "publishedAt": "2026-08-21T06:20:44.820848+00:00",
+ "percent": 100,
+ "dealsFound": 256,
+ "updatedAt": "2026-08-21T02:25:49",
+ "publishedAt": "2026-08-21T06:26:04.597168+00:00",
  "queuedCount": 4,
  "queued": [
   {
