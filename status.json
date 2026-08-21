@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ATL->GIG 2026-12-24",
- "checksDone": 9675,
+ "phase": "YOW->SCL 2026-12-24",
+ "checksDone": 9999,
  "checksPlanned": 17216,
- "percent": 56,
- "dealsFound": 2110,
- "updatedAt": "2026-08-21T09:35:47",
- "publishedAt": "2026-08-21T13:36:00.757738+00:00",
+ "percent": 58,
+ "dealsFound": 2244,
+ "updatedAt": "2026-08-21T09:51:02",
+ "publishedAt": "2026-08-21T13:51:22.258608+00:00",
  "queuedCount": 3,
  "queued": [
   {
