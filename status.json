@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "WAW->NAP 2026-12-24",
- "checksDone": 11031,
+ "phase": "ATL->DXB 2027-02-22",
+ "checksDone": 11364,
  "checksPlanned": 17216,
- "percent": 64,
- "dealsFound": 2477,
- "updatedAt": "2026-08-21T10:37:06",
- "publishedAt": "2026-08-21T14:37:24.912393+00:00",
+ "percent": 66,
+ "dealsFound": 2563,
+ "updatedAt": "2026-08-21T10:52:23",
+ "publishedAt": "2026-08-21T14:52:43.498506+00:00",
  "queuedCount": 3,
  "queued": [
   {
