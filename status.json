@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MSP->PRG 2026-12-24",
- "checksDone": 12723,
+ "phase": "LHR->TPE 2027-02-22",
+ "checksDone": 13056,
  "checksPlanned": 17216,
- "percent": 74,
- "dealsFound": 2938,
- "updatedAt": "2026-08-21T11:53:50",
- "publishedAt": "2026-08-21T15:54:08.289481+00:00",
+ "percent": 76,
+ "dealsFound": 3051,
+ "updatedAt": "2026-08-21T12:09:09",
+ "publishedAt": "2026-08-21T16:09:28.475982+00:00",
  "queuedCount": 3,
  "queued": [
   {
