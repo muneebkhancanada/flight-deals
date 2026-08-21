@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LIS->NBO 2027-02-22",
- "checksDone": 6960,
+ "phase": "OSL->AUH 2026-10-25",
+ "checksDone": 7314,
  "checksPlanned": 17216,
- "percent": 40,
- "dealsFound": 1382,
- "updatedAt": "2026-08-21T07:32:56",
- "publishedAt": "2026-08-21T11:33:09.869821+00:00",
+ "percent": 42,
+ "dealsFound": 1437,
+ "updatedAt": "2026-08-21T07:48:16",
+ "publishedAt": "2026-08-21T11:48:33.173704+00:00",
  "queuedCount": 3,
  "queued": [
   {
