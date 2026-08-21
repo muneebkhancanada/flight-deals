@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EWR->ZRH 2027-02-22",
- "checksDone": 8700,
+ "phase": "PHL->PRG 2027-02-22",
+ "checksDone": 9024,
  "checksPlanned": 17216,
- "percent": 51,
- "dealsFound": 1708,
- "updatedAt": "2026-08-21T08:49:45",
- "publishedAt": "2026-08-21T12:49:59.978924+00:00",
+ "percent": 52,
+ "dealsFound": 1865,
+ "updatedAt": "2026-08-21T09:05:07",
+ "publishedAt": "2026-08-21T13:05:19.430967+00:00",
  "queuedCount": 3,
  "queued": [
   {
