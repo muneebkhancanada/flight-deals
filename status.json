@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IAH->BUD 2027-02-22",
- "checksDone": 15072,
+ "phase": "LIS->BNE 2026-12-24",
+ "checksDone": 15411,
  "checksPlanned": 17216,
- "percent": 88,
- "dealsFound": 3504,
- "updatedAt": "2026-08-21T13:41:13",
- "publishedAt": "2026-08-21T17:41:32.945113+00:00",
+ "percent": 90,
+ "dealsFound": 3587,
+ "updatedAt": "2026-08-21T13:56:38",
+ "publishedAt": "2026-08-21T17:56:54.271125+00:00",
  "queuedCount": 3,
  "queued": [
   {
