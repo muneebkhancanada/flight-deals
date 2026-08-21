@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CMB->ORD 2026-11-14",
- "checksDone": 97263,
+ "phase": "CAI->DTW 2026-11-14",
+ "checksDone": 97599,
  "checksPlanned": 104236,
- "percent": 93,
- "dealsFound": 17557,
- "updatedAt": "2026-08-20T20:21:36",
- "publishedAt": "2026-08-21T00:21:53.246331+00:00",
+ "percent": 94,
+ "dealsFound": 17597,
+ "updatedAt": "2026-08-20T20:36:52",
+ "publishedAt": "2026-08-21T00:37:11.759365+00:00",
  "queuedCount": 5,
  "queued": [
   {
