@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ATL->DXB 2027-02-22",
- "checksDone": 11364,
+ "phase": "IAH->GIG 2026-12-24",
+ "checksDone": 11691,
  "checksPlanned": 17216,
- "percent": 66,
- "dealsFound": 2563,
- "updatedAt": "2026-08-21T10:52:23",
- "publishedAt": "2026-08-21T14:52:43.498506+00:00",
+ "percent": 68,
+ "dealsFound": 2702,
+ "updatedAt": "2026-08-21T11:07:48",
+ "publishedAt": "2026-08-21T15:08:02.461991+00:00",
  "queuedCount": 3,
  "queued": [
   {
