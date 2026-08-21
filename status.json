@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "OSL->AUH 2026-10-25",
- "checksDone": 7314,
+ "phase": "WAW->BAH 2027-02-22",
+ "checksDone": 7668,
  "checksPlanned": 17216,
- "percent": 42,
- "dealsFound": 1437,
- "updatedAt": "2026-08-21T07:48:16",
- "publishedAt": "2026-08-21T11:48:33.173704+00:00",
+ "percent": 45,
+ "dealsFound": 1492,
+ "updatedAt": "2026-08-21T08:03:33",
+ "publishedAt": "2026-08-21T12:03:55.354682+00:00",
  "queuedCount": 3,
  "queued": [
   {
