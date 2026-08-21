@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "full",
- "phase": "finished",
- "checksDone": 104236,
- "checksPlanned": 104236,
- "percent": 100,
- "dealsFound": 19534,
- "updatedAt": "2026-08-21T01:34:05",
- "publishedAt": "2026-08-21T05:34:19.016859+00:00",
- "queuedCount": 5,
+ "running": true,
+ "mode": "custom",
+ "phase": "YYZ->DSS 2027-02-22",
+ "checksDone": 336,
+ "checksPlanned": 1128,
+ "percent": 30,
+ "dealsFound": 67,
+ "updatedAt": "2026-08-21T01:49:45",
+ "publishedAt": "2026-08-21T05:50:03.145519+00:00",
+ "queuedCount": 4,
  "queued": [
-  {
-   "label": "custom (YYZ, YUL, JFK → everywhere)",
-   "mode": "quick"
-  },
   {
    "label": "custom (NA, EU → everywhere)",
    "mode": "quick"
