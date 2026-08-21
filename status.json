@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CAI->CDG 2026-12-24",
- "checksDone": 4851,
+ "phase": "DSS->FRA 2026-10-25",
+ "checksDone": 5202,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 501,
- "updatedAt": "2026-08-21T18:54:52",
- "publishedAt": "2026-08-21T22:55:11.447655+00:00",
+ "percent": 30,
+ "dealsFound": 596,
+ "updatedAt": "2026-08-21T19:10:16",
+ "publishedAt": "2026-08-21T23:10:31.100568+00:00",
  "queuedCount": 2,
  "queued": [
   {
