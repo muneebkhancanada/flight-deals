@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IAH->BAH 2026-10-25",
- "checksDone": 2394,
+ "phase": "SFO->KWI 2026-12-24",
+ "checksDone": 2739,
  "checksPlanned": 17216,
- "percent": 14,
- "dealsFound": 512,
- "updatedAt": "2026-08-21T04:13:34",
- "publishedAt": "2026-08-21T08:13:48.014852+00:00",
+ "percent": 16,
+ "dealsFound": 583,
+ "updatedAt": "2026-08-21T04:28:54",
+ "publishedAt": "2026-08-21T08:29:08.091058+00:00",
  "queuedCount": 3,
  "queued": [
   {
