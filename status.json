@@ -1,19 +1,15 @@
 {
- "running": false,
+ "running": true,
  "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
+ "phase": "DSS->YYZ 2026-08-26",
+ "checksDone": 333,
  "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 4019,
- "updatedAt": "2026-08-21T15:19:44",
- "publishedAt": "2026-08-21T19:20:03.922803+00:00",
- "queuedCount": 3,
+ "percent": 2,
+ "dealsFound": 46,
+ "updatedAt": "2026-08-21T15:35:32",
+ "publishedAt": "2026-08-21T19:35:48.763206+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "inbound from everywhere → NA, EU",
-   "mode": "quick"
-  },
   {
    "label": "round trip (EU ⇄ all, 10-28 nights)",
    "mode": "quick"
