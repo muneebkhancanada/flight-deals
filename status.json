@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DEN->VIE 2026-10-25",
- "checksDone": 14406,
+ "phase": "BCN->DKR 2026-12-24",
+ "checksDone": 14739,
  "checksPlanned": 17216,
- "percent": 84,
- "dealsFound": 3330,
- "updatedAt": "2026-08-21T13:10:30",
- "publishedAt": "2026-08-21T17:10:50.030924+00:00",
+ "percent": 86,
+ "dealsFound": 3388,
+ "updatedAt": "2026-08-21T13:25:53",
+ "publishedAt": "2026-08-21T17:26:12.499737+00:00",
  "queuedCount": 3,
  "queued": [
   {
