@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IAH->GIG 2026-12-24",
- "checksDone": 11691,
+ "phase": "MUC->HKG 2026-10-25",
+ "checksDone": 12030,
  "checksPlanned": 17216,
- "percent": 68,
- "dealsFound": 2702,
- "updatedAt": "2026-08-21T11:07:48",
- "publishedAt": "2026-08-21T15:08:02.461991+00:00",
+ "percent": 70,
+ "dealsFound": 2795,
+ "updatedAt": "2026-08-21T11:23:05",
+ "publishedAt": "2026-08-21T15:23:24.877682+00:00",
  "queuedCount": 3,
  "queued": [
   {
