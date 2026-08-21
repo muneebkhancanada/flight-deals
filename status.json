@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CLT->AGP 2026-09-12",
- "checksDone": 103092,
+ "phase": "DFW->HND 2026-11-14",
+ "checksDone": 103431,
  "checksPlanned": 104236,
  "percent": 99,
- "dealsFound": 18994,
- "updatedAt": "2026-08-21T00:42:10",
- "publishedAt": "2026-08-21T04:42:30.404897+00:00",
+ "dealsFound": 19110,
+ "updatedAt": "2026-08-21T00:57:34",
+ "publishedAt": "2026-08-21T04:57:51.001621+00:00",
  "queuedCount": 5,
  "queued": [
   {
