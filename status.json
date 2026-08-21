@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MUC->FRA 2026-11-14",
- "checksDone": 99615,
+ "phase": "CGK->ZRH 2026-09-12",
+ "checksDone": 99960,
  "checksPlanned": 104236,
  "percent": 96,
- "dealsFound": 18059,
- "updatedAt": "2026-08-20T22:08:52",
- "publishedAt": "2026-08-21T02:09:11.449579+00:00",
+ "dealsFound": 18185,
+ "updatedAt": "2026-08-20T22:24:17",
+ "publishedAt": "2026-08-21T02:24:30.667335+00:00",
  "queuedCount": 5,
  "queued": [
   {
