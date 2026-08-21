@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LHR->TPE 2027-02-22",
- "checksDone": 13056,
+ "phase": "LIS->HKG 2026-10-25",
+ "checksDone": 13398,
  "checksPlanned": 17216,
- "percent": 76,
- "dealsFound": 3051,
- "updatedAt": "2026-08-21T12:09:09",
- "publishedAt": "2026-08-21T16:09:28.475982+00:00",
+ "percent": 78,
+ "dealsFound": 3113,
+ "updatedAt": "2026-08-21T12:24:35",
+ "publishedAt": "2026-08-21T16:24:50.056748+00:00",
  "queuedCount": 3,
  "queued": [
   {
