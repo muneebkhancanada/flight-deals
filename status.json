@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EWR->ALA 2027-02-22",
- "checksDone": 672,
+ "phase": "BOS->DAR 2026-08-26",
+ "checksDone": 1017,
  "checksPlanned": 17216,
- "percent": 4,
- "dealsFound": 144,
- "updatedAt": "2026-08-21T02:56:50",
- "publishedAt": "2026-08-21T06:57:07.174338+00:00",
+ "percent": 6,
+ "dealsFound": 227,
+ "updatedAt": "2026-08-21T03:12:11",
+ "publishedAt": "2026-08-21T07:12:28.061909+00:00",
  "queuedCount": 3,
  "queued": [
   {
