@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YOW->SCL 2026-12-24",
- "checksDone": 9999,
+ "phase": "FRA->JNB 2026-08-26",
+ "checksDone": 10341,
  "checksPlanned": 17216,
- "percent": 58,
- "dealsFound": 2244,
- "updatedAt": "2026-08-21T09:51:02",
- "publishedAt": "2026-08-21T13:51:22.258608+00:00",
+ "percent": 60,
+ "dealsFound": 2335,
+ "updatedAt": "2026-08-21T10:06:28",
+ "publishedAt": "2026-08-21T14:06:44.124409+00:00",
  "queuedCount": 3,
  "queued": [
   {
