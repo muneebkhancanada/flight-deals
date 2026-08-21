@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JNB->CLT 2027-01-16",
- "checksDone": 97938,
+ "phase": "HAN->DEN 2027-01-16",
+ "checksDone": 98274,
  "checksPlanned": 104236,
  "percent": 94,
- "dealsFound": 17654,
- "updatedAt": "2026-08-20T20:52:17",
- "publishedAt": "2026-08-21T00:52:32.751659+00:00",
+ "dealsFound": 17681,
+ "updatedAt": "2026-08-20T21:07:39",
+ "publishedAt": "2026-08-21T01:07:53.789591+00:00",
  "queuedCount": 5,
  "queued": [
   {
