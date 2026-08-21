@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "RUH->BUF 2027-02-22",
- "checksDone": 3792,
+ "phase": "AMM->HNL 2027-02-22",
+ "checksDone": 4152,
  "checksPlanned": 17216,
- "percent": 22,
- "dealsFound": 357,
- "updatedAt": "2026-08-21T18:08:53",
- "publishedAt": "2026-08-21T22:09:10.116828+00:00",
+ "percent": 24,
+ "dealsFound": 373,
+ "updatedAt": "2026-08-21T18:24:10",
+ "publishedAt": "2026-08-21T22:24:29.383772+00:00",
  "queuedCount": 2,
  "queued": [
   {
