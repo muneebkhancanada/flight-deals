@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CLT->BJS 2027-02-22",
- "checksDone": 2040,
+ "phase": "IAH->BAH 2026-10-25",
+ "checksDone": 2394,
  "checksPlanned": 17216,
- "percent": 12,
- "dealsFound": 444,
- "updatedAt": "2026-08-21T03:58:10",
- "publishedAt": "2026-08-21T07:58:27.476270+00:00",
+ "percent": 14,
+ "dealsFound": 512,
+ "updatedAt": "2026-08-21T04:13:34",
+ "publishedAt": "2026-08-21T08:13:48.014852+00:00",
  "queuedCount": 3,
  "queued": [
   {
