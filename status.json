@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EZE->PHL 2026-08-26",
- "checksDone": 1017,
+ "phase": "TUN->ORD 2026-10-25",
+ "checksDone": 1362,
  "checksPlanned": 17216,
- "percent": 6,
- "dealsFound": 107,
- "updatedAt": "2026-08-21T16:06:10",
- "publishedAt": "2026-08-21T20:06:30.428703+00:00",
+ "percent": 8,
+ "dealsFound": 151,
+ "updatedAt": "2026-08-21T16:21:34",
+ "publishedAt": "2026-08-21T20:21:49.960524+00:00",
  "queuedCount": 2,
  "queued": [
   {
