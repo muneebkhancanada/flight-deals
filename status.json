@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "FRA->CAN 2026-12-24",
- "checksDone": 5523,
+ "phase": "ZRH->ALA 2026-08-26",
+ "checksDone": 5877,
  "checksPlanned": 17216,
- "percent": 32,
- "dealsFound": 1091,
- "updatedAt": "2026-08-21T06:31:31",
- "publishedAt": "2026-08-21T10:31:48.945017+00:00",
+ "percent": 34,
+ "dealsFound": 1160,
+ "updatedAt": "2026-08-21T06:46:54",
+ "publishedAt": "2026-08-21T10:47:08.409737+00:00",
  "queuedCount": 3,
  "queued": [
   {
