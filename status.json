@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LIS->SGN 2026-08-26",
- "checksDone": 12381,
+ "phase": "MSP->PRG 2026-12-24",
+ "checksDone": 12723,
  "checksPlanned": 17216,
- "percent": 72,
- "dealsFound": 2870,
- "updatedAt": "2026-08-21T11:38:29",
- "publishedAt": "2026-08-21T15:38:46.941152+00:00",
+ "percent": 74,
+ "dealsFound": 2938,
+ "updatedAt": "2026-08-21T11:53:50",
+ "publishedAt": "2026-08-21T15:54:08.289481+00:00",
  "queuedCount": 3,
  "queued": [
   {
