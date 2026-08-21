@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IAD->KUL 2027-02-22",
- "checksDone": 9348,
+ "phase": "ATL->GIG 2026-12-24",
+ "checksDone": 9675,
  "checksPlanned": 17216,
- "percent": 54,
- "dealsFound": 1980,
- "updatedAt": "2026-08-21T09:20:27",
- "publishedAt": "2026-08-21T13:20:40.311188+00:00",
+ "percent": 56,
+ "dealsFound": 2110,
+ "updatedAt": "2026-08-21T09:35:47",
+ "publishedAt": "2026-08-21T13:36:00.757738+00:00",
  "queuedCount": 3,
  "queued": [
   {
