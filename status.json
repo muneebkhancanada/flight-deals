@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SJJ->MIA 2026-08-26",
- "checksDone": 2049,
+ "phase": "MEL->IAH 2026-12-24",
+ "checksDone": 2391,
  "checksPlanned": 17216,
- "percent": 12,
- "dealsFound": 207,
- "updatedAt": "2026-08-21T16:52:15",
- "publishedAt": "2026-08-21T20:52:28.427155+00:00",
+ "percent": 14,
+ "dealsFound": 244,
+ "updatedAt": "2026-08-21T17:07:32",
+ "publishedAt": "2026-08-21T21:07:48.662162+00:00",
  "queuedCount": 2,
  "queued": [
   {
