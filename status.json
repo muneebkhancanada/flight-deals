@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ORD->BAH 2026-12-24",
- "checksDone": 1359,
+ "phase": "MSP->TIA 2026-12-24",
+ "checksDone": 1695,
  "checksPlanned": 17216,
- "percent": 8,
- "dealsFound": 295,
- "updatedAt": "2026-08-21T03:27:30",
- "publishedAt": "2026-08-21T07:27:47.205755+00:00",
+ "percent": 10,
+ "dealsFound": 379,
+ "updatedAt": "2026-08-21T03:42:52",
+ "publishedAt": "2026-08-21T07:43:07.698282+00:00",
  "queuedCount": 3,
  "queued": [
   {
