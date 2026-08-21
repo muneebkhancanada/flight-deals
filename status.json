@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CGK->ZRH 2026-09-12",
- "checksDone": 99960,
+ "phase": "ACC->MAD 2026-09-12",
+ "checksDone": 100308,
  "checksPlanned": 104236,
  "percent": 96,
- "dealsFound": 18185,
- "updatedAt": "2026-08-20T22:24:17",
- "publishedAt": "2026-08-21T02:24:30.667335+00:00",
+ "dealsFound": 18283,
+ "updatedAt": "2026-08-20T22:39:31",
+ "publishedAt": "2026-08-21T02:39:51.550401+00:00",
  "queuedCount": 5,
  "queued": [
   {
