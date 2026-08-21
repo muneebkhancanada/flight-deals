@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DUB->BKK 2026-10-25",
- "checksDone": 10686,
+ "phase": "WAW->NAP 2026-12-24",
+ "checksDone": 11031,
  "checksPlanned": 17216,
- "percent": 62,
- "dealsFound": 2414,
- "updatedAt": "2026-08-21T10:21:51",
- "publishedAt": "2026-08-21T14:22:04.745346+00:00",
+ "percent": 64,
+ "dealsFound": 2477,
+ "updatedAt": "2026-08-21T10:37:06",
+ "publishedAt": "2026-08-21T14:37:24.912393+00:00",
  "queuedCount": 3,
  "queued": [
   {
