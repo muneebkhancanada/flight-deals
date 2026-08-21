@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LIS->HKG 2026-10-25",
- "checksDone": 13398,
+ "phase": "DEN->CAI 2026-08-26",
+ "checksDone": 13737,
  "checksPlanned": 17216,
- "percent": 78,
- "dealsFound": 3113,
- "updatedAt": "2026-08-21T12:24:35",
- "publishedAt": "2026-08-21T16:24:50.056748+00:00",
+ "percent": 80,
+ "dealsFound": 3183,
+ "updatedAt": "2026-08-21T12:39:56",
+ "publishedAt": "2026-08-21T16:40:09.616348+00:00",
  "queuedCount": 3,
  "queued": [
   {
