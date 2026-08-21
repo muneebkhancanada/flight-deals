@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAH->MNL 2026-11-14",
- "checksDone": 103767,
+ "phase": "LAX->SIN 2027-03-20",
+ "checksDone": 104109,
  "checksPlanned": 104236,
  "percent": 100,
- "dealsFound": 19304,
- "updatedAt": "2026-08-21T01:12:56",
- "publishedAt": "2026-08-21T05:13:09.703905+00:00",
+ "dealsFound": 19489,
+ "updatedAt": "2026-08-21T01:28:17",
+ "publishedAt": "2026-08-21T05:28:30.024347+00:00",
  "queuedCount": 5,
  "queued": [
   {
