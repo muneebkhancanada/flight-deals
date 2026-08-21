@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ICN->IAD 2027-03-20",
- "checksDone": 96933,
+ "phase": "CMB->ORD 2026-11-14",
+ "checksDone": 97263,
  "checksPlanned": 104236,
  "percent": 93,
- "dealsFound": 17480,
- "updatedAt": "2026-08-20T20:06:20",
- "publishedAt": "2026-08-21T00:06:34.755701+00:00",
+ "dealsFound": 17557,
+ "updatedAt": "2026-08-20T20:21:36",
+ "publishedAt": "2026-08-21T00:21:53.246331+00:00",
  "queuedCount": 5,
  "queued": [
   {
