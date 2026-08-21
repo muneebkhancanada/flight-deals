@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "full",
- "phase": "LAX->SIN 2027-03-20",
- "checksDone": 104109,
+ "phase": "finished",
+ "checksDone": 104236,
  "checksPlanned": 104236,
  "percent": 100,
- "dealsFound": 19489,
- "updatedAt": "2026-08-21T01:28:17",
- "publishedAt": "2026-08-21T05:28:30.024347+00:00",
+ "dealsFound": 19534,
+ "updatedAt": "2026-08-21T01:34:05",
+ "publishedAt": "2026-08-21T05:34:19.016859+00:00",
  "queuedCount": 5,
  "queued": [
   {
