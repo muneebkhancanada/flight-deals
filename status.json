@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LHR->ZNZ 2026-12-24",
- "checksDone": 4827,
+ "phase": "CDG->TAS 2027-02-22",
+ "checksDone": 5172,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 981,
- "updatedAt": "2026-08-21T06:00:54",
- "publishedAt": "2026-08-21T10:01:08.014728+00:00",
+ "percent": 30,
+ "dealsFound": 1029,
+ "updatedAt": "2026-08-21T06:16:14",
+ "publishedAt": "2026-08-21T10:16:28.406003+00:00",
  "queuedCount": 3,
  "queued": [
   {
