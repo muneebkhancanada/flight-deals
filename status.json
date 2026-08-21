@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EDI->GIG 2026-08-26",
- "checksDone": 16077,
+ "phase": "LAX->CPH 2026-08-26",
+ "checksDone": 16413,
  "checksPlanned": 17216,
- "percent": 93,
- "dealsFound": 3758,
- "updatedAt": "2026-08-21T14:27:16",
- "publishedAt": "2026-08-21T18:27:35.804077+00:00",
+ "percent": 95,
+ "dealsFound": 3877,
+ "updatedAt": "2026-08-21T14:42:34",
+ "publishedAt": "2026-08-21T18:42:54.722485+00:00",
  "queuedCount": 3,
  "queued": [
   {
