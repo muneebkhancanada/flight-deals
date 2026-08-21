@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HAN->DEN 2027-01-16",
- "checksDone": 98274,
+ "phase": "GRU->YUL 2026-11-14",
+ "checksDone": 98607,
  "checksPlanned": 104236,
- "percent": 94,
- "dealsFound": 17681,
- "updatedAt": "2026-08-20T21:07:39",
- "publishedAt": "2026-08-21T01:07:53.789591+00:00",
+ "percent": 95,
+ "dealsFound": 17781,
+ "updatedAt": "2026-08-20T21:22:57",
+ "publishedAt": "2026-08-21T01:23:13.323470+00:00",
  "queuedCount": 5,
  "queued": [
   {
