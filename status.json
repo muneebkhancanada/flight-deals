@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "ATH->GIG 2026-10-16",
- "checksDone": 477,
+ "phase": "finished",
+ "checksDone": 500,
  "checksPlanned": 500,
- "percent": 95,
- "dealsFound": 118,
- "updatedAt": "2026-08-22T11:38:57",
- "publishedAt": "2026-08-22T15:39:20.162261+00:00",
+ "percent": 100,
+ "dealsFound": 121,
+ "updatedAt": "2026-08-22T11:40:31",
+ "publishedAt": "2026-08-22T15:40:43.140252+00:00",
  "queuedCount": 2,
  "queued": [
   {
