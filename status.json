@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SYD->EWR 2026-08-26",
- "checksDone": 8397,
+ "phase": "PVG->IAD 2026-10-25",
+ "checksDone": 8730,
  "checksPlanned": 17216,
- "percent": 49,
- "dealsFound": 1261,
- "updatedAt": "2026-08-21T21:28:08",
- "publishedAt": "2026-08-22T01:28:27.997376+00:00",
+ "percent": 51,
+ "dealsFound": 1315,
+ "updatedAt": "2026-08-21T21:43:30",
+ "publishedAt": "2026-08-22T01:43:47.894088+00:00",
  "queuedCount": 2,
  "queued": [
   {
