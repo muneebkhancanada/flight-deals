@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MEL->BRU 2027-02-22",
- "checksDone": 13224,
+ "phase": "SYD->CDG 2026-08-26",
+ "checksDone": 13569,
  "checksPlanned": 17216,
- "percent": 77,
- "dealsFound": 2346,
- "updatedAt": "2026-08-22T01:02:56",
- "publishedAt": "2026-08-22T05:03:10.166074+00:00",
+ "percent": 79,
+ "dealsFound": 2395,
+ "updatedAt": "2026-08-22T01:18:13",
+ "publishedAt": "2026-08-22T05:18:30.459160+00:00",
  "queuedCount": 2,
  "queued": [
   {
