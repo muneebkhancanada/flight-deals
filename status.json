@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "custom",
- "phase": "finished",
- "checksDone": 1128,
- "checksPlanned": 1128,
- "percent": 100,
- "dealsFound": 101,
- "updatedAt": "2026-08-22T11:07:43",
- "publishedAt": "2026-08-22T15:07:54.602515+00:00",
- "queuedCount": 3,
+ "running": true,
+ "mode": "roundtrip",
+ "phase": "AMS->JNB 2026-12-26",
+ "checksDone": 246,
+ "checksPlanned": 500,
+ "percent": 49,
+ "dealsFound": 54,
+ "updatedAt": "2026-08-22T11:23:42",
+ "publishedAt": "2026-08-22T15:24:01.055925+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "round trip (EU ⇄ all, 10-28 nights)",
-   "mode": "quick"
-  },
   {
    "label": "round trip (primary ⇄ all, 10-28 nights)",
    "mode": "quick"
