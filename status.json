@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "GRU->SFO 2026-10-25",
- "checksDone": 14262,
+ "phase": "GIG->EDI 2026-08-26",
+ "checksDone": 14613,
  "checksPlanned": 17216,
- "percent": 83,
- "dealsFound": 2527,
- "updatedAt": "2026-08-22T01:48:52",
- "publishedAt": "2026-08-22T05:49:09.985109+00:00",
+ "percent": 85,
+ "dealsFound": 2600,
+ "updatedAt": "2026-08-22T02:04:16",
+ "publishedAt": "2026-08-22T06:04:28.949294+00:00",
  "queuedCount": 2,
  "queued": [
   {
