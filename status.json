@@ -1,19 +1,15 @@
 {
- "running": false,
+ "running": true,
  "mode": "daily",
- "phase": "finished",
- "checksDone": 2750,
+ "phase": "YYZ->BAH 2026-12-31",
+ "checksDone": 333,
  "checksPlanned": 2750,
- "percent": 100,
- "dealsFound": 16,
- "updatedAt": "2026-08-22T17:44:26",
- "publishedAt": "2026-08-22T21:44:39.355069+00:00",
- "queuedCount": 6,
+ "percent": 12,
+ "dealsFound": 1,
+ "updatedAt": "2026-08-22T18:00:07",
+ "publishedAt": "2026-08-22T22:00:20.312892+00:00",
+ "queuedCount": 5,
  "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  },
   {
    "label": "daily",
    "mode": "daily"
