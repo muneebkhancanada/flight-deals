@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "roundtrip",
- "phase": "AMS->JNB 2026-12-26",
- "checksDone": 246,
+ "phase": "ATH->GIG 2026-10-16",
+ "checksDone": 477,
  "checksPlanned": 500,
- "percent": 49,
- "dealsFound": 54,
- "updatedAt": "2026-08-22T11:23:42",
- "publishedAt": "2026-08-22T15:24:01.055925+00:00",
+ "percent": 95,
+ "dealsFound": 118,
+ "updatedAt": "2026-08-22T11:38:57",
+ "publishedAt": "2026-08-22T15:39:20.162261+00:00",
  "queuedCount": 2,
  "queued": [
   {
