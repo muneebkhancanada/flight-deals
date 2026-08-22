@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "roundtrip",
- "phase": "YYZ->MCT 2027-04-14",
- "checksDone": 213,
+ "phase": "YYZ->TUN 2026-10-19",
+ "checksDone": 459,
  "checksPlanned": 500,
- "percent": 43,
- "dealsFound": 73,
- "updatedAt": "2026-08-22T11:56:09",
- "publishedAt": "2026-08-22T15:56:30.876888+00:00",
+ "percent": 92,
+ "dealsFound": 173,
+ "updatedAt": "2026-08-22T12:11:36",
+ "publishedAt": "2026-08-22T16:11:50.680490+00:00",
  "queuedCount": 1,
  "queued": [
   {
