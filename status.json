@@ -1,19 +1,15 @@
 {
- "running": false,
+ "running": true,
  "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 500,
+ "phase": "YYZ->MCT 2027-04-14",
+ "checksDone": 213,
  "checksPlanned": 500,
- "percent": 100,
- "dealsFound": 121,
- "updatedAt": "2026-08-22T11:40:31",
- "publishedAt": "2026-08-22T15:40:43.140252+00:00",
- "queuedCount": 2,
+ "percent": 43,
+ "dealsFound": 73,
+ "updatedAt": "2026-08-22T11:56:09",
+ "publishedAt": "2026-08-22T15:56:30.876888+00:00",
+ "queuedCount": 1,
  "queued": [
-  {
-   "label": "round trip (primary ⇄ all, 10-28 nights)",
-   "mode": "quick"
-  },
   {
    "label": "daily",
    "mode": "daily"
