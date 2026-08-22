@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IST->MXP 2026-08-26",
- "checksDone": 6285,
+ "phase": "CMN->LIS 2026-10-25",
+ "checksDone": 6642,
  "checksPlanned": 17216,
- "percent": 37,
- "dealsFound": 811,
- "updatedAt": "2026-08-21T19:56:13",
- "publishedAt": "2026-08-21T23:56:29.816353+00:00",
+ "percent": 39,
+ "dealsFound": 870,
+ "updatedAt": "2026-08-21T20:11:34",
+ "publishedAt": "2026-08-22T00:11:49.537730+00:00",
  "queuedCount": 2,
  "queued": [
   {
