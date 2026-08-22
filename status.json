@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VIE->MXP 2026-12-24",
- "checksDone": 11475,
+ "phase": "AGP->EDI 2026-08-26",
+ "checksDone": 11817,
  "checksPlanned": 17216,
- "percent": 67,
- "dealsFound": 2004,
- "updatedAt": "2026-08-21T23:46:14",
- "publishedAt": "2026-08-22T03:46:28.335784+00:00",
+ "percent": 69,
+ "dealsFound": 2078,
+ "updatedAt": "2026-08-22T00:01:29",
+ "publishedAt": "2026-08-22T04:01:48.925040+00:00",
  "queuedCount": 2,
  "queued": [
   {
