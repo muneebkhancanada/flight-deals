@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NBO->CLT 2026-12-24",
- "checksDone": 9063,
+ "phase": "TPE->YVR 2026-12-24",
+ "checksDone": 9399,
  "checksPlanned": 17216,
- "percent": 53,
- "dealsFound": 1374,
- "updatedAt": "2026-08-21T21:58:48",
- "publishedAt": "2026-08-22T01:59:07.914452+00:00",
+ "percent": 55,
+ "dealsFound": 1455,
+ "updatedAt": "2026-08-21T22:14:10",
+ "publishedAt": "2026-08-22T02:14:28.404725+00:00",
  "queuedCount": 2,
  "queued": [
   {
