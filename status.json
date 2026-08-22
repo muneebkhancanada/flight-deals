@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AMM->LIS 2026-12-24",
- "checksDone": 10095,
+ "phase": "KUL->EDI 2026-10-25",
+ "checksDone": 10446,
  "checksPlanned": 17216,
- "percent": 59,
- "dealsFound": 1667,
- "updatedAt": "2026-08-21T22:44:51",
- "publishedAt": "2026-08-22T02:45:09.902282+00:00",
+ "percent": 61,
+ "dealsFound": 1741,
+ "updatedAt": "2026-08-21T23:00:16",
+ "publishedAt": "2026-08-22T03:00:30.569101+00:00",
  "queuedCount": 2,
  "queued": [
   {
