@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 500,
- "checksPlanned": 500,
- "percent": 100,
- "dealsFound": 181,
- "updatedAt": "2026-08-22T12:14:12",
- "publishedAt": "2026-08-22T16:14:26.890729+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  }
- ],
+ "running": true,
+ "mode": "daily",
+ "phase": "YYZ->RUH 2027-04-08",
+ "checksDone": 357,
+ "checksPlanned": 2750,
+ "percent": 13,
+ "dealsFound": 27,
+ "updatedAt": "2026-08-22T12:29:58",
+ "publishedAt": "2026-08-22T16:30:11.996934+00:00",
+ "queuedCount": 0,
+ "queued": [],
  "totalDeals": 75000
 }
