@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VCE->BUF 2027-02-23",
- "checksDone": 660,
+ "phase": "SYD->YUL 2026-10-26",
+ "checksDone": 1026,
  "checksPlanned": 1128,
- "percent": 59,
- "dealsFound": 68,
- "updatedAt": "2026-08-22T10:47:34",
- "publishedAt": "2026-08-22T14:47:49.769047+00:00",
+ "percent": 91,
+ "dealsFound": 95,
+ "updatedAt": "2026-08-22T11:02:50",
+ "publishedAt": "2026-08-22T15:03:08.501159+00:00",
  "queuedCount": 3,
  "queued": [
   {
