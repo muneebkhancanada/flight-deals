@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MUC->LGW 2026-10-25",
- "checksDone": 12162,
+ "phase": "WAW->OSL 2026-10-25",
+ "checksDone": 12522,
  "checksPlanned": 17216,
- "percent": 71,
- "dealsFound": 2123,
- "updatedAt": "2026-08-22T00:16:49",
- "publishedAt": "2026-08-22T04:17:08.203638+00:00",
+ "percent": 73,
+ "dealsFound": 2208,
+ "updatedAt": "2026-08-22T00:32:13",
+ "publishedAt": "2026-08-22T04:32:27.506527+00:00",
  "queuedCount": 2,
  "queued": [
   {
