@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "MXP->IAD 2026-12-24",
- "checksDone": 16959,
+ "phase": "finished",
+ "checksDone": 17216,
  "checksPlanned": 17216,
- "percent": 99,
- "dealsFound": 2916,
- "updatedAt": "2026-08-22T03:51:33",
- "publishedAt": "2026-08-22T07:51:50.445329+00:00",
+ "percent": 100,
+ "dealsFound": 2933,
+ "updatedAt": "2026-08-22T04:03:19",
+ "publishedAt": "2026-08-22T08:03:36.818001+00:00",
  "queuedCount": 2,
  "queued": [
   {
