@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "OSL->LAX 2026-10-25",
- "checksDone": 15642,
+ "phase": "LHR->MIA 2027-02-22",
+ "checksDone": 15972,
  "checksPlanned": 17216,
- "percent": 91,
- "dealsFound": 2701,
- "updatedAt": "2026-08-22T02:50:15",
- "publishedAt": "2026-08-22T06:50:28.842107+00:00",
+ "percent": 93,
+ "dealsFound": 2749,
+ "updatedAt": "2026-08-22T03:05:34",
+ "publishedAt": "2026-08-22T07:05:49.002598+00:00",
  "queuedCount": 2,
  "queued": [
   {
