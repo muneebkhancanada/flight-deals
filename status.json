@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "GIG->EDI 2026-08-26",
- "checksDone": 14613,
+ "phase": "SCL->EDI 2026-12-24",
+ "checksDone": 14955,
  "checksPlanned": 17216,
- "percent": 85,
- "dealsFound": 2600,
- "updatedAt": "2026-08-22T02:04:16",
- "publishedAt": "2026-08-22T06:04:28.949294+00:00",
+ "percent": 87,
+ "dealsFound": 2637,
+ "updatedAt": "2026-08-22T02:19:34",
+ "publishedAt": "2026-08-22T06:19:48.220833+00:00",
  "queuedCount": 2,
  "queued": [
   {
