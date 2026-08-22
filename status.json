@@ -1,14 +1,27 @@
 {
- "running": false,
- "mode": "roundtrip",
- "phase": "finished",
- "checksDone": 500,
- "checksPlanned": 500,
- "percent": 100,
- "dealsFound": 193,
- "updatedAt": "2026-08-22T05:10:21",
- "publishedAt": "2026-08-22T09:10:36.344299+00:00",
- "queuedCount": 0,
- "queued": [],
+ "running": true,
+ "mode": "custom",
+ "phase": "NBO->YYZ 2026-08-27",
+ "checksDone": 321,
+ "checksPlanned": 1128,
+ "percent": 28,
+ "dealsFound": 45,
+ "updatedAt": "2026-08-22T10:32:07",
+ "publishedAt": "2026-08-22T14:32:28.045841+00:00",
+ "queuedCount": 3,
+ "queued": [
+  {
+   "label": "round trip (EU ⇄ all, 10-28 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "round trip (primary ⇄ all, 10-28 nights)",
+   "mode": "quick"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  }
+ ],
  "totalDeals": 75000
 }
