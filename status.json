@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "PVG->IAD 2026-10-25",
- "checksDone": 8730,
+ "phase": "NBO->CLT 2026-12-24",
+ "checksDone": 9063,
  "checksPlanned": 17216,
- "percent": 51,
- "dealsFound": 1315,
- "updatedAt": "2026-08-21T21:43:30",
- "publishedAt": "2026-08-22T01:43:47.894088+00:00",
+ "percent": 53,
+ "dealsFound": 1374,
+ "updatedAt": "2026-08-21T21:58:48",
+ "publishedAt": "2026-08-22T01:59:07.914452+00:00",
  "queuedCount": 2,
  "queued": [
   {
