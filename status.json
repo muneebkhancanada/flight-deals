@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ZRH->MAN 2026-08-26",
- "checksDone": 7713,
+ "phase": "SJJ->EDI 2026-10-25",
+ "checksDone": 8058,
  "checksPlanned": 17216,
- "percent": 45,
- "dealsFound": 1081,
- "updatedAt": "2026-08-21T20:57:32",
- "publishedAt": "2026-08-22T00:57:50.185138+00:00",
+ "percent": 47,
+ "dealsFound": 1188,
+ "updatedAt": "2026-08-21T21:12:53",
+ "publishedAt": "2026-08-22T01:13:08.759328+00:00",
  "queuedCount": 2,
  "queued": [
   {
