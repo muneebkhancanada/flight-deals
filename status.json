@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SYD->CDG 2026-08-26",
- "checksDone": 13569,
+ "phase": "BUD->IAH 2026-08-26",
+ "checksDone": 13917,
  "checksPlanned": 17216,
- "percent": 79,
- "dealsFound": 2395,
- "updatedAt": "2026-08-22T01:18:13",
- "publishedAt": "2026-08-22T05:18:30.459160+00:00",
+ "percent": 81,
+ "dealsFound": 2470,
+ "updatedAt": "2026-08-22T01:33:32",
+ "publishedAt": "2026-08-22T05:33:50.545080+00:00",
  "queuedCount": 2,
  "queued": [
   {
