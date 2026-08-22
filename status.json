@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "ZNZ->YYZ 2026-08-27",
- "checksDone": 1680,
+ "phase": "BKK->FCO 2026-12-31",
+ "checksDone": 2025,
  "checksPlanned": 2750,
- "percent": 61,
- "dealsFound": 9,
- "updatedAt": "2026-08-22T16:56:13",
- "publishedAt": "2026-08-22T20:56:26.418231+00:00",
+ "percent": 74,
+ "dealsFound": 11,
+ "updatedAt": "2026-08-22T17:11:26",
+ "publishedAt": "2026-08-22T21:11:45.976926+00:00",
  "queuedCount": 6,
  "queued": [
   {
