@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "BCN->UIO 2027-02-23",
- "checksDone": 17016,
+ "phase": "finished",
+ "checksDone": 17216,
  "checksPlanned": 17216,
- "percent": 99,
- "dealsFound": 3971,
- "updatedAt": "2026-08-23T10:27:28",
- "publishedAt": "2026-08-23T14:27:47.222965+00:00",
+ "percent": 100,
+ "dealsFound": 3977,
+ "updatedAt": "2026-08-23T10:36:51",
+ "publishedAt": "2026-08-23T14:37:11.493935+00:00",
  "queuedCount": 3,
  "queued": [
   {
