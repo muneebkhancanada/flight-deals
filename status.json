@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TPE->MSP 2027-02-24",
- "checksDone": 1644,
+ "phase": "SCL->CLT 2026-10-27",
+ "checksDone": 1986,
  "checksPlanned": 17216,
- "percent": 10,
- "dealsFound": 188,
- "updatedAt": "2026-08-23T11:54:15",
- "publishedAt": "2026-08-23T15:54:31.896607+00:00",
+ "percent": 12,
+ "dealsFound": 222,
+ "updatedAt": "2026-08-23T12:09:37",
+ "publishedAt": "2026-08-23T16:09:51.403333+00:00",
  "queuedCount": 4,
  "queued": [
   {
