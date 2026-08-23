@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DFW->ZRH 2026-08-27",
- "checksDone": 14985,
+ "phase": "VIE->DUB 2026-12-25",
+ "checksDone": 15327,
  "checksPlanned": 17216,
- "percent": 87,
- "dealsFound": 3420,
- "updatedAt": "2026-08-23T08:55:34",
- "publishedAt": "2026-08-23T12:55:47.209524+00:00",
+ "percent": 89,
+ "dealsFound": 3547,
+ "updatedAt": "2026-08-23T09:10:48",
+ "publishedAt": "2026-08-23T13:11:09.238416+00:00",
  "queuedCount": 3,
  "queued": [
   {
