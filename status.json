@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DEN->NRT 2026-10-26",
- "checksDone": 9810,
+ "phase": "LHR->SGN 2026-12-25",
+ "checksDone": 10143,
  "checksPlanned": 17216,
- "percent": 57,
- "dealsFound": 2165,
- "updatedAt": "2026-08-23T05:05:23",
- "publishedAt": "2026-08-23T09:05:38.973584+00:00",
+ "percent": 59,
+ "dealsFound": 2332,
+ "updatedAt": "2026-08-23T05:20:45",
+ "publishedAt": "2026-08-23T09:20:59.635111+00:00",
  "queuedCount": 3,
  "queued": [
   {
