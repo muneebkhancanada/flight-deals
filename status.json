@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ATH->DXB 2026-10-26",
- "checksDone": 7770,
+ "phase": "MAN->KHI 2026-10-26",
+ "checksDone": 8118,
  "checksPlanned": 17216,
- "percent": 45,
- "dealsFound": 1529,
- "updatedAt": "2026-08-23T03:33:34",
- "publishedAt": "2026-08-23T07:33:47.283933+00:00",
+ "percent": 47,
+ "dealsFound": 1590,
+ "updatedAt": "2026-08-23T03:48:50",
+ "publishedAt": "2026-08-23T07:49:06.462818+00:00",
  "queuedCount": 3,
  "queued": [
   {
