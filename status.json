@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MAD->MUC 2026-10-26",
- "checksDone": 10494,
+ "phase": "CPH->NBO 2026-08-27",
+ "checksDone": 10845,
  "checksPlanned": 17216,
- "percent": 61,
- "dealsFound": 2374,
- "updatedAt": "2026-08-23T05:36:02",
- "publishedAt": "2026-08-23T09:36:19.587450+00:00",
+ "percent": 63,
+ "dealsFound": 2446,
+ "updatedAt": "2026-08-23T05:51:22",
+ "publishedAt": "2026-08-23T09:51:37.850612+00:00",
  "queuedCount": 3,
  "queued": [
   {
