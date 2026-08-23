@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SCL->YOW 2026-08-28",
- "checksDone": 9321,
+ "phase": "VIE->MUC 2027-02-24",
+ "checksDone": 9660,
  "checksPlanned": 17216,
- "percent": 54,
- "dealsFound": 1472,
- "updatedAt": "2026-08-23T17:50:55",
- "publishedAt": "2026-08-23T21:51:20.202531+00:00",
+ "percent": 56,
+ "dealsFound": 1577,
+ "updatedAt": "2026-08-23T18:06:27",
+ "publishedAt": "2026-08-23T22:06:45.321132+00:00",
  "queuedCount": 4,
  "queued": [
   {
