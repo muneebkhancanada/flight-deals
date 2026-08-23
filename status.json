@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LGW->BRU 2027-02-23",
- "checksDone": 4896,
+ "phase": "AMS->PRG 2026-08-27",
+ "checksDone": 5253,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 1051,
- "updatedAt": "2026-08-23T01:31:00",
- "publishedAt": "2026-08-23T05:31:18.505437+00:00",
+ "percent": 31,
+ "dealsFound": 1104,
+ "updatedAt": "2026-08-23T01:46:23",
+ "publishedAt": "2026-08-23T05:46:35.437417+00:00",
  "queuedCount": 3,
  "queued": [
   {
