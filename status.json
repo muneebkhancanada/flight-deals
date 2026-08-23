@@ -1,21 +1,25 @@
 {
- "running": false,
+ "running": true,
  "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
+ "phase": "JNB->YYZ 2026-12-26",
+ "checksDone": 315,
  "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 3977,
- "updatedAt": "2026-08-23T10:36:51",
- "publishedAt": "2026-08-23T14:37:11.493935+00:00",
- "queuedCount": 3,
+ "percent": 2,
+ "dealsFound": 40,
+ "updatedAt": "2026-08-23T10:52:41",
+ "publishedAt": "2026-08-23T14:52:58.872545+00:00",
+ "queuedCount": 4,
  "queued": [
   {
-   "label": "inbound from everywhere → NA, EU",
+   "label": "round trip (primary ⇄ all, 15-40 nights)",
    "mode": "quick"
   },
   {
-   "label": "round trip (primary ⇄ all, 15-40 nights)",
+   "label": "custom (YYZ, IAD, JFK → everywhere)",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from everywhere → YYZ, IAD, JFK",
    "mode": "quick"
   },
   {
