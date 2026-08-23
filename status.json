@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ATL->OPO 2026-10-26",
- "checksDone": 13602,
+ "phase": "MAD->HEL 2027-02-23",
+ "checksDone": 13944,
  "checksPlanned": 17216,
- "percent": 79,
- "dealsFound": 3124,
- "updatedAt": "2026-08-23T07:53:51",
- "publishedAt": "2026-08-23T11:54:07.354484+00:00",
+ "percent": 81,
+ "dealsFound": 3187,
+ "updatedAt": "2026-08-23T08:09:09",
+ "publishedAt": "2026-08-23T12:09:26.407111+00:00",
  "queuedCount": 3,
  "queued": [
   {
