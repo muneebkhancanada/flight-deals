@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NAP->CLT 2026-08-28",
- "checksDone": 10689,
+ "phase": "HKG->LHR 2026-08-28",
+ "checksDone": 11025,
  "checksPlanned": 17216,
- "percent": 62,
- "dealsFound": 1812,
- "updatedAt": "2026-08-23T18:52:37",
- "publishedAt": "2026-08-23T22:53:01.944324+00:00",
+ "percent": 64,
+ "dealsFound": 1892,
+ "updatedAt": "2026-08-23T19:08:04",
+ "publishedAt": "2026-08-23T23:08:25.912665+00:00",
  "queuedCount": 4,
  "queued": [
   {
