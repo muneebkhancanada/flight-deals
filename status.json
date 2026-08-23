@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MLE->PHL 2026-12-26",
- "checksDone": 999,
+ "phase": "ALA->ORD 2026-12-26",
+ "checksDone": 1335,
  "checksPlanned": 17216,
- "percent": 6,
- "dealsFound": 106,
- "updatedAt": "2026-08-23T11:23:27",
- "publishedAt": "2026-08-23T15:23:50.171871+00:00",
+ "percent": 8,
+ "dealsFound": 156,
+ "updatedAt": "2026-08-23T11:38:57",
+ "publishedAt": "2026-08-23T15:39:11.985317+00:00",
  "queuedCount": 4,
  "queued": [
   {
