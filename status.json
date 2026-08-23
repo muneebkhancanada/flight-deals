@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BCN->DPS 2026-12-25",
- "checksDone": 12219,
+ "phase": "WAW->ZRH 2026-12-25",
+ "checksDone": 12567,
  "checksPlanned": 17216,
- "percent": 71,
- "dealsFound": 2810,
- "updatedAt": "2026-08-23T06:52:38",
- "publishedAt": "2026-08-23T10:52:50.537363+00:00",
+ "percent": 73,
+ "dealsFound": 2876,
+ "updatedAt": "2026-08-23T07:07:54",
+ "publishedAt": "2026-08-23T11:08:10.960389+00:00",
  "queuedCount": 3,
  "queued": [
   {
