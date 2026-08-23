@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LHR->SGN 2026-12-25",
- "checksDone": 10143,
+ "phase": "MAD->MUC 2026-10-26",
+ "checksDone": 10494,
  "checksPlanned": 17216,
- "percent": 59,
- "dealsFound": 2332,
- "updatedAt": "2026-08-23T05:20:45",
- "publishedAt": "2026-08-23T09:20:59.635111+00:00",
+ "percent": 61,
+ "dealsFound": 2374,
+ "updatedAt": "2026-08-23T05:36:02",
+ "publishedAt": "2026-08-23T09:36:19.587450+00:00",
  "queuedCount": 3,
  "queued": [
   {
