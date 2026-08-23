@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LGW->EDI 2026-08-27",
- "checksDone": 11865,
+ "phase": "BCN->DPS 2026-12-25",
+ "checksDone": 12219,
  "checksPlanned": 17216,
- "percent": 69,
- "dealsFound": 2757,
- "updatedAt": "2026-08-23T06:37:19",
- "publishedAt": "2026-08-23T10:37:32.161693+00:00",
+ "percent": 71,
+ "dealsFound": 2810,
+ "updatedAt": "2026-08-23T06:52:38",
+ "publishedAt": "2026-08-23T10:52:50.537363+00:00",
  "queuedCount": 3,
  "queued": [
   {
