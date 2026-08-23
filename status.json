@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KHI->HNL 2027-02-24",
- "checksDone": 4236,
+ "phase": "CAI->LHR 2026-08-28",
+ "checksDone": 4509,
  "checksPlanned": 17216,
- "percent": 25,
- "dealsFound": 409,
- "updatedAt": "2026-08-23T13:57:02",
- "publishedAt": "2026-08-23T17:58:07.930491+00:00",
+ "percent": 26,
+ "dealsFound": 461,
+ "updatedAt": "2026-08-23T14:14:45",
+ "publishedAt": "2026-08-23T18:15:23.323115+00:00",
  "queuedCount": 4,
  "queued": [
   {
