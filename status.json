@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CLT->HND 2026-10-26",
- "checksDone": 11526,
+ "phase": "LGW->EDI 2026-08-27",
+ "checksDone": 11865,
  "checksPlanned": 17216,
- "percent": 67,
- "dealsFound": 2623,
- "updatedAt": "2026-08-23T06:21:58",
- "publishedAt": "2026-08-23T10:22:14.142730+00:00",
+ "percent": 69,
+ "dealsFound": 2757,
+ "updatedAt": "2026-08-23T06:37:19",
+ "publishedAt": "2026-08-23T10:37:32.161693+00:00",
  "queuedCount": 3,
  "queued": [
   {
