@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "OSL->DAR 2027-02-23",
- "checksDone": 7416,
+ "phase": "ATH->DXB 2026-10-26",
+ "checksDone": 7770,
  "checksPlanned": 17216,
- "percent": 43,
- "dealsFound": 1482,
- "updatedAt": "2026-08-23T03:18:15",
- "publishedAt": "2026-08-23T07:18:27.656514+00:00",
+ "percent": 45,
+ "dealsFound": 1529,
+ "updatedAt": "2026-08-23T03:33:34",
+ "publishedAt": "2026-08-23T07:33:47.283933+00:00",
  "queuedCount": 3,
  "queued": [
   {
