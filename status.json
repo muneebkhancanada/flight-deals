@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TUN->MAD 2026-12-26",
- "checksDone": 5895,
+ "phase": "AMS->MXP 2026-08-28",
+ "checksDone": 6237,
  "checksPlanned": 17216,
- "percent": 34,
- "dealsFound": 803,
- "updatedAt": "2026-08-23T15:16:45",
- "publishedAt": "2026-08-23T19:17:07.347605+00:00",
+ "percent": 36,
+ "dealsFound": 860,
+ "updatedAt": "2026-08-23T15:32:08",
+ "publishedAt": "2026-08-23T19:32:33.057888+00:00",
  "queuedCount": 4,
  "queued": [
   {
