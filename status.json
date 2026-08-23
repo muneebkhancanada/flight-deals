@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CGK->MXP 2026-08-28",
- "checksDone": 10005,
+ "phase": "VIE->WAW 2026-08-28",
+ "checksDone": 10353,
  "checksPlanned": 17216,
- "percent": 58,
- "dealsFound": 1667,
- "updatedAt": "2026-08-23T18:21:46",
- "publishedAt": "2026-08-23T22:22:11.568061+00:00",
+ "percent": 60,
+ "dealsFound": 1751,
+ "updatedAt": "2026-08-23T18:37:16",
+ "publishedAt": "2026-08-23T22:37:37.318014+00:00",
  "queuedCount": 4,
  "queued": [
   {
