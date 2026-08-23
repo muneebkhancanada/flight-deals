@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "OPO->MAN 2027-02-24",
- "checksDone": 7656,
+ "phase": "DAR->MAN 2026-10-27",
+ "checksDone": 7998,
  "checksPlanned": 17216,
- "percent": 44,
- "dealsFound": 1110,
- "updatedAt": "2026-08-23T16:33:51",
- "publishedAt": "2026-08-23T20:34:13.042491+00:00",
+ "percent": 46,
+ "dealsFound": 1217,
+ "updatedAt": "2026-08-23T16:49:17",
+ "publishedAt": "2026-08-23T20:49:37.894464+00:00",
  "queuedCount": 4,
  "queued": [
   {
