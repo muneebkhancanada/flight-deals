@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MLE->FRA 2027-02-24",
- "checksDone": 5184,
+ "phase": "BJS->ZRH 2026-12-26",
+ "checksDone": 5535,
  "checksPlanned": 17216,
- "percent": 30,
- "dealsFound": 647,
- "updatedAt": "2026-08-23T14:45:56",
- "publishedAt": "2026-08-23T18:46:18.870827+00:00",
+ "percent": 32,
+ "dealsFound": 731,
+ "updatedAt": "2026-08-23T15:01:24",
+ "publishedAt": "2026-08-23T19:01:43.730599+00:00",
  "queuedCount": 4,
  "queued": [
   {
