@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "EDI->BUF 2026-10-27",
- "checksDone": 3690,
+ "phase": "BCN->HNL 2027-02-24",
+ "checksDone": 4020,
  "checksPlanned": 17216,
- "percent": 21,
- "dealsFound": 378,
- "updatedAt": "2026-08-23T13:26:16",
- "publishedAt": "2026-08-23T17:26:34.199186+00:00",
+ "percent": 23,
+ "dealsFound": 398,
+ "updatedAt": "2026-08-23T13:41:36",
+ "publishedAt": "2026-08-23T17:42:12.617070+00:00",
  "queuedCount": 4,
  "queued": [
   {
