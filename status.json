@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "HND->EWR 2026-12-26",
- "checksDone": 8343,
+ "phase": "VCE->IAD 2026-12-26",
+ "checksDone": 8667,
  "checksPlanned": 17216,
- "percent": 48,
- "dealsFound": 1286,
- "updatedAt": "2026-08-23T17:04:43",
- "publishedAt": "2026-08-23T21:05:04.986032+00:00",
+ "percent": 50,
+ "dealsFound": 1347,
+ "updatedAt": "2026-08-23T17:20:06",
+ "publishedAt": "2026-08-23T21:20:30.265635+00:00",
  "queuedCount": 4,
  "queued": [
   {
