@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "YYZ->BAH 2026-11-19",
- "checksDone": 330,
+ "phase": "YYZ->JNB 2026-12-17",
+ "checksDone": 672,
  "checksPlanned": 2750,
- "percent": 12,
- "dealsFound": 0,
- "updatedAt": "2026-08-22T20:05:39",
- "publishedAt": "2026-08-23T00:05:58.446683+00:00",
+ "percent": 24,
+ "dealsFound": 3,
+ "updatedAt": "2026-08-22T20:20:53",
+ "publishedAt": "2026-08-23T00:21:13.193284+00:00",
  "queuedCount": 4,
  "queued": [
   {
