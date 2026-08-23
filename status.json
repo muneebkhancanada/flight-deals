@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VCE->IAD 2026-12-26",
- "checksDone": 8667,
+ "phase": "GRU->ATL 2026-10-27",
+ "checksDone": 8994,
  "checksPlanned": 17216,
- "percent": 50,
- "dealsFound": 1347,
- "updatedAt": "2026-08-23T17:20:06",
- "publishedAt": "2026-08-23T21:20:30.265635+00:00",
+ "percent": 52,
+ "dealsFound": 1412,
+ "updatedAt": "2026-08-23T17:35:32",
+ "publishedAt": "2026-08-23T21:35:55.276019+00:00",
  "queuedCount": 4,
  "queued": [
   {
