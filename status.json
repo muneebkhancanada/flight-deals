@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "VIE->ARN 2026-12-25",
- "checksDone": 13251,
+ "phase": "ATL->OPO 2026-10-26",
+ "checksDone": 13602,
  "checksPlanned": 17216,
- "percent": 77,
- "dealsFound": 3052,
- "updatedAt": "2026-08-23T07:38:33",
- "publishedAt": "2026-08-23T11:38:48.856540+00:00",
+ "percent": 79,
+ "dealsFound": 3124,
+ "updatedAt": "2026-08-23T07:53:51",
+ "publishedAt": "2026-08-23T11:54:07.354484+00:00",
  "queuedCount": 3,
  "queued": [
   {
