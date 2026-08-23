@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MAD->HEL 2027-02-23",
- "checksDone": 13944,
+ "phase": "MIA->BCN 2026-10-26",
+ "checksDone": 14298,
  "checksPlanned": 17216,
- "percent": 81,
- "dealsFound": 3187,
- "updatedAt": "2026-08-23T08:09:09",
- "publishedAt": "2026-08-23T12:09:26.407111+00:00",
+ "percent": 83,
+ "dealsFound": 3246,
+ "updatedAt": "2026-08-23T08:24:29",
+ "publishedAt": "2026-08-23T12:24:46.178777+00:00",
  "queuedCount": 3,
  "queued": [
   {
