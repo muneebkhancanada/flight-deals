@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ORD->RUH 2027-02-23",
- "checksDone": 1368,
+ "phase": "MSP->SJJ 2026-10-26",
+ "checksDone": 1698,
  "checksPlanned": 17216,
- "percent": 8,
- "dealsFound": 306,
- "updatedAt": "2026-08-22T22:57:57",
- "publishedAt": "2026-08-23T02:58:10.136287+00:00",
+ "percent": 10,
+ "dealsFound": 404,
+ "updatedAt": "2026-08-22T23:13:12",
+ "publishedAt": "2026-08-23T03:13:27.725293+00:00",
  "queuedCount": 3,
  "queued": [
   {
