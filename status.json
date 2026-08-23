@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CGK->YUL 2026-08-28",
- "checksDone": 2997,
+ "phase": "DSS->YOW 2026-12-26",
+ "checksDone": 3339,
  "checksPlanned": 17216,
- "percent": 17,
- "dealsFound": 346,
- "updatedAt": "2026-08-23T12:55:36",
- "publishedAt": "2026-08-23T16:55:54.147736+00:00",
+ "percent": 19,
+ "dealsFound": 365,
+ "updatedAt": "2026-08-23T13:10:56",
+ "publishedAt": "2026-08-23T17:11:14.699446+00:00",
  "queuedCount": 4,
  "queued": [
   {
