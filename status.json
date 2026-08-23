@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SFO->LHE 2026-12-25",
- "checksDone": 2763,
+ "phase": "YUL->AUH 2026-12-25",
+ "checksDone": 3099,
  "checksPlanned": 17216,
- "percent": 16,
- "dealsFound": 639,
- "updatedAt": "2026-08-22T23:59:07",
- "publishedAt": "2026-08-23T03:59:25.845215+00:00",
+ "percent": 18,
+ "dealsFound": 725,
+ "updatedAt": "2026-08-23T00:14:30",
+ "publishedAt": "2026-08-23T04:14:46.110299+00:00",
  "queuedCount": 3,
  "queued": [
   {
