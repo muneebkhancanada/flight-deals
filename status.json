@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "VCE->YYZ 2026-08-27",
- "checksDone": 1017,
+ "phase": "BKK->YYZ 2027-02-25",
+ "checksDone": 1353,
  "checksPlanned": 2750,
- "percent": 37,
- "dealsFound": 5,
- "updatedAt": "2026-08-22T20:36:18",
- "publishedAt": "2026-08-23T00:36:32.480923+00:00",
+ "percent": 49,
+ "dealsFound": 6,
+ "updatedAt": "2026-08-22T20:53:13",
+ "publishedAt": "2026-08-23T00:53:30.847885+00:00",
  "queuedCount": 4,
  "queued": [
   {
