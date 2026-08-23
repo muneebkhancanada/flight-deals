@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "GRU->EWR 2026-08-28",
- "checksDone": 657,
+ "phase": "MLE->PHL 2026-12-26",
+ "checksDone": 999,
  "checksPlanned": 17216,
- "percent": 4,
- "dealsFound": 78,
- "updatedAt": "2026-08-23T11:08:03",
- "publishedAt": "2026-08-23T15:08:23.733146+00:00",
+ "percent": 6,
+ "dealsFound": 106,
+ "updatedAt": "2026-08-23T11:23:27",
+ "publishedAt": "2026-08-23T15:23:50.171871+00:00",
  "queuedCount": 4,
  "queued": [
   {
