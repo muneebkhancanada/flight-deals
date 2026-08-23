@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YVR->VIE 2027-02-23",
- "checksDone": 15672,
+ "phase": "VIE->AKL 2026-12-25",
+ "checksDone": 15999,
  "checksPlanned": 17216,
- "percent": 91,
- "dealsFound": 3640,
- "updatedAt": "2026-08-23T09:26:14",
- "publishedAt": "2026-08-23T13:26:27.298151+00:00",
+ "percent": 93,
+ "dealsFound": 3710,
+ "updatedAt": "2026-08-23T09:41:27",
+ "publishedAt": "2026-08-23T13:41:45.829102+00:00",
  "queuedCount": 3,
  "queued": [
   {
