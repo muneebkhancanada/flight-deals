@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "IST->DFW 2026-10-29",
- "checksDone": 2382,
+ "phase": "FCO->DFW 2026-10-29",
+ "checksDone": 2718,
  "checksPlanned": 2750,
- "percent": 87,
+ "percent": 99,
  "dealsFound": 14,
- "updatedAt": "2026-08-22T21:39:14",
- "publishedAt": "2026-08-23T01:39:27.491850+00:00",
+ "updatedAt": "2026-08-22T21:54:33",
+ "publishedAt": "2026-08-23T01:54:46.480432+00:00",
  "queuedCount": 4,
  "queued": [
   {
