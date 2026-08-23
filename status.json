@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CPH->NBO 2026-08-27",
- "checksDone": 10845,
+ "phase": "ORD->MXP 2026-12-25",
+ "checksDone": 11187,
  "checksPlanned": 17216,
- "percent": 63,
- "dealsFound": 2446,
- "updatedAt": "2026-08-23T05:51:22",
- "publishedAt": "2026-08-23T09:51:37.850612+00:00",
+ "percent": 65,
+ "dealsFound": 2505,
+ "updatedAt": "2026-08-23T06:06:43",
+ "publishedAt": "2026-08-23T10:06:55.334180+00:00",
  "queuedCount": 3,
  "queued": [
   {
