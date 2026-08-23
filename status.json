@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SEA->AGP 2026-08-27",
- "checksDone": 16341,
+ "phase": "VIE->GRU 2027-02-23",
+ "checksDone": 16680,
  "checksPlanned": 17216,
- "percent": 95,
- "dealsFound": 3792,
- "updatedAt": "2026-08-23T09:56:48",
- "publishedAt": "2026-08-23T13:57:08.206382+00:00",
+ "percent": 97,
+ "dealsFound": 3903,
+ "updatedAt": "2026-08-23T10:12:15",
+ "publishedAt": "2026-08-23T14:12:27.208849+00:00",
  "queuedCount": 3,
  "queued": [
   {
