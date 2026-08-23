@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KTM->ARN 2026-12-26",
- "checksDone": 6939,
+ "phase": "BUD->WAW 2026-10-27",
+ "checksDone": 7302,
  "checksPlanned": 17216,
- "percent": 40,
- "dealsFound": 971,
- "updatedAt": "2026-08-23T16:03:00",
- "publishedAt": "2026-08-23T20:03:22.069477+00:00",
+ "percent": 42,
+ "dealsFound": 1032,
+ "updatedAt": "2026-08-23T16:18:22",
+ "publishedAt": "2026-08-23T20:18:46.476332+00:00",
  "queuedCount": 4,
  "queued": [
   {
