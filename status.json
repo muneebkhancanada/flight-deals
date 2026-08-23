@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DUB->VIE 2026-08-27",
- "checksDone": 6693,
+ "phase": "CPH->MCT 2026-10-26",
+ "checksDone": 7050,
  "checksPlanned": 17216,
- "percent": 39,
- "dealsFound": 1377,
- "updatedAt": "2026-08-23T02:47:31",
- "publishedAt": "2026-08-23T06:47:48.453035+00:00",
+ "percent": 41,
+ "dealsFound": 1438,
+ "updatedAt": "2026-08-23T03:02:52",
+ "publishedAt": "2026-08-23T07:03:09.374205+00:00",
  "queuedCount": 3,
  "queued": [
   {
