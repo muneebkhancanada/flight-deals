@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "GRU->VIE 2027-02-24",
- "checksDone": 15024,
+ "phase": "MDE->EDI 2026-08-28",
+ "checksDone": 15369,
  "checksPlanned": 17216,
- "percent": 87,
- "dealsFound": 2702,
- "updatedAt": "2026-08-23T22:14:12",
- "publishedAt": "2026-08-24T02:14:38.967532+00:00",
+ "percent": 89,
+ "dealsFound": 2738,
+ "updatedAt": "2026-08-23T22:29:43",
+ "publishedAt": "2026-08-24T02:30:05.206129+00:00",
  "queuedCount": 4,
  "queued": [
   {
