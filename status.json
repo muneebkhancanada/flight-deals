@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AGP->MIA 2027-04-17",
- "checksDone": 17814,
+ "phase": "SCL->SFO 2027-04-17",
+ "checksDone": 18150,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 3367,
- "updatedAt": "2026-08-24T15:40:40",
- "publishedAt": "2026-08-24T19:41:03.174435+00:00",
+ "dealsFound": 3410,
+ "updatedAt": "2026-08-24T15:56:04",
+ "publishedAt": "2026-08-24T19:56:29.679282+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
