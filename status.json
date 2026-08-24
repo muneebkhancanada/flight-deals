@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NBO->LAX 2027-04-17",
- "checksDone": 21486,
+ "phase": "OPO->FCO 2027-02-13",
+ "checksDone": 21831,
  "checksPlanned": 104236,
  "percent": 21,
- "dealsFound": 4154,
- "updatedAt": "2026-08-24T18:30:47",
- "publishedAt": "2026-08-24T22:31:11.106301+00:00",
+ "dealsFound": 4192,
+ "updatedAt": "2026-08-24T18:46:15",
+ "publishedAt": "2026-08-24T22:46:39.326887+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
