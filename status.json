@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "roundtrip",
- "phase": "YYZ->JNB 2027-03-10",
- "checksDone": 420,
+ "phase": "finished",
+ "checksDone": 500,
  "checksPlanned": 500,
- "percent": 84,
- "dealsFound": 131,
- "updatedAt": "2026-08-24T00:27:18",
- "publishedAt": "2026-08-24T04:27:38.574168+00:00",
+ "percent": 100,
+ "dealsFound": 144,
+ "updatedAt": "2026-08-24T00:32:08",
+ "publishedAt": "2026-08-24T04:32:26.389090+00:00",
  "queuedCount": 3,
  "queued": [
   {
