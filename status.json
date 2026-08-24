@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATH->VIE 2027-02-13",
- "checksDone": 14739,
+ "phase": "MAD->DUB 2027-02-13",
+ "checksDone": 15087,
  "checksPlanned": 104236,
  "percent": 14,
- "dealsFound": 2668,
- "updatedAt": "2026-08-24T13:21:17",
- "publishedAt": "2026-08-24T17:21:43.980371+00:00",
+ "dealsFound": 2786,
+ "updatedAt": "2026-08-24T13:36:50",
+ "publishedAt": "2026-08-24T17:37:12.505203+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
