@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SYD->VIE 2027-02-24",
- "checksDone": 13656,
+ "phase": "NBO->LAX 2026-08-28",
+ "checksDone": 13989,
  "checksPlanned": 17216,
- "percent": 79,
- "dealsFound": 2486,
- "updatedAt": "2026-08-23T21:11:52",
- "publishedAt": "2026-08-24T01:12:54.763622+00:00",
+ "percent": 81,
+ "dealsFound": 2541,
+ "updatedAt": "2026-08-23T21:28:01",
+ "publishedAt": "2026-08-24T01:28:22.802826+00:00",
  "queuedCount": 4,
  "queued": [
   {
