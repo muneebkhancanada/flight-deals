@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "roundtrip",
- "phase": "YYZ->BAH 2027-02-24",
- "checksDone": 207,
+ "phase": "YYZ->JNB 2027-03-10",
+ "checksDone": 420,
  "checksPlanned": 500,
- "percent": 41,
- "dealsFound": 60,
- "updatedAt": "2026-08-24T00:11:45",
- "publishedAt": "2026-08-24T04:12:11.553403+00:00",
+ "percent": 84,
+ "dealsFound": 131,
+ "updatedAt": "2026-08-24T00:27:18",
+ "publishedAt": "2026-08-24T04:27:38.574168+00:00",
  "queuedCount": 3,
  "queued": [
   {
