@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MUC->ATL 2026-12-26",
- "checksDone": 16359,
+ "phase": "CDG->JFK 2026-08-28",
+ "checksDone": 16689,
  "checksPlanned": 17216,
- "percent": 95,
- "dealsFound": 2848,
- "updatedAt": "2026-08-23T23:16:02",
- "publishedAt": "2026-08-24T03:16:22.814708+00:00",
+ "percent": 97,
+ "dealsFound": 2879,
+ "updatedAt": "2026-08-23T23:31:28",
+ "publishedAt": "2026-08-24T03:31:47.963837+00:00",
  "queuedCount": 4,
  "queued": [
   {
