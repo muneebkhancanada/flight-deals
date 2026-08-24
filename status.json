@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->EDI 2026-10-10",
- "checksDone": 15777,
+ "phase": "DFW->FCO 2027-04-17",
+ "checksDone": 16110,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 2919,
- "updatedAt": "2026-08-24T14:07:48",
- "publishedAt": "2026-08-24T18:08:11.136369+00:00",
+ "dealsFound": 3027,
+ "updatedAt": "2026-08-24T14:23:14",
+ "publishedAt": "2026-08-24T18:23:40.319347+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
