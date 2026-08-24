@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->IST 2027-02-13",
- "checksDone": 12039,
+ "phase": "YYC->JNB 2026-12-12",
+ "checksDone": 12360,
  "checksPlanned": 104236,
  "percent": 12,
- "dealsFound": 2275,
- "updatedAt": "2026-08-24T11:17:26",
- "publishedAt": "2026-08-24T15:17:53.520545+00:00",
+ "dealsFound": 2348,
+ "updatedAt": "2026-08-24T11:32:58",
+ "publishedAt": "2026-08-24T15:33:24.820624+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
