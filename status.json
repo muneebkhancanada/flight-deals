@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "FRA->YVR 2026-10-27",
- "checksDone": 15702,
+ "phase": "ARN->DEN 2026-10-27",
+ "checksDone": 16026,
  "checksPlanned": 17216,
- "percent": 91,
- "dealsFound": 2766,
- "updatedAt": "2026-08-23T22:45:12",
- "publishedAt": "2026-08-24T02:45:31.022679+00:00",
+ "percent": 93,
+ "dealsFound": 2803,
+ "updatedAt": "2026-08-23T23:00:32",
+ "publishedAt": "2026-08-24T03:00:55.541618+00:00",
  "queuedCount": 4,
  "queued": [
   {
