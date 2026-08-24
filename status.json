@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ACC->FCO 2027-02-13",
- "checksDone": 11019,
+ "phase": "ICN->ARN 2026-10-10",
+ "checksDone": 11361,
  "checksPlanned": 104236,
  "percent": 11,
- "dealsFound": 2078,
- "updatedAt": "2026-08-24T10:31:05",
- "publishedAt": "2026-08-24T14:31:26.301205+00:00",
+ "dealsFound": 2150,
+ "updatedAt": "2026-08-24T10:46:32",
+ "publishedAt": "2026-08-24T14:46:53.185240+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
