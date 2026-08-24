@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FCO->CPH 2026-10-10",
- "checksDone": 13053,
+ "phase": "CPH->DUB 2026-10-10",
+ "checksDone": 13389,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2437,
- "updatedAt": "2026-08-24T12:03:59",
- "publishedAt": "2026-08-24T16:04:22.295032+00:00",
+ "dealsFound": 2504,
+ "updatedAt": "2026-08-24T12:19:23",
+ "publishedAt": "2026-08-24T16:19:48.760532+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
