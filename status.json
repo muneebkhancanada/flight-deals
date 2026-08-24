@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "BRU->JFK 2026-12-27",
- "checksDone": 1011,
+ "phase": "finished",
+ "checksDone": 1128,
  "checksPlanned": 1128,
- "percent": 90,
- "dealsFound": 148,
- "updatedAt": "2026-08-24T02:10:47",
- "publishedAt": "2026-08-24T06:11:10.057873+00:00",
+ "percent": 100,
+ "dealsFound": 177,
+ "updatedAt": "2026-08-24T02:16:32",
+ "publishedAt": "2026-08-24T06:16:50.758304+00:00",
  "queuedCount": 1,
  "queued": [
   {
