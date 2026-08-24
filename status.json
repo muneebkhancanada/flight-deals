@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CDG->JFK 2026-08-28",
- "checksDone": 16689,
+ "phase": "WAW->IAD 2026-12-26",
+ "checksDone": 17019,
  "checksPlanned": 17216,
- "percent": 97,
- "dealsFound": 2879,
- "updatedAt": "2026-08-23T23:31:28",
- "publishedAt": "2026-08-24T03:31:47.963837+00:00",
+ "percent": 99,
+ "dealsFound": 2940,
+ "updatedAt": "2026-08-23T23:46:51",
+ "publishedAt": "2026-08-24T03:47:15.486295+00:00",
  "queuedCount": 4,
  "queued": [
   {
