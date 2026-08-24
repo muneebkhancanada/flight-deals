@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->PRG 2027-04-17",
- "checksDone": 1050,
+ "phase": "MXP->DPS 2027-02-13",
+ "checksDone": 1407,
  "checksPlanned": 104236,
  "percent": 1,
- "dealsFound": 130,
- "updatedAt": "2026-08-24T03:03:17",
- "publishedAt": "2026-08-24T07:03:36.312808+00:00",
+ "dealsFound": 179,
+ "updatedAt": "2026-08-24T03:18:41",
+ "publishedAt": "2026-08-24T07:19:03.489386+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
