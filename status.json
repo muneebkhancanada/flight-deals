@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "FRA->LIS 2026-08-28",
- "checksDone": 13089,
+ "phase": "DKR->DFW 2027-02-24",
+ "checksDone": 13356,
  "checksPlanned": 17216,
- "percent": 76,
- "dealsFound": 2381,
- "updatedAt": "2026-08-23T20:40:31",
- "publishedAt": "2026-08-24T00:41:13.679785+00:00",
+ "percent": 78,
+ "dealsFound": 2434,
+ "updatedAt": "2026-08-23T20:55:38",
+ "publishedAt": "2026-08-24T00:57:05.064822+00:00",
  "queuedCount": 4,
  "queued": [
   {
