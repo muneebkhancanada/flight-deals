@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->GRU 2026-10-10",
- "checksDone": 20493,
+ "phase": "FCO->NRT 2027-04-17",
+ "checksDone": 20838,
  "checksPlanned": 104236,
  "percent": 20,
- "dealsFound": 4022,
- "updatedAt": "2026-08-24T17:44:20",
- "publishedAt": "2026-08-24T21:44:45.999342+00:00",
+ "dealsFound": 4080,
+ "updatedAt": "2026-08-24T17:59:53",
+ "publishedAt": "2026-08-24T22:00:13.774194+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
