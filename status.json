@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HND->ARN 2026-12-12",
- "checksDone": 15432,
+ "phase": "LIS->EDI 2026-10-10",
+ "checksDone": 15777,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 2874,
- "updatedAt": "2026-08-24T13:52:21",
- "publishedAt": "2026-08-24T17:52:42.377670+00:00",
+ "dealsFound": 2919,
+ "updatedAt": "2026-08-24T14:07:48",
+ "publishedAt": "2026-08-24T18:08:11.136369+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
