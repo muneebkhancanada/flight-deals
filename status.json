@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->LHR 2027-04-17",
- "checksDone": 4146,
+ "phase": "CPT->CDG 2026-12-12",
+ "checksDone": 4500,
  "checksPlanned": 104236,
  "percent": 4,
- "dealsFound": 583,
- "updatedAt": "2026-08-24T05:22:09",
- "publishedAt": "2026-08-24T09:22:34.513080+00:00",
+ "dealsFound": 693,
+ "updatedAt": "2026-08-24T05:37:42",
+ "publishedAt": "2026-08-24T09:38:01.689238+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
