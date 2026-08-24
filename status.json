@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NRT->LGW 2027-04-17",
- "checksDone": 18486,
+ "phase": "SYD->VIE 2026-10-10",
+ "checksDone": 18825,
  "checksPlanned": 104236,
  "percent": 18,
- "dealsFound": 3466,
- "updatedAt": "2026-08-24T16:11:33",
- "publishedAt": "2026-08-24T20:11:57.313623+00:00",
+ "dealsFound": 3545,
+ "updatedAt": "2026-08-24T16:27:01",
+ "publishedAt": "2026-08-24T20:27:26.622288+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
