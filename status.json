@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NBO->LAX 2026-08-28",
- "checksDone": 13989,
+ "phase": "ATH->MAD 2026-08-28",
+ "checksDone": 14337,
  "checksPlanned": 17216,
- "percent": 81,
- "dealsFound": 2541,
- "updatedAt": "2026-08-23T21:28:01",
- "publishedAt": "2026-08-24T01:28:22.802826+00:00",
+ "percent": 83,
+ "dealsFound": 2592,
+ "updatedAt": "2026-08-23T21:43:25",
+ "publishedAt": "2026-08-24T01:43:48.542702+00:00",
  "queuedCount": 4,
  "queued": [
   {
