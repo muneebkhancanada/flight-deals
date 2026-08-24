@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ICN->ARN 2026-10-10",
- "checksDone": 11361,
+ "phase": "CDG->EDI 2027-02-13",
+ "checksDone": 11703,
  "checksPlanned": 104236,
  "percent": 11,
- "dealsFound": 2150,
- "updatedAt": "2026-08-24T10:46:32",
- "publishedAt": "2026-08-24T14:46:53.185240+00:00",
+ "dealsFound": 2204,
+ "updatedAt": "2026-08-24T11:01:56",
+ "publishedAt": "2026-08-24T15:02:21.282351+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
