@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "JFK->OSL 2026-08-29",
- "checksDone": 1017,
+ "phase": "finished",
+ "checksDone": 1128,
  "checksPlanned": 1128,
- "percent": 90,
- "dealsFound": 278,
- "updatedAt": "2026-08-24T01:18:43",
- "publishedAt": "2026-08-24T05:19:07.770909+00:00",
+ "percent": 100,
+ "dealsFound": 344,
+ "updatedAt": "2026-08-24T01:24:09",
+ "publishedAt": "2026-08-24T05:24:27.059444+00:00",
  "queuedCount": 2,
  "queued": [
   {
