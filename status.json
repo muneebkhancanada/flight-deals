@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
- "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 2944,
- "updatedAt": "2026-08-23T23:55:59",
- "publishedAt": "2026-08-24T03:56:22.467965+00:00",
- "queuedCount": 4,
+ "running": true,
+ "mode": "roundtrip",
+ "phase": "YYZ->BAH 2027-02-24",
+ "checksDone": 207,
+ "checksPlanned": 500,
+ "percent": 41,
+ "dealsFound": 60,
+ "updatedAt": "2026-08-24T00:11:45",
+ "publishedAt": "2026-08-24T04:12:11.553403+00:00",
+ "queuedCount": 3,
  "queued": [
-  {
-   "label": "round trip (primary ⇄ all, 15-40 nights)",
-   "mode": "quick"
-  },
   {
    "label": "custom (YYZ, IAD, JFK → everywhere)",
    "mode": "quick"
