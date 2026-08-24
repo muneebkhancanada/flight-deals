@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DKR->DFW 2027-02-24",
- "checksDone": 13356,
+ "phase": "SYD->VIE 2027-02-24",
+ "checksDone": 13656,
  "checksPlanned": 17216,
- "percent": 78,
- "dealsFound": 2434,
- "updatedAt": "2026-08-23T20:55:38",
- "publishedAt": "2026-08-24T00:57:05.064822+00:00",
+ "percent": 79,
+ "dealsFound": 2486,
+ "updatedAt": "2026-08-23T21:11:52",
+ "publishedAt": "2026-08-24T01:12:54.763622+00:00",
  "queuedCount": 4,
  "queued": [
   {
