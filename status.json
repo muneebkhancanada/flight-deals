@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JFK->SYX 2027-03-06",
- "checksDone": 38286,
+ "phase": "JFK->NAN 2026-10-31",
+ "checksDone": 38580,
  "checksPlanned": 104236,
  "percent": 37,
- "dealsFound": 6818,
- "updatedAt": "2026-08-25T07:24:33",
- "publishedAt": "2026-08-25T11:24:59.109018+00:00",
+ "dealsFound": 6856,
+ "updatedAt": "2026-08-25T07:39:55",
+ "publishedAt": "2026-08-25T11:40:38.072094+00:00",
  "queuedCount": 6,
  "queued": [
   {
