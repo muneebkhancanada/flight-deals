@@ -1,14 +1,39 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYC->BOG 2026-12-12",
- "checksDone": 27924,
+ "phase": "AGP->LAX 2027-04-17",
+ "checksDone": 28242,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 5518,
- "updatedAt": "2026-08-24T23:24:43",
- "publishedAt": "2026-08-25T03:25:08.502505+00:00",
- "queuedCount": 0,
- "queued": [],
+ "dealsFound": 5565,
+ "updatedAt": "2026-08-24T23:40:08",
+ "publishedAt": "2026-08-25T03:40:36.712647+00:00",
+ "queuedCount": 6,
+ "queued": [
+  {
+   "label": "inbound from everywhere → YYZ, IAD, JFK",
+   "mode": "quick"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU (all fares)",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from everywhere → NA, EU (all fares)",
+   "mode": "quick"
+  }
+ ],
  "totalDeals": 75000
 }
