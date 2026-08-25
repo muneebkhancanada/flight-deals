@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->KEF 2026-10-10",
- "checksDone": 25209,
+ "phase": "YYC->KEF 2027-04-17",
+ "checksDone": 25530,
  "checksPlanned": 104236,
  "percent": 24,
- "dealsFound": 4906,
- "updatedAt": "2026-08-24T21:21:03",
- "publishedAt": "2026-08-25T01:21:23.649070+00:00",
+ "dealsFound": 5057,
+ "updatedAt": "2026-08-24T21:36:25",
+ "publishedAt": "2026-08-25T01:36:52.189126+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
