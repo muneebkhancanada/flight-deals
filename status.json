@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AGP->LAX 2027-04-17",
- "checksDone": 28242,
+ "phase": "SFO->EDI 2026-10-10",
+ "checksDone": 28593,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 5565,
- "updatedAt": "2026-08-24T23:40:08",
- "publishedAt": "2026-08-25T03:40:36.712647+00:00",
+ "dealsFound": 5649,
+ "updatedAt": "2026-08-24T23:55:42",
+ "publishedAt": "2026-08-25T03:56:03.394490+00:00",
  "queuedCount": 6,
  "queued": [
   {
