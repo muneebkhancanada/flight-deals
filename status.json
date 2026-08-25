@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CPH->YVR 2026-10-10",
- "checksDone": 31713,
+ "phase": "WAW->SFO 2027-04-17",
+ "checksDone": 32046,
  "checksPlanned": 104236,
- "percent": 30,
- "dealsFound": 5933,
- "updatedAt": "2026-08-25T02:15:19",
- "publishedAt": "2026-08-25T06:15:42.814686+00:00",
+ "percent": 31,
+ "dealsFound": 5988,
+ "updatedAt": "2026-08-25T02:30:48",
+ "publishedAt": "2026-08-25T06:31:11.587549+00:00",
  "queuedCount": 6,
  "queued": [
   {
