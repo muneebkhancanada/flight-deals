@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MDE->FCO 2026-12-12",
- "checksDone": 31380,
+ "phase": "CPH->YVR 2026-10-10",
+ "checksDone": 31713,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 5895,
- "updatedAt": "2026-08-25T01:59:24",
- "publishedAt": "2026-08-25T06:00:14.842572+00:00",
+ "dealsFound": 5933,
+ "updatedAt": "2026-08-25T02:15:19",
+ "publishedAt": "2026-08-25T06:15:42.814686+00:00",
  "queuedCount": 6,
  "queued": [
   {
