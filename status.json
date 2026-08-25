@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SFO->EDI 2026-10-10",
- "checksDone": 28593,
+ "phase": "EZE->ATH 2026-10-10",
+ "checksDone": 28941,
  "checksPlanned": 104236,
- "percent": 27,
- "dealsFound": 5649,
- "updatedAt": "2026-08-24T23:55:42",
- "publishedAt": "2026-08-25T03:56:03.394490+00:00",
+ "percent": 28,
+ "dealsFound": 5733,
+ "updatedAt": "2026-08-25T00:11:09",
+ "publishedAt": "2026-08-25T04:11:29.665607+00:00",
  "queuedCount": 6,
  "queued": [
   {
