@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YYZ->NAP 2027-04-10",
- "checksDone": 36618,
+ "phase": "YYZ->SJJ 2026-08-29",
+ "checksDone": 36942,
  "checksPlanned": 104236,
  "percent": 35,
- "dealsFound": 6503,
- "updatedAt": "2026-08-25T06:07:19",
- "publishedAt": "2026-08-25T10:07:43.779831+00:00",
+ "dealsFound": 6540,
+ "updatedAt": "2026-08-25T06:22:50",
+ "publishedAt": "2026-08-25T10:23:11.357454+00:00",
  "queuedCount": 6,
  "queued": [
   {
