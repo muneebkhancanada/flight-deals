@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EWR->CMB 2027-03-06",
- "checksDone": 38802,
+ "phase": "EWR->TUN 2026-08-29",
+ "checksDone": 39141,
  "checksPlanned": 104236,
- "percent": 37,
- "dealsFound": 6901,
- "updatedAt": "2026-08-25T07:55:40",
- "publishedAt": "2026-08-25T11:56:04.642592+00:00",
+ "percent": 38,
+ "dealsFound": 6950,
+ "updatedAt": "2026-08-25T08:11:04",
+ "publishedAt": "2026-08-25T12:11:26.187980+00:00",
  "queuedCount": 6,
  "queued": [
   {
