@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BJS->YYC 2026-12-28",
- "checksDone": 3447,
+ "phase": "ICN->BUF 2026-12-28",
+ "checksDone": 3807,
  "checksPlanned": 17216,
- "percent": 20,
- "dealsFound": 359,
- "updatedAt": "2026-08-25T19:27:40",
- "publishedAt": "2026-08-25T23:27:52.429124+00:00",
+ "percent": 22,
+ "dealsFound": 376,
+ "updatedAt": "2026-08-25T19:42:51",
+ "publishedAt": "2026-08-25T23:43:07.547727+00:00",
  "queuedCount": 3,
  "queued": [
   {
