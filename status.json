@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->KRK 2026-10-31",
- "checksDone": 39432,
+ "phase": "BOS->KTM 2026-10-31",
+ "checksDone": 39756,
  "checksPlanned": 104236,
  "percent": 38,
- "dealsFound": 7026,
- "updatedAt": "2026-08-25T08:26:32",
- "publishedAt": "2026-08-25T12:27:16.203533+00:00",
+ "dealsFound": 7088,
+ "updatedAt": "2026-08-25T08:42:26",
+ "publishedAt": "2026-08-25T12:43:03.920899+00:00",
  "queuedCount": 6,
  "queued": [
   {
