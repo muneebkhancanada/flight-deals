@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->KEF 2026-12-12",
- "checksDone": 26892,
+ "phase": "DKR->SEA 2027-04-17",
+ "checksDone": 27246,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 5328,
- "updatedAt": "2026-08-24T22:38:17",
- "publishedAt": "2026-08-25T02:38:41.397753+00:00",
+ "dealsFound": 5338,
+ "updatedAt": "2026-08-24T22:53:49",
+ "publishedAt": "2026-08-25T02:54:10.873579+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
