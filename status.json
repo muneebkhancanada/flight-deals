@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->BOS 2026-10-10",
- "checksDone": 34329,
+ "phase": "LIS->JFK 2026-10-10",
+ "checksDone": 34653,
  "checksPlanned": 104236,
  "percent": 33,
- "dealsFound": 6216,
- "updatedAt": "2026-08-25T04:19:04",
- "publishedAt": "2026-08-25T08:19:27.765294+00:00",
+ "dealsFound": 6246,
+ "updatedAt": "2026-08-25T04:34:33",
+ "publishedAt": "2026-08-25T08:34:56.711234+00:00",
  "queuedCount": 6,
  "queued": [
   {
