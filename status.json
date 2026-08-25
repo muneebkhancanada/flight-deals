@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MLE->MSP 2026-12-28",
- "checksDone": 1707,
+ "phase": "KWI->MIA 2026-12-28",
+ "checksDone": 2055,
  "checksPlanned": 17216,
- "percent": 10,
- "dealsFound": 187,
- "updatedAt": "2026-08-25T18:11:12",
- "publishedAt": "2026-08-25T22:11:29.443050+00:00",
+ "percent": 12,
+ "dealsFound": 207,
+ "updatedAt": "2026-08-25T18:26:30",
+ "publishedAt": "2026-08-25T22:26:46.637390+00:00",
  "queuedCount": 3,
  "queued": [
   {
