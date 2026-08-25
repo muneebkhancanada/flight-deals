@@ -1,23 +1,15 @@
 {
  "running": true,
- "mode": "full",
- "phase": "BOS->KTM 2026-10-31",
- "checksDone": 39756,
- "checksPlanned": 104236,
- "percent": 38,
- "dealsFound": 7088,
- "updatedAt": "2026-08-25T08:42:26",
- "publishedAt": "2026-08-25T12:43:03.920899+00:00",
- "queuedCount": 6,
+ "mode": "custom",
+ "phase": "CPT->YYZ 2026-10-29",
+ "checksDone": 318,
+ "checksPlanned": 1128,
+ "percent": 28,
+ "dealsFound": 41,
+ "updatedAt": "2026-08-25T14:09:39",
+ "publishedAt": "2026-08-25T18:09:55.430522+00:00",
+ "queuedCount": 5,
  "queued": [
-  {
-   "label": "inbound from everywhere → YYZ, IAD, JFK",
-   "mode": "quick"
-  },
-  {
-   "label": "daily",
-   "mode": "daily"
-  },
   {
    "label": "daily",
    "mode": "daily"
@@ -32,6 +24,10 @@
   },
   {
    "label": "inbound from everywhere → NA, EU (all fares)",
+   "mode": "quick"
+  },
+  {
+   "label": "quick",
    "mode": "quick"
   }
  ],
