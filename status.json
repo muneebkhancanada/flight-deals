@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CPT->YYZ 2026-10-29",
- "checksDone": 318,
+ "phase": "BOG->JFK 2026-08-30",
+ "checksDone": 657,
  "checksPlanned": 1128,
- "percent": 28,
- "dealsFound": 41,
- "updatedAt": "2026-08-25T14:09:39",
- "publishedAt": "2026-08-25T18:09:55.430522+00:00",
+ "percent": 58,
+ "dealsFound": 87,
+ "updatedAt": "2026-08-25T14:26:16",
+ "publishedAt": "2026-08-25T18:26:26.162119+00:00",
  "queuedCount": 5,
  "queued": [
   {
