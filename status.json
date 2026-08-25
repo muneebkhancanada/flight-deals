@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "UIO->YYZ 2026-11-08",
- "checksDone": 1674,
+ "phase": "OSL->BKK 2027-03-07",
+ "checksDone": 2016,
  "checksPlanned": 2750,
- "percent": 61,
- "dealsFound": 311,
- "updatedAt": "2026-08-25T16:05:44",
- "publishedAt": "2026-08-25T20:05:56.669057+00:00",
+ "percent": 73,
+ "dealsFound": 381,
+ "updatedAt": "2026-08-25T16:21:02",
+ "publishedAt": "2026-08-25T20:21:12.088437+00:00",
  "queuedCount": 4,
  "queued": [
   {
