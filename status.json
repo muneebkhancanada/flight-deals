@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHR->CLT 2026-12-12",
- "checksDone": 33996,
+ "phase": "AMS->BOS 2026-10-10",
+ "checksDone": 34329,
  "checksPlanned": 104236,
  "percent": 33,
- "dealsFound": 6201,
- "updatedAt": "2026-08-25T04:03:38",
- "publishedAt": "2026-08-25T08:03:58.922765+00:00",
+ "dealsFound": 6216,
+ "updatedAt": "2026-08-25T04:19:04",
+ "publishedAt": "2026-08-25T08:19:27.765294+00:00",
  "queuedCount": 6,
  "queued": [
   {
