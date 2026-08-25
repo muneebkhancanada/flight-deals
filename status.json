@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EZE->ATH 2026-10-10",
- "checksDone": 28941,
+ "phase": "LIM->LIS 2026-12-12",
+ "checksDone": 29292,
  "checksPlanned": 104236,
  "percent": 28,
- "dealsFound": 5733,
- "updatedAt": "2026-08-25T00:11:09",
- "publishedAt": "2026-08-25T04:11:29.665607+00:00",
+ "dealsFound": 5842,
+ "updatedAt": "2026-08-25T00:26:36",
+ "publishedAt": "2026-08-25T04:26:55.771698+00:00",
  "queuedCount": 6,
  "queued": [
   {
