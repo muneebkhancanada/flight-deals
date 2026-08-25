@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHR->MSP 2026-10-10",
- "checksDone": 33669,
+ "phase": "LHR->CLT 2026-12-12",
+ "checksDone": 33996,
  "checksPlanned": 104236,
- "percent": 32,
- "dealsFound": 6180,
- "updatedAt": "2026-08-25T03:48:07",
- "publishedAt": "2026-08-25T07:48:30.871305+00:00",
+ "percent": 33,
+ "dealsFound": 6201,
+ "updatedAt": "2026-08-25T04:03:38",
+ "publishedAt": "2026-08-25T08:03:58.922765+00:00",
  "queuedCount": 6,
  "queued": [
   {
