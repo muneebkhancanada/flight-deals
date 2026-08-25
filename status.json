@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LIS->YYC 2026-12-12",
- "checksDone": 32364,
+ "phase": "DUB->DFW 2027-02-13",
+ "checksDone": 32703,
  "checksPlanned": 104236,
  "percent": 31,
- "dealsFound": 6030,
- "updatedAt": "2026-08-25T02:46:14",
- "publishedAt": "2026-08-25T06:46:39.924723+00:00",
+ "dealsFound": 6043,
+ "updatedAt": "2026-08-25T03:01:45",
+ "publishedAt": "2026-08-25T07:02:08.587668+00:00",
  "queuedCount": 6,
  "queued": [
   {
