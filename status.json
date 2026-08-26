@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LHR->DEN 2026-12-28",
- "checksDone": 15963,
+ "phase": "OSL->ATL 2026-08-30",
+ "checksDone": 16293,
  "checksPlanned": 17216,
- "percent": 93,
- "dealsFound": 2714,
- "updatedAt": "2026-08-26T04:37:58",
- "publishedAt": "2026-08-26T08:38:13.315668+00:00",
+ "percent": 95,
+ "dealsFound": 2767,
+ "updatedAt": "2026-08-26T04:53:18",
+ "publishedAt": "2026-08-26T08:53:28.956687+00:00",
  "queuedCount": 3,
  "queued": [
   {
