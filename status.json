@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BNE->IAH 2026-10-30",
- "checksDone": 2394,
+ "phase": "BNE->SFO 2026-10-30",
+ "checksDone": 2742,
  "checksPlanned": 17216,
- "percent": 14,
- "dealsFound": 2188,
- "updatedAt": "2026-08-26T07:23:30",
- "publishedAt": "2026-08-26T11:23:46.076868+00:00",
+ "percent": 16,
+ "dealsFound": 2496,
+ "updatedAt": "2026-08-26T07:38:48",
+ "publishedAt": "2026-08-26T11:39:00.635862+00:00",
  "queuedCount": 2,
  "queued": [
   {
