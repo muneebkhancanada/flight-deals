@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TUN->CDG 2027-02-26",
- "checksDone": 4872,
+ "phase": "DAR->FRA 2026-08-30",
+ "checksDone": 5217,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 524,
- "updatedAt": "2026-08-25T20:29:40",
- "publishedAt": "2026-08-26T00:29:52.195300+00:00",
+ "percent": 30,
+ "dealsFound": 620,
+ "updatedAt": "2026-08-25T20:44:53",
+ "publishedAt": "2026-08-26T00:45:08.010282+00:00",
  "queuedCount": 3,
  "queued": [
   {
