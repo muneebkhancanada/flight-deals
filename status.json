@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KUL->EDI 2026-10-29",
- "checksDone": 10446,
+ "phase": "BKK->DFW 2026-08-30",
+ "checksDone": 10785,
  "checksPlanned": 17216,
- "percent": 61,
- "dealsFound": 1780,
- "updatedAt": "2026-08-26T00:33:52",
- "publishedAt": "2026-08-26T04:34:07.989009+00:00",
+ "percent": 63,
+ "dealsFound": 1822,
+ "updatedAt": "2026-08-26T00:49:09",
+ "publishedAt": "2026-08-26T04:49:22.561739+00:00",
  "queuedCount": 3,
  "queued": [
   {
