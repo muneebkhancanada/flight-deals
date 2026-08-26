@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ISB->LIS 2026-08-30",
- "checksDone": 6633,
+ "phase": "DXB->OSL 2026-08-30",
+ "checksDone": 6993,
  "checksPlanned": 17216,
- "percent": 39,
- "dealsFound": 917,
- "updatedAt": "2026-08-25T21:45:58",
- "publishedAt": "2026-08-26T01:46:13.249043+00:00",
+ "percent": 41,
+ "dealsFound": 986,
+ "updatedAt": "2026-08-25T22:01:14",
+ "publishedAt": "2026-08-26T02:01:29.094839+00:00",
  "queuedCount": 3,
  "queued": [
   {
