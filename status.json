@@ -1,19 +1,15 @@
 {
- "running": false,
+ "running": true,
  "mode": "custom",
- "phase": "finished",
- "checksDone": 17216,
+ "phase": "DKR->YYZ 2026-10-30",
+ "checksDone": 330,
  "checksPlanned": 17216,
- "percent": 100,
- "dealsFound": 15798,
- "updatedAt": "2026-08-26T19:24:43",
- "publishedAt": "2026-08-26T23:25:12.534190+00:00",
- "queuedCount": 7,
+ "percent": 2,
+ "dealsFound": 327,
+ "updatedAt": "2026-08-26T19:40:40",
+ "publishedAt": "2026-08-26T23:40:52.016226+00:00",
+ "queuedCount": 6,
  "queued": [
-  {
-   "label": "inbound from everywhere → NA, EU (all fares)",
-   "mode": "quick"
-  },
   {
    "label": "quick",
    "mode": "quick"
