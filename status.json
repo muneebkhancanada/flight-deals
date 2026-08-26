@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "ATH->DTW 2026-10-30",
- "checksDone": 17214,
+ "phase": "finished",
+ "checksDone": 17216,
  "checksPlanned": 17216,
  "percent": 100,
- "dealsFound": 15796,
- "updatedAt": "2026-08-26T19:24:20",
- "publishedAt": "2026-08-26T23:24:31.793080+00:00",
+ "dealsFound": 15798,
+ "updatedAt": "2026-08-26T19:24:43",
+ "publishedAt": "2026-08-26T23:25:12.534190+00:00",
  "queuedCount": 7,
  "queued": [
   {
