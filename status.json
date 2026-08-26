@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "UIO->MSP 2026-12-29",
- "checksDone": 11871,
+ "phase": "CMN->CDG 2026-08-31",
+ "checksDone": 12201,
  "checksPlanned": 17216,
- "percent": 69,
- "dealsFound": 10675,
- "updatedAt": "2026-08-26T15:19:58",
- "publishedAt": "2026-08-26T19:20:07.923479+00:00",
+ "percent": 71,
+ "dealsFound": 10996,
+ "updatedAt": "2026-08-26T15:35:09",
+ "publishedAt": "2026-08-26T19:35:24.415521+00:00",
  "queuedCount": 7,
  "queued": [
   {
