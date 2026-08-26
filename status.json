@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TIA->MXP 2026-12-28",
- "checksDone": 6279,
+ "phase": "ISB->LIS 2026-08-30",
+ "checksDone": 6633,
  "checksPlanned": 17216,
- "percent": 36,
- "dealsFound": 857,
- "updatedAt": "2026-08-25T21:30:43",
- "publishedAt": "2026-08-26T01:30:57.028593+00:00",
+ "percent": 39,
+ "dealsFound": 917,
+ "updatedAt": "2026-08-25T21:45:58",
+ "publishedAt": "2026-08-26T01:46:13.249043+00:00",
  "queuedCount": 3,
  "queued": [
   {
