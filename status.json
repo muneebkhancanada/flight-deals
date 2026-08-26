@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CMB->ORD 2027-02-27",
- "checksDone": 8832,
+ "phase": "BKK->DEN 2026-12-29",
+ "checksDone": 9159,
  "checksPlanned": 17216,
- "percent": 51,
- "dealsFound": 7687,
- "updatedAt": "2026-08-26T13:02:25",
- "publishedAt": "2026-08-26T17:02:41.477474+00:00",
+ "percent": 53,
+ "dealsFound": 8001,
+ "updatedAt": "2026-08-26T13:17:46",
+ "publishedAt": "2026-08-26T17:17:58.805853+00:00",
  "queuedCount": 7,
  "queued": [
   {
