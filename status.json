@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AMS->LGW 2027-02-27",
- "checksDone": 9492,
+ "phase": "CMB->MAD 2026-12-29",
+ "checksDone": 9831,
  "checksPlanned": 17216,
- "percent": 55,
- "dealsFound": 8334,
- "updatedAt": "2026-08-26T13:33:02",
- "publishedAt": "2026-08-26T17:33:15.140809+00:00",
+ "percent": 57,
+ "dealsFound": 8673,
+ "updatedAt": "2026-08-26T13:48:16",
+ "publishedAt": "2026-08-26T17:48:32.768098+00:00",
  "queuedCount": 7,
  "queued": [
   {
