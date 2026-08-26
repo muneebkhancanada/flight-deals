@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SYX->LHR 2027-02-27",
- "checksDone": 4488,
+ "phase": "BJS->CDG 2026-08-31",
+ "checksDone": 4821,
  "checksPlanned": 17216,
- "percent": 26,
- "dealsFound": 3854,
- "updatedAt": "2026-08-26T08:55:09",
- "publishedAt": "2026-08-26T12:55:19.700660+00:00",
+ "percent": 28,
+ "dealsFound": 4180,
+ "updatedAt": "2026-08-26T09:10:26",
+ "publishedAt": "2026-08-26T13:10:36.359689+00:00",
  "queuedCount": 2,
  "queued": [
   {
