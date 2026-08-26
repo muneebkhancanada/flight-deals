@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SIN->MAN 2026-10-30",
- "checksDone": 7854,
+ "phase": "NAP->JFK 2026-08-31",
+ "checksDone": 8193,
  "checksPlanned": 17216,
- "percent": 46,
- "dealsFound": 6769,
- "updatedAt": "2026-08-26T12:16:36",
- "publishedAt": "2026-08-26T16:16:46.854163+00:00",
+ "percent": 48,
+ "dealsFound": 7048,
+ "updatedAt": "2026-08-26T12:31:48",
+ "publishedAt": "2026-08-26T16:32:02.210519+00:00",
  "queuedCount": 2,
  "queued": [
   {
