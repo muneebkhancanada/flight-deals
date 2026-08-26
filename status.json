@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "WAW->BOS 2027-02-26",
- "checksDone": 16620,
+ "phase": "ZRH->IAD 2027-02-26",
+ "checksDone": 16944,
  "checksPlanned": 17216,
- "percent": 97,
- "dealsFound": 2791,
- "updatedAt": "2026-08-26T05:08:33",
- "publishedAt": "2026-08-26T09:08:43.622816+00:00",
+ "percent": 98,
+ "dealsFound": 2851,
+ "updatedAt": "2026-08-26T05:23:44",
+ "publishedAt": "2026-08-26T09:23:59.949039+00:00",
  "queuedCount": 3,
  "queued": [
   {
