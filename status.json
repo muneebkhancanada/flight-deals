@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KRK->BRU 2026-08-31",
- "checksDone": 7149,
+ "phase": "WAW->ATH 2026-12-29",
+ "checksDone": 7503,
  "checksPlanned": 17216,
- "percent": 42,
- "dealsFound": 6154,
- "updatedAt": "2026-08-26T11:46:04",
- "publishedAt": "2026-08-26T15:46:14.382488+00:00",
+ "percent": 44,
+ "dealsFound": 6460,
+ "updatedAt": "2026-08-26T12:01:16",
+ "publishedAt": "2026-08-26T16:01:31.693728+00:00",
  "queuedCount": 2,
  "queued": [
   {
