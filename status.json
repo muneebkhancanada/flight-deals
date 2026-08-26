@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SYX->MSP 2026-12-29",
- "checksDone": 1695,
+ "phase": "SJJ->MIA 2026-08-31",
+ "checksDone": 2049,
  "checksPlanned": 17216,
- "percent": 10,
- "dealsFound": 1590,
- "updatedAt": "2026-08-26T06:53:02",
- "publishedAt": "2026-08-26T10:53:14.835766+00:00",
+ "percent": 12,
+ "dealsFound": 1888,
+ "updatedAt": "2026-08-26T07:08:20",
+ "publishedAt": "2026-08-26T11:08:30.727520+00:00",
  "queuedCount": 2,
  "queued": [
   {
