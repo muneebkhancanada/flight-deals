@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BRU->SEA 2026-10-29",
- "checksDone": 15630,
+ "phase": "LHR->DEN 2026-12-28",
+ "checksDone": 15963,
  "checksPlanned": 17216,
- "percent": 91,
- "dealsFound": 2666,
- "updatedAt": "2026-08-26T04:22:43",
- "publishedAt": "2026-08-26T08:22:58.690224+00:00",
+ "percent": 93,
+ "dealsFound": 2714,
+ "updatedAt": "2026-08-26T04:37:58",
+ "publishedAt": "2026-08-26T08:38:13.315668+00:00",
  "queuedCount": 3,
  "queued": [
   {
