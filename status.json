@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AGP->MUC 2026-08-31",
- "checksDone": 12885,
+ "phase": "BNE->OSL 2027-02-27",
+ "checksDone": 13212,
  "checksPlanned": 17216,
- "percent": 75,
- "dealsFound": 11664,
- "updatedAt": "2026-08-26T16:05:41",
- "publishedAt": "2026-08-26T20:05:55.921183+00:00",
+ "percent": 77,
+ "dealsFound": 11973,
+ "updatedAt": "2026-08-26T16:21:01",
+ "publishedAt": "2026-08-26T20:21:11.404684+00:00",
  "queuedCount": 7,
  "queued": [
   {
