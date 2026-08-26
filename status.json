@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "HKG->YVR 2026-10-29",
- "checksDone": 9402,
+ "phase": "BCN->VIE 2027-02-26",
+ "checksDone": 9744,
  "checksPlanned": 17216,
- "percent": 55,
- "dealsFound": 1479,
- "updatedAt": "2026-08-25T23:48:05",
- "publishedAt": "2026-08-26T03:48:20.762690+00:00",
+ "percent": 57,
+ "dealsFound": 1616,
+ "updatedAt": "2026-08-26T00:03:26",
+ "publishedAt": "2026-08-26T04:03:35.502667+00:00",
  "queuedCount": 3,
  "queued": [
   {
