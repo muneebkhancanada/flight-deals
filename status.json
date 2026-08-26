@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TPE->IAH 2026-08-31",
- "checksDone": 10845,
+ "phase": "CPT->AMS 2026-12-29",
+ "checksDone": 11187,
  "checksPlanned": 17216,
- "percent": 63,
- "dealsFound": 9658,
- "updatedAt": "2026-08-26T14:34:07",
- "publishedAt": "2026-08-26T18:34:20.480143+00:00",
+ "percent": 65,
+ "dealsFound": 10000,
+ "updatedAt": "2026-08-26T14:49:23",
+ "publishedAt": "2026-08-26T18:49:35.860392+00:00",
  "queuedCount": 7,
  "queued": [
   {
