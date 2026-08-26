@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "HEL->MIA 2026-08-31",
- "checksDone": 13869,
+ "phase": "OPO->IAH 2026-10-30",
+ "checksDone": 14214,
  "checksPlanned": 17216,
- "percent": 81,
- "dealsFound": 12585,
- "updatedAt": "2026-08-26T16:51:33",
- "publishedAt": "2026-08-26T20:51:45.322720+00:00",
+ "percent": 83,
+ "dealsFound": 12901,
+ "updatedAt": "2026-08-26T17:06:52",
+ "publishedAt": "2026-08-26T21:07:01.667517+00:00",
  "queuedCount": 7,
  "queued": [
   {
