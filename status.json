@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ALA->CPH 2027-02-27",
- "checksDone": 6792,
+ "phase": "KRK->BRU 2026-08-31",
+ "checksDone": 7149,
  "checksPlanned": 17216,
- "percent": 39,
- "dealsFound": 5886,
- "updatedAt": "2026-08-26T11:30:46",
- "publishedAt": "2026-08-26T15:30:59.194425+00:00",
+ "percent": 42,
+ "dealsFound": 6154,
+ "updatedAt": "2026-08-26T11:46:04",
+ "publishedAt": "2026-08-26T15:46:14.382488+00:00",
  "queuedCount": 2,
  "queued": [
   {
