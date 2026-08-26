@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CMN->ATH 2027-02-26",
- "checksDone": 14604,
+ "phase": "GIG->OSL 2026-12-28",
+ "checksDone": 14943,
  "checksPlanned": 17216,
- "percent": 85,
- "dealsFound": 2582,
- "updatedAt": "2026-08-26T03:36:59",
- "publishedAt": "2026-08-26T07:37:10.044315+00:00",
+ "percent": 87,
+ "dealsFound": 2614,
+ "updatedAt": "2026-08-26T03:52:16",
+ "publishedAt": "2026-08-26T07:52:26.718094+00:00",
  "queuedCount": 3,
  "queued": [
   {
