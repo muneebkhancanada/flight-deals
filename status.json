@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "PVG->IAD 2026-10-29",
- "checksDone": 8730,
+ "phase": "DKR->CLT 2026-08-30",
+ "checksDone": 9069,
  "checksPlanned": 17216,
- "percent": 51,
- "dealsFound": 1365,
- "updatedAt": "2026-08-25T23:17:39",
- "publishedAt": "2026-08-26T03:17:48.728279+00:00",
+ "percent": 53,
+ "dealsFound": 1416,
+ "updatedAt": "2026-08-25T23:32:52",
+ "publishedAt": "2026-08-26T03:33:04.647575+00:00",
  "queuedCount": 3,
  "queued": [
   {
