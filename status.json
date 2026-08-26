@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TPE->EDI 2027-02-26",
- "checksDone": 11832,
+ "phase": "OPO->CDG 2027-02-26",
+ "checksDone": 12180,
  "checksPlanned": 17216,
- "percent": 69,
- "dealsFound": 2080,
- "updatedAt": "2026-08-26T01:34:55",
- "publishedAt": "2026-08-26T05:35:05.438549+00:00",
+ "percent": 71,
+ "dealsFound": 2125,
+ "updatedAt": "2026-08-26T01:50:06",
+ "publishedAt": "2026-08-26T05:50:21.111472+00:00",
  "queuedCount": 3,
  "queued": [
   {
