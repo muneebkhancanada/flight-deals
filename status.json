@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ZRH->BOS 2026-12-29",
- "checksDone": 16563,
+ "phase": "CDG->YUL 2027-02-27",
+ "checksDone": 16884,
  "checksPlanned": 17216,
- "percent": 96,
- "dealsFound": 15150,
- "updatedAt": "2026-08-26T18:53:42",
- "publishedAt": "2026-08-26T22:53:58.060644+00:00",
+ "percent": 98,
+ "dealsFound": 15471,
+ "updatedAt": "2026-08-26T19:09:03",
+ "publishedAt": "2026-08-26T23:09:14.344360+00:00",
  "queuedCount": 7,
  "queued": [
   {
