@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DKR->CLT 2026-08-30",
- "checksDone": 9069,
+ "phase": "HKG->YVR 2026-10-29",
+ "checksDone": 9402,
  "checksPlanned": 17216,
- "percent": 53,
- "dealsFound": 1416,
- "updatedAt": "2026-08-25T23:32:52",
- "publishedAt": "2026-08-26T03:33:04.647575+00:00",
+ "percent": 55,
+ "dealsFound": 1479,
+ "updatedAt": "2026-08-25T23:48:05",
+ "publishedAt": "2026-08-26T03:48:20.762690+00:00",
  "queuedCount": 3,
  "queued": [
   {
