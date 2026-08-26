@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "ZRH->IAD 2027-02-26",
- "checksDone": 16944,
+ "phase": "finished",
+ "checksDone": 17216,
  "checksPlanned": 17216,
- "percent": 98,
- "dealsFound": 2851,
- "updatedAt": "2026-08-26T05:23:44",
- "publishedAt": "2026-08-26T09:23:59.949039+00:00",
+ "percent": 100,
+ "dealsFound": 2869,
+ "updatedAt": "2026-08-26T05:36:19",
+ "publishedAt": "2026-08-26T09:36:34.984340+00:00",
  "queuedCount": 3,
  "queued": [
   {
