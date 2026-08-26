@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AMM->MAD 2027-02-27",
- "checksDone": 5808,
+ "phase": "FRA->FCO 2027-02-27",
+ "checksDone": 6096,
  "checksPlanned": 17216,
- "percent": 34,
- "dealsFound": 5085,
- "updatedAt": "2026-08-26T10:44:01",
- "publishedAt": "2026-08-26T14:45:02.545479+00:00",
+ "percent": 35,
+ "dealsFound": 5310,
+ "updatedAt": "2026-08-26T11:00:14",
+ "publishedAt": "2026-08-26T15:00:24.800392+00:00",
  "queuedCount": 2,
  "queued": [
   {
