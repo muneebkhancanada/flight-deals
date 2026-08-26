@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "LHR->VIE 2026-10-30",
- "checksDone": 5610,
+ "phase": "AMM->VIE 2027-02-27",
+ "checksDone": 5676,
  "checksPlanned": 17216,
  "percent": 33,
- "dealsFound": 4912,
- "updatedAt": "2026-08-26T09:56:04",
- "publishedAt": "2026-08-26T13:57:20.303348+00:00",
+ "dealsFound": 4978,
+ "updatedAt": "2026-08-26T10:12:11",
+ "publishedAt": "2026-08-26T14:13:13.026877+00:00",
  "queuedCount": 2,
  "queued": [
   {
