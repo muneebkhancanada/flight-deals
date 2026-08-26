@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BKK->DFW 2026-08-30",
- "checksDone": 10785,
+ "phase": "HAN->CDG 2026-08-30",
+ "checksDone": 11133,
  "checksPlanned": 17216,
- "percent": 63,
- "dealsFound": 1822,
- "updatedAt": "2026-08-26T00:49:09",
- "publishedAt": "2026-08-26T04:49:22.561739+00:00",
+ "percent": 65,
+ "dealsFound": 1911,
+ "updatedAt": "2026-08-26T01:04:25",
+ "publishedAt": "2026-08-26T05:04:37.166727+00:00",
  "queuedCount": 3,
  "queued": [
   {
