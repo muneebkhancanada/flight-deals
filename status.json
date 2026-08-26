@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BJS->CDG 2026-08-31",
- "checksDone": 4821,
+ "phase": "CAN->FRA 2027-02-27",
+ "checksDone": 5160,
  "checksPlanned": 17216,
- "percent": 28,
- "dealsFound": 4180,
- "updatedAt": "2026-08-26T09:10:26",
- "publishedAt": "2026-08-26T13:10:36.359689+00:00",
+ "percent": 30,
+ "dealsFound": 4505,
+ "updatedAt": "2026-08-26T09:25:39",
+ "publishedAt": "2026-08-26T13:25:54.761940+00:00",
  "queuedCount": 2,
  "queued": [
   {
