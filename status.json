@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "FCO->LGW 2026-10-30",
- "checksDone": 13530,
+ "phase": "HEL->MIA 2026-08-31",
+ "checksDone": 13869,
  "checksPlanned": 17216,
- "percent": 79,
- "dealsFound": 12273,
- "updatedAt": "2026-08-26T16:36:18",
- "publishedAt": "2026-08-26T20:36:29.718813+00:00",
+ "percent": 81,
+ "dealsFound": 12585,
+ "updatedAt": "2026-08-26T16:51:33",
+ "publishedAt": "2026-08-26T20:51:45.322720+00:00",
  "queuedCount": 7,
  "queued": [
   {
