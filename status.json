@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SCL->EWR 2026-08-31",
- "checksDone": 669,
+ "phase": "KTM->PHL 2027-02-27",
+ "checksDone": 1008,
  "checksPlanned": 17216,
- "percent": 4,
- "dealsFound": 654,
- "updatedAt": "2026-08-26T06:07:16",
- "publishedAt": "2026-08-26T10:07:30.434333+00:00",
+ "percent": 6,
+ "dealsFound": 959,
+ "updatedAt": "2026-08-26T06:22:31",
+ "publishedAt": "2026-08-26T10:22:45.447499+00:00",
  "queuedCount": 2,
  "queued": [
   {
