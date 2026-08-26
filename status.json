@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DAR->FRA 2026-08-30",
- "checksDone": 5217,
+ "phase": "DSS->ZRH 2026-12-28",
+ "checksDone": 5571,
  "checksPlanned": 17216,
- "percent": 30,
- "dealsFound": 620,
- "updatedAt": "2026-08-25T20:44:53",
- "publishedAt": "2026-08-26T00:45:08.010282+00:00",
+ "percent": 32,
+ "dealsFound": 715,
+ "updatedAt": "2026-08-25T21:00:07",
+ "publishedAt": "2026-08-26T01:00:22.628230+00:00",
  "queuedCount": 3,
  "queued": [
   {
