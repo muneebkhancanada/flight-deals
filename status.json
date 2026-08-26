@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ARN->MXP 2026-08-30",
- "checksDone": 11481,
+ "phase": "TPE->EDI 2027-02-26",
+ "checksDone": 11832,
  "checksPlanned": 17216,
- "percent": 67,
- "dealsFound": 2008,
- "updatedAt": "2026-08-26T01:19:42",
- "publishedAt": "2026-08-26T05:19:51.178290+00:00",
+ "percent": 69,
+ "dealsFound": 2080,
+ "updatedAt": "2026-08-26T01:34:55",
+ "publishedAt": "2026-08-26T05:35:05.438549+00:00",
  "queuedCount": 3,
  "queued": [
   {
