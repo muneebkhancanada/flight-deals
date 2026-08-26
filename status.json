@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "KTM->PHL 2027-02-27",
- "checksDone": 1008,
+ "phase": "BJL->ORD 2027-02-27",
+ "checksDone": 1356,
  "checksPlanned": 17216,
- "percent": 6,
- "dealsFound": 959,
- "updatedAt": "2026-08-26T06:22:31",
- "publishedAt": "2026-08-26T10:22:45.447499+00:00",
+ "percent": 8,
+ "dealsFound": 1281,
+ "updatedAt": "2026-08-26T06:37:48",
+ "publishedAt": "2026-08-26T10:38:00.466395+00:00",
  "queuedCount": 2,
  "queued": [
   {
