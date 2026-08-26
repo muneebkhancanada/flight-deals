@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "IST->HNL 2026-10-30",
- "checksDone": 4134,
+ "phase": "SYX->LHR 2027-02-27",
+ "checksDone": 4488,
  "checksPlanned": 17216,
- "percent": 24,
- "dealsFound": 3590,
- "updatedAt": "2026-08-26T08:39:52",
- "publishedAt": "2026-08-26T12:40:04.238878+00:00",
+ "percent": 26,
+ "dealsFound": 3854,
+ "updatedAt": "2026-08-26T08:55:09",
+ "publishedAt": "2026-08-26T12:55:19.700660+00:00",
  "queuedCount": 2,
  "queued": [
   {
