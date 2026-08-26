@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CMB->MAD 2026-12-29",
- "checksDone": 9831,
+ "phase": "AMS->ARN 2026-12-29",
+ "checksDone": 10179,
  "checksPlanned": 17216,
- "percent": 57,
- "dealsFound": 8673,
- "updatedAt": "2026-08-26T13:48:16",
- "publishedAt": "2026-08-26T17:48:32.768098+00:00",
+ "percent": 59,
+ "dealsFound": 9012,
+ "updatedAt": "2026-08-26T14:03:34",
+ "publishedAt": "2026-08-26T18:03:48.833275+00:00",
  "queuedCount": 7,
  "queued": [
   {
