@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CPT->OSL 2026-08-30",
- "checksDone": 12537,
+ "phase": "MEL->FRA 2026-10-29",
+ "checksDone": 12882,
  "checksPlanned": 17216,
- "percent": 73,
- "dealsFound": 2221,
- "updatedAt": "2026-08-26T02:05:25",
- "publishedAt": "2026-08-26T06:05:37.013787+00:00",
+ "percent": 75,
+ "dealsFound": 2275,
+ "updatedAt": "2026-08-26T02:20:36",
+ "publishedAt": "2026-08-26T06:20:51.321022+00:00",
  "queuedCount": 3,
  "queued": [
   {
