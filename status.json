@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "DXB->OSL 2026-08-30",
- "checksDone": 6993,
+ "phase": "DOH->WAW 2026-10-29",
+ "checksDone": 7350,
  "checksPlanned": 17216,
- "percent": 41,
- "dealsFound": 986,
- "updatedAt": "2026-08-25T22:01:14",
- "publishedAt": "2026-08-26T02:01:29.094839+00:00",
+ "percent": 43,
+ "dealsFound": 1041,
+ "updatedAt": "2026-08-25T22:16:30",
+ "publishedAt": "2026-08-26T02:16:44.941678+00:00",
  "queuedCount": 3,
  "queued": [
   {
