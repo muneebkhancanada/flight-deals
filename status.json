@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BKK->DEN 2026-12-29",
- "checksDone": 9159,
+ "phase": "AMS->LGW 2027-02-27",
+ "checksDone": 9492,
  "checksPlanned": 17216,
- "percent": 53,
- "dealsFound": 8001,
- "updatedAt": "2026-08-26T13:17:46",
- "publishedAt": "2026-08-26T17:17:58.805853+00:00",
+ "percent": 55,
+ "dealsFound": 8334,
+ "updatedAt": "2026-08-26T13:33:02",
+ "publishedAt": "2026-08-26T17:33:15.140809+00:00",
  "queuedCount": 7,
  "queued": [
   {
