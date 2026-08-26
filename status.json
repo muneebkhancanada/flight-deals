@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "NAP->JFK 2026-08-31",
- "checksDone": 8193,
+ "phase": "AGP->PHL 2026-08-31",
+ "checksDone": 8517,
  "checksPlanned": 17216,
- "percent": 48,
- "dealsFound": 7048,
- "updatedAt": "2026-08-26T12:31:48",
- "publishedAt": "2026-08-26T16:32:02.210519+00:00",
+ "percent": 49,
+ "dealsFound": 7372,
+ "updatedAt": "2026-08-26T12:47:04",
+ "publishedAt": "2026-08-26T16:47:20.279963+00:00",
  "queuedCount": 2,
  "queued": [
   {
