@@ -1,14 +1,14 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "AGP->PHL 2026-08-31",
- "checksDone": 8517,
+ "phase": "CMB->ORD 2027-02-27",
+ "checksDone": 8832,
  "checksPlanned": 17216,
- "percent": 49,
- "dealsFound": 7372,
- "updatedAt": "2026-08-26T12:47:04",
- "publishedAt": "2026-08-26T16:47:20.279963+00:00",
- "queuedCount": 2,
+ "percent": 51,
+ "dealsFound": 7687,
+ "updatedAt": "2026-08-26T13:02:25",
+ "publishedAt": "2026-08-26T17:02:41.477474+00:00",
+ "queuedCount": 7,
  "queued": [
   {
    "label": "inbound from everywhere → NA, EU (all fares)",
@@ -17,6 +17,26 @@
   {
    "label": "quick",
    "mode": "quick"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "custom (IAD, YUL → everywhere)",
+   "mode": "quick"
+  },
+  {
+   "label": "custom (JFK, YYC, YVR → asia, oceania)",
+   "mode": "quick"
+  },
+  {
+   "label": "inbound from asia, oceania → JFK, YYC, YVR",
+   "mode": "quick"
+  },
+  {
+   "label": "full",
+   "mode": "full"
   }
  ],
  "totalDeals": 75000
