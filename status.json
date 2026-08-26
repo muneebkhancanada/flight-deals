@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "HAN->CDG 2026-08-30",
- "checksDone": 11133,
+ "phase": "ARN->MXP 2026-08-30",
+ "checksDone": 11481,
  "checksPlanned": 17216,
- "percent": 65,
- "dealsFound": 1911,
- "updatedAt": "2026-08-26T01:04:25",
- "publishedAt": "2026-08-26T05:04:37.166727+00:00",
+ "percent": 67,
+ "dealsFound": 2008,
+ "updatedAt": "2026-08-26T01:19:42",
+ "publishedAt": "2026-08-26T05:19:51.178290+00:00",
  "queuedCount": 3,
  "queued": [
   {
