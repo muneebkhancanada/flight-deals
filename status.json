@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BOG->MXP 2027-02-27",
- "checksDone": 15456,
+ "phase": "BCN->YVR 2027-02-27",
+ "checksDone": 15768,
  "checksPlanned": 17216,
- "percent": 90,
- "dealsFound": 14076,
- "updatedAt": "2026-08-27T06:54:17",
- "publishedAt": "2026-08-27T10:54:50.495946+00:00",
+ "percent": 92,
+ "dealsFound": 14372,
+ "updatedAt": "2026-08-27T07:10:01",
+ "publishedAt": "2026-08-27T11:10:28.582032+00:00",
  "queuedCount": 6,
  "queued": [
   {
