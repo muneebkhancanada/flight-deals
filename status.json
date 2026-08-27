@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "GIG->PHL 2026-10-30",
- "checksDone": 1014,
+ "phase": "BJL->ORD 2027-02-27",
+ "checksDone": 1356,
  "checksPlanned": 17216,
- "percent": 6,
- "dealsFound": 967,
- "updatedAt": "2026-08-26T20:11:11",
- "publishedAt": "2026-08-27T00:11:25.216189+00:00",
+ "percent": 8,
+ "dealsFound": 1283,
+ "updatedAt": "2026-08-26T20:27:02",
+ "publishedAt": "2026-08-27T00:27:11.991484+00:00",
  "queuedCount": 6,
  "queued": [
   {
