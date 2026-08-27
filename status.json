@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CPT->BRU 2026-12-29",
- "checksDone": 11751,
+ "phase": "AUH->YYC 2027-02-27",
+ "checksDone": 12084,
  "checksPlanned": 17216,
- "percent": 68,
- "dealsFound": 10569,
- "updatedAt": "2026-08-27T04:05:16",
- "publishedAt": "2026-08-27T08:05:27.429176+00:00",
+ "percent": 70,
+ "dealsFound": 10891,
+ "updatedAt": "2026-08-27T04:20:32",
+ "publishedAt": "2026-08-27T08:20:42.918218+00:00",
  "queuedCount": 6,
  "queued": [
   {
