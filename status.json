@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "OSL->HNL 2026-08-31",
- "checksDone": 4101,
+ "phase": "CMB->LHR 2026-08-31",
+ "checksDone": 4461,
  "checksPlanned": 17216,
- "percent": 24,
- "dealsFound": 3576,
- "updatedAt": "2026-08-26T22:29:14",
- "publishedAt": "2026-08-27T02:29:25.229256+00:00",
+ "percent": 26,
+ "dealsFound": 3841,
+ "updatedAt": "2026-08-26T22:44:25",
+ "publishedAt": "2026-08-27T02:44:41.677964+00:00",
  "queuedCount": 6,
  "queued": [
   {
