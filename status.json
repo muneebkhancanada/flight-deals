@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "DEL->EDI 2027-03-09",
- "checksDone": 2292,
+ "phase": "YVR->BCN 2027-03-09",
+ "checksDone": 2616,
  "checksPlanned": 2750,
- "percent": 83,
- "dealsFound": 492,
- "updatedAt": "2026-08-27T10:52:16",
- "publishedAt": "2026-08-27T14:52:31.427798+00:00",
+ "percent": 95,
+ "dealsFound": 556,
+ "updatedAt": "2026-08-27T11:07:34",
+ "publishedAt": "2026-08-27T15:07:49.235013+00:00",
  "queuedCount": 4,
  "queued": [
   {
