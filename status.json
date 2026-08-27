@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "TPE->EWR 2026-08-31",
- "checksDone": 8349,
+ "phase": "KRK->IAD 2026-10-30",
+ "checksDone": 8682,
  "checksPlanned": 17216,
- "percent": 48,
- "dealsFound": 7216,
- "updatedAt": "2026-08-27T01:32:29",
- "publishedAt": "2026-08-27T05:32:41.177273+00:00",
+ "percent": 50,
+ "dealsFound": 7549,
+ "updatedAt": "2026-08-27T01:47:47",
+ "publishedAt": "2026-08-27T05:47:58.148267+00:00",
  "queuedCount": 6,
  "queued": [
   {
