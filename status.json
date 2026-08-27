@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MEL->CLT 2026-10-30",
- "checksDone": 2034,
+ "phase": "TUN->IAH 2026-08-31",
+ "checksDone": 2373,
  "checksPlanned": 17216,
- "percent": 12,
- "dealsFound": 1877,
- "updatedAt": "2026-08-26T20:57:33",
- "publishedAt": "2026-08-27T00:57:43.934720+00:00",
+ "percent": 14,
+ "dealsFound": 2176,
+ "updatedAt": "2026-08-26T21:12:44",
+ "publishedAt": "2026-08-27T01:12:59.305281+00:00",
  "queuedCount": 6,
  "queued": [
   {
