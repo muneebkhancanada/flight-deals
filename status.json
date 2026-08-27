@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "GRU->YVR 2026-08-31",
- "checksDone": 14481,
+ "phase": "CMN->SEA 2026-08-31",
+ "checksDone": 14805,
  "checksPlanned": 17216,
- "percent": 84,
- "dealsFound": 13161,
- "updatedAt": "2026-08-27T06:07:32",
- "publishedAt": "2026-08-27T10:07:59.056853+00:00",
+ "percent": 86,
+ "dealsFound": 13466,
+ "updatedAt": "2026-08-27T06:23:03",
+ "publishedAt": "2026-08-27T10:23:36.941015+00:00",
  "queuedCount": 6,
  "queued": [
   {
