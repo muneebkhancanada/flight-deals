@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SGN->CLT 2026-08-31",
- "checksDone": 9021,
+ "phase": "BKK->YYC 2026-08-31",
+ "checksDone": 9357,
  "checksPlanned": 17216,
- "percent": 52,
- "dealsFound": 7884,
- "updatedAt": "2026-08-27T02:03:04",
- "publishedAt": "2026-08-27T06:03:17.470340+00:00",
+ "percent": 54,
+ "dealsFound": 8211,
+ "updatedAt": "2026-08-27T02:18:23",
+ "publishedAt": "2026-08-27T06:18:33.724136+00:00",
  "queuedCount": 6,
  "queued": [
   {
