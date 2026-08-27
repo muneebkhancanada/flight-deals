@@ -1,19 +1,14 @@
 {
- "running": false,
- "mode": "custom",
- "phase": "finished",
- "checksDone": 744,
- "checksPlanned": 744,
- "percent": 100,
- "dealsFound": 117,
- "updatedAt": "2026-08-27T13:03:22",
- "publishedAt": "2026-08-27T17:03:32.956475+00:00",
- "queuedCount": 1,
- "queued": [
-  {
-   "label": "full",
-   "mode": "full"
-  }
- ],
+ "running": true,
+ "mode": "full",
+ "phase": "PHL->BJS 2027-01-26",
+ "checksDone": 345,
+ "checksPlanned": 104236,
+ "percent": 0,
+ "dealsFound": 67,
+ "updatedAt": "2026-08-27T13:19:01",
+ "publishedAt": "2026-08-27T17:19:12.248691+00:00",
+ "queuedCount": 0,
+ "queued": [],
  "totalDeals": 75000
 }
