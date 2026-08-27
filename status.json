@@ -1,19 +1,15 @@
 {
- "running": false,
+ "running": true,
  "mode": "custom",
- "phase": "finished",
- "checksDone": 752,
- "checksPlanned": 752,
- "percent": 100,
- "dealsFound": 200,
- "updatedAt": "2026-08-27T11:53:41",
- "publishedAt": "2026-08-27T15:53:52.221064+00:00",
- "queuedCount": 3,
+ "phase": "YVR->TAS 2026-10-01",
+ "checksDone": 330,
+ "checksPlanned": 744,
+ "percent": 44,
+ "dealsFound": 85,
+ "updatedAt": "2026-08-27T12:09:12",
+ "publishedAt": "2026-08-27T16:09:27.070605+00:00",
+ "queuedCount": 2,
  "queued": [
-  {
-   "label": "custom (JFK, YYC, YVR → asia, oceania)",
-   "mode": "quick"
-  },
   {
    "label": "inbound from asia, oceania → JFK, YYC, YVR",
    "mode": "quick"
