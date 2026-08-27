@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "PVG->YVR 2026-12-30",
- "checksDone": 669,
+ "phase": "finished",
+ "checksDone": 744,
  "checksPlanned": 744,
- "percent": 90,
- "dealsFound": 106,
- "updatedAt": "2026-08-27T12:59:36",
- "publishedAt": "2026-08-27T16:59:47.217096+00:00",
+ "percent": 100,
+ "dealsFound": 117,
+ "updatedAt": "2026-08-27T13:03:22",
+ "publishedAt": "2026-08-27T17:03:32.956475+00:00",
  "queuedCount": 1,
  "queued": [
   {
