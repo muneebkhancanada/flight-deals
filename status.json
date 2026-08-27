@@ -1,19 +1,15 @@
 {
- "running": false,
- "mode": "quick",
- "phase": "finished",
- "checksDone": 752,
- "checksPlanned": 752,
- "percent": 100,
- "dealsFound": 126,
- "updatedAt": "2026-08-27T09:04:50",
- "publishedAt": "2026-08-27T13:05:06.518752+00:00",
- "queuedCount": 5,
+ "running": true,
+ "mode": "daily",
+ "phase": "YYZ->MCT 2026-10-13",
+ "checksDone": 327,
+ "checksPlanned": 2750,
+ "percent": 12,
+ "dealsFound": 33,
+ "updatedAt": "2026-08-27T09:20:35",
+ "publishedAt": "2026-08-27T13:20:46.749928+00:00",
+ "queuedCount": 4,
  "queued": [
-  {
-   "label": "daily",
-   "mode": "daily"
-  },
   {
    "label": "custom (IAD, YUL → everywhere)",
    "mode": "quick"
