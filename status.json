@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CGK->DUB 2026-08-31",
- "checksDone": 10041,
+ "phase": "DPS->WAW 2026-10-30",
+ "checksDone": 10386,
  "checksPlanned": 17216,
- "percent": 58,
- "dealsFound": 8891,
- "updatedAt": "2026-08-27T02:48:54",
- "publishedAt": "2026-08-27T06:49:07.616055+00:00",
+ "percent": 60,
+ "dealsFound": 9222,
+ "updatedAt": "2026-08-27T03:04:07",
+ "publishedAt": "2026-08-27T07:04:23.225996+00:00",
  "queuedCount": 6,
  "queued": [
   {
