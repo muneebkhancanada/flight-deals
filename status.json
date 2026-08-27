@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ATL->RUH 2027-03-30",
- "checksDone": 2748,
+ "phase": "ATL->AKL 2027-01-26",
+ "checksDone": 3081,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 613,
- "updatedAt": "2026-08-27T15:06:01",
- "publishedAt": "2026-08-27T19:06:13.399958+00:00",
+ "dealsFound": 676,
+ "updatedAt": "2026-08-27T15:21:19",
+ "publishedAt": "2026-08-27T19:21:29.964447+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
