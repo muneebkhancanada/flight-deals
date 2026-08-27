@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "daily",
- "phase": "YVR->BCN 2027-03-09",
- "checksDone": 2616,
+ "phase": "finished",
+ "checksDone": 2750,
  "checksPlanned": 2750,
- "percent": 95,
- "dealsFound": 556,
- "updatedAt": "2026-08-27T11:07:34",
- "publishedAt": "2026-08-27T15:07:49.235013+00:00",
+ "percent": 100,
+ "dealsFound": 580,
+ "updatedAt": "2026-08-27T11:14:05",
+ "publishedAt": "2026-08-27T15:14:16.751437+00:00",
  "queuedCount": 4,
  "queued": [
   {
