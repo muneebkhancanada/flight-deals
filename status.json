@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "daily",
- "phase": "VIE->YYZ 2026-10-13",
- "checksDone": 1299,
+ "phase": "DPS->YYZ 2027-01-19",
+ "checksDone": 1629,
  "checksPlanned": 2750,
- "percent": 47,
- "dealsFound": 311,
- "updatedAt": "2026-08-27T10:06:28",
- "publishedAt": "2026-08-27T14:06:39.913229+00:00",
+ "percent": 59,
+ "dealsFound": 337,
+ "updatedAt": "2026-08-27T10:21:46",
+ "publishedAt": "2026-08-27T14:21:56.814836+00:00",
  "queuedCount": 4,
  "queued": [
   {
