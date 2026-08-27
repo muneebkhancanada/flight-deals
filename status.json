@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "MUC->BCN 2026-10-30",
- "checksDone": 11406,
+ "phase": "CPT->BRU 2026-12-29",
+ "checksDone": 11751,
  "checksPlanned": 17216,
- "percent": 66,
- "dealsFound": 10231,
- "updatedAt": "2026-08-27T03:49:55",
- "publishedAt": "2026-08-27T07:50:11.148483+00:00",
+ "percent": 68,
+ "dealsFound": 10569,
+ "updatedAt": "2026-08-27T04:05:16",
+ "publishedAt": "2026-08-27T08:05:27.429176+00:00",
  "queuedCount": 6,
  "queued": [
   {
