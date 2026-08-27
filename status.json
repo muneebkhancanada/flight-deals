@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "CAI->YYC 2026-12-29",
- "checksDone": 12783,
+ "phase": "SYD->CPH 2027-02-27",
+ "checksDone": 13128,
  "checksPlanned": 17216,
- "percent": 74,
- "dealsFound": 11574,
- "updatedAt": "2026-08-27T04:51:02",
- "publishedAt": "2026-08-27T08:51:16.741335+00:00",
+ "percent": 76,
+ "dealsFound": 11909,
+ "updatedAt": "2026-08-27T05:06:18",
+ "publishedAt": "2026-08-27T09:06:35.138510+00:00",
  "queuedCount": 6,
  "queued": [
   {
