@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ZRH->MSP 2026-12-29",
- "checksDone": 16383,
+ "phase": "CDG->JFK 2027-02-27",
+ "checksDone": 16692,
  "checksPlanned": 17216,
- "percent": 95,
- "dealsFound": 14986,
- "updatedAt": "2026-08-27T07:41:10",
- "publishedAt": "2026-08-27T11:41:43.881235+00:00",
+ "percent": 97,
+ "dealsFound": 15295,
+ "updatedAt": "2026-08-27T07:56:53",
+ "publishedAt": "2026-08-27T11:57:19.635230+00:00",
  "queuedCount": 6,
  "queued": [
   {
