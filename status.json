@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "quick",
- "phase": "YYZ->BOG 2026-10-31",
- "checksDone": 579,
+ "phase": "finished",
+ "checksDone": 752,
  "checksPlanned": 752,
- "percent": 77,
- "dealsFound": 107,
- "updatedAt": "2026-08-27T08:56:26",
- "publishedAt": "2026-08-27T12:56:50.365765+00:00",
+ "percent": 100,
+ "dealsFound": 126,
+ "updatedAt": "2026-08-27T09:04:50",
+ "publishedAt": "2026-08-27T13:05:06.518752+00:00",
  "queuedCount": 5,
  "queued": [
   {
