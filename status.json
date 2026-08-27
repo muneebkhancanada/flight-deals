@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SJJ->LIS 2027-02-27",
- "checksDone": 6576,
+ "phase": "ISB->ARN 2027-02-27",
+ "checksDone": 6936,
  "checksPlanned": 17216,
- "percent": 38,
- "dealsFound": 5723,
- "updatedAt": "2026-08-27T00:16:04",
- "publishedAt": "2026-08-27T04:16:19.405169+00:00",
+ "percent": 40,
+ "dealsFound": 6015,
+ "updatedAt": "2026-08-27T00:31:21",
+ "publishedAt": "2026-08-27T04:31:35.624147+00:00",
  "queuedCount": 6,
  "queued": [
   {
