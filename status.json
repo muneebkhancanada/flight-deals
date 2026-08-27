@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DEN->DSS 2027-03-30",
- "checksDone": 4836,
+ "phase": "SEA->DSS 2026-09-22",
+ "checksDone": 5187,
  "checksPlanned": 104236,
  "percent": 5,
- "dealsFound": 966,
- "updatedAt": "2026-08-27T16:37:44",
- "publishedAt": "2026-08-27T20:37:54.776415+00:00",
+ "dealsFound": 1061,
+ "updatedAt": "2026-08-27T16:52:56",
+ "publishedAt": "2026-08-27T20:53:13.038689+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
