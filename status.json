@@ -1,13 +1,13 @@
 {
- "running": true,
+ "running": false,
  "mode": "custom",
- "phase": "MXP->YUL 2026-08-31",
- "checksDone": 17001,
+ "phase": "finished",
+ "checksDone": 17216,
  "checksPlanned": 17216,
- "percent": 99,
- "dealsFound": 15604,
- "updatedAt": "2026-08-27T08:12:27",
- "publishedAt": "2026-08-27T12:12:56.558724+00:00",
+ "percent": 100,
+ "dealsFound": 15813,
+ "updatedAt": "2026-08-27T08:24:01",
+ "publishedAt": "2026-08-27T12:24:52.651320+00:00",
  "queuedCount": 6,
  "queued": [
   {
