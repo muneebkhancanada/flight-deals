@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "BCN->LIS 2026-08-31",
- "checksDone": 12441,
+ "phase": "CAI->YYC 2026-12-29",
+ "checksDone": 12783,
  "checksPlanned": 17216,
- "percent": 72,
- "dealsFound": 11241,
- "updatedAt": "2026-08-27T04:35:49",
- "publishedAt": "2026-08-27T08:36:00.454933+00:00",
+ "percent": 74,
+ "dealsFound": 11574,
+ "updatedAt": "2026-08-27T04:51:02",
+ "publishedAt": "2026-08-27T08:51:16.741335+00:00",
  "queuedCount": 6,
  "queued": [
   {
