@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "SYD->MAN 2026-12-29",
- "checksDone": 8007,
+ "phase": "TPE->EWR 2026-08-31",
+ "checksDone": 8349,
  "checksPlanned": 17216,
- "percent": 47,
- "dealsFound": 6917,
- "updatedAt": "2026-08-27T01:17:12",
- "publishedAt": "2026-08-27T05:17:24.926622+00:00",
+ "percent": 48,
+ "dealsFound": 7216,
+ "updatedAt": "2026-08-27T01:32:29",
+ "publishedAt": "2026-08-27T05:32:41.177273+00:00",
  "queuedCount": 6,
  "queued": [
   {
