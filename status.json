@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "HKG->LGW 2026-08-31",
- "checksDone": 11061,
+ "phase": "MUC->BCN 2026-10-30",
+ "checksDone": 11406,
  "checksPlanned": 17216,
- "percent": 64,
- "dealsFound": 9886,
- "updatedAt": "2026-08-27T03:34:38",
- "publishedAt": "2026-08-27T07:34:55.116424+00:00",
+ "percent": 66,
+ "dealsFound": 10231,
+ "updatedAt": "2026-08-27T03:49:55",
+ "publishedAt": "2026-08-27T07:50:11.148483+00:00",
  "queuedCount": 6,
  "queued": [
   {
