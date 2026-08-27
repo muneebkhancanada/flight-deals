@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->DSS 2026-09-22",
- "checksDone": 5187,
+ "phase": "SFO->BJL 2026-09-22",
+ "checksDone": 5535,
  "checksPlanned": 104236,
  "percent": 5,
- "dealsFound": 1061,
- "updatedAt": "2026-08-27T16:52:56",
- "publishedAt": "2026-08-27T20:53:13.038689+00:00",
+ "dealsFound": 1178,
+ "updatedAt": "2026-08-27T17:08:19",
+ "publishedAt": "2026-08-27T21:08:29.850017+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
