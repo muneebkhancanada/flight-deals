@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "YVR->TAS 2026-10-01",
- "checksDone": 330,
+ "phase": "YVR->HKG 2026-09-01",
+ "checksDone": 657,
  "checksPlanned": 744,
- "percent": 44,
- "dealsFound": 85,
- "updatedAt": "2026-08-27T12:09:12",
- "publishedAt": "2026-08-27T16:09:27.070605+00:00",
+ "percent": 88,
+ "dealsFound": 231,
+ "updatedAt": "2026-08-27T12:24:28",
+ "publishedAt": "2026-08-27T16:24:43.955430+00:00",
  "queuedCount": 2,
  "queued": [
   {
