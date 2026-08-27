@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "custom",
- "phase": "ARN->LIS 2026-08-31",
- "checksDone": 14145,
+ "phase": "GRU->YVR 2026-08-31",
+ "checksDone": 14481,
  "checksPlanned": 17216,
- "percent": 82,
- "dealsFound": 12855,
- "updatedAt": "2026-08-27T05:52:12",
- "publishedAt": "2026-08-27T09:52:25.369266+00:00",
+ "percent": 84,
+ "dealsFound": 13161,
+ "updatedAt": "2026-08-27T06:07:32",
+ "publishedAt": "2026-08-27T10:07:59.056853+00:00",
  "queuedCount": 6,
  "queued": [
   {
