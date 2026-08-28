@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JNB->BOS 2026-10-14",
- "checksDone": 3084,
+ "phase": "MLE->PHL 2026-12-16",
+ "checksDone": 3411,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 394,
- "updatedAt": "2026-08-28T19:32:41",
- "publishedAt": "2026-08-28T23:32:53.455916+00:00",
+ "dealsFound": 411,
+ "updatedAt": "2026-08-28T19:47:03",
+ "publishedAt": "2026-08-28T23:47:12.140957+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
