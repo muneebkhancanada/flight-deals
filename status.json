@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CDG->MLE 2026-11-24",
- "checksDone": 10398,
+ "phase": "AMS->AUH 2026-11-24",
+ "checksDone": 10758,
  "checksPlanned": 104236,
  "percent": 10,
- "dealsFound": 1862,
- "updatedAt": "2026-08-27T20:42:53",
- "publishedAt": "2026-08-28T00:43:09.061592+00:00",
+ "dealsFound": 1930,
+ "updatedAt": "2026-08-27T20:58:36",
+ "publishedAt": "2026-08-28T00:58:47.579016+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
