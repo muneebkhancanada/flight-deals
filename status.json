@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHE->JFK 2027-02-17",
- "checksDone": 1734,
+ "phase": "TUN->JFK 2027-04-21",
+ "checksDone": 2049,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 221,
- "updatedAt": "2026-08-28T18:32:06",
- "publishedAt": "2026-08-28T22:32:10.777015+00:00",
+ "dealsFound": 291,
+ "updatedAt": "2026-08-28T18:45:36",
+ "publishedAt": "2026-08-28T22:45:53.007602+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
