@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->FCO 2027-01-26",
- "checksDone": 11109,
+ "phase": "FRA->SYX 2026-09-22",
+ "checksDone": 11463,
  "checksPlanned": 104236,
  "percent": 11,
- "dealsFound": 1976,
- "updatedAt": "2026-08-27T21:14:11",
- "publishedAt": "2026-08-28T01:14:27.634164+00:00",
+ "dealsFound": 2043,
+ "updatedAt": "2026-08-27T21:29:52",
+ "publishedAt": "2026-08-28T01:30:05.877329+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
