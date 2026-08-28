@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MLE->PHL 2026-12-16",
- "checksDone": 3411,
+ "phase": "KTM->PHL 2026-12-16",
+ "checksDone": 3435,
  "checksPlanned": 104236,
  "percent": 3,
  "dealsFound": 411,
- "updatedAt": "2026-08-28T19:47:03",
- "publishedAt": "2026-08-28T23:47:12.140957+00:00",
+ "updatedAt": "2026-08-28T19:48:12",
+ "publishedAt": "2026-08-28T23:48:30.729311+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
