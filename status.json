@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZNZ->JFK 2027-02-17",
- "checksDone": 2070,
+ "phase": "GRU->EWR 2027-02-17",
+ "checksDone": 2394,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 291,
- "updatedAt": "2026-08-28T18:47:09",
- "publishedAt": "2026-08-28T22:47:11.831658+00:00",
+ "dealsFound": 329,
+ "updatedAt": "2026-08-28T19:01:15",
+ "publishedAt": "2026-08-28T23:01:32.301421+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
