@@ -210,6 +210,8 @@ ul { margin:6px 0 0 18px; padding:0; } li { margin:5px 0; line-height:1.42; }
 .thbarcol { height:100%; flex:1; min-width:76px; position:relative; display:flex; align-items:flex-end; justify-content:center; }
 .thbar { width:76%; min-width:52px; border-radius:7px 7px 0 0; background:#1e2d5f; position:relative; }
 .thbar.aftertaxbar { background:#0f766e; }
+.thbar.aftertaxbar.postbridgebar { background:#155e75; }
+.thx .thnobridge { color:#155e75; font-weight:800; }
 .threshold-chart-title { font-size:12px; font-weight:900; color:var(--navy); margin:4px 0 6px; }
 .thlabel { position:absolute; left:50%; top:8px; transform:translateX(-50%); background:rgba(255,255,255,.97); border:1px solid var(--line); border-radius:8px; padding:4px 6px; text-align:center; line-height:1.18; min-width:82px; font-size:10px; font-weight:850; color:var(--navy); } .thlabel .annual{font-weight:900;} .thlabel .monthly{font-size:9px;color:var(--muted);font-weight:850;}
 .thx { position:absolute; bottom:-42px; left:0; right:0; text-align:center; font-size:10.5px; font-weight:850; color:var(--navy); }
@@ -846,6 +848,7 @@ h1 { font-size:15px; line-height:1.05; }
   box-shadow:inset 0 1px 0 rgba(255,255,255,.16);
 }
 .thbar.aftertaxbar { background:#137d72; }
+.thbar.aftertaxbar.postbridgebar { background:#1a6b85; }
 .thlabel {
   top:10px;
   min-width:92px;
@@ -2280,7 +2283,7 @@ pre,.note,.small,.ort-source{overflow-wrap:anywhere;word-break:break-word}
     <div class="card">
       <h2>What changed in v1.4</h2>
       <ul>
-        <li><b>v1.4.39.83 — Optional OPG analysis through age 68:</b> added optional OPG work/retirement analysis through age 68 behind a default-OFF screen flag; added official Standard and J&amp;100% pension values through 68; added dynamic post-retirement stable-state years for post-65 retirement; extended OPG stay-value analysis through 67 → 68; and applied person-level OAS recovery so Muneeb's OAS is fully clawed back while working at projected OPG income after 65 without incorrectly clawing back Beena's OAS. With the flag off the age 57–65 dashboard is byte-for-byte the v1.4.39.82 production baseline: same retirement-age range, same charts, same stay-threshold rows, same lump-sum behaviour and the same golden financial fixture. The commuted-value / lump-sum option is unchanged and remains a pre-age-65 decision only; CPP start ages remain 60–65 and no CPP value is fabricated above 65. Assumptions schema moved to v4 with backwards-compatible defaults for saved v1–v3 assumptions.</li>
+        <li><b>v1.4.39.83 — Optional OPG analysis through age 68:</b> fixed the OPG stay threshold at the last modelled retirement age, which previously fell back to the age 57 → 58 row and displayed age-57 figures under a "Selected one-year value" heading (this also corrects the same pre-existing behaviour at age 65 in standard mode); the last modelled age now resolves to the final available step and says so. Marked the post-65 stay-threshold rows as a separate bridge regime, since rows up to 64 → 65 measure the retired baseline in a year the OPG bridge is still payable while rows from 65 → 66 measure it after the bridge has ended — each row is a correct one-year comparison, but the series must not be read as one continuous ladder across age 65. Also added optional OPG work/retirement analysis through age 68 behind a default-OFF screen flag; added official Standard and J&amp;100% pension values through 68; added dynamic post-retirement stable-state years for post-65 retirement; extended OPG stay-value analysis through 67 → 68; and applied person-level OAS recovery so Muneeb's OAS is fully clawed back while working at projected OPG income after 65 without incorrectly clawing back Beena's OAS. With the flag off the age 57–65 dashboard is byte-for-byte the v1.4.39.82 production baseline: same retirement-age range, same charts, same stay-threshold rows, same lump-sum behaviour and the same golden financial fixture. The commuted-value / lump-sum option is unchanged and remains a pre-age-65 decision only; CPP start ages remain 60–65 and no CPP value is fabricated above 65. Assumptions schema moved to v4 with backwards-compatible defaults for saved v1–v3 assumptions.</li>
         <li><b>v1.4.39.82 — Feature-parity navigation restoration:</b> restores the explicit <b>OPG Stay Threshold</b> label, replaces abbreviated grouped-subnavigation labels with clear former decision-tool names, and restores on-demand access to the existing Forced Exit Contingency panel and its export. No assumptions, formulas, tax logic, pension logic, or calculated outputs were changed.</li><li><b>v1.4.39.81 — Phase 3 engineering consolidation:</b> preserves the v80 financial model while routing resident household scenarios through one canonical calculation path, clarifying shared versus scenario-local state, deduplicating render events, rebuilding declarative exports with reproducibility metadata, fixing mobile containment, and adding golden financial, export, state, render, and layout invariants.</li><li><b>v1.4.39.80 — CPP pension sharing:</b> defaults Service Canada pension sharing to apply when eligible, uses a fixed full-joint-period 50% planning entitlement supplied for Muneeb and Beena, allocates both spouses' shareable base CPP symmetrically, keeps PRB with its contributor, and optimizes only the OPG T1032 split afterward. Added a clearly labelled confirmed-entitlement fallback, Beena base-CPP input, ages 60–70 before/after tax report, pension-planner integration, non-resident boundary warning, schema migration, and regression checks.</li><li><b>v1.4.39.79 — Phase 2:</b> made Annual Update imports atomic through schema migration, deep defaults, normalization, year-aware validation, and commit-on-success; added real saved-state envelopes and legacy migrations; changed international country customization to field-level overrides; and preserved valid zero inputs.</li><li><b>v1.4.39.78 — Phase 1:</b> defined the three retirement-progression views as pension-only; introduced typed work-income buckets that keep OPG T4 salary separate; removed CPP sharing from the tax optimizer and exposed a fixed Service Canada entitlement assumption; consolidated resident Ontario calculations into versioned engine <code>CA-ON-resident-v1.4.39.78</code>, including the Ontario tax reduction; and added explicit full-versus-personal OAS entitlement bases. The pre-v78 change-log references to an optimized CPP split and an actual transition tax year are historical and are superseded by this entry.</li>
         <li><b>v1.4.39.77:</b> consolidated the 16 visible views into eight primary decision tabs without deleting any calculations, tables, exports, or audits. Detailed views are now keyboard-accessible internal sections; shared scenario settings can be collapsed to improve mobile scanning. Pension, tax, and split logic are unchanged.</li>
         <li><b>v1.4.39.76:</b> completed a cross-tab reliability and UX audit. Corrected stress-test percentage labels, made milestone downloads and saved-copy replacement more reliable, avoided redundant slider re-renders, cached repeated deterministic stress simulations, and added keyboard tab navigation. Pension, tax, and split logic are unchanged.</li>
@@ -4531,6 +4534,18 @@ function extendedOpgSelfChecks(){
   // The age <= 65 employment-booking convention is untouched by the extension.
   const baselineEmployment=OPG.filter(o=>Number(o.age)<=OPG_STANDARD_MAX_AGE)
     .every(o=>opgT4EmploymentForCalendarYear(o,Number(o.retYear))===(o.half?Math.max(0,Number(o.transitionSalary)||0):0)&&opgT4EmploymentForCalendarYear(o,firstFullYear(o))===0);
+  // The last modelled age has no "one more year" step; it must resolve to the nearest
+  // earlier step and be labelled, never silently to the first (age-57) row.
+  const terminalAge=extendOpgTo68()?OPG_EXTENDED_MAX_AGE:OPG_STANDARD_MAX_AGE;
+  const terminal=stayThresholdRowForSelectedAge(terminalAge);
+  const rowsNow=visibleStayThresholdRows();
+  const terminalResolution=Boolean(terminal.row)&&!terminal.exact&&terminal.atEndOfRange
+    &&Number(terminal.row.to)===terminalAge&&terminal.row!==rowsNow[0]
+    &&rowsNow.every(r=>{const sel=stayThresholdRowForSelectedAge(r.from);return sel.exact&&sel.row===r;});
+  // Every stay-threshold row measures its retired baseline in its own comparison year, so
+  // the bridge regime must follow the comparison year rather than being assumed present.
+  const bridgeRegime=rowsNow.every(r=>thresholdRowHasBridgeInComparisonYear(r)===(thresholdComparisonYearForRow(r)<=2034))
+    &&rowsNow.filter(r=>isExtendedOpgAge(r.to)).every(r=>!thresholdRowHasBridgeInComparisonYear(r));
   const stayRows=OPG_STAY_THRESHOLD.filter(r=>r.extended).map(r=>`${r.from}-${r.to}`).join(",")==="65-66,66-67,67-68"
     && OPG_STAY_THRESHOLD.filter(r=>!r.extended).every(r=>Number(r.to)<=OPG_STANDARD_MAX_AGE);
   const lumpNotExtended=!LUMP_SUM_OPTIONS.some(l=>Number(l.age)>OPG_STANDARD_MAX_AGE)&&LUMP_SUM_OPTIONS.filter(l=>l.finalPre65).length===1;
@@ -4538,7 +4553,7 @@ function extendedOpgSelfChecks(){
   const visibility=extendOpgTo68()
     ? visibleOPGRows().some(o=>Number(o.age)>OPG_STANDARD_MAX_AGE)&&joint100Visible().some(j=>Number(j.age)>OPG_STANDARD_MAX_AGE)&&visibleStayThresholdRows().length===OPG_STAY_THRESHOLD.length
     : !visibleOPGRows().some(o=>Number(o.age)>OPG_STANDARD_MAX_AGE)&&!joint100Visible().some(j=>Number(j.age)>OPG_STANDARD_MAX_AGE)&&visibleStayThresholdRows().every(r=>Number(r.to)<=OPG_STANDARD_MAX_AGE)&&Number($("age")?.value||0)<=OPG_STANDARD_MAX_AGE&&![...($("age")?.options||[])].some(op=>Number(op.value)>OPG_STANDARD_MAX_AGE);
-  return {dataset,firstFull,stable,standardStable,noPreRetirementStableState,noEarlyPension,noEarlyPensionInScenario,workingYears,halfYearNoDoubleCount,baselineEmployment,stayRows,lumpNotExtended,cppNotFabricated,visibility};
+  return {dataset,firstFull,stable,standardStable,noPreRetirementStableState,noEarlyPension,noEarlyPensionInScenario,workingYears,halfYearNoDoubleCount,baselineEmployment,stayRows,terminalResolution,bridgeRegime,lumpNotExtended,cppNotFabricated,visibility};
 }
 /* Person-level OAS recovery while still working at OPG after 65. The recovery is produced by
    the ordinary tax engine from each person's own net income, not by a hard-coded rule, so
@@ -4604,6 +4619,8 @@ function renderSelfChecks(){
     ["v83 half-year post-65 retirement year never double-counts full salary plus full pension",ext.halfYearNoDoubleCount],
     ["v83 age ≤65 OPG employment booking is unchanged by the extension",ext.baselineEmployment],
     ["v83 stay threshold adds only 65→66, 66→67 and 67→68",ext.stayRows],
+    ["v83 stay threshold at the last modelled age resolves to the final step, never the age-57 row",ext.terminalResolution],
+    ["v83 stay-threshold bridge regime follows each row's own comparison year",ext.bridgeRegime],
     ["v83 lump-sum / commuted value is not extended past the final pre-65 quote",ext.lumpNotExtended],
     ["v83 no CPP values are fabricated for ages above 65",ext.cppNotFabricated],
     ["v83 retirement-age visibility matches the extension flag in both directions",ext.visibility],
@@ -5243,6 +5260,7 @@ function practicalReadForThresholdRow(r){
   const b=thresholdAfterTaxBreakdown(r);
   if(b.netValue<=0)return "No net value hurdle shown by current assumptions — audit required.";
   if(b.salaryOnlyValueIncludingBeenaOas<0)return "Salary-only cash advantage is negative once Beena OAS is considered; positive value depends on vacation/cash-out and pension growth.";
+  if(isExtendedOpgAge(r.to))return "Post-65 stay decision: the bridge has ended, so the retired baseline is lower and this one-year hurdle is higher than the pre-65 rows. Compare it against the permanent pension increase and the value of the time, not against the pre-65 bars.";
   if(Number(r.from)<60)return "High after-tax hurdle: outside role must be clearly compelling.";
   if(Number(r.from)<63)return "Moderate/high after-tax hurdle: outside role must beat OPG stability.";
   return "Lower value hurdle; check Beena OAS sensitivity, vacation cash, OPG stability, and pension growth.";
@@ -5753,6 +5771,40 @@ function cppScenarioSelfCheck(){
 
 
 
+/* v1.4.39.83 fix: resolve the stay-threshold row for the selected retirement age.
+   The last modelled age has no "work one more year" row, because there is no OPG pension
+   row beyond it. Falling back to the first row silently showed age-57 figures under a
+   "selected" heading. Resolve to the nearest preceding decision step instead and report
+   that it is not an exact match so every caller can label it. */
+function thresholdRowHasBridgeInComparisonYear(r){
+  const o=getOPG(Number(r.from));
+  if(!o)return false;
+  return pensionForYear(o,thresholdComparisonYearForRow(r)).bridge>0;
+}
+function thresholdBridgeRegimeNote(){
+  if(!extendOpgTo68())return "";
+  const rows=visibleStayThresholdRows();
+  const withBridge=rows.filter(thresholdRowHasBridgeInComparisonYear);
+  const withoutBridge=rows.filter(r=>!thresholdRowHasBridgeInComparisonYear(r));
+  if(!withBridge.length||!withoutBridge.length)return "";
+  const last=withBridge[withBridge.length-1], first=withoutBridge[0];
+  return `<div class="note"><b>Why the hurdle steps up at ${first.from} → ${first.to}.</b> Every row is a correct one-year comparison, but the retired side changes regime at 65. Rows up to <b>${last.from} → ${last.to}</b> compare against a retired baseline that still receives the OPG bridge in the comparison year; from <b>${first.from} → ${first.to}</b> the bridge has ended, so the retired alternative is lower and the value of staying is correspondingly higher. The step is caused by the bridge ending on a fixed calendar date, not by the stay-versus-retire decision, so do not read bar heights across age 65 as a single continuous ladder.</div>`;
+}
+function stayThresholdRowForSelectedAge(age=Number($("age")?.value||57)){
+  const rows=visibleStayThresholdRows();
+  if(!rows.length)return {row:null,exact:false,atEndOfRange:false,selectedAge:Number(age)};
+  const target=Math.floor(Number(age));
+  const exact=rows.find(r=>Number(r.from)===target);
+  if(exact)return {row:exact,exact:true,atEndOfRange:false,selectedAge:Number(age)};
+  const earlier=rows.filter(r=>Number(r.from)<target);
+  const fallback=earlier.length?earlier[earlier.length-1]:rows[0];
+  return {row:fallback,exact:false,atEndOfRange:earlier.length>0,selectedAge:Number(age)};
+}
+function stayThresholdSelectionNote(sel){
+  if(!sel.row||sel.exact)return "";
+  if(!sel.atEndOfRange)return `<div class="note"><b>No stay-value step starts at age ${sel.selectedAge}.</b> The figures below are for the earliest modelled step, ${sel.row.from} → ${sel.row.to}.</div>`;
+  return `<div class="note"><b>Age ${sel.selectedAge} is the end of the modelled OPG range,</b> so there is no "work one more year" step from it — that would need an OPG pension value beyond age ${sel.row.to}, which this dashboard does not have. The figures below are the last available step, <b>${sel.row.from} → ${sel.row.to}</b>.</div>`;
+}
 function pensionGrowthSimpleValueForThresholdRow(r,horizonAge=85){
   const d=stayThresholdDetail(r);
   const laterAge=Number(r.to);
@@ -5767,8 +5819,10 @@ function renderThresholdValueSplit(){
   const box=$("thresholdValueSplit");
   if(!box)return;
   const selectedAge=Number($("age")?.value||57);
-  const rowsInScope=visibleStayThresholdRows();
-  const selected=rowsInScope.find(r=>Number(r.from)===Math.floor(selectedAge))||rowsInScope[0];
+  const selection=stayThresholdRowForSelectedAge(selectedAge);
+  const selected=selection.row;
+  if(!selected){box.innerHTML="";return;}
+  const selectionNote=stayThresholdSelectionNote(selection);
   const b=thresholdAfterTaxBreakdown(selected);
   const pv=pensionGrowthSimpleValueForThresholdRow(selected,85);
   let rows='';
@@ -5779,9 +5833,10 @@ function renderThresholdValueSplit(){
   }
   box.innerHTML=`<div class="threshold-split-card">
     <h3>OPG stay value split: one-year value vs permanent pension growth</h3>
+    ${selectionNote}${thresholdBridgeRegimeNote()}
     <div class="small" style="margin-bottom:8px">This separates the decision into two different values. <b>One-year value</b> is the after-tax value from working one more year at OPG instead of retiring. It combines actual salary/bonus cash with banked vacation payout value that is paid at retirement. <b>Pension growth</b> is the extra indexed OPG pension created by staying that extra year. Pension growth is not expected to be linear: the large pre-April 2025 service block uses H3 and should finish the 40-hour catch-up by end of 2026, while post-March 2025 service uses H5 and should finish its 40-hour catch-up by Dec 2028. After those catch-up effects fade, the increase should look more like normal service accrual. The simple value to age 85 is not actuarial; it is a rough 2026-dollar multiplication and should not be added directly to the one-year one-year value.</div>
     <div class="threshold-split-grid">
-      <div class="threshold-split-kpi cash"><div class="lbl">Selected one-year value</div><div class="val">${fmt(b.netValue)}/yr</div><div class="desc">${selected.from}→${selected.to}: ${fmt(b.netValueMo)}/mo OPG-only after-tax hurdle.</div></div>
+      <div class="threshold-split-kpi cash"><div class="lbl">${selection.exact?"Selected one-year value":"Last available one-year value"}</div><div class="val">${fmt(b.netValue)}/yr</div><div class="desc">${selected.from}→${selected.to}: ${fmt(b.netValueMo)}/mo OPG-only after-tax hurdle.</div></div>
       <div class="threshold-split-kpi cash"><div class="lbl">Value formula</div><div class="val">Salary − pension + bonus/payout</div><div class="desc">Salary minus retired pension ${fmt(b.afterTaxComponents.salaryVsPension)} + paid bonus + banked payout value ${fmt(b.afterTaxComponents.vacationBonus+b.afterTaxComponents.bankedVacation)}.</div></div>
       <div class="threshold-split-kpi pension"><div class="lbl">Permanent pension increase</div><div class="val">${fmt(pv.lifetimeIncrease)}/yr</div><div class="desc">Extra lifetime OPG pension created by staying to age ${selected.to}.</div></div>
       <div class="threshold-split-kpi pension"><div class="lbl">Simple extra-pension value to 85</div><div class="val">${fmt(pv.simpleTotalValue)}</div><div class="desc">${fmt(pv.simpleLifetimeValue)} lifetime-pension value + ${fmt(pv.simpleBridgeValue)} positive bridge value.</div></div>
@@ -5800,9 +5855,10 @@ function renderThresholdAfterTaxChartHtml(){
     const r=row.r, b=row.b;
     const pctNet=thresholdPct(b.netValue,a.netPay);
     const h=Math.max(6,(Math.max(0,b.netValue)/maxNet)*100);
-    html+=`<div class="thbarcol"><div class="thbar aftertaxbar" style="height:${h}%"><div class="thlabel"><span class="annual">${pctNet}%</span><br><span class="annual">${fmt(b.netValue)}/yr</span><br><span class="monthly">${fmt(b.netValueMo)}/mo</span></div></div><div class="thx"><span class="thage">${r.from}→${r.to}</span><span>Retired ${fmt(b.retired.net)}</span><span>Working ${fmt(b.work.net)}</span><span>Outside gross ${fmt(b.outsideGrossRequired.emp)}</span></div></div>`;
+    const postBridge=!thresholdRowHasBridgeInComparisonYear(r);
+    html+=`<div class="thbarcol"><div class="thbar aftertaxbar${postBridge?" postbridgebar":""}" style="height:${h}%"><div class="thlabel"><span class="annual">${pctNet}%</span><br><span class="annual">${fmt(b.netValue)}/yr</span><br><span class="monthly">${fmt(b.netValueMo)}/mo</span></div></div><div class="thx"><span class="thage">${r.from}→${r.to}</span><span>Retired ${fmt(b.retired.net)}</span><span>Working ${fmt(b.work.net)}</span><span>Outside gross ${fmt(b.outsideGrossRequired.emp)}</span>${postBridge?`<span class="thnobridge">No bridge in ${b.payYear}</span>`:""}</div></div>`;
   }
-  html+='</div></div><div class="small" style="margin-bottom:8px">Chart shows the <b>net after-tax hurdle</b> any outside job must beat: one-more-year OPG stay-case value minus retired OPG pension take-home. The OPG stay-case value includes Net (after tax) value from vacation bonus paid during the work year and banked vacation payout value paid at retirement. CPP, MAK OAS and Beena OAS are excluded. Pension growth is separate and not included in the bar value.</div>';
+  html+='</div></div><div class="small" style="margin-bottom:8px">Chart shows the <b>net after-tax hurdle</b> any outside job must beat: one-more-year OPG stay-case value minus retired OPG pension take-home. The OPG stay-case value includes Net (after tax) value from vacation bonus paid during the work year and banked vacation payout value paid at retirement. CPP, MAK OAS and Beena OAS are excluded. Pension growth is separate and not included in the bar value.</div>'+thresholdBridgeRegimeNote();
   return html;
 }
 function renderThresholdChart(){const box=$("thresholdChart"); if(box) box.innerHTML=renderThresholdAfterTaxChartHtml();}
@@ -5851,18 +5907,19 @@ function renderThresholdTab(){
   let rows='<tr><th>OPG year worked</th><th>Estimated Net (after tax) value of staying</th><th>Net percentage audit</th><th>Pension growth</th><th>Practical read</th></tr>';
   for(const r of visibleStayThresholdRows()){
     const d=stayThresholdDetail(r);
-    rows+=`<tr><td><b>${r.from} → ${r.to}</b><br><span class="small">Comparison year ${thresholdComparisonYearForRow(r)}</span></td><td>${thresholdAfterTaxValueCellHtml(r)}</td><td>${thresholdNetPercentCellHtml(r,a)}</td><td>${thresholdPensionCellHtml(d)}</td><td>${practicalReadForThresholdRow(r)}</td></tr>`;
+    rows+=`<tr><td><b>${r.from} → ${r.to}</b><br><span class="small">Comparison year ${thresholdComparisonYearForRow(r)}${thresholdRowHasBridgeInComparisonYear(r)?"":" · no bridge"}</span></td><td>${thresholdAfterTaxValueCellHtml(r)}</td><td>${thresholdNetPercentCellHtml(r,a)}</td><td>${thresholdPensionCellHtml(d)}</td><td>${practicalReadForThresholdRow(r)}</td></tr>`;
   }
   table.classList.add("threshold-table-clean");
   table.innerHTML=rows;
   const selectedAge=Number($("age").value);
-  const selected=visibleStayThresholdRows().find(r=>Number(r.from)===Math.floor(selectedAge));
+  const selection=stayThresholdRowForSelectedAge(selectedAge);
+  const selected=selection.exact?selection.row:null;
   if(selected){
     const b=thresholdAfterTaxBreakdown(selected), d=b.pensionGrowth;
     const netPct=thresholdPct(b.netValue,a.netPay);
     selectedBox.innerHTML=`<p><b>Selected-age benchmark:</b> working from age ${selected.from} to ${selected.to} at OPG creates an estimated <b>${fmt(b.netValue)}/yr</b>, or <b>${fmt(b.netValueMo)}/mo</b>, Net (after tax) value hurdle versus retiring at age ${selected.from}. CPP and all OAS are excluded because they are separate public-benefit timing decisions, not OPG stay-value items.</p><p><b>Core calculation:</b> OPG stay-case value <b>${fmt(b.work.net)}/yr</b> minus retired OPG pension take-home <b>${fmt(b.retired.net)}/yr</b> equals <b>${fmt(b.netValue)}/yr</b>. The OPG stay-case uses the calibrated formula: OPG salary take-home + after-tax vacation bonus paid during the work year + after-tax banked vacation payout value accrued during that year and paid at retirement. This equals salary take-home less retired pension take-home <b>${fmt(b.afterTaxComponents.salaryVsPension)}</b> + after-tax vacation bonus <b>${fmt(b.afterTaxComponents.vacationBonus)}</b> + after-tax banked vacation payout value <b>${fmt(b.afterTaxComponents.bankedVacation)}</b>.</p><p><b>Percentage audit:</b> ${fmt(b.netValue)} ÷ ${fmt(a.netPay)} estimated annual OPG Net (after tax) pay benchmark incl. vacation bonus = <b>${fmtPct1(thresholdPctExact(b.netValue,a.netPay))}</b> → <b>${netPct}%</b>.</p><p><b>Outside job hurdle:</b> an outside T4 job would need about <b>${fmt(b.outsideGrossRequired.emp)}/yr gross</b> on top of the split OPG pension to generate the same <b>${fmt(b.netValue)}/yr</b> net Net (after tax) value, based on the dashboard tax/payroll engine.</p><p><b>B. Permanent pension growth:</b> staying also adds <b>${fmt(d.lifetimeIncrease)}/yr</b> lifetime pension${isExtendedOpgAge(selected.to)?" — no bridge, retirement after age 65":` and <b>${fmt(d.bridgeIncrease)}/yr</b> bridge pension until 65`}. This is shown separately and is not included in the value hurdle bar.</p>`;
   }else{
-    selectedBox.innerHTML='<p><b>Selected-age benchmark:</b> no one-more-year threshold is available for the selected exit age. Use the table below for the closest whole-year age.</p>';
+    selectedBox.innerHTML=stayThresholdSelectionNote(selection)+`<p><b>Selected-age benchmark:</b> no one-more-year threshold starts at the selected exit age${selection.row?`. The closest earlier step is ${selection.row.from} → ${selection.row.to}`:""}. Use the table below for the closest whole-year age.</p>`;
   }
 }
 
