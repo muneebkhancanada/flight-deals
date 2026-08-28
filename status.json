@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZRH->VCE 2026-11-24",
- "checksDone": 12174,
+ "phase": "ZRH->ISB 2027-03-30",
+ "checksDone": 12528,
  "checksPlanned": 104236,
  "percent": 12,
- "dealsFound": 2196,
- "updatedAt": "2026-08-27T22:01:08",
- "publishedAt": "2026-08-28T02:01:22.114047+00:00",
+ "dealsFound": 2303,
+ "updatedAt": "2026-08-27T22:16:44",
+ "publishedAt": "2026-08-28T02:17:00.767396+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
