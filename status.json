@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SEA->ICN 2026-11-04",
- "checksDone": 24927,
+ "phase": "YUL->GIG 2027-03-10",
+ "checksDone": 25185,
  "checksPlanned": 104236,
  "percent": 24,
- "dealsFound": 5499,
- "updatedAt": "2026-08-29T15:47:11",
- "publishedAt": "2026-08-29T19:47:14.242575+00:00",
+ "dealsFound": 5686,
+ "updatedAt": "2026-08-29T15:58:44",
+ "publishedAt": "2026-08-29T19:59:00.506031+00:00",
  "queuedCount": 5,
  "queued": [
   {
