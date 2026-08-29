@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AMS->ATH 2027-01-06",
- "checksDone": 16326,
+ "phase": "TIA->ATH 2027-01-06",
+ "checksDone": 16482,
  "checksPlanned": 104236,
  "percent": 16,
- "dealsFound": 2820,
- "updatedAt": "2026-08-29T09:17:12",
- "publishedAt": "2026-08-29T13:17:20.565760+00:00",
+ "dealsFound": 2882,
+ "updatedAt": "2026-08-29T09:23:55",
+ "publishedAt": "2026-08-29T13:24:22.565971+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
