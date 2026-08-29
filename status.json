@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "RUH->IAD 2027-02-17",
- "checksDone": 3750,
+ "phase": "MRU->IAD 2027-02-17",
+ "checksDone": 4086,
  "checksPlanned": 104236,
  "percent": 4,
- "dealsFound": 441,
- "updatedAt": "2026-08-28T20:02:07",
- "publishedAt": "2026-08-29T00:02:11.978882+00:00",
+ "dealsFound": 519,
+ "updatedAt": "2026-08-28T20:17:07",
+ "publishedAt": "2026-08-29T00:17:12.685136+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
