@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BNE->HNL 2026-09-02",
- "checksDone": 19080,
+ "phase": "OPO->MAN 2026-11-04",
+ "checksDone": 19131,
  "checksPlanned": 104236,
  "percent": 18,
- "dealsFound": 3063,
- "updatedAt": "2026-08-29T11:14:13",
- "publishedAt": "2026-08-29T15:14:33.395571+00:00",
+ "dealsFound": 3078,
+ "updatedAt": "2026-08-29T11:17:10",
+ "publishedAt": "2026-08-29T15:17:11.907453+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
