@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TIA->BUF 2026-11-04",
- "checksDone": 17223,
+ "phase": "SHJ->BUF 2027-03-10",
+ "checksDone": 17361,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 2945,
- "updatedAt": "2026-08-29T09:55:54",
- "publishedAt": "2026-08-29T13:56:09.877301+00:00",
+ "dealsFound": 2947,
+ "updatedAt": "2026-08-29T10:02:06",
+ "publishedAt": "2026-08-29T14:02:11.366805+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
