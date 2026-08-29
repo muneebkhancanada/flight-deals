@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->OSL 2027-01-06",
- "checksDone": 27930,
+ "phase": "ARN->SIN 2027-03-10",
+ "checksDone": 27993,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 6422,
- "updatedAt": "2026-08-29T18:02:08",
- "publishedAt": "2026-08-29T22:02:11.454792+00:00",
+ "dealsFound": 6436,
+ "updatedAt": "2026-08-29T18:04:46",
+ "publishedAt": "2026-08-29T22:05:00.648041+00:00",
  "queuedCount": 5,
  "queued": [
   {
