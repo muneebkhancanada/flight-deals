@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ORD->AMM 2026-11-04",
- "checksDone": 23475,
+ "phase": "ORD->EZE 2027-01-06",
+ "checksDone": 23622,
  "checksPlanned": 104236,
  "percent": 23,
- "dealsFound": 4910,
- "updatedAt": "2026-08-29T14:39:42",
- "publishedAt": "2026-08-29T18:39:57.751045+00:00",
+ "dealsFound": 5013,
+ "updatedAt": "2026-08-29T14:47:05",
+ "publishedAt": "2026-08-29T18:47:11.145996+00:00",
  "queuedCount": 5,
  "queued": [
   {
