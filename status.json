@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYD->IAH 2026-09-02",
- "checksDone": 3324,
+ "phase": "BNE->IAH 2026-11-04",
+ "checksDone": 3351,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 316,
- "updatedAt": "2026-08-28T23:17:10",
- "publishedAt": "2026-08-29T03:17:14.273612+00:00",
+ "dealsFound": 317,
+ "updatedAt": "2026-08-28T23:18:24",
+ "publishedAt": "2026-08-29T03:18:43.459508+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
