@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SHJ->LIS 2027-03-10",
- "checksDone": 13701,
+ "phase": "KHI->LIS 2026-09-02",
+ "checksDone": 13704,
  "checksPlanned": 104236,
  "percent": 13,
  "dealsFound": 2323,
- "updatedAt": "2026-08-29T07:16:09",
- "publishedAt": "2026-08-29T11:16:31.360845+00:00",
+ "updatedAt": "2026-08-29T07:17:12",
+ "publishedAt": "2026-08-29T11:17:15.911893+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
