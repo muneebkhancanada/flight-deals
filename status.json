@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BUD->IAD 2027-03-10",
- "checksDone": 30213,
+ "phase": "SGN->IAD 2027-03-10",
+ "checksDone": 30393,
  "checksPlanned": 104236,
  "percent": 29,
- "dealsFound": 6927,
- "updatedAt": "2026-08-29T19:47:05",
- "publishedAt": "2026-08-29T23:47:12.978745+00:00",
+ "dealsFound": 6957,
+ "updatedAt": "2026-08-29T19:54:55",
+ "publishedAt": "2026-08-29T23:55:15.205777+00:00",
  "queuedCount": 5,
  "queued": [
   {
