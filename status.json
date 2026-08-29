@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZNZ->CPH 2027-01-06",
- "checksDone": 14406,
+ "phase": "SYX->ARN 2026-11-04",
+ "checksDone": 14667,
  "checksPlanned": 104236,
  "percent": 14,
- "dealsFound": 2454,
- "updatedAt": "2026-08-29T07:48:13",
- "publishedAt": "2026-08-29T11:48:30.297847+00:00",
+ "dealsFound": 2528,
+ "updatedAt": "2026-08-29T08:02:11",
+ "publishedAt": "2026-08-29T12:02:12.974527+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
