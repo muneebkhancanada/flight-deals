@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ZRH->JNB 2027-01-06",
- "checksDone": 26562,
+ "phase": "BCN->VCE 2026-09-02",
+ "checksDone": 26916,
  "checksPlanned": 104236,
- "percent": 25,
- "dealsFound": 6109,
- "updatedAt": "2026-08-29T17:01:38",
- "publishedAt": "2026-08-29T21:02:12.164758+00:00",
+ "percent": 26,
+ "dealsFound": 6170,
+ "updatedAt": "2026-08-29T17:17:06",
+ "publishedAt": "2026-08-29T21:17:11.385468+00:00",
  "queuedCount": 5,
  "queued": [
   {
