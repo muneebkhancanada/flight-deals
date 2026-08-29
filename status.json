@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HND->PHL 2026-09-02",
- "checksDone": 29892,
+ "phase": "CMB->PHL 2026-09-02",
+ "checksDone": 30048,
  "checksPlanned": 104236,
  "percent": 29,
- "dealsFound": 6887,
- "updatedAt": "2026-08-29T19:32:07",
- "publishedAt": "2026-08-29T23:32:14.310637+00:00",
+ "dealsFound": 6921,
+ "updatedAt": "2026-08-29T19:39:12",
+ "publishedAt": "2026-08-29T23:39:31.089853+00:00",
  "queuedCount": 5,
  "queued": [
   {
