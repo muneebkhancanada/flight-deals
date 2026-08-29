@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CMB->EDI 2027-03-10",
- "checksDone": 20481,
+ "phase": "JFK->LHR 2027-01-06",
+ "checksDone": 20826,
  "checksPlanned": 104236,
  "percent": 20,
- "dealsFound": 3576,
- "updatedAt": "2026-08-29T12:17:15",
- "publishedAt": "2026-08-29T16:17:40.681690+00:00",
+ "dealsFound": 3647,
+ "updatedAt": "2026-08-29T12:32:05",
+ "publishedAt": "2026-08-29T16:32:12.938387+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
