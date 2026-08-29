@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "AKL->DFW 2026-09-02",
- "checksDone": 3012,
+ "phase": "SYD->IAH 2026-09-02",
+ "checksDone": 3324,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 302,
- "updatedAt": "2026-08-28T23:02:26",
- "publishedAt": "2026-08-29T03:02:47.858030+00:00",
+ "dealsFound": 316,
+ "updatedAt": "2026-08-28T23:17:10",
+ "publishedAt": "2026-08-29T03:17:14.273612+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
