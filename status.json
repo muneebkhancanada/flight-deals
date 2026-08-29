@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TAS->ORD 2026-09-02",
- "checksDone": 156,
+ "phase": "AKL->ORD 2027-01-06",
+ "checksDone": 330,
  "checksPlanned": 104236,
  "percent": 0,
- "dealsFound": 28,
- "updatedAt": "2026-08-28T20:47:07",
- "publishedAt": "2026-08-29T00:47:14.479589+00:00",
+ "dealsFound": 39,
+ "updatedAt": "2026-08-28T20:54:58",
+ "publishedAt": "2026-08-29T00:55:20.773537+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
