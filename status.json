@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ARN->SIN 2027-03-10",
- "checksDone": 27993,
+ "phase": "BRU->BCN 2026-09-02",
+ "checksDone": 28272,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 6436,
- "updatedAt": "2026-08-29T18:04:46",
- "publishedAt": "2026-08-29T22:05:00.648041+00:00",
+ "dealsFound": 6520,
+ "updatedAt": "2026-08-29T18:17:10",
+ "publishedAt": "2026-08-29T22:17:11.646941+00:00",
  "queuedCount": 5,
  "queued": [
   {
