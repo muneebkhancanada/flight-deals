@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BJS->YVR 2026-11-04",
- "checksDone": 6855,
+ "phase": "PRG->LHR 2026-09-02",
+ "checksDone": 7116,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 642,
- "updatedAt": "2026-08-29T02:02:07",
- "publishedAt": "2026-08-29T06:02:14.021784+00:00",
+ "dealsFound": 661,
+ "updatedAt": "2026-08-29T02:13:29",
+ "publishedAt": "2026-08-29T06:13:47.993258+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
