@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYD->SEA 2026-09-02",
- "checksDone": 4032,
+ "phase": "ISB->SFO 2026-11-04",
+ "checksDone": 4275,
  "checksPlanned": 104236,
  "percent": 4,
- "dealsFound": 370,
- "updatedAt": "2026-08-28T23:50:14",
- "publishedAt": "2026-08-29T03:50:33.579818+00:00",
+ "dealsFound": 411,
+ "updatedAt": "2026-08-29T00:02:08",
+ "publishedAt": "2026-08-29T04:02:13.777935+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
