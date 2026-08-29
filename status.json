@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CAI->LHR 2027-03-10",
- "checksDone": 7449,
+ "phase": "MRU->LHR 2026-09-02",
+ "checksDone": 7488,
  "checksPlanned": 104236,
  "percent": 7,
- "dealsFound": 799,
- "updatedAt": "2026-08-29T02:29:27",
- "publishedAt": "2026-08-29T06:29:44.202852+00:00",
+ "dealsFound": 801,
+ "updatedAt": "2026-08-29T02:32:05",
+ "publishedAt": "2026-08-29T06:32:12.990712+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
