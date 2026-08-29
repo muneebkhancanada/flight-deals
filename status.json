@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LHR->WAW 2026-11-04",
- "checksDone": 15783,
+ "phase": "BAH->WAW 2027-03-10",
+ "checksDone": 16005,
  "checksPlanned": 104236,
  "percent": 15,
- "dealsFound": 2706,
- "updatedAt": "2026-08-29T08:51:52",
- "publishedAt": "2026-08-29T12:52:08.816224+00:00",
+ "dealsFound": 2731,
+ "updatedAt": "2026-08-29T09:02:08",
+ "publishedAt": "2026-08-29T13:02:12.149361+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
