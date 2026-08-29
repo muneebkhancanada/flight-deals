@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CAI->MXP 2027-03-10",
- "checksDone": 13041,
+ "phase": "SHJ->DUB 2027-03-10",
+ "checksDone": 13353,
  "checksPlanned": 104236,
  "percent": 13,
- "dealsFound": 2180,
- "updatedAt": "2026-08-29T06:47:07",
- "publishedAt": "2026-08-29T10:47:13.628626+00:00",
+ "dealsFound": 2267,
+ "updatedAt": "2026-08-29T07:00:15",
+ "publishedAt": "2026-08-29T11:00:35.918702+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
