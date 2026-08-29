@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->HNL 2027-03-10",
- "checksDone": 18333,
+ "phase": "AMM->HNL 2026-11-04",
+ "checksDone": 18423,
  "checksPlanned": 104236,
  "percent": 18,
  "dealsFound": 3006,
- "updatedAt": "2026-08-29T10:42:57",
- "publishedAt": "2026-08-29T14:43:09.750351+00:00",
+ "updatedAt": "2026-08-29T10:47:11",
+ "publishedAt": "2026-08-29T14:47:11.678667+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
