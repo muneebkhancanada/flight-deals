@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BRU->KUL 2026-11-04",
- "checksDone": 28347,
+ "phase": "EDI->ARN 2027-03-10",
+ "checksDone": 28605,
  "checksPlanned": 104236,
  "percent": 27,
- "dealsFound": 6544,
- "updatedAt": "2026-08-29T18:20:25",
- "publishedAt": "2026-08-29T22:20:44.169825+00:00",
+ "dealsFound": 6572,
+ "updatedAt": "2026-08-29T18:32:13",
+ "publishedAt": "2026-08-29T22:32:13.662212+00:00",
  "queuedCount": 5,
  "queued": [
   {
