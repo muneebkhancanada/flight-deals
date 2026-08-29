@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SHJ->BUF 2027-03-10",
- "checksDone": 17361,
+ "phase": "SZX->BUF 2027-03-10",
+ "checksDone": 17589,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 2947,
- "updatedAt": "2026-08-29T10:02:06",
- "publishedAt": "2026-08-29T14:02:11.366805+00:00",
+ "dealsFound": 2981,
+ "updatedAt": "2026-08-29T10:11:36",
+ "publishedAt": "2026-08-29T14:11:50.495777+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
