@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BOS->KEF 2026-09-02",
- "checksDone": 21864,
+ "phase": "BOS->SYD 2026-09-02",
+ "checksDone": 22104,
  "checksPlanned": 104236,
  "percent": 21,
- "dealsFound": 4214,
- "updatedAt": "2026-08-29T13:20:31",
- "publishedAt": "2026-08-29T17:20:50.248345+00:00",
+ "dealsFound": 4348,
+ "updatedAt": "2026-08-29T13:32:08",
+ "publishedAt": "2026-08-29T17:32:13.066880+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
