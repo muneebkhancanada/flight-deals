@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MIA->SYD 2027-03-10",
- "checksDone": 24609,
+ "phase": "DEN->SIN 2027-03-10",
+ "checksDone": 24849,
  "checksPlanned": 104236,
  "percent": 24,
- "dealsFound": 5364,
- "updatedAt": "2026-08-29T15:32:05",
- "publishedAt": "2026-08-29T19:32:13.737352+00:00",
+ "dealsFound": 5459,
+ "updatedAt": "2026-08-29T15:42:49",
+ "publishedAt": "2026-08-29T19:43:10.742192+00:00",
  "queuedCount": 5,
  "queued": [
   {
