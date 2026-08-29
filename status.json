@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BJL->YOW 2027-01-06",
- "checksDone": 6198,
+ "phase": "TPE->YYC 2027-03-10",
+ "checksDone": 6417,
  "checksPlanned": 104236,
  "percent": 6,
- "dealsFound": 606,
- "updatedAt": "2026-08-29T01:32:10",
- "publishedAt": "2026-08-29T05:32:14.062760+00:00",
+ "dealsFound": 612,
+ "updatedAt": "2026-08-29T01:41:39",
+ "publishedAt": "2026-08-29T05:41:55.873333+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
