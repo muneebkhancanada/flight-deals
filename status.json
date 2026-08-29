@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CMB->PHL 2026-09-02",
- "checksDone": 30048,
+ "phase": "BUD->IAD 2027-03-10",
+ "checksDone": 30213,
  "checksPlanned": 104236,
  "percent": 29,
- "dealsFound": 6921,
- "updatedAt": "2026-08-29T19:39:12",
- "publishedAt": "2026-08-29T23:39:31.089853+00:00",
+ "dealsFound": 6927,
+ "updatedAt": "2026-08-29T19:47:05",
+ "publishedAt": "2026-08-29T23:47:12.978745+00:00",
  "queuedCount": 5,
  "queued": [
   {
