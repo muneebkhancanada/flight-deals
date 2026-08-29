@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "ISB->ARN 2026-11-04",
- "checksDone": 14715,
+ "phase": "KHI->OSL 2027-01-06",
+ "checksDone": 15018,
  "checksPlanned": 104236,
  "percent": 14,
- "dealsFound": 2528,
- "updatedAt": "2026-08-29T08:04:04",
- "publishedAt": "2026-08-29T12:04:23.036264+00:00",
+ "dealsFound": 2579,
+ "updatedAt": "2026-08-29T08:17:10",
+ "publishedAt": "2026-08-29T12:17:11.675980+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
