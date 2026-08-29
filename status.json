@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "FRA->MXP 2026-11-04",
- "checksDone": 12735,
+ "phase": "MLE->MXP 2026-11-04",
+ "checksDone": 12999,
  "checksPlanned": 104236,
  "percent": 12,
- "dealsFound": 2084,
- "updatedAt": "2026-08-29T06:32:05",
- "publishedAt": "2026-08-29T10:32:13.578988+00:00",
+ "dealsFound": 2173,
+ "updatedAt": "2026-08-29T06:44:16",
+ "publishedAt": "2026-08-29T10:44:40.658207+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
