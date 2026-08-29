@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAD->SGN 2026-11-04",
- "checksDone": 23307,
+ "phase": "ORD->AMM 2026-11-04",
+ "checksDone": 23475,
  "checksPlanned": 104236,
- "percent": 22,
- "dealsFound": 4817,
- "updatedAt": "2026-08-29T14:32:10",
- "publishedAt": "2026-08-29T18:32:17.830520+00:00",
+ "percent": 23,
+ "dealsFound": 4910,
+ "updatedAt": "2026-08-29T14:39:42",
+ "publishedAt": "2026-08-29T18:39:57.751045+00:00",
  "queuedCount": 5,
  "queued": [
   {
