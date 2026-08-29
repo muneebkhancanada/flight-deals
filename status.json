@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "LGW->SGN 2027-03-10",
- "checksDone": 25869,
+ "phase": "LGW->CGK 2026-09-02",
+ "checksDone": 25896,
  "checksPlanned": 104236,
  "percent": 25,
- "dealsFound": 5996,
- "updatedAt": "2026-08-29T16:30:15",
- "publishedAt": "2026-08-29T20:30:30.658549+00:00",
+ "dealsFound": 5999,
+ "updatedAt": "2026-08-29T16:32:07",
+ "publishedAt": "2026-08-29T20:32:12.092128+00:00",
  "queuedCount": 5,
  "queued": [
   {
