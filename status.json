@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KEF->MAN 2027-03-10",
- "checksDone": 19437,
+ "phase": "MUC->MAN 2027-03-10",
+ "checksDone": 19473,
  "checksPlanned": 104236,
  "percent": 19,
- "dealsFound": 3222,
- "updatedAt": "2026-08-29T11:29:58",
- "publishedAt": "2026-08-29T15:30:14.192238+00:00",
+ "dealsFound": 3229,
+ "updatedAt": "2026-08-29T11:32:05",
+ "publishedAt": "2026-08-29T15:32:11.494469+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
