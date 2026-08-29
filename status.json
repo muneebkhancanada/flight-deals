@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "KUL->BOS 2027-03-10",
- "checksDone": 29565,
+ "phase": "AKL->BOS 2027-03-10",
+ "checksDone": 29709,
  "checksPlanned": 104236,
- "percent": 28,
- "dealsFound": 6843,
- "updatedAt": "2026-08-29T19:17:10",
- "publishedAt": "2026-08-29T23:17:12.431721+00:00",
+ "percent": 29,
+ "dealsFound": 6883,
+ "updatedAt": "2026-08-29T19:23:31",
+ "publishedAt": "2026-08-29T23:23:46.873013+00:00",
  "queuedCount": 5,
  "queued": [
   {
