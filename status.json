@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DTW->WAW 2027-03-10",
- "checksDone": 23961,
+ "phase": "DTW->NBO 2026-11-04",
+ "checksDone": 24171,
  "checksPlanned": 104236,
  "percent": 23,
- "dealsFound": 5139,
- "updatedAt": "2026-08-29T15:02:06",
- "publishedAt": "2026-08-29T19:02:12.132535+00:00",
+ "dealsFound": 5202,
+ "updatedAt": "2026-08-29T15:11:09",
+ "publishedAt": "2026-08-29T19:11:28.432083+00:00",
  "queuedCount": 5,
  "queued": [
   {
