@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "TUN->CPH 2027-01-06",
- "checksDone": 14382,
+ "phase": "ZNZ->CPH 2027-01-06",
+ "checksDone": 14406,
  "checksPlanned": 104236,
  "percent": 14,
  "dealsFound": 2454,
- "updatedAt": "2026-08-29T07:47:08",
- "publishedAt": "2026-08-29T11:47:13.593646+00:00",
+ "updatedAt": "2026-08-29T07:48:13",
+ "publishedAt": "2026-08-29T11:48:30.297847+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
