@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SCL->BUF 2027-01-06",
- "checksDone": 17718,
+ "phase": "NAN->BUF 2026-11-04",
+ "checksDone": 17979,
  "checksPlanned": 104236,
  "percent": 17,
- "dealsFound": 2984,
- "updatedAt": "2026-08-29T10:17:06",
- "publishedAt": "2026-08-29T14:17:11.009599+00:00",
+ "dealsFound": 2993,
+ "updatedAt": "2026-08-29T10:27:17",
+ "publishedAt": "2026-08-29T14:27:29.477490+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
