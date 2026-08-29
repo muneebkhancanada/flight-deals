@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "YVR->BKK 2027-03-10",
- "checksDone": 25569,
+ "phase": "LGW->SGN 2027-03-10",
+ "checksDone": 25869,
  "checksPlanned": 104236,
  "percent": 25,
- "dealsFound": 5841,
- "updatedAt": "2026-08-29T16:17:07",
- "publishedAt": "2026-08-29T20:17:11.406721+00:00",
+ "dealsFound": 5996,
+ "updatedAt": "2026-08-29T16:30:15",
+ "publishedAt": "2026-08-29T20:30:30.658549+00:00",
  "queuedCount": 5,
  "queued": [
   {
