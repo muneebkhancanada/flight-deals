@@ -1,14 +1,35 @@
 {
  "running": true,
  "mode": "full",
- "phase": "IAD->AMM 2026-09-02",
- "checksDone": 23208,
+ "phase": "IAD->SGN 2026-11-04",
+ "checksDone": 23307,
  "checksPlanned": 104236,
  "percent": 22,
- "dealsFound": 4767,
- "updatedAt": "2026-08-29T14:23:43",
- "publishedAt": "2026-08-29T18:24:06.931048+00:00",
- "queuedCount": 0,
- "queued": [],
+ "dealsFound": 4817,
+ "updatedAt": "2026-08-29T14:32:10",
+ "publishedAt": "2026-08-29T18:32:17.830520+00:00",
+ "queuedCount": 5,
+ "queued": [
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "daily",
+   "mode": "daily"
+  },
+  {
+   "label": "quick",
+   "mode": "quick"
+  },
+  {
+   "label": "full",
+   "mode": "full"
+  },
+  {
+   "label": "custom (primary → everywhere)",
+   "mode": "quick"
+  }
+ ],
  "totalDeals": 75000
 }
