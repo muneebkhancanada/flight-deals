@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "EDI->CGK 2027-01-06",
- "checksDone": 28698,
+ "phase": "SGN->JFK 2027-01-06",
+ "checksDone": 28926,
  "checksPlanned": 104236,
  "percent": 28,
- "dealsFound": 6573,
- "updatedAt": "2026-08-29T18:36:13",
- "publishedAt": "2026-08-29T22:36:27.706734+00:00",
+ "dealsFound": 6649,
+ "updatedAt": "2026-08-29T18:47:05",
+ "publishedAt": "2026-08-29T22:47:11.632906+00:00",
  "queuedCount": 5,
  "queued": [
   {
