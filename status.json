@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BCN->VCE 2027-03-10",
- "checksDone": 26925,
+ "phase": "MXP->KUL 2026-09-02",
+ "checksDone": 27252,
  "checksPlanned": 104236,
  "percent": 26,
- "dealsFound": 6170,
- "updatedAt": "2026-08-29T17:17:29",
- "publishedAt": "2026-08-29T21:17:50.626737+00:00",
+ "dealsFound": 6237,
+ "updatedAt": "2026-08-29T17:32:05",
+ "publishedAt": "2026-08-29T21:32:12.880474+00:00",
  "queuedCount": 5,
  "queued": [
   {
