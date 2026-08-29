@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYX->ARN 2026-11-04",
- "checksDone": 14667,
+ "phase": "ISB->ARN 2026-11-04",
+ "checksDone": 14715,
  "checksPlanned": 104236,
  "percent": 14,
  "dealsFound": 2528,
- "updatedAt": "2026-08-29T08:02:11",
- "publishedAt": "2026-08-29T12:02:12.974527+00:00",
+ "updatedAt": "2026-08-29T08:04:04",
+ "publishedAt": "2026-08-29T12:04:23.036264+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
