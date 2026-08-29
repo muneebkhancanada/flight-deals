@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SZX->ATH 2026-09-02",
- "checksDone": 16656,
+ "phase": "NAN->ATH 2026-11-04",
+ "checksDone": 16851,
  "checksPlanned": 104236,
  "percent": 16,
- "dealsFound": 2923,
- "updatedAt": "2026-08-29T09:32:13",
- "publishedAt": "2026-08-29T13:32:14.212255+00:00",
+ "dealsFound": 2938,
+ "updatedAt": "2026-08-29T09:40:03",
+ "publishedAt": "2026-08-29T13:40:20.531283+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
