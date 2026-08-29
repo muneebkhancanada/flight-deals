@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NBO->FRA 2027-01-06",
- "checksDone": 9510,
+ "phase": "SJJ->MUC 2027-03-10",
+ "checksDone": 9777,
  "checksPlanned": 104236,
  "percent": 9,
- "dealsFound": 1437,
- "updatedAt": "2026-08-29T04:04:55",
- "publishedAt": "2026-08-29T08:05:14.531550+00:00",
+ "dealsFound": 1460,
+ "updatedAt": "2026-08-29T04:17:10",
+ "publishedAt": "2026-08-29T08:17:13.501944+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
