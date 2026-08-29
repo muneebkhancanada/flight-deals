@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DEN->SIN 2027-03-10",
- "checksDone": 24849,
+ "phase": "SEA->ICN 2026-11-04",
+ "checksDone": 24927,
  "checksPlanned": 104236,
  "percent": 24,
- "dealsFound": 5459,
- "updatedAt": "2026-08-29T15:42:49",
- "publishedAt": "2026-08-29T19:43:10.742192+00:00",
+ "dealsFound": 5499,
+ "updatedAt": "2026-08-29T15:47:11",
+ "publishedAt": "2026-08-29T19:47:14.242575+00:00",
  "queuedCount": 5,
  "queued": [
   {
