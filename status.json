@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SYX->CLT 2026-09-02",
- "checksDone": 2016,
+ "phase": "KWI->MIA 2026-11-04",
+ "checksDone": 2331,
  "checksPlanned": 104236,
  "percent": 2,
- "dealsFound": 205,
- "updatedAt": "2026-08-28T22:17:12",
- "publishedAt": "2026-08-29T02:17:14.175636+00:00",
+ "dealsFound": 215,
+ "updatedAt": "2026-08-28T22:30:30",
+ "publishedAt": "2026-08-29T02:30:51.738578+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
