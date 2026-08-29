@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PHL->ARN 2026-09-02",
- "checksDone": 22428,
+ "phase": "PHL->DOH 2026-11-04",
+ "checksDone": 22539,
  "checksPlanned": 104236,
  "percent": 22,
- "dealsFound": 4491,
- "updatedAt": "2026-08-29T13:47:09",
- "publishedAt": "2026-08-29T17:47:12.771249+00:00",
+ "dealsFound": 4531,
+ "updatedAt": "2026-08-29T13:52:04",
+ "publishedAt": "2026-08-29T17:52:26.020924+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
