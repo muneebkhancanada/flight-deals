@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NBO->CDG 2026-11-04",
- "checksDone": 8475,
+ "phase": "NBO->CDG 2027-01-06",
+ "checksDone": 8478,
  "checksPlanned": 104236,
  "percent": 8,
  "dealsFound": 1114,
- "updatedAt": "2026-08-29T03:17:07",
- "publishedAt": "2026-08-29T07:17:13.354771+00:00",
+ "updatedAt": "2026-08-29T03:17:15",
+ "publishedAt": "2026-08-29T07:17:36.031567+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
