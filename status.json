@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SCL->DTW 2026-09-02",
- "checksDone": 780,
+ "phase": "KWI->MSP 2026-09-02",
+ "checksDone": 996,
  "checksPlanned": 104236,
  "percent": 1,
- "dealsFound": 96,
- "updatedAt": "2026-08-28T21:17:13",
- "publishedAt": "2026-08-29T01:17:14.258369+00:00",
+ "dealsFound": 114,
+ "updatedAt": "2026-08-28T21:26:50",
+ "publishedAt": "2026-08-29T01:27:10.580498+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
