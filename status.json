@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BNE->IAH 2026-11-04",
- "checksDone": 3351,
+ "phase": "DAR->DEN 2026-09-02",
+ "checksDone": 3648,
  "checksPlanned": 104236,
  "percent": 3,
- "dealsFound": 317,
- "updatedAt": "2026-08-28T23:18:24",
- "publishedAt": "2026-08-29T03:18:43.459508+00:00",
+ "dealsFound": 338,
+ "updatedAt": "2026-08-28T23:32:13",
+ "publishedAt": "2026-08-29T03:32:14.224454+00:00",
  "queuedCount": 0,
  "queued": [],
  "totalDeals": 75000
