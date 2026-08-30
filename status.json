@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MUC->WAW 2027-01-06",
- "checksDone": 35262,
+ "phase": "SIN->EDI 2026-11-04",
+ "checksDone": 35499,
  "checksPlanned": 104236,
  "percent": 34,
- "dealsFound": 8216,
- "updatedAt": "2026-08-29T23:36:06",
- "publishedAt": "2026-08-30T03:36:25.507765+00:00",
+ "dealsFound": 8291,
+ "updatedAt": "2026-08-29T23:47:14",
+ "publishedAt": "2026-08-30T03:47:17.580606+00:00",
  "queuedCount": 5,
  "queued": [
   {
