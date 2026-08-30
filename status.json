@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "DPS->DFW 2026-11-04",
- "checksDone": 31503,
+ "phase": "HND->SEA 2026-09-02",
+ "checksDone": 31752,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 7165,
- "updatedAt": "2026-08-29T20:47:11",
- "publishedAt": "2026-08-30T00:47:14.303812+00:00",
+ "dealsFound": 7203,
+ "updatedAt": "2026-08-29T20:58:14",
+ "publishedAt": "2026-08-30T00:58:34.176546+00:00",
  "queuedCount": 5,
  "queued": [
   {
