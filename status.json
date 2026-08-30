@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "BKK->MSP 2027-03-10",
- "checksDone": 31077,
+ "phase": "JNB->ATL 2027-03-10",
+ "checksDone": 31185,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 7097,
- "updatedAt": "2026-08-29T20:26:27",
- "publishedAt": "2026-08-30T00:26:51.796726+00:00",
+ "dealsFound": 7126,
+ "updatedAt": "2026-08-29T20:32:10",
+ "publishedAt": "2026-08-30T00:32:14.402889+00:00",
  "queuedCount": 5,
  "queued": [
   {
