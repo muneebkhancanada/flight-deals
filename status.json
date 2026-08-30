@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "MXP->MUC 2026-09-02",
- "checksDone": 33132,
+ "phase": "OSL->VIE 2026-11-04",
+ "checksDone": 33483,
  "checksPlanned": 104236,
  "percent": 32,
- "dealsFound": 7726,
- "updatedAt": "2026-08-29T22:02:19",
- "publishedAt": "2026-08-30T02:02:19.509439+00:00",
+ "dealsFound": 7817,
+ "updatedAt": "2026-08-29T22:17:09",
+ "publishedAt": "2026-08-30T02:17:11.809839+00:00",
  "queuedCount": 5,
  "queued": [
   {
