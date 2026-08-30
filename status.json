@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "NCE->MUC 2027-03-10",
- "checksDone": 33129,
+ "phase": "MXP->MUC 2026-09-02",
+ "checksDone": 33132,
  "checksPlanned": 104236,
  "percent": 32,
  "dealsFound": 7726,
- "updatedAt": "2026-08-29T22:01:24",
- "publishedAt": "2026-08-30T02:01:42.356953+00:00",
+ "updatedAt": "2026-08-29T22:02:19",
+ "publishedAt": "2026-08-30T02:02:19.509439+00:00",
  "queuedCount": 5,
  "queued": [
   {
