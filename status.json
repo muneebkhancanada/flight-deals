@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SCL->YOW 2027-03-10",
- "checksDone": 32145,
+ "phase": "SIN->YVR 2026-11-04",
+ "checksDone": 32439,
  "checksPlanned": 104236,
  "percent": 31,
- "dealsFound": 7371,
- "updatedAt": "2026-08-29T21:17:06",
- "publishedAt": "2026-08-30T01:17:12.155534+00:00",
+ "dealsFound": 7413,
+ "updatedAt": "2026-08-29T21:29:50",
+ "publishedAt": "2026-08-30T01:30:09.099631+00:00",
  "queuedCount": 5,
  "queued": [
   {
