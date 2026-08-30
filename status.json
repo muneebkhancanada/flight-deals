@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "CGK->MXP 2026-11-04",
- "checksDone": 34191,
+ "phase": "CPT->LIS 2027-03-10",
+ "checksDone": 34485,
  "checksPlanned": 104236,
  "percent": 33,
- "dealsFound": 7954,
- "updatedAt": "2026-08-29T22:48:57",
- "publishedAt": "2026-08-30T02:49:13.305542+00:00",
+ "dealsFound": 8056,
+ "updatedAt": "2026-08-29T23:02:08",
+ "publishedAt": "2026-08-30T03:02:11.992238+00:00",
  "queuedCount": 5,
  "queued": [
   {
