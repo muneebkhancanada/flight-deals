@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "OSL->MXP 2027-03-10",
- "checksDone": 34149,
+ "phase": "CGK->MXP 2026-11-04",
+ "checksDone": 34191,
  "checksPlanned": 104236,
  "percent": 33,
- "dealsFound": 7931,
- "updatedAt": "2026-08-29T22:47:07",
- "publishedAt": "2026-08-30T02:47:12.334986+00:00",
+ "dealsFound": 7954,
+ "updatedAt": "2026-08-29T22:48:57",
+ "publishedAt": "2026-08-30T02:49:13.305542+00:00",
  "queuedCount": 5,
  "queued": [
   {
