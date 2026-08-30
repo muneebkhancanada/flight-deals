@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "JNB->ATL 2027-03-10",
- "checksDone": 31185,
+ "phase": "JNB->MIA 2026-09-02",
+ "checksDone": 31416,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 7126,
- "updatedAt": "2026-08-29T20:32:10",
- "publishedAt": "2026-08-30T00:32:14.402889+00:00",
+ "dealsFound": 7162,
+ "updatedAt": "2026-08-29T20:42:25",
+ "publishedAt": "2026-08-30T00:42:45.264074+00:00",
  "queuedCount": 5,
  "queued": [
   {
