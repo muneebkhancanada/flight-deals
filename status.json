@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "SIN->CDG 2027-03-10",
- "checksDone": 32781,
+ "phase": "CGK->CDG 2026-09-02",
+ "checksDone": 32796,
  "checksPlanned": 104236,
  "percent": 31,
- "dealsFound": 7576,
- "updatedAt": "2026-08-29T21:45:39",
- "publishedAt": "2026-08-30T01:45:55.044933+00:00",
+ "dealsFound": 7589,
+ "updatedAt": "2026-08-29T21:47:06",
+ "publishedAt": "2026-08-30T01:47:12.110816+00:00",
  "queuedCount": 5,
  "queued": [
   {
