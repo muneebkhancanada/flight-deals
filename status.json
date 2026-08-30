@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "HND->SEA 2026-09-02",
- "checksDone": 31752,
+ "phase": "SGN->SEA 2026-09-02",
+ "checksDone": 31824,
  "checksPlanned": 104236,
- "percent": 30,
- "dealsFound": 7203,
- "updatedAt": "2026-08-29T20:58:14",
- "publishedAt": "2026-08-30T00:58:34.176546+00:00",
+ "percent": 31,
+ "dealsFound": 7241,
+ "updatedAt": "2026-08-29T21:02:06",
+ "publishedAt": "2026-08-30T01:02:12.228193+00:00",
  "queuedCount": 5,
  "queued": [
   {
