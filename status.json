@@ -1,13 +1,13 @@
 {
  "running": true,
  "mode": "full",
- "phase": "PRG->DTW 2027-03-10",
- "checksDone": 30861,
+ "phase": "BKK->MSP 2027-03-10",
+ "checksDone": 31077,
  "checksPlanned": 104236,
  "percent": 30,
- "dealsFound": 7079,
- "updatedAt": "2026-08-29T20:17:08",
- "publishedAt": "2026-08-30T00:17:11.684384+00:00",
+ "dealsFound": 7097,
+ "updatedAt": "2026-08-29T20:26:27",
+ "publishedAt": "2026-08-30T00:26:51.796726+00:00",
  "queuedCount": 5,
  "queued": [
   {
